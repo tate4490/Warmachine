@@ -1,0 +1,2261 @@
+{
+    "bundleName": "data publication waking the dead part 2.json",
+    "general": {
+        "guidStr": "b4665e5c-be83-4228-8705-c7f2bb063c60",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "81455e42-6ec0-431c-a42f-a23ea199121e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Waking the Dead:\\nPart 2",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/Necrofactorium/lore_basic_cryx_nekane_banner.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "99de6cbe-3954-4789-8a87-a3e1443e5137",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4eb1eb24-faf5-4fb8-918a-da3f6089a506",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Waking the Dead: \\nWhat Has Gone Before",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#4d7132",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a8c2eccc-fae4-43b4-ad60-a296737c791a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "In Waking the Dead: \"Part One—Ghost of a Chance,\" the warcaster Aiakos delivers Wraithbinder Nekane to the shores of western Immoren to scout places of power that might serve Dominarch Deneghra’s plans. Nekane first investigates the power of an ancient ruin, Nine Stone, to see if its power might serve to build the Well of Annihilation, an ancient Cryxian design believed to be powerful enough to pull a god from Urcaen. But Nine Stone proves to be far too powerful to control, so Nekane and her forces move on to meet with the Orgoth warlord Sabbreth, who suffers under the possession of the artifact the Lash of Horva, and bring these allies up to date regarding Deneghra’s plan. Sabbreth has doubts that Nine Stone is too powerful to control, but she concedes that Nekane, under Deneghra’s command, must know better and offers Orgoth reinforcements to provide support as Nekane continues her scouting mission for other places of power. But recalling Deneghra’s warning that the Orgoth are not long-term allies and are likely to seek domination over Cryx, Nekane rejects Sabbreth’s offer and departs to continue her mission.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d3f4fa40-87d6-4e3c-8252-91f14dce6239",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "62240094-0e0b-44b6-b20b-aea7203171e4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Part Two:\\nSpirits of the Deep",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#4d7132",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e38a2442-01f0-41e1-a373-05b22d11e3f8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7bed8fd2-b2f8-4dea-9362-c7f546970e7b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "1",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#4d7132",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "900254fc-3962-4249-aed7-48df756626e6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Swift Sergeant Dana Thorne crouched and examined the hoofprints leading toward the sprawling ruins of Nine Stone. The prints were pressed deeply into the ground, suggesting armored riders on barded horses. She was looking for a squad of missing legionnaires, and they had most certainly come this way. More importantly, she was looking for the reason they’d gone missing, a reason cryptically spelled out in her orders from Colonel Jeremiah Kraye. The colonel had imparted all of five words: <I>Cryx incursion. Warcaster. Find evidence.</I>\nDana stood and motioned her team forward. A dozen rangers moved into the ruins ahead, spread out, and began searching the crumbling stone walls and ancient battlements. Dana followed, heading to where the nine dagger-like monoliths that gave the place its name jutted up from the ground like great, rotting teeth.\nShe breathed deeply, the chill morning air bringing first the scent of salt and brine from the nearby shore, then leather and gun oil from her own gear, and, finally, the barest whiff of something foul. Burning necrotite smelled like ruptured bowels and burning tar. There was nothing else like it anywhere.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e48713a0-99e2-4717-b16e-bb55f8fe8e62",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "While her rangers searched the area with their eyes and ears, Dana walked the length and breadth of the ruins, listening to her feet. The ground supplied information with each step. The slap of bare stone, the slight give of hard-packed dirt, the jagged crunch of crumbled masonry, and then, something softer, more yielding.\nShe knelt down over a patch of earth that had been recently disturbed, pulled her knife, and scraped at the loose soil. A few inches below the dry surface she hit a kind of mud, gray and stinking with an acrid chemical odor. Her brow furrowed in curiosity; her nose wrinkled in disgust.\n\"Corporal Gendry,\" she called out. In reply, a tall, lanky ranger with iron gray hair moved away from the section of wall he’d been examining and headed in her direction. He was as sure-footed as any ranger, but his gait was marred by a slight limp.\n\"Aye, Sergeant?\" Gendry said, squatting down beside Dana.\n\"You find anything?\"\nHe nodded. \"Plenty. The legionnaires were here. No doubt about that. There are hoofprints all over the bloody place. It’s the damnedest thing, though. They come into the ruins, but they don’t go out. How do you make a dozen fully armored knights and their mounts disappear?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f5420046-9c93-46b6-9451-5fd1223018f9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"You hide their corpses.\" Dana dug at the ground again with her knife. \"Take a whiff?\"\n\"What? I don’t . . .\" Gendry began, and then recoiled, his face etched with old terror. \"Cryx bile.\"\n\"That’s what I thought. Just wanted a second opinion.\"\n\"About had my leg burned off by the stuff,\" he said, tapping his right knee. \"I’d know that stink anywhere.\"\nDana had fought Cryx many times in her twenty years of service to the CRS. She’d seen firsthand the horrors the Nightmare Empire could bring to bear against its foes, among them bile thralls that could spray torrents of acidic hell and reduce anything, including fully armored knights, to stinking piles of slime.\n\"Do you think . . .?\" Gendry said, his voice trailing off with revulsion and horror.\n\"I do,\" she said. \"The legionnaires were ambushed here, killed to a man, then liquified and buried.\"\n\"Morrow’s grace, that’s no way for soldiers to die,\" Gendry said.\n\"No it is not. There were ten storm legionnaires in that squad, according to Colonel Jarvinson.\" She stood. Her orders from Kraye had been filtered through the commander of West Watch where she and her squad had been garrisoned. \"That’s a lot of firepower, but there’s no trace of a battle here. So they were defeated quickly and overpowered by a force not much larger than theirs.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9d44447b-e8a9-4f93-82e5-05b67916961d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Warcaster?\" Gendry said.\nDana nodded. \"Warcaster, a helljack maybe, and say a dozen thralls. Those legionnaires didn’t stand a chance.\"\n\"So we’ve got what? A Cryxian scouting mission?\"\n\"That’s what Kraye wants us to find out.\" She looked to the north. \"If they’re scouting, they’ll move inland. Too many patrols near the shore, so I think they followed the river.\"\n\"Not to second-guess you, Sergeant, but without more evidence than slime and dirt, how can you be sure?\"\nDana shrugged. \"It’s what I’d do.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ab390fde-220e-42cd-98d7-123d002e13ca",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "2",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#4d7132",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "70f5d8cd-147f-44ec-b750-23a6f9d6e313",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Nekane walked at the head of her small procession of mechanithralls, her armor producing a bare trickle of smoke. With its furnace low, the necromechanika servos that reduced the weight of steel and bone were offline. Nekane’s legs ached, her back groaned, and her shoulders screamed with the torturous weight of her armor.\nBeside her, Hades moved at a slow, lumbering pace, its own furnace all but extinguished. There was enough power for the helljack to move but not much else, and its presence in her mind was distant and sluggish.\nEven Chatterbane scuttled with subdued vigor. \"Surely we’ve traveled far enough inland that we would not be spotted,\" he complained. \"Might we stoke our furnaces a bit more? I feel like I’m walking through mud.\"\nDespite the weary ache that suffused her body, Nekane grinned in the moonlight. \"Wasn’t it you who said my fragile living body could not bear the full weight of my armor? I would think your superior undead physiology could endure a paltry inconvenience like a little more weight.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "17178fc5-5813-4699-9c33-3c8615dda807",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Something like chagrin passed over the necrotech’s skeletal features. \"I admit I may have misspoken. This is truly a <I>shared</I> misery.\"\n\"The furnaces stay as they are. No smoke. No Cryxlight,\" Nekane said. \"We need to hide our presence until we reach Dagger Deep.\"\nChatterbane sighed dramatically. \"I suppose that is wise if painful.\"\nThey were still following the Banwick River as it meandered up into the Wyrmwalls. The river valley offered more cover than she’d enjoyed while on the coast, but Cygnaran patrols might easily range this far east from West Watch. Her intelligence on Dagger Deep was that it lay inside an abandoned Rhulic mine, and there were rumors and legends aplenty that it was a site of terrible atrocities. Perhaps enough blood had been spilled there to craft the Necropolis and the Well of Annihilation that could pull a god from Urcaen. Perhaps not. She would know soon enough.\nAhead, Chemosh and the Furies appeared out of the gloom. There were the only members of Nekane’s scouting party that did not rely on necrotite-powered furnaces for locomotion. She’d been using the skarlock and the three wraiths to scout.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0e17615f-f100-4fdb-b3b2-32bda7830aa6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What lies ahead?\" Nekane asked.\n\"The mine,\" said Anathan, her whispering intonations pulling out the last word in a long, mournful howl.\n\"Many souls,\" said Dogreth hungrily.\n\"And much fear,\" Valek added last.\n\"The mine is still occupied?\" Nekane said.\nIt was Chemosh that answered her. Yes, but it is not well defended.\" The skarlock stooped and put one bony talon in the mud. \"The entrance is against a hill. Here.\"\nHe traced the outline of a low hillock. \"There are perhaps two dozen Rhulfolk miners moving ore and equipment on to carts.\" He scratched a number of exes a short distance from the hill. \"They present little threat, but a warjack and six soldiers stand guard.\"\nHe added more figures to his rough diagram.\nNekane nodded and turned to Valek. \"You said fear. What do these Rhulfolk fear?\"\n\"The mine seethes with darkness,\" the specter said, as cryptic as always. Incorporeal undead like the Furies existed in a kind of fugue state, tenuously attached to the material world and often only remotely aware of their surroundings. Getting a detailed description from one was like asking a blind man what he saw in a mirror.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f6219cee-6764-4cca-a21f-d2881e845f72",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Dagger Deep?\" Nekane wondered aloud.\n\"Unknown,\" Chemosh said. \"But the dwarves seem to be fleeing something.\"\n\"Can we not wait until they are gone?\" Chatterbane said. \"We have precious few resources to waste.\"\nNekane considered that. It might be safer, but delaying further felt riskier than a battle. They had covered their tracks at Nine Stone as best they could, but a keen eye would find evidence of their presence and possibly follow. She made her decision. \"We attack.\"\n\"Are you certain . . .?\" Chatterbane began and then wisely closed his mouth when Nekane leveled a glare at him.\n\"Chemosh and the thralls will remain behind,\" Nekane said. \"I will take Hades, Chatterbane, and the Furies to attack the Rhulfolk. That should be sufficient force to overcome them. Chemosh, you will lead the thralls to my position in half an hour.\"\nChemosh nodded. \"As you wish.\"\n\"Chatterbane, return our furnaces to full stoke,\" Nekane said.\nThe necrotech brightened. \"Ah, a silver lining in the cloud of burning necrotite.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7082c383-4aa0-4adf-8a9b-1cced6d8e0a5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c0b2a97d-a330-41e4-991d-66e47ad370de",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "From the cover of a hilltop opposite the mine, Nekane saw the Rhulfolk were positioned as she’d expected. The entrance gaped in the side of a low hill, tall and wide enough to permit the mining steamjacks favored by the dwarves. Two dozen Rhulfolk were moving hastily from the mine to a pair of horse-drawn carts, carrying loads of equipment and barrels and boxes of foodstuffs. Most of the Rhulfolk appeared unarmed, but half a dozen dwarves with shields and rifles stood watch next to a heavy warjack fitted with a battle shield and a heavy cannon.\nNekane turned and slid down the scree-covered slope of the hill to where Hades, Chatterbane, and the Furies waited.\n\"It is as Chemosh described,\" Nekane said. \"Hades, Chatterbane, and I will take the warjack and soldiers.\" She nodded to the Furies. \"The rest are for you.\"\n***\nNekane did not bother with a stealthy assault. She simply pushed Hades into a lumbering charge down the slope of the hill, running behind the helljack with Chatterbane in her wake. The Furies split up and passed her, whispering with hungry laughter as they raced like streamers of ill wind toward living prey.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f98b1704-cb3f-4032-9e29-9631528e5163",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Rhulfolk closest to the bottom of the hill, faces fixed in almost comical masks of terror, turned just as Hades plowed into them, slashing with his death claw and leaving mangled corpses in his wake. The Rhulfolk’s souls were pulled from their shattered bodies in gossamer strands of lurid green and flowed into Hades’ tusked head, as if the helljack were breathing them in.\nHades’ delight at such carnage and obliteration surged through Nekane, and now, bolstered with stolen soul energy, she urged the helljack to fire its cannon. Hades aimed the weapon fitted to its right arm at the group of soldiers near the mine’s entrance. They had pulled themselves into a firing line, but it was feeble protection. The soul cannon discharged, and, guided by Nekane’s will, the bolt of necrotic energy landed squarely in the middle of the Rhulic shield wall. The dwarf struck directly disintegrated, his howling form lingering for half a second before the bale fire destroyed him utterly. The two nearest him did not suffer complete annihilation, but they fell to the ground, their skin sloughing away from their bones in a liquid tide. Their dying screams filled Nekane with reckless joy, but there was still the warjack to deal with.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "16b4154c-4245-4768-8250-19ebb5c0f9f3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Rhulic ’jack, a crude but effective machine called an Avalancher, oriented its cannon on Hades. Chatterbane, showing more battlefield bravery than Nekane had credited him for, scuttled up behind Hades, and his appendages danced over the helljack’s hull, making lightning-quick adjustments to its necromechanika.\nNekane felt Chatterbane’s ministrations on the periphery of her connection with Hades, a kind of silent urging she didn’t quite understand until the Avalancher fired.\nThe Rhulic warjack’s cannon went off with an ear-shattering report, and the screaming projectile smashed into Hades and exploded, sending bits of shattered armor and debris in all directions. Nekane’s power field lit up as shrapnel enveloped her, but none penetrated. Now Chatterbane’s tinkering made sense. In a wrathful response to the damage, Hades surged forward in a charge, and Nekane had only to point him in the direction of the enemy warjack.\nHades crossed the fifty yards that separated it and the Avalancher in a blur of emerald Cryxlight, its deathclaw held high for a vicious strike. The Rhulic warjack raised its cannon again, but Nekane shunted the remaining soul energy from the slaughtered Rhulfolk through Hades, and the helljack became ghostly and insubstantial. The Avalancher fired, and the shell was on target, but it passed harmlessly through Hades and detonated against one of the horse-drawn carts, sending dwarves and equipment flying in all directions.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5a40d6ef-0de8-4e10-b118-d1649598e533",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Hades reached its foe and regained substantiality. Its deathclaw descended, and Nekane shunted more arcane power into the strike. The sound of ripping steel echoed against the hillside as Hades tore into the Avalancher’s hull. The warjack’s shield arm sagged, and Hades followed up with its tusks, slamming them into the Avalancher and shaking from side to side, ripping a terrible wound in the Rhulic ’jack’s hull.\nWith the Rhulic warjack neutralized, Nekane let her mind return to her immediate surroundings and saw three dwarven soldiers remained. They hadn’t fled, which she found both stunningly brave and awesomely foolish. She ran at them, firing her rune thrower. Her first shot took one of the Rhulic soldiers in the forehead, shearing off the top half of his skull in an explosion of bone and brains.\nThen she was among the other two, her hellspike dancing over the lips of their shields to gouge armor and flesh. In seconds, she stood over three corpses, her armor slicked with their blood, her heart filled with rapturous frenzy.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3aedf44b-096c-4a54-a164-ddf6849098a2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "With the battle all but over, she allowed herself a momentary pleasure and watched the Furies dispose of the remaining Rhulfolk. The wraiths chased the dwarves down and drained their life energy by plunging incorporeal talons into and through them. After each kill, the gangrenous-like pulsing inside the armor of each wraith burned brighter, fuller.\nNekane returned her attention to Hades. The helljack had completely dismantled the Avalancher and was slashing and goring at the wreckage with animalistic fury. Nekane pulled the helljack back to her, and it came, albeit reluctantly.\nChatterbane joined Nekane at the mouth of the mine and examined the damage Hades had sustained.\n\"I’ve always respected the Rhulfolk,\" he said absently, poking at the cratered surface of Hades’ right side. \"Their technology is crude, even rudimentary by Cryxian standards, but only a fool would deny its effectiveness.\"\n\"I’m glad our enemies impress you,\" Nakane said. \"Can you repair Hades?\"\n\"Credit where credit is due,\" the necrotech said and shrugged. \"Yes, there are sufficient materials here to effect a repair.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d3a5f7bd-95ab-45c3-8fe7-39781bed2a14",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Good. Do it.\"\nMoments later, Chemosh and the thralls appeared at the top of the hill and made their way down to Nekane. The skarlock glanced at the corpse-strewn battle site. \"What of the bodies?\"\n\"Drag them into the mine along with what’s left of that warjack,\" Nekane said.\nChatterbane sighed as the thralls began to move the dwarven corpses. \"Such a waste of good flesh. Would that we had a necrosurgeon with us to take advantage of these resources.\"\nNekane couldn’t disagree, but necrosurgeons were not well suited for this kind of mission, so she had to do without. Still, she had triumphed with little effort, and before her lay an open path to her next destination. She walked into the mine, smiling as the Cryxlight from her armor flung her shadow, huge and imposing, on the walls.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "91fee524-a261-4ea1-82be-7656bef37708",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The greenish glow of necromechanika furnaces guided Nekane’s way through the Rhulic mines. Again, she was thankful that the dwarves were so dependent on steamjacks for their mining operations. The shaft they followed was broad and tall, allowing Hades to pass through without having to slow its pace.\nThey passed more evidence of a hasty retreat by the dwarves. Valuable equipment abandoned, weapons and armor still on racks, and even a pair of inert laborjacks left behind.\nFinally, they came upon more direct evidence of why the Rhulfolk had fled. The mineshaft they followed ended in the remnants of a battle. A pair of Rhulic warjacks, both of the type they had battled near the mine’s entrance, lay smashed and ruined next to what appeared to be an ancillary shaft branching off the main one.\n\"Spread out. Look for bodies,\" Nekane commanded. She ordered Hades to stay put and face back the way they’d come. She would see any enemies coming up from behind them through the helljack’s eyes while she searched with her own.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fcd736d3-d678-46a2-acc6-bb2414d48fd2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "There was blood on the ground in slowly congealing pools, puddles of hydraulic fluid from the wrecked warjacks, and a viscous blue-green substance that was neither blood nor any mechanical fluid Nekane recognized. A large smear of the stuff indicated something big had been dragged away and through the new passage.\n\"Wraithbinder,\" Chatterbane said, motioning her over to one of the wrecked warjacks with a waving, blade-tipped appendage.\nNekane joined the necrotech. Together, they stared down at a corpse half-crushed by ten tons of Rhulic warjack. It was humanoid, perhaps even human at one time, but it had been clearly and considerably <I>altered</I>. A thick bronze helmet obscured its entire head and was affixed to its body in a way that suggested permanence, as if it were a piece of the creature rather than worn armor. Its flesh was grayish in hue, though not the corpse-like shade of undeath, and its body was hugely muscled, grotesquely so, well beyond whatever the creature might have been able to attain in its natural state. Both its limbs ended in heavy bronze caps—one fitted with a claw-like device and the other with a rotating saw blade. The creature reminded Nekane of her mechanithralls, and though the creators of this thing had arrived at a similar destination, they had taken a wildly different path to get there.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "67aea93c-877d-442b-9aca-bf0bc610d5f4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"A cephalyx drudge,\" Chatterbane said. \"No wonder the dwarves were fleeing.\"\nNekane knew the cephalyx were a race of subterranean humanoids who used advanced bioengineering to <I>enhance</I> themselves and their servants. In many ways, their sciences and modifications resembled Cryxian technology, though the cephalyx had eschewed undeath for radical biological alterations.\n\"They were our allies, correct?\" Nekane said. The cephalyx had aided in the construction of the last great Necrofactorium on the mainland, but that was before she had joined the Nightmare Empire, and she had little experience with them personally.\n\"Allies might be a strong word,\" Chatterbane said. \"Occasional and opportunistic partners is more fitting, I think.\"\nNekane moved away from the dead drudge and peered through the new passageway. Beyond was no mineshaft. The tunnel lacked the rigorous right-angle precision of dwarven construction. The walls were smooth and curved, creating an almost organic feel. Rivulets of blood and more smears of blue-green fluid led away into the darkness.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7794bdbc-b6e6-4c8e-9ded-6bc3918985d1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"They took the bodies,\" she remarked.\n\"Of course,\" Chatterbane said and snorted derisively. \"They need the raw materials for their little projects.\"\nNekane considered her options. She knew the ruins of Dagger Deep lay farther beneath the earth, but she had not counted on finding them in the middle of a cephalyx hive. \"Could the cephalyx be hostile?\"\nChatterbane considered this then said, \"They need living components for their . . . industry, and we do not exactly offer a bounty of usable resources in that regard. However, they may simply see us as interlopers, especially if the ruins we seek are somehow important to them.\"\nNekane wasn’t looking for a fight, especially against an enemy whose capabilities she did not fully understand, but if battle lay ahead, she would not shrink from it.\n\"Our path leads this way.\" She gestured to the open passage. \"Perhaps we can negotiate with the cephalyx. If not, we will destroy them.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4e7c6f5c-0b35-4fc7-9d30-a1c57adeb7b1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "3",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#4d7132",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b293b552-2855-4c67-8000-f492c81549bc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Deeper into the cephalyx hive, the walls sprouted small glowing nodules that cast a harsh yellow light. It twisted their shadows against the curved walls in ghoulish angles, and Nekane felt like a cancerous intruder in the bowels of some great biomechanical beast.\nThough tunnels broke off from the main passage at regular intervals, Nekane’s path did not waver. She knew where she was going. She could feel it. The dread pull of the ruins of Dagger Deep plucked at her soul.\nThe ruins were reputedly Morrdhic in origin, though their original purpose was lost to history. They’d been rediscovered and named by the dwarves centuries ago. The Rhulfolk thought them dangerous and avoided them, though this did not stop them from mining the rich mineral deposits around Dagger Deep. The ruins had now, apparently, fallen into cephalyx hands, but what those enigmatic creatures might be using them for Nekane could not begin to guess.\nThey had encountered no resistance thus far and, strangely, had not seen a single cephalyx drudge or other member of the hive. Nekane began to feel uneasy. The hive was obviously not abandoned, and she had no way to gauge the number of enemies she might face.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "eef10b4a-b297-4f16-bc5e-bf14c8d1d54b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Chatterbane gave voice to Nekane’s growing concerns. \"I have the distinct feeling we will soon meet our hosts.\"\nNekane nodded. \"They have to know where we’re going. I suspect they’re waiting for us there.\"\n\"To parley or fight?\"\n\"It doesn’t matter,\" Nekane said. \"We will have what we want one way or the other.\"\n\"Very reassuring,\" Chatterbane said and rolled his eyes. Nekane grimaced but allowed the necrotech this small rebellion.\nThe passage continued, widening, and then, finally, an odor Nekane was quite familiar with wafted down the tunnel. A carrion breeze brought the stench of death and decay, rot and ruin. The smell had suffused her entire existence on the Scharde Islands, and she knew that corpses lay ahead—hundreds, possibly thousands of them.\nThe passage ended in a massive, vault-like cavern lit by hundreds of cephalyx glow nodules. The ceiling was still not visible; the sheer walls soared up and out of the light into absolute darkness.\nThe ruins of Dagger Deep lay in the middle of the great chamber. Gargantuan stone blocks of black basalt, volcanic rock that had no earthly reason to be here in this dark, forlorn place. The monolithic stones formed what might have been vast runes at one time, though their original shapes had been lost to steady entropy of countless years. The stones formed a kind of ring or barrier around a great pit, and from out the pit came the stench of death, both old and new.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "48e11087-f012-4a7f-a6a4-5213fc087db8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Positioned in front of the ruins was what Nekane assumed remained of the cephalyx hive. They had clearly suffered more losses to the Rhulfolk than she had dared hope. There were two dozen drudges, two of the towering biomechanical warjacks the cephalyx called monstrosities, and a pair of cephalyx overlords, lithe floating figures clad in black leather, their backs sprouting a spider’s tangle of metal appendages. One of the overlords differed from the other—its head was bloated, a mass of cerebral tissue in a translucent case snaking down its back. It floated forward a few feet in front of its arrayed forces.\n\"An invitation?\" Chatterbane said.\nNekane turned to Chemosh. \"Spread the thralls out, and the moment I give the signal, attack with everything we have. Hold nothing back.\"\n\"And what are we to do?\" Dogreth asked, the wraith apparently speaking for the rest of the Furies.\nNekane smiled. \"Kill them. Reap their souls.\"\nThe ghoulish light inhabiting the wraith’s armor pulsed rapidly, like a heart flush with excitement.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "81b90b76-f256-4bf7-8a75-dfc7bd1a4b6c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Nekane summoned Hades to her side and then stepped forward to treat with the cephalyx. She’d only made it a few steps before the overlord’s voice boomed inside her head.\n<I>Go back. You are not wanted here.</I>\nNekane refused to communicate with the creature on its own terms and responded out loud. \"Identify yourself.\"\n<I>I am Silexus Morthrax, and you are an intruder.</I>\n\"Do you know who I am?\" Nekane said. \"Who I represent?\"\n<I>It does not matter. There will be no treaties, no contracts, no alliances. Leave at once or be destroyed.</I>\nNekane was finished being diplomatic. She summoned her spectral magic and stepped into the void between realties, traversing the ether like a wraith. She exited next to Silexus Morthrax, and to the cephalyx it would have appeared that she disappeared in one spot and reappeared in the next. The overlord tried to retreat, but Nekane struck out with her hellspike, burying it in the cephalyx’s swollen skull. Blood and ichor sprayed, and the overlord collapsed.\n\"I am Nekane,\" she said to the corpse at her feet, \"the Wraithbinder.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "26bfcdc6-1db8-48fd-8573-31a83e233d3b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She looked up at the remaining cephalyx and grinned. \"And all of you will die.\"\n***\nHades tore the left arm off one of the monstrosities, and as the flesh construct staggered away, the helljack charged and buried its tusks in its foe’s back, piercing both vital organs and biomechanical components. The monstrosity sagged to the ground, leaking blood and unidentifiable fluids.\nThe mechanithralls and sludge thralls had joined battle with the drudges, and the great cavern echoed with the sound of shrieking saws, the mechanical thump of piston-driven blades, and the butcher’s stall sounds of torn flesh and cracked bone.\nThe Furies hung back behind the thralls and launched gouts of tearing darkness into the ranks of drudges, ripping and shredding their bodies with tenebrous talons. Nekane launched jagged blades from her rune caster at the remaining cephalyx overlord as it attempted to retreat, transforming it into a ghostly apparition that she dragged back toward her with each shot. Her final volley deposited the cephalyx, bloodied and near death, at her feet. It raised one of its bladed appendages, shaking with weakness and agony. Perhaps an attack, perhaps a plea for mercy. Nekane countenanced neither and brought one armored boot down on the overlord’s head. Its skull crunched satisfyingly.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4f3ab5e5-c917-49b8-8286-3ef8a8988f9a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Hades had engaged the other monstrosity. The great cephalyx creature was armed with a pair of massive, bladed flails affixed to each arm. It whirled its weapons overhead, and as Hades charged in, one landed with enough force to smash the helljack off its feet. Chatterbane scuttled forward, his stacks belching a great gout of black smoke, enough to hide himself and Hades long enough for the monstrosity’s second flail to smash into the ground instead of into the helljack’s hull.\nHades rose to its feet, and as the necrotite smoke cleared, Nekane urged the helljack to fire his soul cannon. The weapons released a bolt of green energy that struck the monstrosity in the chest and sent it reeling back. Then Hades barreled in, and its deathclaw ripped across the monstrosity’s abdomen, gutting it, entrails and biomechanical hoses squirming from the wound. It sagged to its knees, and Hades tore its head off with a backhanded slash, ending the cephalyx resistance.\nChemosh approached Nekane, his gore-spattered great sword resting on one shoulder. The skarlock had taken a minor wound—a deep gash in his breastplate that had certainly reached his undead flesh—but he seemed unconcerned. \"The drudges have been destroyed.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d651bc98-ba06-4ffb-bac0-f9f2a77e7af0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Our losses?\" Nekane inquired, wiping the overlord’s brain ichor off of her hellspike.\n\"Ten mechanithralls and two of the sludge thralls,\" Chemosh answered.\n\"A disaster,\" Chatterbane said from where he was repairing the damage to Hades. The helljack held remarkably still beneath the necrotech’s ministrations. Helljacks had rudimentary intelligence, and it appeared Hades was aware Chatterbane was helping it.\n\"Not a disaster,\" Nekane said. \"Come with me.\"\nShe led the necrotech to the Dagger Deep ruins, to the ring of stones and the great pit in the earth. When Nekane looked over its lip, she saw exactly what she’d hoped to see. Corpses and pieces of corpses, thousands of them, cast here after the cephalyx had taken from them what they needed. The pit stank of death, yes, but it also reeked of something far more useful. This lightless pit was the final resting place of thousands of souls, and their horror and despair had leeched into the ground itself. The place was suffused with agony. The power of death was at their fingertips.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1a602dcb-87f6-4610-bd3b-befeea847cff",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Chatterbane felt it, too. \"The ground must be overflowing with raw necrotite,\" he said, his voice alight with eagerness.\n\"Enough to build a necrofactorium,\" Nekane said.\n\"But what of our promise to the Orgoth?\"\nNekane shook her head. \"There is power in these ruins, but it has faded. Too weak for the Well of Annihilation. But this—\"she pointed her hellspike at the charnel pit—\"this will all but ensure our success when we move on.\"\n\"How so? We’ve lost more than half our thralls. We are weaker than when we started.\"\n\"For one so creative, Chatterbane, you show a remarkable lack of imagination,\" Nekane chided. \"Look around you. This hive is full to bursting with raw materials. Raw materials you can use to craft a masterpiece.\"\n\"What masterpiece?\" Chatterbane said.\nNekane stepped close. \"Master Necrotech Chatterbane,\" she said, \"build me a hellraker.\"\nA wide, feral grin spread across Chatterbane’s skull-like face at the mention of the great colossal. The hellraker was only a concept, a design so dire and complicated, its creation had never been attempted. They would change that now.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "85aa20f5-ba53-41bd-9c23-aa0564f62a28",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"You honor me, Wraithbinder,\" Chatterbane said, real emotion in his voice.\n\"Then start at once,\" Nekane said.\nThe necrotech scuttled away, muttering happily, and speaking out loud the list of components he would need.\nStanding on the edge of the charnel pit, Nekane could hear the whispered torment of all the souls that had fallen to the cephalyx. She basked in it. It was the sound of triumph and progress.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "084f6d8a-5622-4116-a060-6236874e883c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:81455e42-6ec0-431c-a42f-a23ea199121e",
+                "2:99de6cbe-3954-4789-8a87-a3e1443e5137",
+                "3:4eb1eb24-faf5-4fb8-918a-da3f6089a506",
+                "4:a8c2eccc-fae4-43b4-ad60-a296737c791a",
+                "5:d3f4fa40-87d6-4e3c-8252-91f14dce6239"
+            ],
+            "artSegIds": [
+                "81455e42-6ec0-431c-a42f-a23ea199121e",
+                "99de6cbe-3954-4789-8a87-a3e1443e5137",
+                "4eb1eb24-faf5-4fb8-918a-da3f6089a506",
+                "a8c2eccc-fae4-43b4-ad60-a296737c791a",
+                "d3f4fa40-87d6-4e3c-8252-91f14dce6239"
+            ]
+        },
+        {
+            "guidStr": "b391754e-13ff-4122-8d07-d6719f960e94",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:62240094-0e0b-44b6-b20b-aea7203171e4",
+                "2:e38a2442-01f0-41e1-a373-05b22d11e3f8",
+                "3:7bed8fd2-b2f8-4dea-9362-c7f546970e7b",
+                "4:900254fc-3962-4249-aed7-48df756626e6",
+                "5:e48713a0-99e2-4717-b16e-bb55f8fe8e62",
+                "6:f5420046-9c93-46b6-9451-5fd1223018f9",
+                "7:9d44447b-e8a9-4f93-82e5-05b67916961d"
+            ],
+            "artSegIds": [
+                "62240094-0e0b-44b6-b20b-aea7203171e4",
+                "e38a2442-01f0-41e1-a373-05b22d11e3f8",
+                "7bed8fd2-b2f8-4dea-9362-c7f546970e7b",
+                "900254fc-3962-4249-aed7-48df756626e6",
+                "e48713a0-99e2-4717-b16e-bb55f8fe8e62",
+                "f5420046-9c93-46b6-9451-5fd1223018f9",
+                "9d44447b-e8a9-4f93-82e5-05b67916961d"
+            ]
+        },
+        {
+            "guidStr": "5c72868a-b02e-4745-ab6f-7e2b6d99d16d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:ab390fde-220e-42cd-98d7-123d002e13ca",
+                "2:70f5d8cd-147f-44ec-b750-23a6f9d6e313",
+                "3:17178fc5-5813-4699-9c33-3c8615dda807",
+                "4:0e17615f-f100-4fdb-b3b2-32bda7830aa6",
+                "5:f6219cee-6764-4cca-a21f-d2881e845f72",
+                "6:7082c383-4aa0-4adf-8a9b-1cced6d8e0a5"
+            ],
+            "artSegIds": [
+                "ab390fde-220e-42cd-98d7-123d002e13ca",
+                "70f5d8cd-147f-44ec-b750-23a6f9d6e313",
+                "17178fc5-5813-4699-9c33-3c8615dda807",
+                "0e17615f-f100-4fdb-b3b2-32bda7830aa6",
+                "f6219cee-6764-4cca-a21f-d2881e845f72",
+                "7082c383-4aa0-4adf-8a9b-1cced6d8e0a5"
+            ]
+        },
+        {
+            "guidStr": "b2a851be-5f43-46b0-a9c3-cb4b97e82fd8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:c0b2a97d-a330-41e4-991d-66e47ad370de",
+                "2:f98b1704-cb3f-4032-9e29-9631528e5163",
+                "3:16b4154c-4245-4768-8250-19ebb5c0f9f3",
+                "4:5a40d6ef-0de8-4e10-b118-d1649598e533",
+                "5:3aedf44b-096c-4a54-a164-ddf6849098a2",
+                "6:d3a5f7bd-95ab-45c3-8fe7-39781bed2a14"
+            ],
+            "artSegIds": [
+                "c0b2a97d-a330-41e4-991d-66e47ad370de",
+                "f98b1704-cb3f-4032-9e29-9631528e5163",
+                "16b4154c-4245-4768-8250-19ebb5c0f9f3",
+                "5a40d6ef-0de8-4e10-b118-d1649598e533",
+                "3aedf44b-096c-4a54-a164-ddf6849098a2",
+                "d3a5f7bd-95ab-45c3-8fe7-39781bed2a14"
+            ]
+        },
+        {
+            "guidStr": "b6055f1c-052f-4509-819a-0cad0479f6e7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:91fee524-a261-4ea1-82be-7656bef37708",
+                "2:fcd736d3-d678-46a2-acc6-bb2414d48fd2",
+                "3:67aea93c-877d-442b-9aca-bf0bc610d5f4",
+                "4:7794bdbc-b6e6-4c8e-9ded-6bc3918985d1"
+            ],
+            "artSegIds": [
+                "91fee524-a261-4ea1-82be-7656bef37708",
+                "fcd736d3-d678-46a2-acc6-bb2414d48fd2",
+                "67aea93c-877d-442b-9aca-bf0bc610d5f4",
+                "7794bdbc-b6e6-4c8e-9ded-6bc3918985d1"
+            ]
+        },
+        {
+            "guidStr": "e75a2878-af71-438d-b66b-47454a78e799",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:4e7c6f5c-0b35-4fc7-9d30-a1c57adeb7b1",
+                "2:b293b552-2855-4c67-8000-f492c81549bc",
+                "3:eef10b4a-b297-4f16-bc5e-bf14c8d1d54b",
+                "4:48e11087-f012-4a7f-a6a4-5213fc087db8",
+                "5:81b90b76-f256-4bf7-8a75-dfc7bd1a4b6c",
+                "6:26bfcdc6-1db8-48fd-8573-31a83e233d3b",
+                "7:4f3ab5e5-c917-49b8-8286-3ef8a8988f9a",
+                "8:d651bc98-ba06-4ffb-bac0-f9f2a77e7af0",
+                "9:1a602dcb-87f6-4610-bd3b-befeea847cff",
+                "10:85aa20f5-ba53-41bd-9c23-aa0564f62a28"
+            ],
+            "artSegIds": [
+                "4e7c6f5c-0b35-4fc7-9d30-a1c57adeb7b1",
+                "b293b552-2855-4c67-8000-f492c81549bc",
+                "eef10b4a-b297-4f16-bc5e-bf14c8d1d54b",
+                "48e11087-f012-4a7f-a6a4-5213fc087db8",
+                "81b90b76-f256-4bf7-8a75-dfc7bd1a4b6c",
+                "26bfcdc6-1db8-48fd-8573-31a83e233d3b",
+                "4f3ab5e5-c917-49b8-8286-3ef8a8988f9a",
+                "d651bc98-ba06-4ffb-bac0-f9f2a77e7af0",
+                "1a602dcb-87f6-4610-bd3b-befeea847cff",
+                "85aa20f5-ba53-41bd-9c23-aa0564f62a28"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "d3d18015-a036-4c98-8e0d-97e28011a8ef",
+            "name": [
+                "Waking the Dead\\nPart 2 - Chapter 1 Waking the Dead: Part 2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:084f6d8a-5622-4116-a060-6236874e883c",
+                "2:b391754e-13ff-4122-8d07-d6719f960e94",
+                "3:5c72868a-b02e-4745-ab6f-7e2b6d99d16d",
+                "4:b2a851be-5f43-46b0-a9c3-cb4b97e82fd8",
+                "5:b6055f1c-052f-4509-819a-0cad0479f6e7",
+                "6:e75a2878-af71-438d-b66b-47454a78e799"
+            ],
+            "articleIds": [
+                "084f6d8a-5622-4116-a060-6236874e883c",
+                "b391754e-13ff-4122-8d07-d6719f960e94",
+                "5c72868a-b02e-4745-ab6f-7e2b6d99d16d",
+                "b2a851be-5f43-46b0-a9c3-cb4b97e82fd8",
+                "b6055f1c-052f-4509-819a-0cad0479f6e7",
+                "e75a2878-af71-438d-b66b-47454a78e799"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

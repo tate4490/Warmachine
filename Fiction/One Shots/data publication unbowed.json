@@ -1,0 +1,1072 @@
+{
+    "bundleName": "data publication unbowed.json",
+    "general": {
+        "guidStr": "49ac8059-9232-45e1-a49e-471e693faec3",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "fecd7419-25a3-4678-8190-11f5b99e042f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Unbowed",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Matt Goetz",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/Mercenaries/lore_basic_mercs_carverton.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "859584c9-edcf-419b-a2a5-399bb2200ace",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<I>For Alec and Travis</I>\nIt started the same way all our stories do: muddled by darkness, full of confusion, pain, and a whole lot of blood.\n***\nThe stooped figure of the doctor’s assistant wheeled their patient into the surgical suite, a room meticulously organized but tinged with the acrid odors of singed hair and coagulated blood. Steel trays held an array of surgical instruments—scalpels, hemostats, and retractors—each sterilized and ready for use. A cabinet in the corner contained glass jars of antiseptics, gauze, and other medical supplies. An anatomical chart hung on one wall, annotated with the doctor’s own observations.\nThe doctor surveyed the patient’s ravaged form for a quick visual triage. \"Check for respiratory effort with a hand mirror,\" he said, turning away to adjust the gas lantern. The room was soon bathed in a warm yellow light that reflected off the surgical instruments and an array of glass vials containing variously colored solutions. His assistant grunted, confirming that the patient was still breathing.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4fd30fea-a1fa-456e-86b5-baa912b2ea20",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Excellent. Draw up an ampoule of mawg adrenaline into a 90 percent ethanol solution, precisely 1/16th of an ounce. Also, hand me the Kanner wire saw. The distal phalangeal joint of the left arm is non-viable,\" the doctor said, donning a pair of heavy canvas gloves that had been treated with a blend of oil and paraffin.\nHe then secured a surgical mask over his nose and mouth and lowered a pair of magnifying loupes into place. Approaching the patient, he began his dictation. \"Clinical note: extensive soft tissue and osseous damage. Spiral fracture observed in the right tibia. Third-degree burns affecting the deep dermal layers on the right flank, with foreign shrapnel embedded in the thoracic region. Superficial lacerations on the face, likely due to small-arms fire. An eye has been destroyed.\"\nThe assistant placed the saw into Dr. Arkadius’ gloved hand and clumsily picked up a medical journal, jotting down notes as he followed the doctor’s methodical examination of the destroyed body before them.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "45ee2523-03f8-4b56-887c-b54dc21bc554",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Given the patient's current hypovolemia and the anticipated surgical blood loss, I strongly advise against the use of general anesthesia. The risk of anesthesia-induced bradycardia leading to cardiac failure is unacceptably high.\" Dr. Arkadius glanced briefly at a sphygmomanometer and a stethoscope that lay on a nearby table, considering and then dismissing their use.\nHe returned his attention to the mangled extremity that was the patient’s arm. Looping the wire of the saw several inches above the zone of injury, he issued an order to his assistant. \"Targ, dispatch someone to the salvage yard. We'll need to fabricate a custom prosthesis for this case. And cue some music, if you would.\"\nTarg scurried off, passing through the leather strips that separated the operating theater from the sitting parlor. A phonograph crackled to life, and the voice of Godwin Bannister filled the room, singing a ballad in its original Molgur-Trul dialect.\nSmiling behind his mask, Dr. Arkadius leaned down to whisper into his patient’s ear. \"Lord Carver, how amusing. Today, it seems, I shall be the one doing the…carving.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e11f190b-1f3c-4913-949c-508bf8abf688",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "With a firm grip, Dr. Arkadius began to oscillate the wire saw, the sound of cleaving flesh and snapping tendons drowned out by his humming along to Bannister’s song.\n***\nEvery step was a struggle against a body that no longer seemed entirely his own. He would plant one hoof, only to have the next step jerk his frame forward almost against his will. The firelights of Carverton’s clans burned too bright, piercing his eyes like molten spikes driving into his skull. When he wasn’t focusing on it, his left arm was a dead weight, its relentless pull straining his back and sending jolts of pain through him with a constant metallic scrape against the remnants of bone in his shoulder.\nEmperor Carver shouldered open the doors of the throne room of Carverton, where his remaker and subordinate awaited him.\n\"How do you fare?\" Arkadius inquired, peering closely at the patchwork of flesh and metal that was Carver’s new body. Targ, the human’s assistant, scuttled up and busied himself with the machinery of Carver’s body, adjusting valves and tightening surgical staples around his new appendages. Each adjustment brought a sharp reminder of pain, a fresh jolt that danced over Carver’s nerves. He swatted Targ away with a casual backhand.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ec9ba984-352b-43a9-8b75-7788a3c9b4cd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Better,\" Carver grunted through gritted teeth.\n\"Excellent. With continued therapy, you'll be combat-ready in only a few months,\" Arkadius said, more to himself than to Carver. The doctor pulled out a leather notebook and began jotting down notes.\n\"No.\"\nArkadius paused, looking up. \"No?\"\n\"I'm done with your experiments. With your tests. My people need a leader on the battlefield, reclaiming lands, enacting vengeance. I am that leader. The time is now.\"\n\"Lord Carver, I must counsel patience. Even fully integrated with your new limbs and with the suppressive treatments complete, these are merely the first steps toward something far greater. You are presently a…a prototype, not the final product.\" Arkadius’ voice tread a fine line between deference and insult. Carver could sense that the doctor was threading his comment, aware of the volatile temperament of his emperor.\nCarver’s eyes narrowed, his resolve cutting through the pain. \"I can wield my sword and lead my armies. I won’t rest in Carverton while there are realms to conquer and injustices to avenge.\" He attempted to remind the scientist of the natural order between them, but a sharp twinge cut through his words as Targ returned to adjust something deep in the mechanics of his hip, turning his declaration into a grimace of pain.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ff7fb891-4b00-4806-a200-b083506826df",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Arkadius spoke with a mix of resignation and concern. \"It seems my advice falls on deaf ears, my lord. But understand this: your body was on the brink of ruin. That you stand before me now is a testament to the advances I’ve made in physical science. Another encounter like the one at Ternon Crag could place you beyond even my capabilities to save.\"\nUndeterred, Carver stood, his movement causing Targ to retreat with a startled yelp. He was a looming figure, his presence alone enough to command the room. He snorted. \"Your words hold no weight with me, Doctor. If you value your position and safety in my empire, you should find a way to ensure my survival.\"\nArkadius met his gaze. \"And what would you have me do, my lord?\"\nA growl rumbled from Carver’s throat, his face a web of war-hardened scars, metal, and nerve-deadened flesh. His expression retained its wrath. \"Forge me a tool of conquest and destruction befitting an emperor.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "598cf445-cf98-40ab-bafd-af59770f4968",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***\nCarver gave the doctor three months to respond to his order. Knowing that he would not be able to be proactive as he recovered, he instructed the warlocks Helga and Midas to oversee the management and logistics of his fledgling empire, entrusting them to keep the newborn kingdom functioning as he healed. Both were capable and did not hesitate to follow his orders, but he could see shadows of worry when they looked back at him as they left to follow his commands.\nIn the meantime, he held court in the palace of Carverton, listening to the trivial grievances of his citizens. Those who brought him the pettiest matters were condemned to be the food of warbeasts for wasting their emperor’s time. Others, he commanded to duel to the death before his throne to abate his immense boredom. Scratching at his healing flesh, Carver watched dozens of farrow hack each other to pieces before dismissively sending away the victors and ordering his servants to mop the blood from his floor.\nWhen he wasn’t sitting on his throne, Carver trained his body. He clashed in duels with his own slaughterhousers, pitting sword against pole cleaver. He gradually became more used to his new body, going from fumbling against his opponents and being battered by them to gaining the upper hand and eventually dominating them in battle as he became accustomed to how his prosthetics responded to his mental commands. But while the doctor’s work had restored his body, the emperor bore invisible injuries no scalpel or stitch could repair.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "07a0ab44-a5ec-4136-9f8a-201de4fe3176",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "During one of his duels, a slaughterhouser named Crum had landed a blow on his fleshly leg, dropping Carver to one knee. Crum dutifully approached to offer his master a hand back to his hooves. Without thinking, Carver lashed out with his metal fist, locking onto Crum’s helmeted head. Carver snorted and squealed in inchoate rage and bore down, crumpling the slaughterhouser’s helmet and pulping the skull within. That night, he remembered standing over Crum’s inert body, staring at his bloody claw and puzzling at why he’d reacted so explosively. His ears rang, his blood pounded, but the reason he’d slain Crum—who had been a loyal veteran campaigner for years—slipped from his grasp like an eel.\nSudden bursts of rage were not the only symptoms. His skull felt like a band of iron had been clamped down on it both day and night. He found that, at times, the bare light of a single lamp was painfully bright. His vision blurred.\nThe worst of it, though, was the dream that plagued him nightly.\n\"I’ve got one thing. Just was hoping not to waste it on you.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b6469480-99e2-4822-adea-b699c7107cb3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "It wasn’t the shot that robbed him of his left eye nor the blast that destroyed his limbs that haunted him. Not even the pain of the aftermath. Not the memory of dragging his ruined body across the sand. It was just how dismissive the man’s words had been. To Magnus, the warcaster who had nearly killed him, Carver was a joke. A trifle. A waste.\n***\nWeeks after he killed Crum, Arkadius and his assistant once again stood before Carver on his throne. By the barely restrained energy of Targ, Carver knew that the pair had achieved some manner of breakthrough.\n\"Have you obeyed me, human, or are you here to beg for more time?\" Carver asked, picking at his armor with a metal talon.\n\"I believe you will find that I have surpassed your expectations,\" Arkadius replied. \"After some initial setbacks, I have developed an entity that fulfills your stated desires. To be so bold, I believe I have orchestrated a creature that exceeds them.\"\nCarver let the human lead him across the farrow settlement of Carverton. Farrow bystanders looked on their procession in awe, heads bowed until after they had passed.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2a76bedc-aecf-4c4a-ad47-46e8f1038ab2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When they arrived at Arkadius’ lab, there were already several dozen farrow and teams of battle boars in attendance. The battle boars strained at a pair of enormous chains that passed through the wide barn-like door into Arkadius’ warbeast workshop. Something within was putting their strength to the test. A strange brew of adrenaline and fear radiated off the warbeasts, powerful enough that it nearly overwhelmed Carver’s senses.\n\"Bring out experiment number 47,\" Arkadius said to the battle boars. They dug in their hooves, and the adrenaline pumps on their backs activated, sending alchemical stimulants into their systems. Even so, the teams struggled to haul the experiment into the light.\nThe creature that emerged was breathtaking. It towered over the battle boars. Muscle and metal were fused along its body in astonishing harmony. The enormous warbeast squinted in the sunlight and tried to shield its eyes with one of the many-chambered guns that had replaced its lower arms.\n\"Experiment number 47,\" Arkadius began, \"is an enhancement of the standard war hog. Induced acromegaly brought about by a pressure chamber pressing on the pituitary gland, replicating a macroadenoma. Earlier batches of specimens failed at between three and six weeks, but this one proved to be most resilient. I had Targ take tissue samples from a cephalyx creation and synthesized several of the growth-enhancing compounds found in its circulatory system to increase muscle fiber density.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5dd0e388-8253-4914-a051-31a858289d35",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Carver barely listened. He was in awe of the creature, slowly advancing on it in a quiet reverie. The beast squinted down at him and roared in warning, punctuated by chain blades that capped its impressive tusks spinning at him. The emperor placed his surviving arm on the beast’s flesh, closing his eyes. He opened his mind and will to connect with the beast and was rewarded with a sense of its spirit.\nMost warbeasts he bonded with had at their core a wellspring of rage. Compared to what this marvelous creature showed him, those beasts’ fury was a drop of rain compared to the raging tides of the ocean. It was endless, pure, and powerful.\n\"I am impressed, Doctor,\" Carver said. \"You have delivered to me my instrument of destruction.\"\n***\nA group of humans sallied out from Ternon Crag to meet him at the foot of the hills at Caerly’s Crag. A trio of men on horseback accompanied by a squad of halberdiers, one of rifles, and two warjacks. The group formed a loose formation just under a hundred yards away.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "969d5b86-e34d-4c55-88e6-0fbe76b4a123",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Carver stood alone. A small war party had accompanied him on his travel from Carverton, but he commanded them to hold back unless he summoned them.\n\"Bring me the warlord Magnus!\" Carver bellowed.\n\"Sorry, mate!\" one of the mounted humans cried back. \"He’s popped down to the shop for his afternoon tea. Want me to take a note for when he gets back?\"\nThe rider’s companions laughed at the jape.\nCarver reached out with his mind. The ground shook as his war boar crested the hill behind him. The laughter died, replaced by stunned silence. It was Carver’s turn to smile now, a wild-eyed grin that peeled back to reveal his tusks. \"He’ll get the message.\"\nThe humans scrabbled to ready their weapons as Carver and his war boar charged as one. The clown on the horse wheeled to meet them, drawing an oversized sword. He led the other cavalry into a countercharge. Carver’s warbeast slammed into the man’s horse at full tilt, burying both of its blade-capped tusks in the animal’s throat, ripping the flesh open to lay bare the meat and bone within. The other riders swiped at the warbeast with their axes but to little effect. For the trickles of blood their attacks had caused, the warbeast responded with slashes of its tusks, leaving brutal injuries on both of the humans.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "25b39e2c-9604-41ce-95b1-2d985cbfc319",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Carver drew on the power of his companion’s fury to cast a spell on the desert soil beneath the halberdiers who had turned to retreat. Their feet sunk into the newly transformed quagmire, and they could not escape the reach of his sword. Their feeble attempts to turn his blade failed. He hacked through the lot of them in a moment.\nThe unit of riflemen took aim at his war boar and fired a volley. The crackle of gunfire distracted his war boar from the dead horse it had been pulverizing under its metal hooves. The warbeast’s ear twitched as the bullets slapped into its thick skin or ricocheted off its armor. It snorted and leveled one of its gun arms at the humans, mowing them down in a hail of bullets. One after the next, their bodies were ripped apart. Warlock and warbeast unleashed a howl of victory as the thrill of slaughter crackled along the mental connection linking them.\nThe moment of triumph was cut short by the blow of a sword on the left side of Carver’s head. The human who had mocked him had approached on his blind side. \"Rocker, Jock, take care of the big one,\" the human shouted. The pair of warjacks collided with Carver’s warbeast. He trusted its fighting instincts to prevail as he faced off against the human.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f9c63c43-6aa2-4a2c-88d4-07c5e28401e7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I forgot you were still here,\" Carver said, echoing words that had once been directed at him.\n\"Gotta say, that was sneaky,\" the man said before throwing a testing jab with his sword. \"You got anything else hiding back there?\"\nCarver snarled. \"A cookfire where I plan to enjoy feasting on your flesh.\"\nThe human attacked. He was swift, but his footwork made it clear that he was more used to fighting from the saddle. Carver deflected the strike and lashed out with his metal claw, stroking three gashes across the side of the man’s head. His opponent whirled and cut a deep gash into Carver’s side. If he had brought a normal warbeast to this battle, he would have sent the injury to it without a thought, but he wanted to keep his war boar in peak condition. He bore the injury and moved to expand the room between himself and the human.\n\"I considered killing you,\" Carver said. \"You have forced me to change my mind.\"\nCarver’s opponent pressed the attack. Bringing his sword up in an overhand stroke, he closed on the warlock, grunting with effort as he brought the heavy blade down. Carver intercepted it with his own blade and grabbed the man’s leg at the knee. He fired both barrels of the scattergun integrated in the palm of his metal prosthetic. The blast of shot ripped through the man’s leg, severing it at the joint.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "15267066-4408-47e0-9f41-151d803ab6e5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"No,\" Carver continued, over the screams of the human’s pain. \"I have decided I will let you live. I’ll ensure it, in fact.\"\nThe injured man fell back and pushed himself away from Carver with his remaining leg, leaving a slug trail of gore from his stump. Carver stomped down on the man’s remaining leg with a metal hoof, pulverizing the bone. He was rewarded with another scream.\n\"You offered to, what, ‘take a note’? I accept. When next you see the warlord, I want you to tell him this. Tell him that he may have broken me. But I am Emperor Carver Ultimus Esquire the Third. I will not stop until I have devoured the heart of the man who thought he could cow the wielder of the Hand of God Almighty, the Bringer of the Most Massive Destruction.\" Carver finished by ripping the man’s other leg from his body.\nEither shock or blood loss caused the human to pass out. Carver checked on his war boar, which stood triumphant over a pair of mangled wrecks. Grunting in approval, he picked up the unconscious man and headed for Ternon Crag. He planned to drop him off outside of the town, near enough for one of his fellows to recover him. He made a note of where the severed legs were before heading off.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9da99315-1b1e-4568-bc5b-67cda426114f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "After all, it was a long trip back to his empire. He might want a snack.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "d431907b-5eac-4346-a9a1-940f8e217879",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:fecd7419-25a3-4678-8190-11f5b99e042f",
+                "2:859584c9-edcf-419b-a2a5-399bb2200ace",
+                "3:4fd30fea-a1fa-456e-86b5-baa912b2ea20",
+                "4:45ee2523-03f8-4b56-887c-b54dc21bc554",
+                "5:e11f190b-1f3c-4913-949c-508bf8abf688",
+                "6:ec9ba984-352b-43a9-8b75-7788a3c9b4cd",
+                "7:ff7fb891-4b00-4806-a200-b083506826df"
+            ],
+            "artSegIds": [
+                "fecd7419-25a3-4678-8190-11f5b99e042f",
+                "859584c9-edcf-419b-a2a5-399bb2200ace",
+                "4fd30fea-a1fa-456e-86b5-baa912b2ea20",
+                "45ee2523-03f8-4b56-887c-b54dc21bc554",
+                "e11f190b-1f3c-4913-949c-508bf8abf688",
+                "ec9ba984-352b-43a9-8b75-7788a3c9b4cd",
+                "ff7fb891-4b00-4806-a200-b083506826df"
+            ]
+        },
+        {
+            "guidStr": "59363780-ec1d-4ab6-a1de-23822c9a46a7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:598cf445-cf98-40ab-bafd-af59770f4968",
+                "2:07a0ab44-a5ec-4136-9f8a-201de4fe3176",
+                "3:b6469480-99e2-4822-adea-b699c7107cb3",
+                "4:2a76bedc-aecf-4c4a-ad47-46e8f1038ab2",
+                "5:5dd0e388-8253-4914-a051-31a858289d35",
+                "6:969d5b86-e34d-4c55-88e6-0fbe76b4a123",
+                "7:25b39e2c-9604-41ce-95b1-2d985cbfc319",
+                "8:f9c63c43-6aa2-4a2c-88d4-07c5e28401e7",
+                "9:15267066-4408-47e0-9f41-151d803ab6e5",
+                "10:9da99315-1b1e-4568-bc5b-67cda426114f"
+            ],
+            "artSegIds": [
+                "598cf445-cf98-40ab-bafd-af59770f4968",
+                "07a0ab44-a5ec-4136-9f8a-201de4fe3176",
+                "b6469480-99e2-4822-adea-b699c7107cb3",
+                "2a76bedc-aecf-4c4a-ad47-46e8f1038ab2",
+                "5dd0e388-8253-4914-a051-31a858289d35",
+                "969d5b86-e34d-4c55-88e6-0fbe76b4a123",
+                "25b39e2c-9604-41ce-95b1-2d985cbfc319",
+                "f9c63c43-6aa2-4a2c-88d4-07c5e28401e7",
+                "15267066-4408-47e0-9f41-151d803ab6e5",
+                "9da99315-1b1e-4568-bc5b-67cda426114f"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "ecaa503b-7dc9-484b-9c18-944a3d40893b",
+            "name": [
+                "Unbowed - Chapter 1 Unbowed",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:d431907b-5eac-4346-a9a1-940f8e217879",
+                "2:59363780-ec1d-4ab6-a1de-23822c9a46a7"
+            ],
+            "articleIds": [
+                "d431907b-5eac-4346-a9a1-940f8e217879",
+                "59363780-ec1d-4ab6-a1de-23822c9a46a7"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

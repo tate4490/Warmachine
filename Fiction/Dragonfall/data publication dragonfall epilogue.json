@@ -1,0 +1,1072 @@
+{
+    "bundleName": "data publication dragonfall epilogue.json",
+    "general": {
+        "guidStr": "012b518a-ac25-4b3d-86da-0ebc13837839",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "778a37a6-f8e9-449e-9606-8d66f1a76fd6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Dragonfall",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_dragonfall.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "258fd0d8-867d-4087-8a57-ee5ee127a6a8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c72e3433-4eb5-4263-b59e-6692cc202ab9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Epilogue:\\n By the Beholden",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "78fcdca6-c3b1-4423-aa3b-abe718b135d4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2a410d2d-7b2a-4ff2-8623-c14a649384c5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "1",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "222a689d-9135-4726-b59e-82f6f374da28",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Krueger was born again in fire. As he emerged from the magma, he saw robed figures with arms outstretched in supplication, words in the dragon tongue pouring from their mouths in a torrent of alien blasphemy. They were led by a twisted, winged creature, its ghastly silhouette painted in burnt orange and yellow.\n\"Brothers and sisters! Behold our champion!\"\nMemories slammed into Krueger. Death and ruin raining down on a vast infernal army as he soared above a great yawning gate. He hurled lightning at his foes, reducing them to billowing ash, or slashed and skewered them with Wurmtongue, but there were too many. His last memory was of falling from the heavens, bleeding from a dozen mortal wounds, his final thought, <I>So much more I wished to accomplish.</I>\nThe memories faded, and his present reality crashed into him. He hovered above a bubbling pool of magma and gripped a length of chain, the metal cherry red from immersion in the fiery earth. At the end of the chain hung a small cage of brass and iron that held a jagged, multi-faceted crystal.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e1cc4c4c-b003-42bd-9049-57abd0da1469",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The crystal pulsed, and Krueger’s mind nearly broke apart beneath an onslaught of images.\n<I>. . . a great battle raged below him, men and machines milling at his feet as he scorched them away . . . </I>\n<I>. . . a howling screech from a low hill where an ancient artifact channeled hatred and evil into unholy power. . . </I>\n<I>. . . his voice, the crash of thunder and ruin, conjuring power to match that of his adversary . . . </I>\n<I>. . . a great seizure of agony, his flesh parting, his talons folding around something hard and unyielding . . . </I>\n<I>. . . darkness rising, defeat, but also grim satisfaction . . . </I>\nKrueger sucked in a breath of scorched air and collapsed at the side of a pool of magma. He pressed his hands to his head, moaning in pain, trying to hold his mind together beneath the shredding assault of memories not his own.\n\"Be calm,\" the twisted creature said, crouching over Krueger. Its bestial face was a lopsided mixture of man and dragon—a blunt fang-filled snout beneath disturbingly human eyes. \"The pain will pass.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f09837b1-e6b1-4d0c-9d43-63e8e16b8e59",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Krueger knew this creature. It led a small cult devoted to Blighterghast, and its singular blight allowed it to directly communicate with the dragon. It was called Velchev, the Mouth of Blighterghast.\n\"What have you done to me?\" Krueger said, rolling over onto his hands and knees. The other cultists had stopped chanting, and the cavern fell into an eerie silence.\n\"Old debts come due, Stormlord, but do not despair. You have been blessed,\" Velchev said. \"You have been chosen to bear the essence of the great one until such time as he can be remade.\"\n\"Blighterghast is . . . slain?\" Krueger asked, one hand cradling his head, his eyes shut against the onslaught of a painfully bright light that only he could see.\n\"You saw the master’s death,\" Velchev said. \"<I>Felt</I> it.\"\n\"How?\"\n\"Much has happened since you’ve been away.\" Velchev’s bestial face twisted in a grimace. \"The Dragonfather has a new ally from across the sea. With this power at his command, he will storm the mainland and take back what he <I>believes</I> is rightfully his.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e0c14303-02ff-42bc-af3b-7cf4c4bfaf0a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Krueger climbed to his feet, still clinging to the vessel that contained Blighterghast’s essence. More images flowed into his mind. This time, they were more orderly, and he gained an understanding of the last decade in an instant. The aftermath of the infernal invasion, the arrival of the Orgoth, western Immoren consumed by war yet again.\n\"Do the others know? Halfaug? Scaefang? Ashnephos?\" Krueger rattled off the names of the nearest dragons committed to the alliance against Toruk, their progenitor.\n\"Of course,\" Velchev said. \"The pact remains in force, but you must find allies elsewhere.\"\nAnother image filled Krueger’s mind. A Cygnaran warcaster astride an armored destrier, a great galvanic blade clenched in her fist, a living spark of azure lightning. She led a charge on the same scorched battlefield he’d seen before, through the Orgoth host, toward the figure on the hill and the terrible artifact that had . . .\n<I>Killed me,</I> came a thought not quite his own. \"Who is she?\"\n\"Captain Madison Calder,\" Velchev said. \"She was there when our master fell. She saw how the Orgoth witch overcame him.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e971157b-2da5-45a2-a62d-935aa22bac43",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The crystal pulsed again, and Krueger clenched his teeth against another vision. He saw a mighty force of soldiers and warjacks gathered from all the varied nations of western Immoren. Dragons soared above the great army, wings outstretched, blotting out sun and sky, casting all into shadow. The vision sparked both hope and horror in Krueger, for he knew what this grand alliance marched toward. On the horizon, Toruk loomed like a mountain given breath and life, and beneath the Dragonfather, a vast swarm of warriors and terrible machines lit by the green balefire and the blood-soaked crimson of Orgoth blaze furnaces waited.\n\"You understand,\" Velchev said, as if he too had seen Blighterghast’s prophetic vision. Perhaps he had.\n\"I understand,\" Krueger said. His old ambitions mingled with the desires of the dragon, and he saw with perfect, awful clarity that even death could not change the course of his fate.\n<I>So much more I wished to accomplish. </I>\n#\nCaptain Madison Calder watched her soldiers strip the barding from Onus’ corpse. A human soldier might be buried in their armor, and it tore at her heart that she could not extend the same dignity to her faithful warhorse.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0a83fcde-e0b3-40a9-8258-fabd7b010ec4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I’m sorry, boy,\" she whispered, then to the four legionnaires carefully removing the destrier’s armor. \"Take him with us. Everyone goes home.\"\nThe battle against the Orgoth had ended only a few short hours ago, and Cygnaran and Khadoran medics with groups of soldiers in tow moved around the colossal corpse of Blighterghast, saving those who could be saved and bearing away the bodies of those who couldn’t. The latter group outnumbered the former ten to one.\nCalder looked out over the scorched landscape. The fierce heat of the caldera radiated up through the cracked earth, creating a shimmer on the horizon, but joining the mirage was a single point of crimson radiance, a lone candle on a vast illusory lake. She pulled her spyglass from her belt and gazed through it.\nA figure wreathed in flame floated slowly toward them, the immense heat from its sizzling corona cracking and buckling the ground beneath it. The fire was so intense, the radiance so blinding, that Calder could not look directly at the approaching figure. Just the same, she knew its appearance so soon after the battle was no coincidence.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3c2fdefb-23ca-450e-acc9-7deae61e9314",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Sergeant Leeds,\" she said, motioning to one of the legionnaires seeing to Onus, \"find Kommander Savaryn. Bring him here. Now.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c48fda75-a6d3-4f0d-9e0e-4ce4ad59187e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What is it?\" Kommander Savaryn said, one hand resting on the titanic red bulk of a Great Bear warjack.\nCalder sat astride a new warhorse, but she hadn’t the heart to name this one yet. \"I think a more important question is who.\"\nThe figure she’d spied earlier had drawn within a hundred yards of Blighterghast’s corpse. She and the rest of the allied forces had gathered there, nearly a thousand soldiers with supporting warjacks and cavalry. If the army arrayed against it concerned the flaming apparition, it didn’t show.\nCalder could now see it wore archaic plate armor of enameled green and chased with brass. A voluminous emerald cloak fluttered from its back, the cloth seemingly proof against its owner’s burning halo. A bronze mask covered the figure’s face, and only its eyes, twin motes of searing red, were visible. It did not appear to be armed, but it carried a huge shard of crystal bound inside a cage of brass and iron at the end of a long length of chain.\n\"That is the armor of a blackclad druid,\" Savaryn said, \"though I know of no member of that group who fits this description.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3bae8d67-914a-4150-aabf-50dd3c00dc41",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<I>Blackclad?</I> Calder thought. It made no sense.\n\"I have come to speak with Captain Madison Calder,\" the apparition said, settling on the ground, its nimbus of flames dying away. The voice was loud, bold, and male.\n\"I am she,\" Calder said and spurred her mount forward. \"Who are you?\"\n\"I was once Krueger the Stormlord,\" the figure said, his voice distant, as if the name were little more than a memory. His next words bore the weight of resignation. \"Now I speak for Blighterghast.\"\nCalder knew that name. Krueger had been a mighty blackclad druid who had closed one of the great gates during the Infernal War and had been slain in the process.\n\"Krueger is ten years in his grave,\" Savaryn interjected, jerking his head back toward the mountainous corpse of Blighterghast. \"And the dragon is long past speaking.\"\n\"All is not as it seems,\" Krueger replied. \"Before the Orgoth claimed Blighterghast’s life, the dragon transferred its essence to me.\"\nCalder remembered Blighterghast’s booming voice echoing over the battle, an awful rhythmic chant, like a mighty spell or ritual. It made a horrid kind of sense. \"Then who am I speaking to? Krueger the Stormlord or Blighterghast?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3a1de663-4ade-4c45-a055-67a0e8d9d27a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Neither,\" Krueger said. \"Both.\"\nCalder shook her head, but a tendril of cold fear crawled up her spine. The absolute authority and confidence with which Krueger spoke unnerved her. \"Even if I believe you are what you say, why have you come?\"\n\"Long ago, Blighterghast and its siblings struck a pact. Should Toruk return, they would stand against him,\" Krueger said. \"I represent that alliance. I come to deliver terms of a further alliance with the nations of western Immoren.\"\n\"What terms?\" Calder said. \"Cygnar has agreed to nothing.\"\n\"Your agreement is not required—only your cooperation.\"\n\"Is that a threat?\" Calder asked.\nFlames burst to life around Krueger, a halo of withering heat. When he spoke again, his words boomed across the hellish landscape, echoing off the clouds and surrounding mountains. It was not the voice of a man; it was the voice of a monster. \"Fool. Do you not understand what has happened? The Orgoth have taken Blighterghast’s <I>athanc</I> for one purpose: to seal an alliance with Toruk and the Empire of Cryx. Together, they will overrun western Immoren, and the Dragonfather will seek to reclaim the <I>athancs</I> of his progeny. Even with all the armies of all the nations of western Immoren at your back, you cannot stand before these enemies.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1b100e64-b62d-4e8a-9f88-5dfbf92a5d48",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "With perhaps more sense than its rider, Calder’s warhorse retreated from the burning specter. She pulled gently on the reins despite a strong urge to wheel around and flee. When she spoke again, she somehow managed to keep the tremor from her voice. \"I don’t understand. What is it you want?\"\n\"I am not asking for anything,\" Krueger said. \"Henceforth, we shall battle as one. My enemies are your enemies. You will deliver this message to your leaders.\"\n\"You want me to propose an alliance with a blackclad druid who died ten years ago and a dragon I saw slain right here on this battlefield?\" Calder said, sharing a look of disbelief with Savaryn as she spoke the words. She would think the whole thing absurd if she weren’t so terrified. \"What do I even tell them?\"\nKrueger’s reply was immediate and delivered with disturbing stoicism. \"It is simple. They will commit their armies, their people, their blood to my cause. The enemies of Blighterghast will know his wrath.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a35dee1e-70fe-46dd-834e-7ecfdc66b1c5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_wrath_portrait.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1444,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "4ad2519a-8ee6-43c1-83d2-91d664685d15",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:778a37a6-f8e9-449e-9606-8d66f1a76fd6",
+                "2:258fd0d8-867d-4087-8a57-ee5ee127a6a8",
+                "3:c72e3433-4eb5-4263-b59e-6692cc202ab9",
+                "4:78fcdca6-c3b1-4423-aa3b-abe718b135d4",
+                "5:2a410d2d-7b2a-4ff2-8623-c14a649384c5",
+                "6:222a689d-9135-4726-b59e-82f6f374da28",
+                "7:e1cc4c4c-b003-42bd-9049-57abd0da1469",
+                "8:f09837b1-e6b1-4d0c-9d43-63e8e16b8e59",
+                "9:e0c14303-02ff-42bc-af3b-7cf4c4bfaf0a",
+                "10:e971157b-2da5-45a2-a62d-935aa22bac43",
+                "11:0a83fcde-e0b3-40a9-8258-fabd7b010ec4",
+                "12:3c2fdefb-23ca-450e-acc9-7deae61e9314"
+            ],
+            "artSegIds": [
+                "778a37a6-f8e9-449e-9606-8d66f1a76fd6",
+                "258fd0d8-867d-4087-8a57-ee5ee127a6a8",
+                "c72e3433-4eb5-4263-b59e-6692cc202ab9",
+                "78fcdca6-c3b1-4423-aa3b-abe718b135d4",
+                "2a410d2d-7b2a-4ff2-8623-c14a649384c5",
+                "222a689d-9135-4726-b59e-82f6f374da28",
+                "e1cc4c4c-b003-42bd-9049-57abd0da1469",
+                "f09837b1-e6b1-4d0c-9d43-63e8e16b8e59",
+                "e0c14303-02ff-42bc-af3b-7cf4c4bfaf0a",
+                "e971157b-2da5-45a2-a62d-935aa22bac43",
+                "0a83fcde-e0b3-40a9-8258-fabd7b010ec4",
+                "3c2fdefb-23ca-450e-acc9-7deae61e9314"
+            ]
+        },
+        {
+            "guidStr": "2a664258-3783-4cba-9f4c-76779fc3c6d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:c48fda75-a6d3-4f0d-9e0e-4ce4ad59187e",
+                "2:3bae8d67-914a-4150-aabf-50dd3c00dc41",
+                "3:3a1de663-4ade-4c45-a055-67a0e8d9d27a",
+                "4:1b100e64-b62d-4e8a-9f88-5dfbf92a5d48",
+                "5:a35dee1e-70fe-46dd-834e-7ecfdc66b1c5"
+            ],
+            "artSegIds": [
+                "c48fda75-a6d3-4f0d-9e0e-4ce4ad59187e",
+                "3bae8d67-914a-4150-aabf-50dd3c00dc41",
+                "3a1de663-4ade-4c45-a055-67a0e8d9d27a",
+                "1b100e64-b62d-4e8a-9f88-5dfbf92a5d48",
+                "a35dee1e-70fe-46dd-834e-7ecfdc66b1c5"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "6fcf6cbe-9aa7-4e63-abfd-08ecb1cea895",
+            "name": [
+                "Dragonfall\\n Epilogue - Chapter 1 Dragonfall Epilogue",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:4ad2519a-8ee6-43c1-83d2-91d664685d15",
+                "2:2a664258-3783-4cba-9f4c-76779fc3c6d7"
+            ],
+            "articleIds": [
+                "4ad2519a-8ee6-43c1-83d2-91d664685d15",
+                "2a664258-3783-4cba-9f4c-76779fc3c6d7"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

@@ -1,0 +1,1407 @@
+{
+    "bundleName": "data publication interstitial 4 - summons.json",
+    "general": {
+        "guidStr": "9eee6981-af9a-4f67-a8dd-c59b78a86a66",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "d1bb713f-2202-4b6f-a829-840e7cd70a4f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Summons",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "40fd5e10-cdd8-429c-8368-79ad3133449c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/Brinebloods/lore_basic_brineblood_admthorgaboomhowler.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1300,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "dc18e598-581c-4272-81fb-8d295bee6ee7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "21d4d31c-b9c1-495d-971c-52ca540add2e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "PART FOUR",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#310515",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "68d72091-7172-4fd1-a5db-f909635fb164",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<I>\"Tell me once more, why are we here, Hargor?\" Thorga Boomhowler shot her first mate a withering look, through bloodshot eyes. To his credit, Hargor remained silent. He knew there was little to be gained by replying when his captain was in such a foul mood, and had asked him a question she already knew the answer to besides.\nStill, it didn’t stop Boomhowler from asking, nor grinding her teeth together when he didn’t reply. She couldn’t tell if that came from frustration or the hangover that had left her feeling like a nail had been hammered into her skull.\nThe Baying Wolf was patrolling around the peninsula that jutted out from southern Alchiere, and amongst the islands sitting on the Accursed Sea. This far south of the Iron Kingdoms, there was no traffic to be seen from any of the Iron Kingdoms’ navies; although typically there would be merchant ships travelling to and from Zu, the threat of Orgoth raiders had all but eradicated trade for the time being.\nThe skies overhead were blue, tainted only by the ashen plumes rising from the volcano to the south. Below the waters were calm as the galleon cut slowly through them, keeping the ship at an even keel. Gulls soared overhead on a listless wind that seemed to match the energy of the bored trollkin crew as they lounged around the deck. They were pirates, fighters, and drinkers, and this inactivity sat as poorly with them as it did with their captain.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b127f87d-3c0f-4e8f-923a-ec444c5c80ed",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They were trawling their way through these waters in response to reports of numerous lost cargo ships along the coast and sightings of sinister ships with black sails; yet, Boomhowler and her crew had found scant evidence of either in these last few days. The seas were empty, and all the land had to offer was endless stretches of beach and, behind that, dense jungle.\nNot for the first time, Boomhowler cursed Firequill for his part in the shaky alliance the Brinebloods had established with the Cygnarans. Not only did it sit poorly with her that he’d managed to arrange it without her knowledge, but more importantly, it had meant he was otherwise engaged hunting Orgoth ships around the Gulf of Cygnar, and Boomhowler had been unable to send him on this pointless jaunt.\nAnd so, the Baying Wolf had taken to these seas, instead of finding a nice ripe merchantman to plunder. And when no action whatsoever had come, the trollkin had sought refuge in ale and rum, Boomhowler no exception.\n\"Hargor, there’s nothing here. We’re too far south for the Orgoth—they’re raiding the Iron Kingdoms, not Alchiere. Same goes for anything else. Whatever it is that sunk those ships, it’s gone. I’ll wager you a hold full of rum that we turn back empty-handed tomorrow, after wasting our time.’",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "514c3d0d-0947-4584-834a-7d23371e1438",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The first mate raised an eye at that, at least.</I>\n***",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2539b2ff-d098-47b5-b8a6-77fcc505ba46",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Water trickled down from somewhere above, a staccato drum that broke through the haze. Unable to move and weightless, Boomhowler sensed she was suspended from somewhere above, her arms and legs bound behind her, leaving her helpless. Pitch black surrounded her on all sides, a prison within an all-consuming void.\nBoomhowler couldn’t tell if her eyes were open. Pain chased through her body, the soft and swollen skin around her eyes no exception. A dull ache had taken root in her temples, throbbing in time with every heartbeat, and stealing any hint of sensation from her eyelids themselves.\nIt was difficult to know how long she had been trapped here in this foul pit, deep in the craw of the earth and far from the sun. Consciousness came and went, fleeting moments of lucidity that blurred into memories and nightmares. In the absence of light, the shadows had somehow rushed up and enveloped her. She floated in inky blackness, deeper than darkness itself, and within that bleak nothingness lurked malevolent horrors and fiends, waiting to gleefully tear her to pieces once her torment had become trite.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d6c14368-0d50-4161-a061-03d50d1690c1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Boomhowler tried to speak—to call out. All too late she remembered that she’d tried and failed before. The skin around her throat and jaw pinched painfully, as the metal cable binding her bit deeper, and a fresh wave of agony seared through her flesh. The only reward for her efforts was the taste of copper and a line of drool that slipped from between dry and broken lips and trailed to the ground.\nBoomhowler might have passed out there again. Whether she did or not was impossible to know while her mind was so muddled and she was deprived of so many senses. The darkness was overwhelming, the silence deafening, and her limbs were bound so tight that they’d turned numb. With her throat restricted, even breathing presented a challenge, one that consumed her every thought for long moments, bordering on panicked hysteria.\nHer body was on the cusp of giving in. Robbed of air from its lungs, adrenaline spent, and overwhelmed by pain, Boomhowler felt her life ebbing away.\n***\nThe Cryxian blackship came out of nowhere, appearing through the night as though it were a manifesting spectre, become corporeal to visit ruination upon the Baying Wolf—which was precisely what followed, as the cannons erupted, belching fire and lead into the unsuspecting Brineblood vessel before her crew could react.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8ee091eb-39a0-462c-b6a1-afa8952a2f8c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A sea of soulless faces leered at their prey from the deck of the Cryxian ship as it raked past the Baying Wolf, lit by the concussive blast of the cannon fire. Unlike any other crew, they were eerily silent, their skeletal expressions pulled into what seemed mocking grins. It was all too much for some of Boomhowler’s beleaguered crew, who broke ranks and opened fire with the small arms they had to hand, instead of running below decks to man the main guns or work the bilge pumps.\nBoomhowler tried to warn them their shots were all but wasted, but her command came too late as the Cryxian gunners switched to chain shot. The salvo of deadly munitions ripped through the Baying Wolf’s rigging and sails and tore into the crew. The closest sailor to Boomhowler, standing proud as he fired a brace of pistols at the blackship and its unholy crew, was decapitated and collapsed backwards in a flash of red.\nFurther along the ship a pair of pygs carrying a bucket of water between them were hurled into the air by an explosion that showered the deck in jagged shards of wood. Somewhere fire had taken hold, judging from the rising smoke and flickering embers floating on the wind. Already Boomhowler’s eyes were starting to water and sting. A scratch took hold of her voice and coloured it into a rasp as she rattled commands to the remaining crew on deck and shouted to those others below.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "326e1e5f-44c2-4f7c-8e63-ef750f5af652",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Amid the chaos thralls began to flood the deck, swinging across from the blackship even as it continued firing into the Baying Wolf, with apparently little care for its own crew. Spectral forms charged between the reanimated dead, a tide of otherworldly green winds racing towards the trollkin defenders. Boomhowler spied twisted black metal as a spider-shaped warjack clambered up the gunwale, the black fumes from its furnace adding to the dense fog forming in the air.\nBoomhowler called her reef trolls, Gulper and Gasher, to her as she raced to meet the enemy, voice raised in a bloodcurdling roar of defiance. They responded with an urgency that made her proud, eager to repel these vile invaders. Deeper in the hull, the dire troll Plankeater also answered her call with a bellow that was deafening even above the din up on deck.\n***\n\"I see you are awake.\" A female voice echoed through the gloom. Elegant yet haunted, a wispy sigh that might have held within it a lonely lament for a fallen comrade, or be the raspy breath of a soul upon their deathbed.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5db70675-1e4b-44ef-a193-dd865097bb14",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Your kind might surprise me, did I not already hold you in such low estimation.\" The voice turned cruel, a match for the icy air. \"Tell me, what foolishness possessed your people, those of the forsaken woods and barren mountainside, to seek an existence upon the ocean? You are not at home or welcome there.\"\nHad Boomhowler been able to speak, she would have kept her words for herself still. She was not one to indulge empty threats. Footsteps crunched through the dirt in the following silence, as this unknown figure approached Boomhowler.\n\"I have known trollkin to be resilient in the past. Even my master accorded your kind’s stamina with some degree of respect.\" The owner of the voice leaned towards Boomhowler. \"I am not my master. Where he considered you with clinical detachment for the insignificant, like one might an insect, I see something else…\" Boomhowler heard twisted glee taint the words. \"Something to be broken.\"\nBoomhowler was no coward. She had lived her life as boldly and vibrantly as she could, never shirking from danger. Yet, she was not a braggart like Foulblood who claimed to be indomitable. She was accustomed with fear all too well, and had welcomed it as a challenge to overcome; a silent adversary that lent heightened meaning to every victory.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b078ba5f-ace6-4ddf-9f9c-54f4d8f64910",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This feeling that possessed her now was not that familiar fear, but instead a gnawing sense of dread, insidiously present already within the pit of her stomach, suddenly alive as though this unknown captor had breathed life into it.\n\"You think that you are strong. That you have known so many victories, invincibility is your birthright. I have encountered many like you. Blinded by ambition, their own power, or a misguided sense of justice and purpose.\"\nFingers grasped Boomhowler’s chin and pulled her head upwards with an agonising jolt. Even without being able to see them, Boomhowler felt her assailant’s eyes, piercing into Boomhowler’s own. Her head was sharply tilted left, twisting her on the chains she was suspended from, and then right once more, before she was released.\n\"I am Nekane, the Wraithbinder—a name you would do well to remember in the days to come. Soon enough, you shall join the souls trapped within the cages at my belt. But first, I shall bring you to the edge of an oblivion so immense, so possessed of suffering and bereft of any comfort, that when I release you, the final act of your broken spirit shall be to scream the ruination of your people.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a761586f-bcd0-4f45-b98d-f9914d17182e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6b36e826-fad2-4ae2-a07e-7af6c98b19d6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Black Heart carved into the thrall’s skull, half tearing the creature’s head from its body as its neck crumpled and shattered. A boot planted in the fiend’s chest did the rest of the job, splitting the damaged vertebrae and tearing the skull free as the thrall’s body pitched backwards across the wooden planks. Boomhowler didn’t wait to see if the headless corpse would rise again, whirling to find her next assailant.\nA fire raged aboard the Baying Wolf, spilling across the deck and racing up the masts to consume the sails and rigging. In the amber light, Boomhowler could see trollkin locked in desperate fighting against either thralls or ghostly wraiths that danced in and out of being as they struck.\nBodies, both trollkin and thrall, littered the decking, crumpled over each other in their final death throes. The enemy ship loomed beyond and consumed the entire horizon, a sinister black shape that seemed to absorb the light and choke it out, so that barely any of its deck was illuminated.\nBoomhowler barrelled towards the closest melee, where a wounded crewman was trying to fend off a pair of thralls. A wraith rushed to intervene, but she lashed out with Black Heart once again; the blade struck and the wraith emitted a hideous shriek as it collapsed in on itself and was dispelled.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ca096cc2-af10-49b5-85b1-f44d4b6259bd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She was too late to save the crewman. Even as Boomhowler joined the fray and struck down one of his assailants, she saw the trollkin slump to his knees, the hands holding his stomach turned red, blood trailing between his fingers and over the decking. The next moment, the remaining thrall crushed the crewman’s head with its oversized mechanical claw. Without missing a beat the undead fiend turned to look at her, the hollow sockets in its skull akin to bottomless pits of darkness. Its jaw hung open, giving Boomhowler the impression that it was laughing.\nAnger surged through her, but before Boomhowler could strike the thrall down, she was knocked from her feet as a pair of vast shapes crashed into the deck in front of her, splintering the wood and crushing her foe under their weight.\nHead swimming, Boomhowler struggled back to her feet, just in time to see one of the figures raise its arm high into the air so that it could hack at the other with the axe in its hand. She immediately recognised the chipped and well-worn weapon in the light. Bleeding from a score of wounds, the reef troll Gulper looked considerably worse for wear from the battle. The left side of his face and neck were stained crimson, where something had punched into the side of his head and left a savage cut, and his right arm dangled uselessly.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a1aabc3c-be02-4c17-bbe6-f094bc049d59",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Below Gulper, a nightmarish warjack bucked and writhed, trying unsuccessfully to throw off the reef troll’s weight. The machine shook as the axe cleaved downwards into its hull, the impact causing a horrendous screeching sound and a shower of sparks. Gulper howled triumphantly as a piece of plating fell away to reveal inner machinery, and his axe rose into the air once more, ready to deliver a mortal blow.\nGulper’s howl turned to a pained gurgle as the Cryxian warjack drove a vicious spike straight through his chest, the barbed steel bursting free from his back in a splatter of gore. The psychic shock of the reef troll’s death was sufficient to push Boomhowler back to one knee for a moment, her teeth clenched as she felt the bond of her companion abate to a faint echo.\nAn explosion tore through the hull from below deck, and the ship listed hard to port. Bodies were hurled into the air and into the sea, both living and dead. Boomhowler was tossed into a section of rigging that had somehow managed to escape the flames. It held her for a moment, until the dead weight of Gulper’s corpse slammed into her and the rope snapped. Suddenly, she was falling weightless through the air and towards the ocean. The reef troll’s face, eyes rolled back into his head, flashed close by as he fell with her.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fe4ae681-b77c-4a55-91cc-fc3ddb29fc57",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The impact of hitting the water drove the air from Boomhowler’s lungs a moment later. Immediately her vision turned a murky blur, and rushing water muted the rest of the world. Her body shuddered from the freezing cold, limbs suddenly fighting a creeping numbness.\nLight shone through from what must have been the surface, but as she tried to kick towards it, mechanical talons snatched at her body, the thralls that had crashed into the sea alongside her pulling in different directions. With every passing moment the darkness closed in, and Boomhowler’s struggles grew weaker and weaker.\n***\nBoomhowler coughed up a strangled hacking sound. The pressure of the wire had likely broken the skin and cut into the flesh beneath by now, but she could no longer feel her throat and jaw, or the rest of her body, for that matter. The witch had left Boomhowler without food or water for what might have been days, and all sense of her limbs had faded—leaving just her mind, alone in the bitter darkness.\nNightmares assailed her.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "17e262b6-a8f4-4153-959c-dda3cb827311",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Tormented visions of her crew, murdered with their heads mounted on pikes, crude spikes of metal jammed into the decking of the Baying Wolf, lit in the dying embers of a fire that had scarred the once proud ship and turned it to charcoal black.\nGulper’s deathly visage, skin pale and bloated as he fell through the depths beside her. He was joined by Gasher and Plankeater, the latter’s skull split in half and his flesh burned. The crewman she’d failed to save, lurching back to uncertain feet, crushed face struck with a rictus skeletal smile as the skin sloughed away to reveal bone.\nHargor writhing in pain as he struggled to pull a barbed harpoon from his belly, feet scrabbling as he tried to prevent himself from being pulled towards a Cryxian warjack plated in spiked armour. In her lucid dream Boomhowler rushed to his side, only to feel his body turn to ashes in her hands.\nLost and adrift, she questioned whether the cascade of images were memories or nightmares, so vivid and certain were they.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "05708afd-4d03-42e2-b436-06e4362045ed",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"You failed them. Their precious self-styled admiral.\" The final word was a vicious sneer.\nA pale green light appeared, blinding after so much time spent in bleak darkness. As the bright spots cleared from Boomhowler’s vision, an elven face swam into view, eyes as cold as any eldritch Boomhowler had encountered, set into a fleshy and living countenance.\n\"Tell me, Admiral. How many lives depended upon you, to keep the motley wretches of the Brackish Lake unified as one?\" The elven witch smiled, although it was without even the slightest hint of warmth. \"With all of your graces, you are little but a pirate warlord. Another petty thug, incapable of anything beyond stealing from those weaker than you.\"\nBoomhowler could do nothing but listen, as the witch spat contempt after contempt. Once, she might have decried each word as a lie. She was a pirate, yet she believed her actions in the past had been just and with some degree of honour. She had found assurance in knowing she had acted in the best interests of her people, and her intention was only to save them from hardship.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d04e2a29-694a-4a68-b820-e322b71b850e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Yet what of the others that suffered as a result of her actions? In first standing against and then enacting vengeance upon the tyrants, had she begun along a path of becoming one herself? She had insisted on changes to the Brineblood charter to accommodate some small mercies, but they were token gestures at best. Her raids did nothing but perpetuate a cycle of death, destruction, and misery, rather than take steps to end it.\nCould she truly have said that she did not enjoy the trappings of power and deference paid to her by the captains of the fleets under her command? Known that despite his protests, Badloche Firequill would always accede to her arguments and orders, no matter how he might disagree?\nBoomhowler felt her resolve weaken. Doubt crept in, first a single intrusive thought and then a flood, twisting and corrupting her memories, even as she tried to rationalise them.\n\"I sense the turmoil within you.\" The witch seemed amused by Boomhowler’s struggle. \"You would do well to not fight it. It will become a familiar bedfellow soon enough.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6f5b374f-1626-4ca0-a32e-bca137a5336e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Behind the witch, shapes stirred in the gloom. Vast, towering creatures, their silhouettes unnatural. Between the immense thuds of their footsteps something slithered, like the blades of a pair of skinning knives being drawn together. The mental haze grew stronger, a pressure building within Boomhowler’s mind.\nThe witch leaned in close. So close that Boomhowler could feel the deathly chill of her tormentor’s breath as she whispered into Boomhowler’s ear. The presence was overwhelming; it was the first sensation she had known in so long, and against every fibre of her being, Boomhowler found it not entirely unpleasant. It dispelled the pressure, and almost left her yearning.\n\"Those that lurk within this ancient hive merely mean to see you destroyed. To watch the miserable scum that you call your allies scatter to the winds without their warlord, or murder each other in the vacuum of power.\" For the first time, the witch betrayed something different than spite or twisted amusement—something approaching a strangely earnest tone.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3765bf9c-3a16-4414-a516-00299b92ef1f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I, however, have another plan for you. Your body shall perish, and your soul be consumed. But in doing so, I will not only destroy your alliance, but also craft a signal. The suffering and expiration of the descendant of Bragg shall become a message. A message that can be heard by my master in the void.\"\nThe light abruptly died, leaving Boomhowler in darkness, the blessed whispers stolen away once more. In that moment, to her shame, she wanted nothing more than scream for them both to return. As the miserable blackness closed in and the pressure crushing Boomhowler’s mind returned, Nekane uttered a final sentence.\n\"Your death shall be his summons.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "50b8bacd-e633-47c0-a265-df3acee56224",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:d1bb713f-2202-4b6f-a829-840e7cd70a4f",
+                "2:40fd5e10-cdd8-429c-8368-79ad3133449c",
+                "3:dc18e598-581c-4272-81fb-8d295bee6ee7",
+                "4:21d4d31c-b9c1-495d-971c-52ca540add2e",
+                "5:68d72091-7172-4fd1-a5db-f909635fb164",
+                "6:b127f87d-3c0f-4e8f-923a-ec444c5c80ed",
+                "7:514c3d0d-0947-4584-834a-7d23371e1438"
+            ],
+            "artSegIds": [
+                "d1bb713f-2202-4b6f-a829-840e7cd70a4f",
+                "40fd5e10-cdd8-429c-8368-79ad3133449c",
+                "dc18e598-581c-4272-81fb-8d295bee6ee7",
+                "21d4d31c-b9c1-495d-971c-52ca540add2e",
+                "68d72091-7172-4fd1-a5db-f909635fb164",
+                "b127f87d-3c0f-4e8f-923a-ec444c5c80ed",
+                "514c3d0d-0947-4584-834a-7d23371e1438"
+            ]
+        },
+        {
+            "guidStr": "70a424e4-70ee-4ef5-a4d7-37d3e53e12aa",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:2539b2ff-d098-47b5-b8a6-77fcc505ba46",
+                "2:d6c14368-0d50-4161-a061-03d50d1690c1",
+                "3:8ee091eb-39a0-462c-b6a1-afa8952a2f8c",
+                "4:326e1e5f-44c2-4f7c-8e63-ef750f5af652",
+                "5:5db70675-1e4b-44ef-a193-dd865097bb14",
+                "6:b078ba5f-ace6-4ddf-9f9c-54f4d8f64910",
+                "7:a761586f-bcd0-4f45-b98d-f9914d17182e"
+            ],
+            "artSegIds": [
+                "2539b2ff-d098-47b5-b8a6-77fcc505ba46",
+                "d6c14368-0d50-4161-a061-03d50d1690c1",
+                "8ee091eb-39a0-462c-b6a1-afa8952a2f8c",
+                "326e1e5f-44c2-4f7c-8e63-ef750f5af652",
+                "5db70675-1e4b-44ef-a193-dd865097bb14",
+                "b078ba5f-ace6-4ddf-9f9c-54f4d8f64910",
+                "a761586f-bcd0-4f45-b98d-f9914d17182e"
+            ]
+        },
+        {
+            "guidStr": "554ae72c-3e36-48ea-8d8d-4a7a77b47979",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:6b36e826-fad2-4ae2-a07e-7af6c98b19d6",
+                "2:ca096cc2-af10-49b5-85b1-f44d4b6259bd",
+                "3:a1aabc3c-be02-4c17-bbe6-f094bc049d59",
+                "4:fe4ae681-b77c-4a55-91cc-fc3ddb29fc57",
+                "5:17e262b6-a8f4-4153-959c-dda3cb827311",
+                "6:05708afd-4d03-42e2-b436-06e4362045ed",
+                "7:d04e2a29-694a-4a68-b820-e322b71b850e",
+                "8:6f5b374f-1626-4ca0-a32e-bca137a5336e",
+                "9:3765bf9c-3a16-4414-a516-00299b92ef1f"
+            ],
+            "artSegIds": [
+                "6b36e826-fad2-4ae2-a07e-7af6c98b19d6",
+                "ca096cc2-af10-49b5-85b1-f44d4b6259bd",
+                "a1aabc3c-be02-4c17-bbe6-f094bc049d59",
+                "fe4ae681-b77c-4a55-91cc-fc3ddb29fc57",
+                "17e262b6-a8f4-4153-959c-dda3cb827311",
+                "05708afd-4d03-42e2-b436-06e4362045ed",
+                "d04e2a29-694a-4a68-b820-e322b71b850e",
+                "6f5b374f-1626-4ca0-a32e-bca137a5336e",
+                "3765bf9c-3a16-4414-a516-00299b92ef1f"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "2e82ec60-4f71-46ca-aa20-314323a301ac",
+            "name": [
+                "Chapter 1 Summons",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:50b8bacd-e633-47c0-a265-df3acee56224",
+                "2:70a424e4-70ee-4ef5-a4d7-37d3e53e12aa",
+                "3:554ae72c-3e36-48ea-8d8d-4a7a77b47979"
+            ],
+            "articleIds": [
+                "50b8bacd-e633-47c0-a265-df3acee56224",
+                "70a424e4-70ee-4ef5-a4d7-37d3e53e12aa",
+                "554ae72c-3e36-48ea-8d8d-4a7a77b47979"
+            ]
+        }
+    ],
+    "publications": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

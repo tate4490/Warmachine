@@ -1,0 +1,2242 @@
+{
+    "bundleName": "data publication dragonfall part 3.json",
+    "general": {
+        "guidStr": "8c1eb7e9-d8ee-4ddf-9ce1-492a252fcc12",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "01880cbe-1be0-4915-a826-fbb2d398d026",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Dragonfall",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_dragonfall.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4db0c612-eff5-47cc-9821-9b6bb59b598b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ebd07705-4231-4da9-8993-791cce289ce2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Part Three:\\n By the Blade",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "385dfe0d-14a1-4f21-8cf3-650b816440cc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ec5d2d55-48e6-434c-888b-0113cb86a12e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "1",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "681245d9-e5a0-4466-ae6e-3bb8934a6a97",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Orven burned. The sight filled Horruskh, the Thousand Wraths, with eager joy. A city aflame meant blood and slaves. It meant carnage that would satisfy his appetite for slaughter and the Fellgoeth’s endless hunger for souls. He watched assault reavers and ulkor axers swarm onto the shore from the warships clogging Rimmocksdale Lake and slam into Orven’s defenders along the docks with a clash of steel and howls of fury and bloodlust. He watched warwitches follow behind, weaving dire spells and dragging away the wounded, both enemy and Orgoth, to serve as later sacrifices. He watched all this from the deck of his command ship, but then his joy soured like milk left in the sun.\nHe could slaughter hundreds, capture thousands, quench his steel in blood and pain, and there would be glory. There would be rewards. But all of it was in service to <I>her</I>. To Sabbreth and her devotion to the cryptic nonsense of a long-dead prophet. One he himself had left to rot on this side of the ocean when they’d fled western Immoren after the first invasion. He, Horruskh, who had lived a thousand lives, who had filled the lightless halls of the Fellgoeth with screaming souls beyond numbering, had been reduced to a distraction so a rival could reap the greater glory.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2e62b25c-00bb-49cc-b324-13fde20fd6eb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Horruskh sensed someone behind him, and the hairs on the back of his neck stood up. He turned to see the sleek, scarred form of Kishtaar, the Howling Silence. The savage warlord had long been his ally in battle and in the brutal political maneuvering in Drak Orgoroth. They understood each other, and though their personal goals did not necessarily align, neither did they conflict, and in Drak Orgoroth, that was enough for a long and fruitful alliance.\nKishtaar raised her head, exposing the ragged scar across her neck that had robbed her of the ability to speak. She clacked her teeth together, indicating she wanted to \"talk.\"\n\"News from the south?\" Horruskh said.\nKishtaar brought her hands together, palms facing, then spread them apart in a reasonable facsimile of great wings.\nHorrusskh raised his eyebrows. \"Blighterghast has wakened, then? Well, we’re about to find out how much Dagholoth’s prophecy is worth.\"\nHe turned and spat. <I>That</I> was how much worth <I>he</I> thought they had.\nKishtaar pointed toward the fighting on the shores of the Rimmocksdale. She grinned, exposing the filed points of her teeth.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c66383b6-17f3-4501-a751-c644672eb0c8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Yes, go, take half our forces. I’ll follow with the rest,\" he said. \"The Immorese will have learned of Blighterghast’s rising. We need to keep them\"—he grimaced—\"distracted a bit longer.\"\nKishtaar threw her head back and loosed a lingering shriek. In response, two Jackals, both armed with glaives, came bounding up from the hold, snarling and hissing. They joined their mistress, and the three went over the side of the ship, splashed into the shallow water below, and raced toward the enemy. Reavers and ulkors followed in Kishtaar’s wake. The mute warlord did not lead with spoken commands; she exuded a kind of psychic provocation, a promise of blood and souls that roused every Orgoth warrior in her vicinity to heights of unparalleled violence. They executed her plans almost instinctually, as if each swing of her Death Whisperer blades, each enemy she slaughtered, formed a language all its own.\nHorruskh let his mind merge deeper into the blaze-fueled cortex of his own warjack, the Tyrant called Molok. It tossed its tusked head, growling and raking the deck with its taloned feet. He drew his great sword and focused his attention on the docks where they gave way to the city proper and where the fighting was thickest. There were legions of Cygnaran troops clad in blue plate armor and wielding weapons that fired great gouts of lightning. There were Khadoran troops as well—a shoddier, more meagerly equipped force of soldiers. He’d fought the Khadorans many times, and he knew their poorer equipment did not make them less-effective fighters. The Orgoth invasion had driven these two long-time foes into an alliance, it seemed, just as it had the first time.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "58343ba8-c799-40a2-964f-4c9d286daf05",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "What truly piqued Horruskh’s interest, however, were the strange new enemies he’d only glimpsed in Khardov. These soldiers were fewer in number but alien and striking. Tall warriors clad in graceful armor—all curves and rounded shapes—wielding weapons that seemed more like the works of an artisan than a bladesmith. Their warjacks, too, were shockingly different from the ponderous brutes of the Khadorans or the lightning-festooned automatons of the Cygnarans. They seemed less machine and more living creatures, their armaments as artfully subtle as their masters. Of course, the most enthralling thing about these new enemies was that they were decidedly <I>not</I> human. Their faces were long and gaunt with almond-shaped eyes and pointed ears.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "12f569d9-3c0a-41a0-ab24-4179d06664a2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They moved with an economy of motion that reminded Horruskh of birds of prey. He could not wait to test his skill and power against them.\n\"Come, Molok,\" Horruskh said. \"Let us act as Sabbreth’s distraction.\"\nHe bounded over the gunwale, his feet striking the water some ten feet below. Behind him, the massive form of Molok splashed down in a geyser of water and sand.\nHorruskh moved toward the docks and scanned the battlefield. He cut down any enemy soldier brave or skilled enough to make it through the ragged Orgoth lines and foolish enough to approach him. His abyssal blade turned their souls into arcane strength, and he loosed bolts of thunderous power into the enemy lines, sending bodies flying in all directions.\nHe advanced slowly, searching for an opponent worthy of his skill. He was nearing the thickest part of the fighting when he spotted one of the Iosan warlords, a towering creature armed with a great, two-handed cleaver. Horruskh watched the Iosan cleave an ulkor in twain with a single swipe of his axe-like sword while his warjack, a twelve-foot-tall mass of gray steel dotted with glowing nodes of power, smashed aside Orgoth soldiers with a sweeping blade or blasted them to gory chunks with gouts of force fired from a shoulder-mounted cannon.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f915db0b-6a7f-4cd5-8031-27555c95cc4d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Here was a foe worth fighting. Here was a soul worth claiming.\nHorruskh charged, Molok pounding along beside him, its blaze core pulsing hungrily. The Iosan warlord saw them coming, saw the threat and the challenge, and to Horruskh’s immense pleasure rushed to meet them.\nLike two comets crashing together, Horruskh and his foe slammed lesser enemies out of their paths. Nothing would stand between them. Horruskh raised his abyssal blade over his head, and the Iosan warcaster followed suit with his own weapon. Now nearly within striking distance, Horruskh could see more of his foe. The Iosan was huge, both taller and broader than Horruskh, a fact that thrilled him. So rarely did he encounter a foe whose physical might rivaled or even exceeded his own. The Iosan’s armor was wreathed in rusting chains, as if he had been bound at some point in the distant past. He wore no helm, and his face was a gaunt mask of hunger and rage. The skin was withered, gray in pallor, and the Iosan’s deep-set eyes glowed with amber brilliance. When he saw Horruskh, his thin lips thinned back into a rictus smile, exposing bone-white teeth.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ddc05204-014c-4d68-8190-882899bdf1b0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "No words were uttered, no challenges issued as they came together. Horruskh countered his foe’s first slash with his own blade, the force of the blow jarring his entire body. He laughed aloud and danced back, away from the bind, then plunged back in with a lunging thrust.\nThe Iosan knocked Horruskh’s blade aside, stepped inside his guard, and smashed a gauntleted fist into Horruskh’s face, breaking his nose and a few teeth, driving him backward, blood sluicing down his face.\nWhile Horruskh recovered, Molok barreled in at the Iosan’s warjacks, swinging its mace and howling with the same exultation Horruskh felt himself. He pushed arcane strength into Molok’s blow, and the mace landed true, smashing into the myrmidon’s hull with a resounding crack, driving it sideways and nearly off its feet.\nHorruskh pulled back from Molok—the warjack was more than capable of combat effectiveness without his direct intervention. Focused, he circled the Iosan warlord, his sword held in a low guard. In a thousand lifetimes, he had learned a hundred different forms of swordplay. He rarely needed them. His strength, size, and arcane power were more than enough to destroy his foes, but what a joy it was to rely on skill and experience over brute strength.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8f2ef8d1-4c2b-463d-a58b-89f6a609561e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What is your name?\" Horruskh called out in rough Cygnaran. This was a foe he would honor by remembering.\nThe Iosan’s eyes narrowed, and he brought his sword up into a high guard, counter to Horruskh’s low stance. \"I am Hazaroth, Narcissar Of Ruin,\" he said, his words low and breathy but somehow loud enough to rise well above the din of battle. \"I am your doom.\"\n\"Hah!\" Horruskh said. \"Well met, Hazaroth. I am Horruskh, the Thousand Wraths, and I promise you, your death will be a glorious one.\"\nHazaroth chuckled, low and grating. \"You think me a stranger to death?\"\nHe rushed in, his great cleaver descending. Horruskh was almost caught off guard, but he whipped his blade up into a parry, let the blades bind, and then twisted his sword over his opponent’s weapon in a lightning thrust. The abyssal blade skipped off Hazaroth’s breastplate and ploughed a ragged furrow in the Iosan’s neck that spouted black blood. The Iosan stumbled backward, one hand clamped over his wound, hissing in pain and rage.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "64031b5f-123d-47f5-aa2f-cb849609ec6e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"You may know death,\" Horruskh said, wiping away blood from his shattered nose with the back of one hand. \"But I have known <I>a thousand.</I>\"\nHazaroth did not renew his attack. Instead, he plunged into the maelstrom of battle around them, grabbed a reaver skirmisher by the back of his breastplate, and yanked him off his feet with titanic strength. As the reaver tried to rise, Hazaroth struck off his head with a contemptuous flick of his blade, but did not let the body fall. He held it up; a dark red mist rose from the corpse. The Iosan breathed in the bloody essence like a drowning man desperate for a gasp of air. The wound on Hazaroth’s neck knitted together, leaving a livid scar, and the Narcissar Of Ruin’s eyes pulsed with fell amber light.\nHorruskh grinned, elated. He no longer cared about Sabbreth, the Lash of Horva, the dragon rising to the south, or the battle swirling around him. There was only this foe, this one <I>glorious</I> foe. He held his blade aloft in a salute and charged.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "53d1d68d-f52f-41ce-88c6-0a3adef9eb8d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3c60e7c1-dc46-4002-a73d-dccb415b147e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "2",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d071b8ae-5502-4ca8-a317-243168e89601",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "At the head of a long column of Winter Korps infantry and flanked by a pair of Great Bear warjacks, Kommander Valerii Savaryn marched through the Cygnaran countryside not as an invader but as an ally. Mingled with his own forces were two companies of Stormguard legionnaires and an entire battalion of trenchers gathered at Point Bourne and commanded by the fearsome Major Anson Wolfe. There were units of Rhulic Hammerfall High Shield Gun Corps and even a contingent of Protectorate Flameguard moving with the other troops alongside the Banwick River toward Orven. It was a bizarre mix, but old enemies had set aside past enmities for a greater cause. It might have heartened Valerii if not for the black smoke on the horizon in the direction they were marching.\n\"They have reached Orven,\" a voice behind Valerii said. Kapitan Ilari Borisyuk moved through the sea of troops toward him, a single battle-scarred Dire Wolf in tow. The kapitan was some ten years Valerii’s senior, but he had risen from the rank and file, his gift a well-guarded secret for many years. Borisyuk had entered the Druzhina at age thirty-five, an inconceivable age for a novice warcaster, especially to Valerii, whose talent had manifested in his early teens and whose instruction at the Druzhina had begun soon after.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "bc8c7eda-1e6c-4faf-ac8c-b9c950a64b1a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Valerii nodded as Borisyuk pulled abreast of him, noting how haggard the warcaster looked. His long red beard was unkempt, his eyes sunken, the bags beneath them wide and dark. If all Valerii had heard about the kapitan’s recent travails were true, then he supposed the man was doing well just by staying on his feet.\nBorisyuk’s Dire Wolf shouldered its way into line with Valerii’s Great Bears, letting loose an angry-sounding whistle of steam.\nBorisyuk reached out and laid a hand on the warjack’s hull. \"Easy, Nail. Fall back.\"\nThe Dire Wolf calmed immediately and fell in behind the Great Bears. Valerii never named his warjacks. He simply assigned them numbers to keep them straight in his head. Naming warjacks was frowned upon, as attachment to the machines could be counterproductive to combat efficiency. As Borisyuk’s commanding officer, he could reprimand the kapitan, but to chastise a man who had been through so much for the Motherland over such a minor thing felt extraordinarily petty.\n\"Perhaps the warriors of House Kallyss will arrive in time to aid them,\" Valerii said, nodding toward the smoke. The Iosan troops did not require rest, or so Tyrus had told him, and had marched on ahead.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "27b6a673-1b94-46ae-809b-54540940fc51",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Borisyuk shuddered. \"Sorry, sir. I’m glad for their help, but those bloody elves. . . they’re unnatural.\"\nValerii smiled. The Iosans of House Kallyss were admittedly disconcerting, but compared to the horrors Borisyuk had very recently faced, he would have thought they seemed almost benign. \"They are . . . fascinating. I have spent some time with their Nyss-Arcir of Spiders, and he has many insights into the Orgoth and their purpose here.\"\n\"They are good fighters, sir,\" Borisyuk allowed. Proper decorum dictated that he should the appropriate honorific when speaking to a ranking officer, but Valerii overrode his natural instinct to correct the man. Their age difference and the fact that the kapitan had endured as much as he had gave Valerii pause. A strange, haunted look came over Borisyuk’s face. \"At the summit in Khardov, you said you thought the Orgoth attack on Orven was some kind of distraction. What do you believe?\"\n\"As I said there, they took something from beneath Khardov, and took great pains to do it. This attack on Orven doesn’t make sense. The town <I>is</I> of strategic importance, but why abandon their advantage in Khador and sail hundreds of miles south in order to attack Cygnar?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4e0e8622-cc61-4d80-89c2-4453ba19d1d4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Borisyuk nodded, and his eyes took on a hazy, distant gleam. He clenched and unclenched his hand from around the stock of his rifle, something that might be a soothing ritual. \"When I . . . when I fought this Sabbreth near Skrovenberg, she spoke of prophecy.\" He shook his head. \"Why didn’t I kill her when I had the chance? Why didn’t I just—\"\n\"Kapitan,\" Valerii said, \"you spared her because you were hoping to interrogate her. What you learned could have made all the difference in the battles to come. You made the right decision. No one doubts it.\"\nBorisyuk laughed dryly. \"No one but me, sir.\"\n\"You were saying something about prophecy, Kapitan,\" Valerii said, urging Borisyuk to continue.\n\"That’s why they’re here. This Sabbreth is following the prophecy of Dagholoth, one of the seers they left behind after the first invasion.\"\nThis was all well known to senior officers in Winter Korps, but there were details left out, questions unanswered, especially about a mission to the Wyrmwalls and a long-forgotten tomb. Valerii knew he shouldn’t ask, shouldn’t prey upon Borisyuk’s obvious need to unburden himself, but he couldn’t help it. \"What did you and Volkova find in that tomb, Kapitan?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b9fc2d86-20be-47b7-9271-60873c68677e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Borisyuk looked away and shook his head. \"It’s difficult to explain in any way that makes sense, sir.\"\nValerii was about to say more, to press the issue, when a runner came up the road, weaving between soldiers and warjacks. He was a Kossite, and his beard, mustache, and the short axe at his waist marked him as a former member of one of the now-disbanded woodsman units. He pulled up, wide-eyed and breathless. The Kossites were stoic people, and the plain alarm on the face of this runner made Valerii uneasy.\n\"What is it, woodsman?\" Borisyuk said, his soldier’s demeanor falling into place like an iron shroud over whatever he was thinking and feeling before.\n\"Sir,\" the Kossite said. \"We have . . . distressing reports from the south.\"\n\"From Orven?\" Valerii asked.\n\"No, sir. Farther south. The Wyrmwalls. A force of Orgoth were spotted moving toward Mount Karthraxis led by one of their warlords.\"\n\"I don’t understand,\" Borisyuk said. \"There’s nothing there.\"\nThe icy hand of dread seized Valerii’s spine. \"There are no traditional strategic targets there, but this Sabbreth does nothing without purpose.\" He thought of the icy tomb Kapitan Borisyuk had recently visited.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8fef9dcc-fe92-490a-9fc7-21c30dcb5e65",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Borisyuk looked from Valerii to the runner and back again. \"What reports, woodsman? Speak. Now.\"\nThe man’s face went ash white, and his lips trembled, but he got it out. \"Blighterghast has risen.\"\nBoth men were simultaneously puzzled and stunned. Borisyuk asked, \"The dragon? Why would they wake Blighterghast? It’s suicide.\"\nValerii shook his head. \"Not if you have a way to deal with the dragon. A way to kill it. They took something from Khardov, correct? Then went straight to Orven . . . and to Blighterghast. It has to be a weapon of some kind.\"\nBorisyuk considered. \"Even if it were a weapon, Blighterghast could easily wipe out their entire army. Why would they risk it?\"\n\"If they kill Blighterghast, they can claim his <I>athanc,></I>\" Valerii said, finally seeing the pattern in the terrible events over the last few months. An <I>athanc</I> would be a powerful bargaining chip with only one interested party. \"Claim it and deliver it to Toruk.\"\nBorisyuk swallowed. \"She spoke of . . .\" He stopped, as if the words were poison on his tongue. His voice was little more than a whisper when he spoke again. \"Toruk is the only one who could have the knowledge Sabbreth needs.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f7eec0a4-991d-49aa-b438-a49f8482b159",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What knowledge?\" Valerii said.\nBorisyuk uttered a short, high-pitched laugh—the sound a man makes just before he loses his mind. \"How to kill a god.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1f314cca-41ca-424f-810a-79e24c75561e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "3",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a7fcf0e4-97ff-41cf-b40b-b370024c94e8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Captain Madison Calder pushed up her visor and breathed the mingled stench of ozone and another stink she had become very familiar with since the Orgoth had returned: burning flesh. She reined up her destrier, Onus, and glanced back at a long line of storm lance legionnaires, a full company of one hundred and twenty. Despite her orders to seek out a clandestine group of Orgoth moving through the Wyrmwalls, Lord General Gollan had not permitted her to reduce the city’s defenses further. She felt that lack even more now that terrifying reports had reached here via exhausted runners from Highgate. These reports claimed that the dragon Blighterghast had awakened and was battling the Orgoth. If this wasn’t alarming enough, her orders, very explicit and from the lord general himself, were that she was to engage the Orgoth and <I>protect</I> the dragon. Why a creature as mighty as Blighterghast would need protection was beyond her, yet despite the churning mote of terror in her guts, she’d follow the orders as well as she could.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b4ccfa5d-ec9a-42a6-a73b-7efa3a218c23",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The lord general had allowed her to recruit other \"soldiers\" stationed in Highgate, and one of those soldiers came striding up the long line of horseman, goggles push up over a simple salet helm, eyes sparkling with misplaced mirth above his gray, stubbled cheeks.\nSky Admiral Logan Veers placed a hand on Onus’ flanks and tipped Calder a nod. She rolled her eyes—she loathed mercenaries, but sometimes they were a necessary evil. Though calling Veers a mercenary was likely a generous overstatement. The man was a pirate, just one who took legitimate work from time to time. It was hard to deny the utility of his small fleet of sky ships, however. Three small raider craft and one large bomber floated over the line of legionnaires. Each was held aloft by a gas-filled balloon from which a large basket-like vessel hung. The basket was fitted with a variety of weapons, including cannons and various types of bombs. Each was crewed by a human pilot and a complement of gobbers who operated the weapons and saw to maintenance and repairs. Compared to the massive sky ships Khador and Cygnar had flown during the last great war, Veers’ ships were somewhat primitive, but all reports indicated they were quite effective.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e5307c02-481a-47d2-bda2-6e471c963a39",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I suppose you’ve seen that,\" Veers said, pointing up the narrow path they were ascending to where Mount Karthraxis loomed. Above the mountain, a storm raged, a swirling tornado of black clouds streaked with emerald lightning.\n\"Of course, I’ve seen it,\" Calder said. \"You’re not afraid of a little storm are you, Captain?\"\n\"It’s ‘admiral,’\" Veers said with a crooked grin. \"And, no, my ships can fly straight through a tornado without so much as a scratch. The dragon beneath that storm, however . . .\"\n\"We aren’t meant to battle Blighterghast, Veers,\" Calder said, refusing to call the jumped-up pirate admiral. She felt she’d been generous with naming him a captain. \"We’re just to stop the Orgoth from whatever they’re doing.\"\n\"What they’re bloody doing is waking a dragon, and anyone who does that is either insane or insanely powerful. Knowing what I know of the Orgoth, it’s probably the latter.\"\n\"You’re not getting any more gold, Veers,\" Calder said.\n\"You don’t think facing down a dragon is worth a bump in pay?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "53c7fa08-b97e-4563-8b55-eacc11713f5f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"No, but I think a sky ship cap-\"—Calder dragged in a long, weary breath—\"<I>admiral</I> that survives a bout with a dragon can charge a lot more for his services thereafter.\"\nVeers scratched his chin. \"You’ve got a point there.\" He cast a worried gaze at the swirling storm above Mount Karthraxis. \"It’s just the surviving part that worries me.\"\n#\nMadison Calder was well acquainted with the horrors of war. She had fought the otherworldly monstrosities unleashed upon western Immoren in the Infernal War, and she had seen thousands of men and women shot, scorched, and blown to pieces in the endless conflicts between the great nations of the Iron Kingdoms. But what she saw when she crested the top of Mount Karthraxis summoned such dread, that for the first time in her long career, she entertained turning her horse about and fleeing back to Highgate—back to light and sanity.\nThe top of the mountain was a caldera, its crust broken open and spewing lava in multiple places. The dragon, impossibly huge, waded through the lava, pushing through rock like an icebreaker ship. It spewed gouts of caustic slime across hordes of Orgoth troops, who burst into hellish red flames. The screams of those consumed by this conflagration were awful, but were nothing compared to the shrieking <I>behind</I> the Orgoth lines.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "bdc07931-f219-485b-ae7b-e91361d7b9d5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Upon a low hill toward the southern end of the caldera, an Orgoth warlord—Sabbreth, she assumed—was bound inside some kind of infernal contraption. Her arms and legs were stretched taut by chains and manacles attached to four tall pillars, and a strange helmet covered her face, exposing only her mouth, which was open in an endless howl of pain or possibly pleasure. Or perhaps both.\nRinging the Orgoth warlord were six pyres burning with smokeless green flames, but their fuel was not wood or charcoal. Each fire was surrounded by long spikes driven into the rocky ground, and upon those spikes a man or woman had been expertly impaled, each stake piercing the torso of its victim in such a way as to keep them immobile and clinging to life. The victims were limned in green fire, and the tendrils of these flames reached toward the heavens, into the swirling mass of clouds and lightning.\nCalder cast her mind away from the horror in front of her and into her warjacks, two Strykers lumbering at the head of her line of cavalry. They did not fear the dragon or the awful magic of the Orgoth. They felt only a simple eagerness to fight, to swing their halberds at the enemy. She drew upon this simplistic impulse to quiet her own fear.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8971bb77-5341-4bb8-b651-a27110c9c93f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Veers was beside her, his mouth hanging open in shock. But even the horrid sight before him did little to stymie his aggravating wit. \"Morrow’s mercy. Forget billing myself a dragon slayer. If I survive this, I’m going to damn-well retire.\"\nHis words brought the flicker of a smile to Calder’s face, and she turned her destrier around toward the ashen faces of two-hundred men and women of whom she was about to ask the impossible. \"Brothers and sisters, we are here because we must be. Because there is no one else. Many of you fought in the Infernal Wars and faced such horrors as I can scarce imagine. You did so with bravery and strength, and I ask that of you again.\" She paused and took a deep breath. \"Today, our enemy is not Blighterghast, but those who seek to use the dragon for a purpose that <I>must</I> not succeed.\"\n\"You think the dragon knows that?\" one of airship pilots called down from where his raider floated a few dozen feet above Calder’s legionnaires.\n\"You should be happy, Osfeld,\" Veers shouted back. \"It’s a target big enough even you might be able to bloody well hit it.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "856dc7f1-54e9-4092-8fca-27c1bb16ec3e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Laughter rose up from the ranks. It was a momentary break in the storm clouds of terror, and Calder seized the opportunity. \"Now raise your lances, raise your axes, and say a prayer to Morrow. Then harden your hearts and follow me!\"\nShe wheeled around, dropped her lance, and charged into hell.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e5d7ea54-e985-49a8-83e9-6ee66273ad36",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead Color 1",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "4",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1bb35079-c224-40e4-a98d-7adff1e57e6f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sabbreth believed she understood pain. She had died and been reborn a dozen times, the manner of her death never peaceful. She’d been cut to pieces by enemy blades, burned and rotted from the inside out by blasphemous spells, and hung without form in the lightless halls of the Fellgoeth, enduring the esoteric pain of nothingness.\nThe Lash showed her what a fool she’d been. It held her limbs taut and immobile with demon chains. Manacles bit into her wrist, but the crown <I>chewed</I> her mind, ripping into her thoughts and emotions with teeth shaped like screams. The crown gouged her flesh as well, driving spikes into her scalp, face, and skull. It covered her eyes, but she was not blind. Still connected to her warjacks, she could see though their eyes and behold the horror she had awakened.\nSabbreth saw the top of Mount Karthraxis, the bowl-shaped caldera now cracked and heaving as Blighterghast burst up from below, a living eruption. The dragon was immense almost beyond comprehension, a mountain of rock-like scales that bore the outward resemblance of a living creature—head, limbs, wings, eyes—but exuded such <I>wrongness,</I> an alien otherness that was difficult to look upon.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "05709363-44a4-42da-86f0-53d668568c97",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "To their credit, the Orgoth soldiers had not fled and stood their ground as the dragon advanced. It reared up on its back legs, sucked in a great breath, a hurricane in reverse, and spewed a torrent of crimson slime, dousing an entire unit of assault reavers. Their screams joined Sabbreth’s as the dragon’s superheated bile melted flesh and bone. Blighterghast’s hellish acid lingered, and once exposed to the air, the vile effluvium burst into bright red and yellow flame, greedily devouring more of Sabbreth’s troops.\nBut this was all to plan. The Lash needed souls to awaken, and in the midst of her agony, Sabbreth felt something peculiar. The screams of anguish from outside her prison of pain suddenly became a chorus <I>inside</I> her mind. The souls of those slain by Blighterghast were drawn into the Lash, strengthened it, adding minds to a growing maelstrom of power—a maelstrom that Sabbreth now fought to command.\nShe was long past being able to control her warjacks. Her mind was too fractured, and they went berserk, the ravening spirits in their cortexes fearless and hateful. They charged Blighterghast, no more than insects compared to the dragon’s leviathan size. Their heavy bolters sounded, and the slugs struck the dragon’s flank, penetrated, splattering the ground with hissing ichor. The dragon flicked its tail, as long as a good-sized ship, and reduced one of the Jackals to twitching wreckage. The other, displaying some sense of self-preservation, retreated.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f54f03d6-a9dd-497d-ba6d-7c8e8e155f44",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Blighterghast killed without opposition using breath and tail, claw and fang, crushing reavers in its mammoth jaws by the dozens. More souls howled into the maelstrom as the Lash slowly awakened.\nThrough the eyes of her surviving Jackal, Sabbreth watched Vhanek shouting orders, trying to organize their troops into a cohesive fighting force as the dragon loomed above it all, a great shadow of flame and horror. Somehow, Vhanek pushed what troops remained into a last-ditch charge. Hundreds of skirmishers and assault and strike reavers and dozens of ulkor axers rushed to their doom. Blighterghast welcomed them with another blast of caustic slime, melting dozens in a single breath. Dozens more behind the soldiers caught in the initial blast were consumed in the delayed burst of draconic naphtha.\nThe Orgoth fought back as best they could, peppering the dragon with fusillades of strike reaver bolt throwers and clouds of harpoons from assault reavers. The weapons failed to penetrate the dragon’s rock-like skin. Only the heavy swing of an ulkor’s axe or a Jackal’s heavy bolter made any mark at all, but it was a needle in an elephant’s hide, no more than an irritation.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "74abda22-ee11-4798-b90b-dd88fc8a9113",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Lash drank greedily, but still it needed more souls to awaken. Sabbreth howled and writhed against her manacles as the crown ate away at flesh and will. She fought bitterly, calling on the Fellgoeth for strength. They were silent. She had put herself here, promised them power and souls if they favored her over Horruskh. Now they waited to collect. One way or another.\nAs the Lash or Horva gathered more strength, the chorus of swallowed souls intensified, and Blighterghast suddenly recoiled, falling back from the Orgoth troops surrounding it. Sabbreth knew why. It sensed the growing power of the Lash. It turned its gaze skyward, toward the swirling clouds and crackling lightning summoned by the soul pyres, and Sabbreth could feel the dragon’s consciousness through the Lash. Within that great alien mind, she felt a glimmer of fear. It <I>knew.</I>\nThe dragon’s wings flared out, blotting out the sky, as it tried to take to wing . . . and failed. The power of the Fellgoeth, focused by the soul pyres into an irresistible arcane force, pinned the dragon to the ground. It could not escape.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f9382a90-bae6-478c-a6d4-7cb357ad548b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Blighterghast opened its maw and loosed a long, rumbling roar that shook the earth and even pierced the screaming storm of souls flowing into the Lash and through Sabbreth’s mind. Amidst the pain, Sabbreth felt hope. The dragon was trapped, and soon she would have what she desired.\nBlighterghast reared up, its chest glowing like a dying sun, sickly yellow and flashing crimson. Then it spoke, its voice an avalanche of horrid sound, its words beyond comprehension, deep guttural intonations in a language that had not been uttered in uncounted millennia. The fear Sabbreth had felt in Blighterghast’s mind disappeared and was replaced with terrible purpose. It surged forward into the Orgoth soldiers, wings, tail, claws, and gaping maw reaping death, and each soul ripped from the body of a reaver or ulkor or warwitch hung suspended between the Lash and the dragon’s might, pulled in both directions simultaneously. Sabbreth felt the torrent of souls raging into the Lash, and to her horror, she felt souls sucked away from her and toward Blighterghast.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "79ec0fa5-51c0-4966-8eb0-4898f0313761",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She fought, trying to focus through the pain, and she wrested some of the souls away from the dragon. But others slipped beyond her grasp and were swallowed by the dragon’s <I>athanc.</I> The reversal could have only one purpose: Blighterghast needed to escape, and whatever power it was accumulating would eventually allow it to do so. If it could get enough souls.\nSabbreth threw herself into the maelstrom, screaming until her throat bled, focusing her will into a diamond-hard blade and pitting her will against the dragon’s.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "a15ee34c-7ca4-427c-b7c1-6e181eafbbd9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:01880cbe-1be0-4915-a826-fbb2d398d026",
+                "2:4db0c612-eff5-47cc-9821-9b6bb59b598b",
+                "3:ebd07705-4231-4da9-8993-791cce289ce2",
+                "4:385dfe0d-14a1-4f21-8cf3-650b816440cc",
+                "5:ec5d2d55-48e6-434c-888b-0113cb86a12e",
+                "6:681245d9-e5a0-4466-ae6e-3bb8934a6a97",
+                "7:2e62b25c-00bb-49cc-b324-13fde20fd6eb",
+                "8:c66383b6-17f3-4501-a751-c644672eb0c8",
+                "9:58343ba8-c799-40a2-964f-4c9d286daf05"
+            ],
+            "artSegIds": [
+                "01880cbe-1be0-4915-a826-fbb2d398d026",
+                "4db0c612-eff5-47cc-9821-9b6bb59b598b",
+                "ebd07705-4231-4da9-8993-791cce289ce2",
+                "385dfe0d-14a1-4f21-8cf3-650b816440cc",
+                "ec5d2d55-48e6-434c-888b-0113cb86a12e",
+                "681245d9-e5a0-4466-ae6e-3bb8934a6a97",
+                "2e62b25c-00bb-49cc-b324-13fde20fd6eb",
+                "c66383b6-17f3-4501-a751-c644672eb0c8",
+                "58343ba8-c799-40a2-964f-4c9d286daf05"
+            ]
+        },
+        {
+            "guidStr": "d2c14383-3a4f-47fb-9588-97a9480b2d96",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:12f569d9-3c0a-41a0-ab24-4179d06664a2",
+                "2:f915db0b-6a7f-4cd5-8031-27555c95cc4d",
+                "3:ddc05204-014c-4d68-8190-882899bdf1b0",
+                "4:8f2ef8d1-4c2b-463d-a58b-89f6a609561e",
+                "5:64031b5f-123d-47f5-aa2f-cb849609ec6e",
+                "6:53d1d68d-f52f-41ce-88c6-0a3adef9eb8d"
+            ],
+            "artSegIds": [
+                "12f569d9-3c0a-41a0-ab24-4179d06664a2",
+                "f915db0b-6a7f-4cd5-8031-27555c95cc4d",
+                "ddc05204-014c-4d68-8190-882899bdf1b0",
+                "8f2ef8d1-4c2b-463d-a58b-89f6a609561e",
+                "64031b5f-123d-47f5-aa2f-cb849609ec6e",
+                "53d1d68d-f52f-41ce-88c6-0a3adef9eb8d"
+            ]
+        },
+        {
+            "guidStr": "d5ed81d4-5a1a-40ef-9611-19af8c06a908",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:3c60e7c1-dc46-4002-a73d-dccb415b147e",
+                "2:d071b8ae-5502-4ca8-a317-243168e89601",
+                "3:bc8c7eda-1e6c-4faf-ac8c-b9c950a64b1a",
+                "4:27b6a673-1b94-46ae-809b-54540940fc51",
+                "5:4e0e8622-cc61-4d80-89c2-4453ba19d1d4",
+                "6:b9fc2d86-20be-47b7-9271-60873c68677e",
+                "7:8fef9dcc-fe92-490a-9fc7-21c30dcb5e65",
+                "8:f7eec0a4-991d-49aa-b438-a49f8482b159"
+            ],
+            "artSegIds": [
+                "3c60e7c1-dc46-4002-a73d-dccb415b147e",
+                "d071b8ae-5502-4ca8-a317-243168e89601",
+                "bc8c7eda-1e6c-4faf-ac8c-b9c950a64b1a",
+                "27b6a673-1b94-46ae-809b-54540940fc51",
+                "4e0e8622-cc61-4d80-89c2-4453ba19d1d4",
+                "b9fc2d86-20be-47b7-9271-60873c68677e",
+                "8fef9dcc-fe92-490a-9fc7-21c30dcb5e65",
+                "f7eec0a4-991d-49aa-b438-a49f8482b159"
+            ]
+        },
+        {
+            "guidStr": "ef820465-e770-4101-be42-3bdafc466d55",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:1f314cca-41ca-424f-810a-79e24c75561e",
+                "2:a7fcf0e4-97ff-41cf-b40b-b370024c94e8",
+                "3:b4ccfa5d-ec9a-42a6-a73b-7efa3a218c23",
+                "4:e5307c02-481a-47d2-bda2-6e471c963a39",
+                "5:53c7fa08-b97e-4563-8b55-eacc11713f5f",
+                "6:bdc07931-f219-485b-ae7b-e91361d7b9d5",
+                "7:8971bb77-5341-4bb8-b651-a27110c9c93f",
+                "8:856dc7f1-54e9-4092-8fca-27c1bb16ec3e"
+            ],
+            "artSegIds": [
+                "1f314cca-41ca-424f-810a-79e24c75561e",
+                "a7fcf0e4-97ff-41cf-b40b-b370024c94e8",
+                "b4ccfa5d-ec9a-42a6-a73b-7efa3a218c23",
+                "e5307c02-481a-47d2-bda2-6e471c963a39",
+                "53c7fa08-b97e-4563-8b55-eacc11713f5f",
+                "bdc07931-f219-485b-ae7b-e91361d7b9d5",
+                "8971bb77-5341-4bb8-b651-a27110c9c93f",
+                "856dc7f1-54e9-4092-8fca-27c1bb16ec3e"
+            ]
+        },
+        {
+            "guidStr": "2220e628-c7b5-48ca-a928-43c6cf3bd235",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:e5d7ea54-e985-49a8-83e9-6ee66273ad36",
+                "2:1bb35079-c224-40e4-a98d-7adff1e57e6f",
+                "3:05709363-44a4-42da-86f0-53d668568c97",
+                "4:f54f03d6-a9dd-497d-ba6d-7c8e8e155f44",
+                "5:74abda22-ee11-4798-b90b-dd88fc8a9113",
+                "6:f9382a90-bae6-478c-a6d4-7cb357ad548b",
+                "7:79ec0fa5-51c0-4966-8eb0-4898f0313761"
+            ],
+            "artSegIds": [
+                "e5d7ea54-e985-49a8-83e9-6ee66273ad36",
+                "1bb35079-c224-40e4-a98d-7adff1e57e6f",
+                "05709363-44a4-42da-86f0-53d668568c97",
+                "f54f03d6-a9dd-497d-ba6d-7c8e8e155f44",
+                "74abda22-ee11-4798-b90b-dd88fc8a9113",
+                "f9382a90-bae6-478c-a6d4-7cb357ad548b",
+                "79ec0fa5-51c0-4966-8eb0-4898f0313761"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "3af4cb7e-5c2b-4e0a-9f99-a69a1f9194f1",
+            "name": [
+                "Dragonfall\\nPart 3 - Chapter 1 Dragonfall Part 3",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:a15ee34c-7ca4-427c-b7c1-6e181eafbbd9",
+                "2:d2c14383-3a4f-47fb-9588-97a9480b2d96",
+                "3:d5ed81d4-5a1a-40ef-9611-19af8c06a908",
+                "4:ef820465-e770-4101-be42-3bdafc466d55",
+                "5:2220e628-c7b5-48ca-a928-43c6cf3bd235"
+            ],
+            "articleIds": [
+                "a15ee34c-7ca4-427c-b7c1-6e181eafbbd9",
+                "d2c14383-3a4f-47fb-9588-97a9480b2d96",
+                "d5ed81d4-5a1a-40ef-9611-19af8c06a908",
+                "ef820465-e770-4101-be42-3bdafc466d55",
+                "2220e628-c7b5-48ca-a928-43c6cf3bd235"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

@@ -1,0 +1,1072 @@
+{
+    "bundleName": "data publication emergence part 3.json",
+    "general": {
+        "guidStr": "74268dde-e493-4dac-8f2c-dc2f40a3c58e",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "7da24fce-ad50-4af5-b018-0ff65c75c0ff",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Emergence Part 3",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Erik Reiersen",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_khymaera_emergence.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "49e36634-ff55-423a-a413-fd7202f1d418",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Shyryss’ Quest",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#70556f",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0f05530a-723a-4216-80c4-12971bf4b96a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Furtive scouts of cephalyx design flitted at the edges of the Shadowflame Shard’s domain. They silently scurried at the extremities of perception. Shyryss, the recently crafted warlock huntress, trained and amused herself by avoiding their detection and then dismantling them. The crude-looking but functional half-mechanized rodents comprised an extensive cephalyx observation network that had been monitoring the Khymaera.\nIt was while toying with and examining the parts of a new spy that she was interrupted by the reptilian stealth combatants, the quickfangs, that were sent to retrieve her. A master—a quickfang that was afforded more precious resources and energy—reverently approached her. She knew him as Dryn, a guileful strike team leader. His sculpted frame bore gouges and scratches from combat. These could be easily repaired, but he wore them with pride, presumably to distinguish himself. He informed her that Rhyas needed her urgently for a task, and he deduced by the manner of the request it was of great importance. She laid the parts of the dissected rodent back into an ordered display before making haste to her mother.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "28d37964-554e-4dd4-b2d0-9c8c0923d074",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Shyryss had been growing increasingly restless with little more than bare rock as scenery. She yearned for purpose—and to hunt. Much of her time spent in voluntary isolation gave her the space to reconcile her existence and meaning but did little to challenge her skills.\nBy contrast, Rhyas had been preparing for the coming storm of Everblight, though they had yet to see a trace of the dragon’s forces. She greeted Shyryss stoically but with a hint of affection in her appraising eyes, and then she bluntly administered the assignment. The given mission required speed, subtlety, and a good bit of luck, but the very future of the Khymaera depended upon it. Despite the danger inherent in the endeavor, Shyryss appreciated the respect and trust that was implicit with the conferral of such a monumental duty. She had only existed for several weeks and had been confined to their limited realm until she was ready. The fact that she would be allowed above ground for the first time was more than enough incentive for her to face down the high likelihood of death awaiting her at the mission’s end.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0ff818dd-1101-4e78-9d16-f4a6ab26b313",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She was granted her choice of quickfangs to act as her honor guard. Although she preferred to do most of her training alone, she occasionally needed compliant partners to hunt her and to be hunted in order to accurately test her mettle. During this process, she came to know the quickfangs she would inevitably be paired with for future missions. She chose those that, like her, most yearned for the open sky, and she chose Dryn for his experience.\nThere was no preparation needed nor time to spare as Dryn led them to a recently discovered hive exit that opened on a remote wooded area. They would use their inexhaustible speed and ability to travel unhindered across even the most inhospitable terrain to race against the enclosing forces of Everblight. Even with Rhyas’ memories and guidance, however, they were embarking on a quest with many unknowns. They needed to make all haste but also to avoid being seen at all costs lest they replace the current crisis with a future, more dangerous crisis. She felt naked without a warbeast, but it would slow them down and be more conspicuous.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6078aaf5-5315-4a34-80b9-6c69d50d1080",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "As the party crept through the worked corridors, a faint glow drew the band like a siren’s song as a glimpse of natural light signified they had reached the surface. Bountiful but unfamiliar smells drifted on the crisp air into the concealed cavern exit. They climbed up the tree roots that hung like inviting hands to pull them out to the world that previously only existed in their imparted memories. Their emergence was graced with dazzling moonlight, which filtered through numerous branches and leaves into a display of countless kaleidoscopic beams that danced with the trees amidst a gentle breeze. They immersed themselves in the experience and soaked in the sensations of their new surroundings for several long moments before refocusing on the grim purpose of their quest.\nThey clung to the shadows and kept a measured pace to cover as much ground as possible before daybreak. They were forced to ignore remote hunters and wayward patrols that would only serve to slow or distract them. And as the threat of dawn loomed with only open ground ahead, they chanced upon a recently cracked open vault in the mountainside. A massive stone slab that had once concealed it lay partially broken. The top half had fallen aside among boulders from an apparent rockslide, revealing a narrow opening. Shyryss could detect no lingering presence of any possible tomb raiders, so she ushered her quickfangs inside as the dawn light broke free and flooded in behind them. She remembered seeing several similar slabs elsewhere in the mountainside during their journey, and now she wondered what secrets they masked. The tomb provided requisite concealment until the day had passed, but it also offered new questions. The stale air and layered dust showed that this refuge had been sealed since antiquity. Its markings and styles were not of Immorese make. Black stone carvings of grotesque leering faces pervaded three alcoves that each terminated in an ornate sarcophagus. But the motion of a previously undetected presence offered her a greater sense of alarm.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0b0ecce5-bcef-4a63-ae6d-b96419ad50f1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A frenzy of movement from deeper within stirred the long dormant sheets of grime into a flowing veil that clung in the air—until it was swept aside by ghastly shapes with fire in their eyes. Shyryss’ steely fingers unconsciously hooked the loops of three kunai as she dragged their tips across a streak of gelled venom upon her belt. With a snap of her wrist, the poisoned blades fanned across the advancing line of menacing figures. To her dismay, the blades sank shallowly and ineffectually into their plated chests.\nWhat she had dismissed as sacrificial pawns of no more danger than a common drudge were something far more sinister, she understood. The customary celebration of flesh evident in the works of the cephalyx was replaced with what could only amount to a mockery. These taut-skinned humanoids had bolted plates erratically mounted upon their frame and crude weapons grafted upon their appendages. Spikes had been pierced clean through their undead flesh to further weaponize their bodies. These undead tomb guardians had been torturously crafted by the ancient hands of the forebears of these peoples, and they were not to be trifled with.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1c2e6d54-74dd-4281-8388-933fdecf36c9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Shyryss utilized her arcane connection with her weapons to mark the struck attackers, her enchantments magically guiding the weapons of her allies toward them and increasing the force of every thrust. Wrist-mounted blades sank into the bodies with the ear-piercing whine of metal on metal as quickfangs attacked. Several of the dreadful creations fell, but the forceful and frenzied sweeps of their scything blades took two of her precious guards in return as more of the savage undead flailed into view.\n\"We must go,\" Shyryss commanded as she tumbled back toward the entrance and sprang through the hole into the light. Four of her quickfangs darted out of the death trap behind her including Dryn, but the other two vanished from sight. Hooked blades sprouted from the opening like insidious metallic weeds before being dragged back from sight into the forbidding silence of the tomb they watched over.\n\"We <I>will</I> come back to this place,\" she said aloud, in part to suggest revenge and in part to remind the others of the impermanence of their deaths if they were not forgotten or abandoned. But they all knew this was not the time to take further risks.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "64dd77a9-603a-4a38-a16c-174193797869",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Exposed to the light of day, they skulked to greater heights in order to conceal themselves within a dense fog that had settled into the crags of the broken landscape. The fog seemed eerie and unnatural, but it was welcome as it served to screen their travel from unexpected glances. Although this mission was vital, they did not want to give up their advantages by alerting the surface world to their existence so early. When they came clear of the fog, Shyryss suspected they were remote enough to risk traveling at full speed. For many sleepless days, they sprinted through the wilderness with Shyryss guiding their course away from any detected life until at last they began to approach their target.\nEventually their ascent took them to a cloying acrid haze that seemed to emanate from the peaks beyond. They avoided several creatures of erratic size and movements writhing within the fog as they pressed on. Shyryss’ sixth sense for life was increasingly dulled and blinded on the approach by a malevolent radiance pulsating from the spire, making them vulnerable to ambush as they tried to endure the intensifying heat. They slowed their advance as many strange sounds echoed from the steaming landscape.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8eaa388c-c2ae-4bed-9583-afdd5ac4d1b4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "569bd09f-514f-4512-8153-84ad73aefc71",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Slinking low along the jagged surface, they moved closer to the source when the rattling of small stones made them pause.\nJust as Shyryss peered over the rocks, a forked spear struck inches from her head. Shattered stone sprayed, and the spear clattered to the ground. Almost instantly, a volley of similar spears struck all around them and rushing footsteps echoed nearby as their assailants closed. They were repulsive, misshapen tribals bearing the taint of the land in which they resided. Twisted human figures with asymmetrical bony growths in primitive mismatched armor bore down on them.\nShyryss locked her stare with that of a cloaked shape looming just at the edge of visibility. She could distinguish only two burning eyes from the silhouetted face, but they belied great power. Keeping him in her periphery, she entered the fray.\nShe and her quickfangs sprang upon her attackers, meeting them head on. Each well-placed strike dispatched a foe with ease, but they were grossly outnumbered. Dryn threw an incendiary bomb that exploded in a cluster of these abominations, but the fires failed to catch on their resistant hides. The wretches fell in waves, but their jagged weapons of carved bone and their aberrant claws and teeth began to find Khymaeric flesh. A hulking beast of a man with broad shoulders and a single heavy horn that pulled his head to one side knocked Shyryss to the ground with a maul made from the warped skull of a blighted beast. His bloodthirsty eyes flared as drool leaked from his curled lips, and he began to bring his maul down upon her. Dryn rolled between them, and with both hands braced upon the pommel, plunged his blade upward beneath the man’s rib cage with a wet crunch, slaying him instantly. As the body fell, two more rushed to take his place. Presently, only Shyryss and Dryn remained, beset on all sides, when Shyryss rose and bellowed in a commanding tone, \"I carry a message!\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4e19a29c-5c5e-438b-aa29-bbdfa4d879ba",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The enemy froze. Hordes of feral atrocities amassed around them as the cloaked figure unhurriedly stepped forth. He was draped in a cloak made from blighted hides; the air around him shimmered and distorted as he emanated smoldering heat. With a voice like a crackling flame in a raging inferno, the being addressed her.\n\"Speak,\" he rasped as the disfigured mob shifted anxiously.\nDryn shrank and shifted behind Shyryss, his tail swaying in the air, blade at the ready. Shyryss straightened, feeling the weight of the destiny of the Khymaera upon her. Undaunted, she spoke clearly, her voice feminine and as pure and smooth as glass of the same delicacy. \"My message is for Blighterghast alone.\"\nThe ground shuddered as the figure again spoke. \"<I>We</I> are Blighterghast.\"\nA reverberation trembled through the mountain, lingered, and faded alongside his words on the wind.\nNot fully understanding, Shyryss continued. \"Two Nyss sisters once made a bargain with the great Boiler of Seas to stay his mighty hand from dispatching his lesser sibling Everblight...\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9f040949-64ab-4dd9-9373-de211317b530",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The tremors and heat intensified; furrows and cracks pervaded the surroundings, and the figure’s eyes seemed to flare brighter as she proceeded. \"They know you need no permission from such meaningless beings, but if the great Breaker of Mountains withholds any aggression toward his brother due to a notion of honor or debt, they release him from this oath.\"\nThe inscrutable visage stared silently. After a long while, it slowly turned to leave, beginning to fade into the ashen miasma. The frothing host began to violently advance as if their leashes were released until Shyryss quickly called out, \"I bring gifts!\"\nThe shaded shape stopped and raised a robed hand, halting the blighted savages in their tracks. Its head lightly inclined toward her.\n\"There are two gifts.\" She paused as she collected herself. Although Shyryss had never experienced anxiety and could lie as easily as she breathed, the notion that she faced an irretrievable demise if she made one misstep was at the forefront of her calculating mind even as she bargained for the fate of her people. \"First, urgent information. The Legion of Everblight marches in force upon you at this moment. They seek to use a tunnel system within the mountains to approach unseen and take you as you slumber—\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "504d1f3f-e6e5-4894-a0bc-b9e6c6ce3e74",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Fissures erupting from the cracks, spraying gouts of superheated steam and fire. The potency of the unseen emanations steadily rose, becoming nearly unbearable. She could feel her body beginning to deteriorate. Yet she didn’t stop, couldn’t stop, despite the shrieking whistles from the fissures competing with her voice. \"They have yet to reach the caverns, accessible through an old mining network near the cities of man, close to where the lesser mortals gathered to make a final stand against the infernals. They are fully exposed.\"\nAlthough the creature made no movement, she could feel its burning rage through the earth beneath their feet.\n\"Second. Everblight has discovered how to do what Toruk could not. He has divided his being across many servants. Each bears a piece of his <I>athanc</I> but collectively shares his consciousness. Each is capable of housing him as a vessel. If even one survives, so does Everblight.\"\nShe looked around her, seeing the rabble undeterred and still poised to strike. \"The Nyss sisters can sense these fragments wherever they lurk. We don’t presume to hold leverage or to have any bearing over the actions of the Watcher Upon High, but if he allowed this humble messenger to live, we could continue to inform upon their movements and where these treacherous fragments hide.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1d63d7c8-a163-4ce8-b7a2-2956c0cef46b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The fissures continued to expand until they began to erupt with spurts of magma. The dense gray that concealed their surroundings began to take on scintillations of blazing orange and crimson. Rockslides resounded for miles as the summit came to life. The eyes of the figure’s servants bounced between their master and their prey, waiting for a response. The dark entity turned and stepped forward. Visions of her own fiery death burned in Shyryss’ mind by the herald as he spoke with a grating quality like the grinding of stone on stone.\n\"We will <I>take</I> your first gift.\" He began to shift; a scarred claw extended from his sleeve. \"We learned Everblight’s fate was sealed when the druids illuminated him for us. When he consumed our brother, Pyromalfic, he consumed his curse. His <I>athanc</I> is tainted and useless to us now, just… like… <I>you.</I>\"\nHe raised the revealed hand, now afire, wreathed in shadowy flames.\n\"He has planned for this!\" Shyryss shouted as she stepped toward him. The flame-licked hand remained poised as she continued. \"He crafted a being of his own specifications and designs, and like most of his warlocks, it bears an untainted shard to act as his new vessel. He divided his army and sent them beyond this realm as a contingency to await the next stage of his plan. Once his presence is wiped clean from here, it will become the sole bearer of his essence, and then we can lead you straight to him.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0afd4fcf-a902-4295-ac40-80238c84e843",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The shape did not speak again. It held still as if in deep consideration until it offered a hint of a nod. The rending of the ground escalated as the repulsive tribesmen began to flee. Shyryss looked at Dryn as the ridge swelled beneath them, and they followed suit, dragging their three fallen allies as they slid down the cliffside. They scrambled as far and as fast as they could but refused to leave the rest of their companions. With a sky-shattering explosion, the pinnacle erupted behind them. The shockwave and burst of air sent them tumbling down amongst a shower of embers and ash. A tremendous gale swept down the rock face, scattering them to the winds.\nThey smashed into tree limbs and rocks as a sandy black film steadily enveloped them where they lay. The beating of massive wings suggested the presence of something extraordinary, but the sky was an impenetrable onyx that betrayed no sign of the behemoth. The sound faded quickly as it headed toward their home.\nHer body broken but her objective achieved, Shyryss rested.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "667b1ad4-87f5-491d-9331-709242af9a85",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Time passed. Shyryss slowly tested herself for damage as she peeled herself from the ashen debris field in which she lay. She had stared down a power beyond her comprehension and lived still. What was to come of her actions was shrouded in mystery, but she had played her part. She would find the rest of her team and try to revive them with the carcasses littering the area and return from whence they came. Now the anticipation she felt was to see exactly what she would be returning to.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "818926da-4712-4d15-a2ee-f780dc11c79d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:7da24fce-ad50-4af5-b018-0ff65c75c0ff",
+                "2:49e36634-ff55-423a-a413-fd7202f1d418",
+                "3:0f05530a-723a-4216-80c4-12971bf4b96a",
+                "4:28d37964-554e-4dd4-b2d0-9c8c0923d074",
+                "5:0ff818dd-1101-4e78-9d16-f4a6ab26b313",
+                "6:6078aaf5-5315-4a34-80b9-6c69d50d1080",
+                "7:0b0ecce5-bcef-4a63-ae6d-b96419ad50f1",
+                "8:1c2e6d54-74dd-4281-8388-933fdecf36c9",
+                "9:64dd77a9-603a-4a38-a16c-174193797869",
+                "10:8eaa388c-c2ae-4bed-9583-afdd5ac4d1b4"
+            ],
+            "artSegIds": [
+                "7da24fce-ad50-4af5-b018-0ff65c75c0ff",
+                "49e36634-ff55-423a-a413-fd7202f1d418",
+                "0f05530a-723a-4216-80c4-12971bf4b96a",
+                "28d37964-554e-4dd4-b2d0-9c8c0923d074",
+                "0ff818dd-1101-4e78-9d16-f4a6ab26b313",
+                "6078aaf5-5315-4a34-80b9-6c69d50d1080",
+                "0b0ecce5-bcef-4a63-ae6d-b96419ad50f1",
+                "1c2e6d54-74dd-4281-8388-933fdecf36c9",
+                "64dd77a9-603a-4a38-a16c-174193797869",
+                "8eaa388c-c2ae-4bed-9583-afdd5ac4d1b4"
+            ]
+        },
+        {
+            "guidStr": "a05c702b-73fd-46c7-81d8-6d9c46993b9c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:569bd09f-514f-4512-8153-84ad73aefc71",
+                "2:4e19a29c-5c5e-438b-aa29-bbdfa4d879ba",
+                "3:9f040949-64ab-4dd9-9373-de211317b530",
+                "4:504d1f3f-e6e5-4894-a0bc-b9e6c6ce3e74",
+                "5:1d63d7c8-a163-4ce8-b7a2-2956c0cef46b",
+                "6:0afd4fcf-a902-4295-ac40-80238c84e843",
+                "7:667b1ad4-87f5-491d-9331-709242af9a85"
+            ],
+            "artSegIds": [
+                "569bd09f-514f-4512-8153-84ad73aefc71",
+                "4e19a29c-5c5e-438b-aa29-bbdfa4d879ba",
+                "9f040949-64ab-4dd9-9373-de211317b530",
+                "504d1f3f-e6e5-4894-a0bc-b9e6c6ce3e74",
+                "1d63d7c8-a163-4ce8-b7a2-2956c0cef46b",
+                "0afd4fcf-a902-4295-ac40-80238c84e843",
+                "667b1ad4-87f5-491d-9331-709242af9a85"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "0e7c9c1a-6bd6-418f-ba99-64eed5062215",
+            "name": [
+                "Emergence \\nPart 3 - Chapter 1 Emergence Part 3",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:818926da-4712-4d15-a2ee-f780dc11c79d",
+                "2:a05c702b-73fd-46c7-81d8-6d9c46993b9c"
+            ],
+            "articleIds": [
+                "818926da-4712-4d15-a2ee-f780dc11c79d",
+                "a05c702b-73fd-46c7-81d8-6d9c46993b9c"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

@@ -1,0 +1,2030 @@
+{
+    "bundleName": "data publication dark rising part four.json",
+    "general": {
+        "guidStr": "75a51ca8-7866-4268-9d5d-d2c8f85975af",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "05f514ee-6761-43b3-8c83-d5c98ecc5a48",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "DARK RISING",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/fiction_darkrising_chapterheader.png",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a8df786a-fcf0-481a-b1f5-ff39b10fe952",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<I>Ancient enemies have returned to the shores of the Iron Kingdoms, and for the first time in centuries, the military might of the kingdom of Khador will find itself challenged by an invading force from beyond the lands of western Immoren.\nAt first, Kapitan Ilari Borisyuk and his forces don’t know what they are seeing—but all too soon, the bloodthirsty invaders known as the Orgoth will make their presence felt and their intentions clear: to crush the nations of the Iron Kingdoms and subjugate its people once again—beginning with Khador. Ilari is not only the first line of defense against the Orgoth; unless he can survive to warn his countrymen, he may well be the only defense.\nAs the Orgoth soldiers, led by the powerful warwitch Sabbreth, called the Eternal Annihilation, pour ashore, Ilari will do what he must for his troops, for his Motherland, and for all of the Iron Kingdoms, even if it means making deadly decisions and impossible sacrifices…</I>\n<b>Dark Rising</b><i> is the first book in Privateer’s ongoing monthly Saga series, available through the WARMACHINE app. The first three of six chapters will be available for free; the remaining chapters will continue in monthly installments, along with additional content and features, with a paid WARMACHINE app subscription.</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f22bea67-5208-429b-a4a4-5c4d0bc7c0f2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "71e95a7b-63f3-45e4-bad5-81ae05439b88",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Chapter Four – Dark Storm",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "45b3ccbe-d628-4ca5-bdb6-a15a0ec16a3a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari watched the seething mass of Orgoth forces across the river slowly become something more like an organized military presence. Among the rank and file, terrible figures walked, shouting and gesturing. In response, Orgoth troops bearing more of their strange firearms moved to the front and formed into three lines.\nThe Orgoth had more horrors in store—their lines split apart to allow bestial warjacks and a group of savage, ogrun-sized humanoids with skin the dull orange of a dying sun to come forward. They gripped huge cannons or grenade launchers in both hands. These hulking troops moved to the river, suggesting their cannons were short ranged. The warjacks, however, hung back and were joined by bulky, armored figures, each bearing spear-like weapon in one hand. Easily identifiable tools hung from their waists, and they took up position behind the warjacks. <i>Mechaniks,</i> Ilari thought. Strangely, this made the enemy warjacks less frightening. If they needed repair, then they were not demons or monsters. They were just machines, no matter how different. That small comfort did little to allay Ilari’s alarm at the situation.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d86552e7-5fd3-45e5-ba0c-cd5dd47ef990",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I want fire on those things closest to river. Right now!\" he said to the men and women on the ramparts.\nThe staccato burst of rifle fire was followed by the heavy thudding reports from a pair of light cannons mounted above the gate. The Orgoth cannon bearers were easily four hundred yards away, extreme range for rifle fire. Still, a few of the gruesome creatures stumbled backward but did not fall. The cannons fared better; explosive shells dropped among the enemy, leaving a giant corpse or two beside each smoking hole.\nThen the Orgoth returned fire.\nBlood-red light pulsed in waves along the Orgoth lines, and their cannons thundered in plumes of crimson smoke. The projectiles struck the base of the walls with explosive roars. Stone shattered; the walls trembled. Ilari stuck his head over the battlements and saw the Orgoth cannons had blown shallow craters in the stone.\nThe enemy warjacks unleashed next, followed by a barrage of small-arms fire. Spike-like projectiles hammered the walls, and roiling spheres of vermillion flame fell among the defenders atop the walls and below it. The wailing screams of burning soldiers were joined by the appalling stench of cooked flesh.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f79d7f41-14fb-4cec-832b-89e3064dcbfd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari grabbed a shell-shocked young man with sergeant stripes his shoulders. \"Keep them firing!\"\nThe sergeant nodded, but there was a vacant look in his eyes. Ilari shook him. Hard. \"Do you understand?\"\nThat seemed to get through. The man nodded more vigorously. \"Yes, sir. I’ll see to it.\"\nVolkova had been calmly watching the Orgoth across the river. She didn’t so much as flinch when six-inch iron bolt shattered the crenellation in front of her.\nIlari said to her, \"Gather your arkanists and meet me in the baily.\"\n\"You think we can stem this tide?\" she asked. Ilari couldn’t tell if she believed they could or not.\n\"We’re damn well going to try.\"\nIlari came down the rampart steps to a welcome sight: the posadnik had sent more troops to bolster the gate. Among them were a number of rocketeers and machine gunners. Six Man-O-War suppressors accompanied the reinforcements. One of them lifted her helmet, and Sergeant Nasdovich smiled down at Ilari. \"I found friends, sir.\"\nHe suppressed a grin of his own. They were likely about to die, but Nasdovich’s child-like ebullience was infectious just the same. \"Take your Man-O-War to the top of the wall, sergeant.\" Their hailstorm cannons had enough range to pepper the front ranks of the enemy and possible slow their shelling. \"Focus on the artillery.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e5d5495e-e842-4a5b-9d92-1c6c0653606b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Nasdovich grinned wider. \"Mysha and Koshka will eat well today.\"\nVolkova nodded at Ilari as she left the baily and headed south into the city, presumably to gather Winter Korps arkanists. They would provide valuable support and firepower.\nLieutenant Roslov held court in the middle of a large detachment of Winter Korps infantry, giving orders and pointing to the gate. She was strategizing, this waifish soldier of no more than twenty five years of age, and every man and woman listened intently and not just because of her rank.\nThe shrill whine of the hailstorm cannons sounded from above, followed by Nasdovich’s gleeful cackle. The shelling slowed, but that wouldn’t last long.\nIlari hurried to Roslov and was pleased to see faces he recognized among the soldiers, those who had come with him from Ice Watch. He hoped he hadn’t led them out of one horrific situation into another. \"Lieutenant, give me an update.\"\n\"The posadnik has sent us a full battalion of infantry with supporting rocketeers and machine gunners.\" Roslov glanced up at the wall. \"Along with Sergeant Nasdovich’s charges.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "99b26cb3-3b70-4b38-9deb-1181116c51c9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Get those rocketeers on the ramparts with as many rifles as you can fit,\" Ilari said. \"I want a constant stream of fire on the enemy.\"\n\"Ships in the Lothpool!\" a soldier cried from the top of the wall.\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f8b9f0e7-11db-466d-ba25-2e9799be36c3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sudden horror sized Ilari. \"Belay my previous order. Focus your fire on the Orgoth ships.\" If the walls fell, those ships could ferry troops across the river and into the city. \"Where are Vislovski and Nail?\"\nRoslov pointed behind her. There were a number of squat buildings behind the bailey, bunkhouses for guards and soldiers stationed at the gate. One building loomed above them, its wide double doors and the black smoke pouring through its open roof marking at as warjack depot.\nThe smell of coal and hydraulic fluid flooded his nose when Ilari reached the hangar. The doors were open, and the large space inside held racks of tools, multiple ’jack hoists, and two warjacks. One of the warjacks was Ilari’s Dire Wolf, Nail, and as he neared, the ’jack’s conscience bloomed in his mind. Something like a greeting passed between them. The other warjack was a massive thing, dwarfing Nail in height and girth. The big ’jack reminded Ilari of the great machines of Khador’s old army—Juggernauts, Berserkers, and nigh mythical machines like Beast 09.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "62992491-2177-44f2-be50-94c777141c44",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Vislovski appeared from around the huge warjack, his face covered in coal soot and streaked with sweat. \"They just brought the Great Bear in, sir,\" he said. \"It’s meant for you.\"\nThe clamor and thunder of the Orgoth siege continued, and Ilari knew there was no time to waste. \"Is it fueled and ready?\"\n\"You just need to make contact.\"\n\"Get Nail down.\" Ilari approached the Great Bear. It was armed with a mammoth battle axe in its right fist and a Grinder cannon on the other. The chain gun resembled the hailstorm cannons on the Man-O-War suppressors but sized up for a heavy warjack. The Great Bear’s head hung low on its slightly bulbous top half, looking something like an open-faced helm.\nIlari placed his hand on the warjack’s hull and let his gift pour out of him and into the Great Bear. The warjack’s eyes flashed blue; its presence filled Ilari’s mind with staggering, blunt aggression that made Nail’s fighting spirit seem tame in comparison. This warjack craved destruction, and Ilari quieted it with some effort. Its name came to him immediately. Wrath.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "521f7ab8-bd83-4fca-8fc3-4b4bcee88585",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"The big one has a heavy boiler,\" Vislovski said. \"It’ll run through a castle wall if you tell it to.\"\nIlari nodded. A twelve-ton relentless war machine was exactly what he needed. \"Unhook them. And then Vislovski, you’re with me.\"\nThe other mechaniks unhooked both warjacks, and Ilari noted that Nail’s weapons had been swapped out as he’d requested. The bombard remained on the ’jack’s right arm, but in place of the flame fist on his left he’d been fitted with a plow-shield, just like his fallen comrade, Hammer. Ilari expected more close quarters fighting, and he wanted his warjack to be prepared.\nWith two warjacks at his side again, Ilari stepped back out into a warzone. He felt more in control this time with two warjacks under his command than he had when he left Ice Watch. Nail was a slow burn in the back of his head, eager to fight but measured. By contrast, Wrath was a raging fire, and it swished its battle axe up and down in agitation as they neared the gate.\nThe ramparts would not hold twenty tons of warjack, and they couldn’t open the gate or lower the bridge. From atop the gates, Roslov instantly surmised the situation. She pointed. \"Sir, there’s sallyport to the right of the gate built for warjacks.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2aa0aa20-24c4-4e82-a231-f31697e837d4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The sallyport was a sealed stone door fifteen feet wide and braced with steel bands. It would take a warjack to open it and then only from inside the walls. He ordered Nail to push his shield into the door, and it swung slowly open, revealing a rocky outcropping high above the shore of the Lothpool. It was large enough to hold his warjacks and provided a commanding view of the area.\nThe enemy across the river began to fire up at Ilari’s position. The angle made accuracy difficult, so their artillery fell well short, sending up geysers of water. Ilari darted behind Wrath for cover, as some few projectiles pinged off the Great Bear’s hull and Nail’s shield.\nOrgoth ships, like those he’d seen offloading troops at Marova, moved up the Lothpool. On their decks stood soldiers armed with rifle-like weapons and slight warjacks. The shipborne enemy joined the forces across the river in firing up at him. They were closer and their shots more accurate. Most failed to penetrate Nail and Wrath’s armor, but the Orgoth ’jacks would not have that difficulty.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2320e030-b71a-4b41-b955-043e632f5f7e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari made deeper contact with Wrath to view the world through the warjack’s eyes. He’d always found this particular warcaster ability unsettling, but his experience with Hammer and Nail had lessened his discomfort. He aimed Wrath’s Grinder cannon at the deck of the nearest ship, some two hundred yards away. The two rotating barrels spun up with a high, shrill whine and then spewed an absolute storm of bullets, slashing through the Orgoth infantry, leaving a dozen mangled, dismembered corpses bleeding on the deck. One of the light warjacks aboard the vessel staggered beneath the chattering fire, pieces of its armor flying away in chunk and shards. Ilari then had Nail fire his bombard, guiding the shell with arcane power. It blasted a hole in the decking but did not sink the Orgoth ship.\nHailstorm cannons from the Man-O-War on the gates sounded as Nasdovich and her two units opened up again. They cut down some of the cannoneers, but more warjacks were brought up to fill the gaps in the line and launched a barrage of their own. More flaming spheres, as well as heavy bolt-like projectiles, burned and pierced Winter Korps infantry. Some plummeted screaming from the ramparts and into the water below.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "397bb548-66af-4db9-8422-59c91e68eabc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari suddenly sensed damage to Wrath and then the Great Bear’s spiraling rage at being struck. He brought his rifle to his shoulder, peeked around Wrath, and targeted one of the Orgoth mechaniks guiding the enemy warjacks. He chambered a rune shot that would inflict increased damage against soft targets, and he pulled the trigger. Five hundred yards away, the Orgoth mechanik was spun around by the impact, and Ilari grunted in satisfaction at the five-inch exit wound in the man’s back.\nMore Orgoth ships came up the Lothpool, adding additional artillery fire to that already resounding from the host on the opposite shore. Ilari sensed more damage, this time to Nail, and watched as the raised drawbridge was struck by some kind of explosive shell that snapped one of the heavy chains holding it upright. The drawbridge trembled, and Ilari ordered his warjacks back through the sallyport. Wrath pulled it closed behind him.\nThe bridge and gate shuddered again as another barrage slammed into it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1c0d915e-e2fe-48d0-9127-57c69e17909e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Defend the gates!\" Ilari shouted. More Khadoran warjacks had arrived, three Dire Wolfs, all armed with cannons and ice hammers. Vislovski and two other mechaniks had taken charge of them.\n\"Warjacks, up front!\" Ilari commanded. Vislovski and his mechaniks spread the Dire Wolfs out as commanded. Ilari kept Nail and his plow-shield close so he could snipe and cast spells from cover; he held Wrath back so he could use its heavy boiler for a devastating charge attack.\nAnother hail of artillery struck the bridge and gate. There was little doubt the enemy was targeting it. The second chain snapped—the bridge came down. A hundred tons of wood and steel impacted the opposite bank with a shuddering boom. The soldiers in the baily winced at that doom knell, but it was nothing compared to what followed.\nA boiling, churning riot of fierce howls and guttural shouts rose beyond the gate. Roslov, still atop the ramparts, called down. \"They’re coming across the bridge!\"\n\"Keep them firing,\" Ilari called back. \"Everyone, brace for those gates to come down. We have to hold them here as long as possible.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5fc9f910-f651-4434-aae0-39658207f964",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari glanced behind him and saw a welcome sight: Magziev Volkova had returned. With her were six soldiers in light armor bearing the colors and insignia of the Winter Korps. The heavy tunics beneath their armor bore the whorling symbols of arcane formulae. Volkova had donned armor herself, similar to her arkanists but heavier with pauldrons and pass guards reminiscent of armor worn by Greylords before the Claiming. The arkanists were armed heavy rod-like devices of brass and iron, etched with glowing arcane symbols; Volkova carried a polearm with a sickle-shaped blade at each end rimmed with frost.\nVolkova gave orders, and her arkanists took up positions near the Dire Wolfs. Ilari knew many of their sorceries would benefit the machines. The magziev joined Ilari behind Nail. \"Status?\"\nThe terrible howling and shrieking from beyond the gate turned in a cacophonous booming as something large and heavy slammed into the gates. It might have been warjacks, but the soul-chilling roar that followed could come from no machine.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ca9e5cf2-bb72-433d-81de-323d69dec235",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"How does it look, Magziev?\" Ilari said; the woman’s impenetrable calm was almost annoying. \"The gates will fall, and we will be swamped with enemies in moments.\"\n\"We will hold as long as we can,\" she said, then looked him in the eyes. \"You cannot fall here today.\"\n\"I will fight for the Motherland until my dying breath.\"\n\"No,\" Volkova said flatly. \"You know too much. That knowledge is invaluable. Stay and fight. Kill as many as you can, but you must leave Skrovenberg alive. You must make it to Port Vladovar and pass on what you have learned about the Orgoth.\"\nIlari opened his mouth to say more, but his words were drowned out by a wrenching crash as the gates splintered. Roslov was ordering troops down the ramparts to join the hundred or so infantry lined up behind the warjacks, rifles, rockets, and machine guns pointed at the gates.\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c482f601-016a-4b1e-b543-6c18cea905f0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The gates bowed inward, and when they did, Ilari caught a glimpse of soul-chilling shapes behind it. Warjacks certainly, but something else. Something massive and alive.\n\"As soon as they breach the gates, hit them with everything!\" he shouted. He hadn’t had the opportunity to rack another set of spells since he’d left Ice Watch, but those suspended in his mind  were still available, and his arcane turbine filled his body with magical power. He sent some of that arcane strength to Wrath and Nail, allowing them to draw energy from him to guide and add preternatural force to their attacks.\nEveryone in the bailey seemed to take a deep breath and hold it. Then, the gates crashed open, the right one falling backward into a seat of writhing armored bodies, the left one hanging from its mammoth hinges at a crazed drunken angle. The first enemy through the gates was a pair of warjacks, their weapons and energy cores blazing like blood and fire.\nThe Winter Korps soldiers in the bailey fired their weapons, and a hundred rifles and a dozen rockets smashed into one of the enemy ‘jacks and obliterated it. The second lurched forward and swung a long-bladed glaive that reduced three infantrymen to red ruin and slashed into one of the Dire Wolves.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e5fea763-95a4-4b94-9606-2983ce97d09d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Orgoth troops came next, flowing in a grim tide around the warjacks. These warriors were like those Ilari fought on the Vescheneg Headlands; their insectile helmets gave their advance an swarming effect. Many carried the short-range firearms; others, harpoons. All of them fell upon the Skrovenberg forces in a murderous frenzy.\nAs a Widowmaker, Ilari had seen much combat, but it was always on a small scale. His rifle and a single target, maybe two. This, however, this was simply chaos. Order and ranks broke down in front of him, and for a moment he had no idea what to do. The words of old Toskar came back to him as they often did. <I>Don’t think, just pull the trigger.</i>\nHe brought his rifle to his shoulder, sighted on one of the enemy warjacks, and imbued a rune shot with armor-piercing magic. The bullet struck the ’jack’s hull just above its tusked head. He fired again, this time at the warjack’s right leg. The round struck its knee and it tottered forward. One of the Man-O-War who had come down from the ramparts saw the opportunity, crowded in close to the damaged warjack by bashing aside enemy warriors, and unleashed both Hailstorm cannons at point-blank range. The Orgoth warjack crashed to the ground and did not rise again.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f214015f-4cdb-470a-b107-ad63929ad325",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Volkova joined the battle, and her double scythe slashed through enemies in sprays of blood and clouds of frost. The arkanists drew magic from the arcane apparatus each held, and gossamer threads of runes encircled their bodies, then washed over the Khadoran warjacks. The mechaniks guiding the ensorcelled Dire Wolfs fired the warjacks’ cannons. Each shot struck with unerring accuracy, crippling enemy warjacks or shredding Orgoth troops.\nIlari paused from firing his rifle long enough to send Wrath charging into the melee. Like a great boulder rolling downhill, the huge ’jack gained terrible momentum and speed without need of arcane assistance from Ilari. It lowered its head, a charging bull, as it smashed into the closest mass of Orgoth warriors. A few Khadoran soldiers had to leap out of the way, but its Orgoth targets were crushed and thrown aside in waves of bodies. From where Ilari stood, Wrath looked like a fast ship cutting through water.\nThe Great Bear’s battle axe now rose and fell, and enemy troops died with each swing. Seeing the threat, the Orgoth mechaniks guided warjacks into the melee, and Wrath was soon confronted by an enemy ’jack equal in size and armament. Armed with a huge spiked flail and a shield mounted with a short-barreled cannon, the heavy Orgoth warjack fired its cannon first. The shell struck Wrath’s hull just to the left his head. That ephemeral pain ghosted through Ilari’s mind as he registered the damage, but it was not critical. Wrath raised his left fist and unleased a withering burst from his Grinder cannon. Spiked armor cracked and disintegrated and reddish ichor, perhaps the Orgoth equivalent of hydraulic fluid, splashed the swarming troops around the two battling machines.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5d18b0a7-2055-4c41-a142-9fb36fee65d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Orgoth ’jack swung its flail, but Wrath intercepted the weapon with his axe, tangling the chain and yanking his foe forward. The enemy warjack stumbled as Wrath ripped his axe free and drew upon Ilari’s magical strength to add power to his next strike. The Great Bear buried his axe in his adversary’s hull above its head. The blazing red light in the Orgoth warjack’s chest faded. It fell backward into the mass of battling soldiers, crushing Khadoran and Orgoth alike.\nNail continued to fire his bombard, and Ilari pulled the warjack back from the mass of seething warriors, getting enough range to lob shells over the ramparts and into the enemy clustered on the bridge. He hoped to slow their advance and possibly damage the bridge itself. If it fell, it would strand the Orgoth outside the city and possibly let his own troops rally.\nIt was not to be.\nSomething huge barreled through the gates, a massive beast of some kind, tusked, elephantine, with an armored howdah atop its back where an Orgoth warrior stood behind a giant cannon. The beast bucked its head from left to right, tossing Khadoran troops into the air, their bodies mangled and broken. The gunner fired the cannon, launching an immense harpoon at Wrath. The huge bolt pierced the Great Bear’s hull, driving through an inch of steel and the machinery behind it before it burst out the other side, its long barbs biting into Wrath’s back. A chain attached to the harpoon retracted and jerked Wrath forward, directly into the armored fists and scything tusks of the siege beast.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3c8b474d-7eda-4a12-9203-efcb89f520e7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari had never sensed such carnage before, and Wrath’s destruction lanced through his mind in a staggering wave. The Great Bear’s presence blinked out, leaving Ilari momentarily stunned. One of the Orgoth light warjacks or its handler saw the opportunity—Ilari had drifted too close to the battle. The warjack charged, bringing up a heavy bladed mace. Nail shifted forward, surprisingly agile, and placed himself the enemy warjack’s path. This was an entirely reflexive act, but it saved Ilari’s life. Mace met plow-shield with a tremendous crash, and Nail was shoved backward by the force of the blow, the lip of the Dire Wolf’s shield clipping Ilari and sending him reeling to the ground. His right knee suddenly throbbed with agony. The Orgoth ’jack followed up, bringing up its mace to crush Ilari. He knew his power field wouldn’t save him—he’d projected too much arcane strength into his warjacks. He fumbled for his rifle, hoping to get off one more shot off before he died.\nThe mace descended but did not land. A blur of crimson armor appeared from the chaos of the battle behind them and crashed into the Orgoth warjack. Its mace hit the cobblestones next to Ilari, showering him with shards of rock and dirt. The Orgoth ’jack spun to meet its new foe, a Man-O-War suppressor, but before the Khadoran soldier could bring the armor’s Hailstorm cannons to bear, the Orgoth warjack drove a pneumatic spike attached to its left fist into the Man-O-War’s abdomen, driving it through armor and flesh.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c5ab2ba2-34e4-467c-94ca-c053e07b231c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e2d35d27-9bc0-42da-bfc9-20d7b00e5c44",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari took control of Nail and charged the Dire Wolf into the Orgoth ’jack’s back, its plow-shield slicing through armor and shoving the enemy back, spewing sparks and ichor in equal parts. Ilari struggled to his feet, grabbing up his rifle. He shouldered it and fired two armor-piercing rune shots into the Orgoth ’jack in rapid succession. Instantly, it crashed to the ground, its red core fading.\nThe battle had surged back toward the gate as Volkova and her arkanists released a torrent of screaming arcane wind. The wind had teeth—it tore apart Orgoth troops and warjacks with brutal efficiency.\nIlari limped toward the fallen Man-O-War, his breastplate torn open and his chest dripping deep red blood over the crimson of Khador. The Man-O-War’s helmet fell away, and Nasdovich stared up at him. Her ever-present grin was tinged with blood but was no less intense.\nIlari dropped to his good knee beside her. \"Can you get out of your armor?\"\nNasdovich shook her head, grimacing with pain. \"No, Kapitan. This armor is my home.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fcae390d-9705-4f2c-a345-ab2bd97d4d40",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A surge of pain engulfed Ilari, but he could not let it show. Not as grief.  \"Please. Let me—\"\n\"Kapitan,\" Nasdovich said gently. She covered his hand with her oversized glove, and her smile returned \"Mysha and Koshka are full.\"\n\"Nasdovich,\" Ilari said, shaking the Man-O-War sergeant’s armored shoulder. \"Klenka!\"\nShe did not answer. Her eyes glazed, and her final breath was lost in the storm of battle.\nIlari put his head down, rage gripping his heart with icy fingers. Nasdovich had been brave, fearless in fact, and she had given her life to save his. Was it right? Was it <i>fair?</i> He stood, clenching his rifle, as his arcane turbine again filled his armor and body with magical strength. The Khadoran forces were falling back, the enemy driving them into the city. They boiled around him, shouts of <i>retreat!</i> echoing off the buildings that lined the street.\nIlari tapped into Nail’s cortex and brought the Dire Wolf up beside him. He fired the warjack’s bombard again and again, adding shots from his magelock rifle, steady aimed shots, one after another. Each pull of the trigger claimed a life. The enemy howled toward him. Still he fired, and Nail smashed Orgoth away with his shield. Ilari would soon be overwhelmed, but he could only see targets. Projectiles hit his power field, failing to penetrate. At least for the moment.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d7dd134e-9bc7-440f-82bb-7a9a5744278e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The massive siege beast pushed forward, straining to reach him, and it would have if not for heavy thunder behind him. Ilari had seen an autocannon fire before, but the rapid-fire guns were artillery pieces, and they had none with them. He turned and saw an enormous vehicle moving toward the gates down the main road that cut through Skrovenberg. It rolled forward on heavy treads, belching smoke from four stacks projecting from its front hull. A pair of autocannons was fitted to a tall turret on the top of the vehicle from which a gunner’s head was just visible above an armored cowl. Ilari had only head of these vehicles, known as A-2 Bisons, but he’d never seen one in action.\nThe Bison’s autocannons fired again; the siege beast roared in pain and rage. Ilari turned to see the creature reeling, holes the size of plates blasted into its flesh. Its blood rained down across the Orgoth warriors as it came crashing down.\nThe death of the siege beast slowed the Orgoth advance for a brief moment. Volkova fought her way through to Ilari, cutting down any enemy warriors who dared to be in her way. When she reached him, she looked down at Nasdovich’s corpse. \"What was her name?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a27d5e2f-49b1-4a86-892a-c01e4157366e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Nasdovich. Sergeant Klenka Nasdovich,\" Ilari said.\n\"The gate is lost,\" she said. \"We must pull back.\" She grabbed Ilari’s arm and tried to lead him away.\nHe jerked free and brought up his rifle up again.\nVolkova stepped directly in front of him. \"\"Kapitan Borisyuk, you <i>cannot</i> die here.\"\nHe glanced down at Nasdovich and shook his head.\nVolkova pressed her face close to his, her eyes cold and fierce. \"Don’t you <i>dare</i> waste her sacrifice.\"\nHer words pierced the red veil of his anger. He allowed her to pull him away. Nail, mostly undamaged, followed behind them, and Skrovenberg now lay before the Orgoth, a wounded beast awaiting the deathblow.\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "bf727477-c378-49f1-8271-4ee163eebacc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c93570ca-3728-44a6-b98b-c15c9ed1ffe9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Interlude: Red Hunt",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "68300a45-efd8-43af-8efa-c46dbc8b0aef",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sabbreth stepped through the shattered gates of the city the Immorese called Skrovenberg. The Red’s handiwork filled the courtyard beyond. The fanciful cobblestone streets and the buildings along either side were pocked with bullet and bolt holes or blown open from the explosive force of larger munitions.\nShe had learned The Red’s true name from Korporal Andreev, pulling the information from his mouth in desperate screams as she unspooled his guts with a hooked blade. His last words had been <i>Kapitan Ilari Borisyuk.</i>\n\"Borisyuk,\" Sabbreth said under her breath, working her mouth around the strange syllables as she walked from reaver corpse to reaver corpse, many with a single bullet hole through the throat or skull. Her troops had managed to destroy one of Borisyuk’s machines, and her Vulcar Forge Master would pore over its inner workings to learn what they could from it.\nBorisyuk and the city’s defenders had slain one of the siege tarasks. The colossal beast has been all but shredded by a weapon she had yet to encounter. This gave her little pause. The horde had already taken the city. This knowledge was not without complications, though. She had taken the south gate, but Horruskh had taken the east. Both of their forces were pouring into the city, and the race to collect as many souls as possible would soon be on.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "98ab62ca-4e03-4fb1-8d5f-d7ceb798a87c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Drashak,\" Sabbreth said to the reaver commander who had become her shadow of late.\n\"Yes, mighty one,\" he said in a properly obsequious tone.\n\"Gather a force of reavers. Choose them for speed.\"\n\"At once,\" Drashak said and left to fulfill her orders.\nSabbreth stared ahead into the city where screams and weapon fire churned and echoed. She had Borisyuk’s name, and she would soon have his soul. What a pleasing offering he would make.\nThe city had mostly fallen, though the north gate, accessible only by land, had not yet been breached. This was where Borisyuk would flee. Sabbreth, her two Jackals, and a force of some hundred reavers ripped through the city, slaying any who stood in their path. There were few who did. The inhabitants of Skrovenberg, along with its defenders, were mostly broken, terrified, and they wanted no part in the fighting.\nShe hated to lose so many vessels ripe for sacrifice or enslavement, and Horruskh would certainly reap this bounty. She would let him. A greater prize awaited her. Here and there, she saw signs of Borisyuk’s passage. Reavers and ulkor gunned down or smashed and hacked by the man’s powerful machines.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1cf4323b-12d0-4755-9846-982567024173",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "As she neared the north gate, she spied a pitched battle in the distance between a group of Horruskh’s reavers, ulkors, and Jackals, identifiable by his sigil upon their armor, and a crimson colossus armed with a screaming saw blade and a talon-like claw. It ripped apart Horruskh’s troops with brutal ferocity and its commander, a tall, weathered man clad in the smoking armor of an Immorese battle wizard, gunned down reavers with an almost silent firearm or cut them to pieces with twin knives. His loud penetrating voice called out orders to red-clad soldiers, and they moved and fought with an ordered precision completely alien to how she and her fellow warlords waged war.\nSabbreth considered lending her aid and possibly slaying and stealing the soul of this mighty warrior, but she had another quarry in mind, and if Horruskh suffered losses here, that only made <i>her stronger.</i> She continued toward the north gate, whispering <i>Borisyuk, Borisyuk, Borisyuk</i> like a mantra or prayer. It was a promise to her Fellgoeth masters.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "441823d1-c7d2-4ae6-aac9-e05a38af761d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "One she intended to keep.\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "d0336982-039c-46c9-9a10-bec4dec9ce9a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:05f514ee-6761-43b3-8c83-d5c98ecc5a48",
+                "2:a8df786a-fcf0-481a-b1f5-ff39b10fe952",
+                "3:f22bea67-5208-429b-a4a4-5c4d0bc7c0f2",
+                "4:71e95a7b-63f3-45e4-bad5-81ae05439b88",
+                "5:45b3ccbe-d628-4ca5-bdb6-a15a0ec16a3a",
+                "6:d86552e7-5fd3-45e5-ba0c-cd5dd47ef990",
+                "7:f79d7f41-14fb-4cec-832b-89e3064dcbfd",
+                "8:e5d5495e-e842-4a5b-9d92-1c6c0653606b",
+                "9:99b26cb3-3b70-4b38-9deb-1181116c51c9"
+            ],
+            "artSegIds": [
+                "05f514ee-6761-43b3-8c83-d5c98ecc5a48",
+                "a8df786a-fcf0-481a-b1f5-ff39b10fe952",
+                "f22bea67-5208-429b-a4a4-5c4d0bc7c0f2",
+                "71e95a7b-63f3-45e4-bad5-81ae05439b88",
+                "45b3ccbe-d628-4ca5-bdb6-a15a0ec16a3a",
+                "d86552e7-5fd3-45e5-ba0c-cd5dd47ef990",
+                "f79d7f41-14fb-4cec-832b-89e3064dcbfd",
+                "e5d5495e-e842-4a5b-9d92-1c6c0653606b",
+                "99b26cb3-3b70-4b38-9deb-1181116c51c9"
+            ]
+        },
+        {
+            "guidStr": "acae728c-f368-41b4-aebe-ab2f6eb31ed8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:f8b9f0e7-11db-466d-ba25-2e9799be36c3",
+                "2:62992491-2177-44f2-be50-94c777141c44",
+                "3:521f7ab8-bd83-4fca-8fc3-4b4bcee88585",
+                "4:2aa0aa20-24c4-4e82-a231-f31697e837d4",
+                "5:2320e030-b71a-4b41-b955-043e632f5f7e",
+                "6:397bb548-66af-4db9-8422-59c91e68eabc",
+                "7:1c0d915e-e2fe-48d0-9127-57c69e17909e",
+                "8:5fc9f910-f651-4434-aae0-39658207f964",
+                "9:ca9e5cf2-bb72-433d-81de-323d69dec235"
+            ],
+            "artSegIds": [
+                "f8b9f0e7-11db-466d-ba25-2e9799be36c3",
+                "62992491-2177-44f2-be50-94c777141c44",
+                "521f7ab8-bd83-4fca-8fc3-4b4bcee88585",
+                "2aa0aa20-24c4-4e82-a231-f31697e837d4",
+                "2320e030-b71a-4b41-b955-043e632f5f7e",
+                "397bb548-66af-4db9-8422-59c91e68eabc",
+                "1c0d915e-e2fe-48d0-9127-57c69e17909e",
+                "5fc9f910-f651-4434-aae0-39658207f964",
+                "ca9e5cf2-bb72-433d-81de-323d69dec235"
+            ]
+        },
+        {
+            "guidStr": "527553d0-b71d-427c-91ee-53047824d64d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:c482f601-016a-4b1e-b543-6c18cea905f0",
+                "2:e5fea763-95a4-4b94-9606-2983ce97d09d",
+                "3:f214015f-4cdb-470a-b107-ad63929ad325",
+                "4:5d18b0a7-2055-4c41-a142-9fb36fee65d7",
+                "5:3c8b474d-7eda-4a12-9203-efcb89f520e7",
+                "6:c5ab2ba2-34e4-467c-94ca-c053e07b231c"
+            ],
+            "artSegIds": [
+                "c482f601-016a-4b1e-b543-6c18cea905f0",
+                "e5fea763-95a4-4b94-9606-2983ce97d09d",
+                "f214015f-4cdb-470a-b107-ad63929ad325",
+                "5d18b0a7-2055-4c41-a142-9fb36fee65d7",
+                "3c8b474d-7eda-4a12-9203-efcb89f520e7",
+                "c5ab2ba2-34e4-467c-94ca-c053e07b231c"
+            ]
+        },
+        {
+            "guidStr": "5f73acc2-03f5-403b-a2ba-dc6c75bb164b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:e2d35d27-9bc0-42da-bfc9-20d7b00e5c44",
+                "2:fcae390d-9705-4f2c-a345-ab2bd97d4d40",
+                "3:d7dd134e-9bc7-440f-82bb-7a9a5744278e",
+                "4:a27d5e2f-49b1-4a86-892a-c01e4157366e"
+            ],
+            "artSegIds": [
+                "e2d35d27-9bc0-42da-bfc9-20d7b00e5c44",
+                "fcae390d-9705-4f2c-a345-ab2bd97d4d40",
+                "d7dd134e-9bc7-440f-82bb-7a9a5744278e",
+                "a27d5e2f-49b1-4a86-892a-c01e4157366e"
+            ]
+        },
+        {
+            "guidStr": "0d9f7e0e-28ed-4ab1-993f-f1406615bbea",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:bf727477-c378-49f1-8271-4ee163eebacc",
+                "2:c93570ca-3728-44a6-b98b-c15c9ed1ffe9",
+                "3:68300a45-efd8-43af-8efa-c46dbc8b0aef",
+                "4:98ab62ca-4e03-4fb1-8d5f-d7ceb798a87c",
+                "5:1cf4323b-12d0-4755-9846-982567024173",
+                "6:441823d1-c7d2-4ae6-aac9-e05a38af761d"
+            ],
+            "artSegIds": [
+                "bf727477-c378-49f1-8271-4ee163eebacc",
+                "c93570ca-3728-44a6-b98b-c15c9ed1ffe9",
+                "68300a45-efd8-43af-8efa-c46dbc8b0aef",
+                "98ab62ca-4e03-4fb1-8d5f-d7ceb798a87c",
+                "1cf4323b-12d0-4755-9846-982567024173",
+                "441823d1-c7d2-4ae6-aac9-e05a38af761d"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "a1563870-6794-4027-bbb7-8debf7db7ae1",
+            "name": [
+                "Dark Rising\\nPart Four - Chapter 1 Dark Rising Part Four: Dark Storm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:d0336982-039c-46c9-9a10-bec4dec9ce9a",
+                "2:acae728c-f368-41b4-aebe-ab2f6eb31ed8",
+                "3:527553d0-b71d-427c-91ee-53047824d64d",
+                "4:5f73acc2-03f5-403b-a2ba-dc6c75bb164b",
+                "5:0d9f7e0e-28ed-4ab1-993f-f1406615bbea"
+            ],
+            "articleIds": [
+                "d0336982-039c-46c9-9a10-bec4dec9ce9a",
+                "acae728c-f368-41b4-aebe-ab2f6eb31ed8",
+                "527553d0-b71d-427c-91ee-53047824d64d",
+                "5f73acc2-03f5-403b-a2ba-dc6c75bb164b",
+                "0d9f7e0e-28ed-4ab1-993f-f1406615bbea"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

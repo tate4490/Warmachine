@@ -1,0 +1,1407 @@
+{
+    "bundleName": "data publication interstitial 6 - the devils you know.json",
+    "general": {
+        "guidStr": "0f9baf9d-22f2-4af8-a66f-c9d35129962b",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "f6dd930e-7456-44e6-9271-bc54d0218939",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "The Devils You Know",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1497fa21-a359-40dd-ae4b-8717ed89c780",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_khador_kapitanzaharavilkul_portrait.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1300,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b5e6c818-9e3f-4516-b33d-5d7a35bbe28d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3962dc32-21f1-4208-b4b8-e96d740c7a5b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "The Devils You Know",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#560A0B",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "17ff8cfb-d3d7-4276-a431-e0699b10f1ac",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Kapitan Zahara Vilkul stood on a rocky promontory, looking north toward Khardov. Winter clouds blocked out the stars above, but the north bloomed with its own flashing constellations. Booms of fire from a shower of artillery lit up like tiny suns. Crackling streaks of bloody energy were meteors streaking through the sky, leaving ghostly green after-images in her eyes. Smaller pinpricks of light made up the distant stars in this celestial landscape: the small-arms fire of Khardov’s defenders desperately fighting in the city’s defense. She was far enough from the fighting that the largest explosions sounded like muffled booms, while the smaller weapons produced the crackling of pork fat in a skillet.\nBetween her and the besieged city were mile after mile of ravaged Khadoran countryside. She knew from experience that dozens of battlefields would make a patchwork of the land, churned under by the tread of warjacks, awash in pools of mud and blood. Places that used to be villages and towns were stripped down to ruined foundations, occupied only by vermin and carrion crows. The invaders might not have claimed this part of Khador yet, but neither could it be called Khadoran controlled. Not anymore.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "656fccdb-b787-4c05-be81-4711446589e7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A massive blast pierced the air, momentarily lighting up Khardov’s walls. Vilkul’s mission would bring her closer to the ongoing siege. Nowhere as close as she would have liked, but her role was not to man a city’s walls in its defense. She and her soldiers were Khador’s scalpel, not its shield. SKS-6 was best used to slice open tiny wounds an enemy would not notice until it collapsed from the loss of blood.\n\"We have guests for dinner.\" The Jackal’s voice cut through Vilkul’s musings. Sergeant Lazarenko was her right hand and—if she had one—closest friend. The burly Khardic man jerked a thumb over his shoulder.\n\"For people who fly everywhere, you’d think they’d manage to make it on time.\"\nVilkul followed Lazarenko’s gesture and turned to see the approaching figures. Their armor glinted faintly in reflected flashes of distant artillery. The newcomers looked almost out of place in this scabbed-over landscape. She picked out their leader, Captain Hasker, by the boiler of his warcaster armor. Upon learning of this joint operation, she had requested a profile on the man and his military career. He was responsible for numerous successful strikes against Orgoth forces, almost enough to impress her.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4be3aec6-a4b1-44b5-9dd7-11b0143890b1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Hounds were eyeing the Cygnarans with the predatory expressions that earned them their nickname. Korporal Teterya wolf-whistled at the unmarred enamel of the southerner’s armor; it was in stark contrast to the battle-damaged kommando armor she wore.\nA man in warcaster armor broke from the group as Vilkul approached, extending a gloved hand. \"Captain Buck Hasker. You’re Vilkul?\"\n\"I am. And you are late,\" she said, ignoring his offered handshake. She brushed past him to examine the force accompanying him. There was a small unit of Cygnaran commandos and a single trollkin who made the Jackal look slight by comparison.\n\"We had to improvise a new drop location. The opposing force had compromised our initial dee-zee,\" Hasker explained.\n\"They have ‘compromised’ most of Khardoska, I think,\" Vilkul said. \"Where is your warjack?\"\nCaptain Hasker indicated the tree line to the south. \"Under cover until we could confirm contact with you.\" He closed his eyes to summon the machine. \"Plugger will be along shortly.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "289ce1a3-4a2a-4d8c-8e97-b5f0647f0a33",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Vilkul whistled. \"Six, gear up! When this Plugger arrives, we are moving.\" Her team affirmed the order and gathered their equipment. She noticed one of the southerners’ appraising looks as the Hounds and the Jackal checked and readied their weapons, particularly when Skrobala hefted his assault cannon.\n\"Cor, Bruno. That bit of kit could give Rain a run for her money,\" the bearded man said to the hulking trollkin beside him.\n\"Hrm,\" the trollkin grumbled. \"Smaller caliber. Armor penetration instead of stopping power. Bet it don’t even have a name.\"\nHis gas mask distorted Skrobala’s voice. He responded in clumsy Cygnaran, \"Of course it has. Is named ‘gun.’\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "87c4ee0f-3966-4d99-96b9-6f03e2e00cb8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Once the Cygnaran warjack arrived, the two teams set out. They moved in a wedge formation. Vilkul and Hasker took point, with the Khadoran force forming one wing and the Cygnarans the other. At the rear of each group, a dozen yards behind, their corresponding warjacks provided a strong rear guard. Vilkul brought Captain Hasker up to speed while on the move.\nThe Orgoth had amassed a column near Fort Csabor west of Khardov. The fort had previously served as a munitions depot for the 3rd Army but was captured by the invaders during a retreat from Khardoska’s western territories. Fighting in the region had been constant, but the Orgoth had managed to grind the Khadoran defense farther east, putting pressure on the defenders at Khardov. Her orders were to target high-value assets of the Orgoth column to delay its ability to reinforce the siege at Khardov.\nHasker, in turn, explained how his superiors had sent him to assist with the operation. The strategic objective of Cygnar’s warmaster was to delay the Orgoth’s capture of Khadoran territories, thereby reducing pressure on Cygnar’s Ordic allies to the south. The more forces the invaders spent crashing against Khardov’s defenders, the fewer they would have to expend on their southern conquests—in theory, at least. The CRS’ spies had also observed a significant number of Immorese captives being transferred to Fort Csabor in the past week, suggesting the Orgoth had more going on in Khadorska than simply reinforcing the attack on Khardov.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "bef4ffb9-56e4-4f1f-a998-05c588141340",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The combined force moved forward through the war-torn countryside, keeping at the edges of the dense woods, their movements synchronized. Vilkul’s voice cut through the chatter as she relayed the mission objectives, her tone sharp and precise. The Cygnarans listened attentively, but Vilkul could sense a hint of resistance and skepticism to her words—this wasn’t their territory, and their trust in the Khadorans was thin at best. She paid it no mind; their survival depended on cooperation. And she cared little for their opinions anyhow. Regardless of their lofty self-importance, they were an asset and little more, here to assist her in the task at hand.\nBehind her, her Dire Wolf Razor followed with a deliberate yet fluid gait, its massive metallic frame glinting as moonlight filtered through the canopy. The warjack’s eyes glowed faintly, scanning the surroundings for threats. Vilkul felt a strange comfort in its presence—a sentinel she could rely on when human judgment faltered.\nOn the other side of the formation, the warjack known as Plugger moved in a similar manner. The ’jack was an oddity. In Vilkul’s experience, the machines of Khador were always larger than their southern counterparts. Even stranger, Plugger was powered by a coal furnace, despite the Cygnarans having developed more sophisticated power sources. Its dented chassis and chipped enamel were a better match to her Hounds than Hasker’s neatly uniformed soldiers. Regardless, it moved with considerably less noise than other machines of comparable size, much like Razor.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7d96d264-c7b5-42a1-86f3-3b18c98f95a7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***\nAfter many minutes moving northeast, the woods around them began to thin out where explosives, the tread of war machines, and uncontrolled fires had reduced the trees to a field of charred stumps. Beyond it lay an open field dotted with hundreds of irregular forms—even in the dark of night, she could recognize them as bodies. A few scavengers prowled among the corpses, occasionally ripping a bit of flesh off with a wet noise.\nThe bodies were cruelly emaciated and had webs of lash marks across their exposed backs, enough in some cases that the meat and glistening nubs of bone were visible. Their captors had severed their hands, replacing them with caps of dark iron. Judging by the burn scars surrounding these caps, they had been forced on straight from the forge. A complex Orgoth rune was branded into the muscles on their exposed chests. Each of the bodies wore an iron mask that covered the top half of their faces, held in place with bolts affixed directly to their skulls. Based on how livid and purple their bodies were in places, and the nauseating aroma rising off the corpses, they had lain in this place for several days at least.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "415d0f13-c41c-4be1-ace9-74a2e753f2b6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What am I looking at?\" Captain Hasker asked in disbelief as he drew alongside Vilkul. \"Are these Cryxian thralls?\"\nVilkul shook her head. \"The fruits of the Orgoth,\" she replied, gesturing at the field of the dead. \"Those they capture alive, they mutilate like this to use as beasts of burden. They work them like animals until they fall from exhaustion or starvation. I have seen elderly captives bearing the weight of unthinkable burdens on their backs. Young or old matters little to the invaders.\"\n\"Morrow’s mercy,\" Hasker began, but Vilkul cut him off.\n\"Don’t waste your prayers. When the body is no longer useful, the Orgoth drag their captives into the wilderness to rob them of the last piece of themselves. Their souls are stolen to fuel the invaders’ foul appetite. All that remains is a feast for the worms.\"\n\"I’ve fought Orgoth, but I’ve never seen anything like this,\" Hasker said, his expression grim.\n\"Perhaps when their ships begin to land on southern shores, you’ll see many, many more.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "19e7741b-d744-420c-9a26-e96a5ace27e9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***\nThe terrain grew rougher as they approached the outskirts of Fort Csabor. Hasker signaled his unit to fan out; the trollkin Bruno hefted his weapon with apparent ease. Skrobala, meanwhile, adjusted his gas mask and muttered something incomprehensible as Teterya shot him a warning look. Vilkul ignored the minor squabble and focused on the horizon. The Orgoth column would be close now, its targets likely guarded with the most proficient of the enemy’s forces.\nStopping just short of the crater’s edge, she raised her hand for the teams to halt. \"This is where we split,\" Vilkul announced. \"Hounds, with me. Cygnarans, hold the western flank and prepare for suppressive fire.\" Her orders were met with curt nods, though Hasker hesitated for a moment longer than she liked.\n\"We’ll hold it,\" he said, his tone hard.\n***\nThe Hounds began their advance, their steps almost unnaturally quiet for warriors so heavily armed. Teterya led the way, her carbine slung across her shoulder, as Fedyniak loaded his grenade launcher with detached precision. Skrobala brought up the rear, his assault cannon a potential hailstorm of firepower should they need it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "99a32c7c-adf1-4f9b-9839-a72942340d03",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The teams vanished into the thicket, each group moving with purpose toward their designated targets. Vilkul knew the Orgoth defenses would be formidable, but she trusted her team—and Razor—to execute the mission with the precision and brutality that had earned them their reputations. The battle ahead would not be won easily, but victory here could tilt the scales in Khardov’s favor. She tightened her grip on her Death Whisper carbine and pressed forward, the sound of distant chatter growing louder with every step.\nA bitter wind swept across the ruin-churned valley below their position, stirring ash and soot into low spirals. Vilkul crouched in the hollow of a collapsed pillbox, peering through a compact spyglass toward the remnants of Fort Csabor. The once-proud Khadoran structure had been reduced to a scarred husk—concrete sheared away by artillery, red banners once proudly flying the Anvil of Khador now a few ragged strands. Above the shattered bastion, Orgoth standards whipped in the smoke-heavy air, bleached hides nailed to black iron poles.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e4550205-47da-4795-ad91-21ab8bb13866",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The valley spread out before her like a rotted dish. A crater-pocked roadway bisected the basin from west to east, bordered by half-collapsed outbuildings and rusted husks of gun carriages. To the south, the jagged tree line veiled her team’s advance. The Cygnarans had dug in to the west, their position camouflaged by the rubble of a shattered curtain wall. The valley was the killing ground—hers to orchestrate, if they could pull this off.\nShe adjusted her spyglass.\nThe Orgoth force had set up what she assumed was a command tent near the fort’s northern breach. At its heart stood a warjack. Unlike Khadoran or Cygnaran designs, these constructs were like brutish beasts, more akin to the machines of the Nightmare Empire than Razor. Behind it loomed their supply train—beasts of burden dragging artillery sleds on serrated runners, flanked by press-ganged pack-thralls like those she had discovered in the woods. Scattered between the vanguard and the rear guard were clusters of warriors out of their armor, eating and drinking in small groups. Lying nearby, their armor and weapons: polearm-like harpoon launchers, wicked hand weaponry, barbed shields, and bolt throwers.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6602c6f0-d848-40a2-ad42-4372f54cc12b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She lowered the spyglass and spoke softly to the Jackal. \"Their force is better organized than we hoped. One warjack confirmed. Possibly two. Infantry in three pods. Southern picket’s thin. Western flank is their blind side—assuming we act fast.\"\nThe Jackal’s response came in a beat later. \"That’s what we’re here for.\"\nA small glint of red light showed from the Cygnaran position to indicate they were in place and ready.\nShowtime. She signaled the Jackal.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8ca66d27-cf76-4edd-a80a-4c89af8caf18",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "He shouldered his ’jack buster and rose from the ruins of the pillbox, sending a rocket whistling into the chassis of the Orgoth machine.\nHis shot landed like Menoth’s judgment. It rocked the foul machine back, rupturing lines that fed glowing red energy through its frame. The energy flowed out like blood and erupted into scarlet flames where it touched.\nFrom her perch on the hillside rubble, Vilkul watched the Orgoth column stall in confusion as the flare arced overhead and burst into a bloom of hellish red, bathing the valley in light. The Cygnarans on the west flank opened fire a heartbeat later—coordinated suppressive fire that tore through the enemy’s exposed side like a saw blade through meat. Hasker’s team struck with ruthless discipline, and the trollkin’s autocannon roared like the shout of an angry dragon.\nIt was her turn now.\n\"Hounds—bite,\" Vilkul hissed.\nShe surged forward with Teterya at her right and the Jackal bounding ahead to scout the edge of their kill zone. The tree line behind them vomited Khadoran firepower as the Hounds descended into the basin like angry beasts. Fedyniak’s first grenade punched into the enemy’s forward scouts, vaporizing flesh and armor. Screams followed—Orgoth soldiers stumbling back, dazzled by the flare, some trying to form defensive lines.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "dd60caae-0cdb-48bd-a736-71d0b0e4da87",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Too slow.\nRazor crashed through the shattered ridge above them, earth and stones exploding in its wake. The warjack’s targeting runes painted a glowing crimson arc through Vilkul’s vision as its anti-personnel launchers spat grenades into a hastily forming phalanx. Smoke, shrapnel, and bodies bloomed together in a single violent moment.\nThen she saw it: another of their heavy machines. The second Orgoth construct emerged from the black ridge line opposite Razor. Hulking, hunched, covered in bone-plated armor that steamed where Cygnaran bullets struck it—its head was a helm of razored metal, no eyes, just a jagged slit from which dull crimson light glared. It howled—a sound like war horns scraping over a furnace—and charged.\nShe mentally nudged Razor to engage.\nThe Dire Wolf met the charge. Its slug cannon discharged point-blank, slamming into the enemy’s hull. The Orgoth jack reeled then barreled forward undeterred, its talons raking across Razor’s ripper shield. Sparks sprayed like a hammer striking hot iron.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "05e2a676-21ed-4146-bab7-a57055e759cc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Vilkul dove into cover behind a shattered munitions crate as the two machines slammed together with earthshaking force. Metal screamed against metal. Razor’s saw activated with a shriek and carved deep into the enemy’s left forelimb—but not deep enough. The Orgoth construct slammed its bulk forward, lifting Razor’s left leg off the ground.\n\"Skrobala! Right side!\" she barked.\nSkrobala opened up, his assault cannon chewing a line of suppressive fire into the Orgoth infantry attempting to flank Razor. Teterya picked off a hulking warrior barking orders. Fedyniak’s grenades created a momentary cordon of flame and steel.\nThe Cygnaran flank was holding. She saw one of Hasker’s take a javelin-like projectile in the stomach as a group of reavers returned fire, but Plugger stormed through them a second later, his trench blades cleaving two of the Orgoth in a single swing.\nBack in the melee, Razor had regained its footing. Vilkul felt the warjack’s urgency spike as its targeting reticule narrowed to a single point—just beneath the Orgoth warjack’s head. The ripper shield rotated. Then it plunged.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e3a56502-9937-4c47-80b8-cb1235ce4406",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A metallic shriek and a geyser of fluid and flame erupted from the enemy’s hull. The Orgoth warjack convulsed, shuddered, and collapsed, the slope trembling beneath its weight.\nThe line buckled. The Orgoth infantry, now caught in a crossfire between Razor’s rampage and the Cygnaran gunners, began to rout.\nVilkul rose from cover, voice like ice. \"No prisoners. Drive them west—into the Cygnarans’ line. Bleed them out.\"\nShe surged forward, boots pounding broken earth. Around her, the Hounds howled and followed.\nThis wasn’t a war. It was a slaughter.\nShe reached back and grabbed two of her axes, which thrummed into life at her touch. Howling like her soldiers, she ran at the nearest pocket of Orgoth still standing. She brought both of her axes down into the faceplate of one of the invaders, leaving a wedge-shaped cavity where his face once was. Another of the raiders turned to flee as she pulled her weapons free; she hurled an axe into his back, grabbing another from the supply she carried on her back.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6faf12a0-b23e-4e84-abf9-b71796d4b1bd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Like a hunting hound, she was driving these survivors into the killing field, where even the Cygnarans couldn’t miss their shots. Vilkul summoned Razor to her side to help shepherd the Orgoth to their deaths. When one raised a weapon at her, she would chop through it, her mechanikal axes cutting through the Orgoth metal with little resistance. The ruthless expressions she was so familiar with were absent from the faces of the Orgoth, replaced by an untamed and rampant fear the farther she drove them back. The Hounds and the Jackal had caught up to her, but with a gesture, she signaled for their weapons to fall silent. The deaths of the invaders would not be SKS-6’s to enjoy.\nFinally, she had driven the last survivors to her destination. To the supply train and the pack-thralls condemned to bear it as a burden.\n\"Children of the Motherland,\" she called out in Khadoran, \"I know you cannot see me but follow the sound of my voice. I have brought you two gifts. The first is the mercy of a death that is quick and free from any further pain. The second, though…\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d5385a92-9a8a-4a5f-9b95-bacd5779fd30",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She looked at the few Orgoth she and her Hounds had hemmed in. At the slow dawn of realization creeping across their faces. She distantly heard Captain Hasker calling out to her, asking what she was doing. She resolved to show him.\n\"The second is this: one last chance to defend your Motherland. To defend your brothers and sisters, your countrymen, and your empress. To bring justice to enemies of Khador with the cruel implements they have thrust upon you.\"\nOne by one, the sightless pack-thralls began to creep forward, handless limbs outstretched. And one by one, they found where the Orgoth huddled together. The sound of their iron-shod stumps raining down on the Orgoth began, joined soon by the screams of the Orgoth.\nFirst Vilkul, then the rest of the Hounds, threw back their heads and joined their voices to the choir, howling like a pack of triumphant wolves. Let the southerners think what they wanted should they come into the valley to witness this strange scene. Unlike the Orgoth, whom her fellow Khadorans were slowly beating into piles of ragged meat, the Cygnarans were of Immoren. They were descended from the heroes who had driven the Orgoth back the first time.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5c1abc6b-28fa-483f-93b5-895a9d8b6cd5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They were, in Kapitan Vilkul’s eyes, still human.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "a5085682-6af4-4eda-8f20-0267ff54bd06",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:f6dd930e-7456-44e6-9271-bc54d0218939",
+                "2:1497fa21-a359-40dd-ae4b-8717ed89c780",
+                "3:b5e6c818-9e3f-4516-b33d-5d7a35bbe28d",
+                "4:3962dc32-21f1-4208-b4b8-e96d740c7a5b",
+                "5:17ff8cfb-d3d7-4276-a431-e0699b10f1ac",
+                "6:656fccdb-b787-4c05-be81-4711446589e7",
+                "7:4be3aec6-a4b1-44b5-9dd7-11b0143890b1",
+                "8:289ce1a3-4a2a-4d8c-8e97-b5f0647f0a33"
+            ],
+            "artSegIds": [
+                "f6dd930e-7456-44e6-9271-bc54d0218939",
+                "1497fa21-a359-40dd-ae4b-8717ed89c780",
+                "b5e6c818-9e3f-4516-b33d-5d7a35bbe28d",
+                "3962dc32-21f1-4208-b4b8-e96d740c7a5b",
+                "17ff8cfb-d3d7-4276-a431-e0699b10f1ac",
+                "656fccdb-b787-4c05-be81-4711446589e7",
+                "4be3aec6-a4b1-44b5-9dd7-11b0143890b1",
+                "289ce1a3-4a2a-4d8c-8e97-b5f0647f0a33"
+            ]
+        },
+        {
+            "guidStr": "26de5e0d-0264-4576-9561-2aa9dd5e89d5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:87c4ee0f-3966-4d99-96b9-6f03e2e00cb8",
+                "2:bef4ffb9-56e4-4f1f-a998-05c588141340",
+                "3:7d96d264-c7b5-42a1-86f3-3b18c98f95a7",
+                "4:415d0f13-c41c-4be1-ace9-74a2e753f2b6",
+                "5:19e7741b-d744-420c-9a26-e96a5ace27e9",
+                "6:99a32c7c-adf1-4f9b-9839-a72942340d03",
+                "7:e4550205-47da-4795-ad91-21ab8bb13866",
+                "8:6602c6f0-d848-40a2-ad42-4372f54cc12b"
+            ],
+            "artSegIds": [
+                "87c4ee0f-3966-4d99-96b9-6f03e2e00cb8",
+                "bef4ffb9-56e4-4f1f-a998-05c588141340",
+                "7d96d264-c7b5-42a1-86f3-3b18c98f95a7",
+                "415d0f13-c41c-4be1-ace9-74a2e753f2b6",
+                "19e7741b-d744-420c-9a26-e96a5ace27e9",
+                "99a32c7c-adf1-4f9b-9839-a72942340d03",
+                "e4550205-47da-4795-ad91-21ab8bb13866",
+                "6602c6f0-d848-40a2-ad42-4372f54cc12b"
+            ]
+        },
+        {
+            "guidStr": "6d60961b-8f03-41bb-ac6c-a5a6cb90c22f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:8ca66d27-cf76-4edd-a80a-4c89af8caf18",
+                "2:dd60caae-0cdb-48bd-a736-71d0b0e4da87",
+                "3:05e2a676-21ed-4146-bab7-a57055e759cc",
+                "4:e3a56502-9937-4c47-80b8-cb1235ce4406",
+                "5:6faf12a0-b23e-4e84-abf9-b71796d4b1bd",
+                "6:d5385a92-9a8a-4a5f-9b95-bacd5779fd30",
+                "7:5c1abc6b-28fa-483f-93b5-895a9d8b6cd5"
+            ],
+            "artSegIds": [
+                "8ca66d27-cf76-4edd-a80a-4c89af8caf18",
+                "dd60caae-0cdb-48bd-a736-71d0b0e4da87",
+                "05e2a676-21ed-4146-bab7-a57055e759cc",
+                "e3a56502-9937-4c47-80b8-cb1235ce4406",
+                "6faf12a0-b23e-4e84-abf9-b71796d4b1bd",
+                "d5385a92-9a8a-4a5f-9b95-bacd5779fd30",
+                "5c1abc6b-28fa-483f-93b5-895a9d8b6cd5"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "7c55049c-99c3-4d4e-a340-0ca46c3eda77",
+            "name": [
+                "Interstitial 6 -  - Chapter 1 The Devils You Know",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:a5085682-6af4-4eda-8f20-0267ff54bd06",
+                "2:26de5e0d-0264-4576-9561-2aa9dd5e89d5",
+                "3:6d60961b-8f03-41bb-ac6c-a5a6cb90c22f"
+            ],
+            "articleIds": [
+                "a5085682-6af4-4eda-8f20-0267ff54bd06",
+                "26de5e0d-0264-4576-9561-2aa9dd5e89d5",
+                "6d60961b-8f03-41bb-ac6c-a5a6cb90c22f"
+            ]
+        }
+    ],
+    "publications": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

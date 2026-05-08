@@ -1,0 +1,1407 @@
+{
+    "bundleName": "data publication interstitial 2 - weakness.json",
+    "general": {
+        "guidStr": "543bf5d3-843c-4730-8ec5-1898d785d7d3",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "072ccfad-a459-45dc-834d-4cf26f402b9b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Weakness",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5b9cb9dd-5093-4018-8fbd-96962b179ba3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/Khymaera/lore_basic_dusk_scyrafael_portrait.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1300,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "54957a0e-cb40-4a42-b47a-8bcb6f590f60",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5a811431-7990-4dcd-af29-9e22c9727c06",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "PART TWO",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#8a301c",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c06cdffc-7dfd-4bd1-aa63-310d31c1bbd2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ord had proven to be a miserable place. Neither wretched nor despicable, it contained little to inspire much emotion in Scyrafael, good or bad. Instead, Ord was simply bland. Its anonymous forests and empty marshes held none of the majesty or beauty she’d found elsewhere in the world. Even the elements themselves were muted beneath a perpetual shroud of fog that lingered in this region.\nIn Ios, Scyrafael had grown used to the sun that caressed the northern mountains at dawn—and then in its absence, the heart-wrenching nothingness that descended across the bleak eastern wastes during the dead of night, a phenomenon Scrafael had found both disturbing and liberating in equal measure. She had felt echoes of both wherever she had travelled these last years.\nNot here.\nIn many ways, Scyrafael had reflected over the last handful of days, the fate of such a drab and apparently meaningless land meant very little. There were no natural resources in Ord to fuel the Orgoth war machine. No strategically advantageous locations when the Orgoth already held dominion over the coastline and could strike at will, and already occupied large stretches of Khadoran land.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4c250880-4940-4bd4-bd3d-0517fc53f74f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Still, the humans fought to protect Ord. And for all that their motivation had once seemed so alien to her, in time Scyrafael had come to appreciate why.\n<I>Fear.</I>\nAmongst the high command, this was fear of the invaders so close to their borders. If Ord fell, the Orgoth would be at the northern edge of Cygnaran territory and poised to strike at the underbelly of Khador. By pushing deeper inland, the Sea Raiders might even be positioned to threaten Llael—or even sever the land bridge between the two allies, forcing long marches through the Bloodstone Marches before they could conduct joint operations again.\nIt mattered little that these eventualities were unlikely to come to pass. Advancing into Khador meant traversing the Murata Hills and overcoming the line of defenses there. Invading Cygnar by land would require crossing Serpent Gorge and the Dragon’s Tongue River while under fire. Farther east was protected by the wild and untamed Thornwood Forest. Yet however illogical this unfettered advance might have been, it somehow remained a concern worn across the strained expressions of the human commanders.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ceec0153-c8cf-423b-84b2-f8eedc499ac7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "However, the fear in the eyes of their soldiers was of a quite different and far more tangible nature.\nBy now, stories borne by fleeing and wild-eyed survivors or soldiers that had managed to advance through enemy lines had begun to take root. The Orgoth did not occupy territory; they despoiled it. Rumors of the horrors inflicted upon the populaces of conquered settlements abounded. Warnings of mutilated bodies strung from buildings or impaled on spikes, and crumpled cadavers left to rot in the open air after having their souls harvested in the name of the Orgoths' infernal masters.\nThose were the more fortunate victims. The others had been driven beyond the limits of their sanity before being turned into living weapons and set loose in service of the enemy. Soldiers both Cygnaran and Khadoran had by now faced a tide of these terror weapons more than once, wincing at a cacophony of agonized screams as a wall of pained and lost souls advanced upon them.\nWhilst the battle-hardened soldiers had managed to find resolve in the face of such atrocities, despair had taken hold of most of the less experienced and softer willed humans. It was a raw and unmitigated fear that gnawed at the discipline of Scyrafael’s allies, despite the best efforts of their officers to quell it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ffed6d4b-5431-4803-bd1a-f6eb7dea40c4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "As time passed and she observed the humans more, Scyrafael had found herself curious as to what that sensation might feel like. Emotions no longer came to her as they once did, forever altered the moment she arose as eldritch.\nIt would be too easy to say that the mind of an eldritch was numb—that belied a maelstrom that lurked somewhere within. Yet though Scyrafael was as aware of her emotions as the occupant of a building would recognize a storm lashing at their windows and doors, she existed in a detached void, at once aware and familiar with the torrent but also trapped from feeling the sensation as anything more than a fleeting memory.\nThe longer she went without feeding, the less coherent those memories became. Scyrafael made it a habit of fasting even in times of rest, and battlefield necessity had now pushed this natural inclination even further still. She found that a hidden part of her yearned for the connection, an uncomfortable impulse she didn’t entirely understand.\nThe reality the humans inhabited seemed more distant than ever. And accompanying it was an unsettling perturbance that had come to occupy her mind far too much, a strange and evasive yearning that would always escape her the moment she turned her mind to it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9f945416-e559-49a9-bd17-996e49b3576e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a092747e-5253-4611-97e1-51ca2fdc0b1b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Scyrafael had foreseen the fall of Ord—first in prescient dreams alone but shortly thereafter as a logical eventuality of the events and reports from the frontlines.\nOrd was a state that had existed for decades in neutrality. It possessed little coin to stand a large military nor had it needed to create fortifications within its borders to blunt an aggressor’s blade. What little military traditions it did have were tied to its castellans, proud individuals who were slow to action. The level of influence held by the order of the Crucible Guard had risen in the years since the Infernal War, but they were a poor substitute for an organized state military. Scyrafael had seen just how devastating their experimental weaponry could be firsthand over these last few days, but also what they lacked in numbers and in equipment.\nThe Orgoth had attacked in two places. While some elements of the Orgoth forces had landed and besieged the coastal cities of Berck and Carre Dova to the west, a second attack broke through the defensive fortification at Scarswall to the north. Once their armies were within the interior, Ord’s large stretches of open land had presented little by way of adversity to marching columns of invaders. The Orgoth had continued unopposed, overrunning each settlement they found, until they were wolves at Merin’s door.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f8713d59-573b-4203-a7e7-df1dd971ef00",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The advance had been so swift that the Ordic forces in the field had been unable to mobilize. By the time armies could muster, they were effectively trapped inside the cities and cut off from the outside world. Ord’s famous castellans could only watch from behind their walls and gnash their teeth impatiently as news reached them of events vastly beyond their control.\nMerin’s only relief had come from Scyrafael’s forces sent by the alliance. Her forces were few in number enough to have quickly reached the beleaguered city before it could be encircled, but they were equally unable to make any real difference to the destiny of the siege. Scyrafael was ostensibly charged with securing the king’s safety, but her mission was little more than a token gesture—the alliance was already stretched too thin, and she harbored no illusions they could even protect the city, let alone Ord itself.\nThe moment she had arrived, Scyrafael’s suspicions had been realized. Merin was a trade hub rather than a fortress. Its soldiers were defiant, but its defenses soft, having so seldom been tempered by war. The defenders had already suffered heavily from fighting in the outlying districts beyond the walls. By now those homesteads had been reduced to little more than smoldering ruins, smoke thankfully hiding the atrocities committed within.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3ef1cd14-0709-4bdb-bda0-a92d607664f7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A significant horde already camped outside, but still the Orgoth columns arrived, swelling the enemy ranks at their gates. At first, Scyrafael wondered if the enemy had done the unthinkable and redirected their greater efforts from Khador to Ord in pursuit of plundering the ancient Orgoth secrets left within the Thornwood during their first invasion.\nThen came the news: Carre Dova had been overrun.\nOminous and hideously oppressive, a great ashen cloud had grown over the southwestern horizon. Upon first seeing it, the defenders had known that the city had been razed and was no more. Unable to do anything else, the Ordic soldiers had each forced steely expressions and had hidden their grief deep within. They knew the grisly doom that had likely befallen their countrymen.\nIn the days and weeks that followed, the bleak shroud remained, a constant reminder that the same horror awaited Merin, should its defenses falter. So much time spent repressing their terror and in the face of an enemy resolved to utterly destroy them had turned the human defenders jaded and numb, not unlike the soulless amongst Scyrafael’s retinue. They spoke in hushed and broken voices and carried out their orders in a daze. Their hearts were already defeated.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "73671fed-7f5c-4c2e-bf4d-b7d83f708f0a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "As the blot had darkened and the siege wore on, the fighting grew in intensity. Great beasts of war, akin to those deployed by the skorne during their invasion of Ios, smashed into the city’s walls. Each time either Scyrafael’s forces or the weapons of the Crucible Guard would bring the creatures down, but not before irreparable damage was inflicted to the defenses. With the passing of each day, survival for those within became less likely.\nYesterday, the defenders had awoken to the sight of a new plume. Farther north than the first, it was a herald of only one thing: Corbhen now burned too. For the first time, the human soldiers dared to admit what they already knew. The rest of their country was on its knees, and they were next. The weakest amongst them openly wept, tears trailing across expressions turned pale.\nThey would at least be spared knowing the fate of Berck. As though invigorated by the destruction wrought elsewhere, the Orgoth had at last broken through Merin’s walls as the sun reached its zenith and began to descend once more.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "142a54b1-d77b-4de8-921b-0804b26f77d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Were she still mortal, Scyrafael would have been exhausted. The intensity of the fighting had been unrelenting, as untold numbers of Orgoth attempted to rush through the breach. Where once an unnatural staccato rhythm had existed over the city, now all that suddenly existed was battle—a long drawn out legato with no pause and no respite.\nDay and night had become irrelevant in streets darkened by black smoke from warjack furnaces, tainted muted green and amber by alchemical weaponry. Vicious and bloody advances met defiance and hastily erected barricades. The screams of the dying were lost amongst the clash of steel and cannon fire.\nAfter observing the Orgoth troops redeploying to where the walls had fallen, Scyrafael had taken the initiative. With her mission still in mind, she’d abandoned the street fighting during the early hours of the morning and redirected her forces to attack the Orgoth lines at the eastern gate. Merin was doomed, but it would not become the king’s tomb nor that of the alliance troops she led.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "59e440d6-b16f-499c-87b9-46fda62234b8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Scyrafael considered most Orgoth little more than bloodthirsty savages. Their force was a blunt instrument designed only for attack, severely lacking in discipline—especially if made to sit so long idle. Her intuition had been born out during the fighting. Those left to guard the perimeter had fought with violent abandon once they’d realized they were under attack, but they hadn’t been organized enough to withstand a sudden assault from a warcaster and her forces.\nScyrafael had secured an escape route, through which the royal guard now lead King Baird and his court to safety. In the aftermath, she returned to the city. And as dawn returned to reveal the ruination of the city in stark relief, his ignominious flight was accompanied by a sad lament. The defenders’ remaining commanders were now sounding retreat.\nThe encroaching light crept amongst the buildings and across empty streets and lanes to reveal the results of the previous night’s fighting. Debris and spent munitions littered the streets, nestled amongst great craters blasted into the ground. Fallen soldiers lay strewn in crumpled heaps nearby, crows picking at their lifeless bodies until the birds were shooed away.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "08993e66-d59d-4964-ae40-be1c0e1b23fc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Scyrafael drifted silently without any sense of direction or purpose. For the first time in many weeks, she felt the absence of her warjacks, a pair of Eidolons that had repelled every attack during the siege but were lost in the fury of the overnight skirmish. Now she was utterly alone with her thoughts, a strange and eerie sensation after so long spent commanding a battlegroup.\n***",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "146d9d69-d4fb-46c6-968b-63aa33270e90",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Morning light strained to break through the clouds of roiling gas flooding the cobbled streets, casting the world in an orange haze. Responding to the call for retreat, the Crucible Guard had begun firing their chemical weapons to cover the withdrawal. The toxic clouds had quickly grown thick, obscuring all but the most immediate surroundings and reducing Scyrafael’s vision to not much farther than her outstretched hand. Even the scorched and skeletal remains of buildings and spires around her had become dark shadows, murky shapes lost somewhere within the gloom at an indiscernible distance.\nThe flight from Merin was no organized retreat but a panicked rout. With the hope of holding Merin so obviously futile, the Ordic forces had been stubbornly maintaining their positions without any sense of purpose beyond providing refuge for the civilians within the city as long as they could. When the call for retreat came, that fragile and desperate morale at last broke. Civilian and soldier alike now raced toward the gap in the Orgoth lines created by Scyrafael before it closed once more.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "419266ba-d6c8-4251-9e86-74a19a9ea88b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Unable to find the barest shred of sympathy for the fleeing humans, Scyrafael found herself strangely relieved. She had remained these last days only to preserve the integrity of the alliance.\nThe eldritch slowed to a stop for a moment. A sense of clarity snagged at the edge of her consciousness, as her logical mind warred with a shroud of denial. Preserving the alliance had been the lie she’d told herself as the reason for her return, rather than acknowledging the actual reason. Her efforts had already saved as many of the city’s inhabitants as was possible.\nSomething else remained in this soon-to-be-forsaken ruin. A purpose and meaning for why she had come here.\nLost to her thoughts, Scyrafael resumed an unconcerned pace as she passed through the empty thoroughfare, carefully navigating broken barricades and fallen masonry. Here and there, she observed fallen soldiers from both sides, flesh on their unmoving bodies discoloring as the merciless alchemical fumes took their toll.\nThe bestial howling of victorious ulkor echoed from all around, a vile congregation leading an unholy chorus. Still, she was unhurried. Such brutes offered little threat. She had personally slain at least a score of them during the defense of Merin.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e939718c-c939-477c-b089-1b66f40346e2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Scyrafael’s musing was interrupted as a figure appeared in the murk ahead. A human male, wearing the livery and pale teal uniform of the Crucible Guard. He’d lost his helmet and mask along with his weapons. He staggered through the haze toward her, quickly drawing close enough to reveal how his eyes bulged and his hands clutched at his throat. Like the nearby corpses, his exposed skin was rapidly turning a shade of violet.\nWithin moments the man’s legs could no longer hold, and he fell to his knees. His flushed skin became more repulsive by thick purple veins crawling up his neck; the whites of his eyes turned deep red as blood vessels in them swelled and burst. He might have tried to speak, but his voice was only accompanied by a hacking sound as a trail of bloody phlegm drooled down his body to the ground.\nHis bloodshot eyes met Scyrafael’s. His final moments were reduced to the desperate plea of a dying soldier, which she easily discarded with a tilt of her head.\nScyrafael’s considered experience had led her to think little of humanity.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "50b686ef-8bf3-4c99-9364-f8ea970003a5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Humans were crude and clumsy creatures, possessing none of the grace, artfulness, or elegance so inherent to elven existence. They fought like hapless children and with the same sense of ignorance, creating weapons with tremendous destructive power with little regard for the consequences; this man had not fallen to the weapons of his enemies but to those of his own kind. Because of that error in judgment, other lives would now be lost because he would not be present to defend them. These humans were as much their own enemy as were the Orgoth.\nAs she felt the bitter condemnation rise, Scyrafael confronted it with measured reason. Human lives were brief—what could they possibly hope to truly learn or master? It was unfair of her to judge them by the standards of the elves. Yet she also considered that whilst the humans had wasted their lives in this siege, it had fallen to her alone to save them.\nScyrafael wondered, had elves alone stood here, would the Orgoth have even been repelled? She shook the thought away almost as quickly as it occurred. It was an academic exercise only and a pointless one at that. The cold truth was that being forced to rely upon the humans had been why so many lives had been lost, lives that would now be unable to join the fight elsewhere.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5d33f4dd-4c03-4520-aae5-5499fc756c6f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ord faced a grim and uncertain future, even for an individual as prescient as Scyrafael. The future of Five Fingers hung in the balance, should the forces that sacked Carre Dova turn upon it from the land rather than the sea. Though the majority of the Crucible Guard forces were headquartered in Midfast, it was an industrial city, not one built for war. Scyrafael did not doubt that once the Orgoth forces there were reinforced, it would suffer the same fate as Merin.\nShe knew the southern cities, such as Hearthstone and Armandor, were unlikely to capitulate—in the short term at least. But with their armies caught inside the besieged city walls, there was no hope they might sally forth to rescue any of the other cities. With their king fled and the capital lost, Ord had fallen.\nAll because of humankind’s lack of wisdom.\nThe alliance wouldn’t come for this place. It was a drab and meaningless land, where the only resources were the cowering humans and their souls, the latter a fact lost upon most non-Iosan members of the alliance.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2b58c5dd-aaec-4560-b62e-fa453da14755",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "While the humans held their irrational fear that Ord might become strategically important, even they could be relied upon to act in their own self-interest. They’d protect their own lands first and foremost while playing a pretense of anguished concern for their allies. Scyrafael knew she could never trust the humans and only viewed the sanctity of the alliance as a transient interaction. They were too weak and unworthy.\nAnger colored Scyrafael as reason fell away entirely. An unfamiliar swell of emotion came at last, tortured and bleeding self-recrimination. It was almost enjoyable. And as the eldritch savored the moment, at last, she had an answer.\nWeakness.\nPerhaps that was the human reality that had so escaped her since arriving here, a sense so alien to her. The mortality that so defined them—a concept already strained to its limits by the measure of elven lives, rendered even more irrelevant when compared to that of an eldritch.\nScyrafael’s eyes fell upon the fallen soldier once more. She saw then the details that had eluded her before. The chapped leather straps and pouches tied over his uniform, held by tarnished metal buckles. Tattered and threadbare sleeves and coattails, and scuffed boots. The agony expressed by how his body had contorted. The violence of his death had distracted her from seeing it all.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5954e051-fb6d-44cf-b538-f03dad395098",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The truth was that there was no strength in these people. Only frailty. Over the course of their entire existence, they had struggled to survive and would continue to do so until their light faded. Scyrafael’s anger dissipated as the storm quietened. Unknowingly, this soldier had shown her meaning in coming to the land and understanding for why her mind had been so perturbed since the alliance was forged—and now, she felt at last she could leave.\nScyrafael offered the corpse a final glance and, on impulse, the silent salute she’d refused him in life before turning her back and leaving the fallen city and spectre of frail humanity behind her.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "c5150882-5cf6-4a37-b9ea-32bba50b6d90",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:072ccfad-a459-45dc-834d-4cf26f402b9b",
+                "2:5b9cb9dd-5093-4018-8fbd-96962b179ba3",
+                "3:54957a0e-cb40-4a42-b47a-8bcb6f590f60",
+                "4:5a811431-7990-4dcd-af29-9e22c9727c06",
+                "5:c06cdffc-7dfd-4bd1-aa63-310d31c1bbd2",
+                "6:4c250880-4940-4bd4-bd3d-0517fc53f74f",
+                "7:ceec0153-c8cf-423b-84b2-f8eedc499ac7",
+                "8:ffed6d4b-5431-4803-bd1a-f6eb7dea40c4",
+                "9:9f945416-e559-49a9-bd17-996e49b3576e"
+            ],
+            "artSegIds": [
+                "072ccfad-a459-45dc-834d-4cf26f402b9b",
+                "5b9cb9dd-5093-4018-8fbd-96962b179ba3",
+                "54957a0e-cb40-4a42-b47a-8bcb6f590f60",
+                "5a811431-7990-4dcd-af29-9e22c9727c06",
+                "c06cdffc-7dfd-4bd1-aa63-310d31c1bbd2",
+                "4c250880-4940-4bd4-bd3d-0517fc53f74f",
+                "ceec0153-c8cf-423b-84b2-f8eedc499ac7",
+                "ffed6d4b-5431-4803-bd1a-f6eb7dea40c4",
+                "9f945416-e559-49a9-bd17-996e49b3576e"
+            ]
+        },
+        {
+            "guidStr": "5ab40b84-faf0-4e3e-a41d-1c4a7d9fb172",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:a092747e-5253-4611-97e1-51ca2fdc0b1b",
+                "2:f8713d59-573b-4203-a7e7-df1dd971ef00",
+                "3:3ef1cd14-0709-4bdb-bda0-a92d607664f7",
+                "4:73671fed-7f5c-4c2e-bf4d-b7d83f708f0a",
+                "5:142a54b1-d77b-4de8-921b-0804b26f77d7",
+                "6:59e440d6-b16f-499c-87b9-46fda62234b8",
+                "7:08993e66-d59d-4964-ae40-be1c0e1b23fc"
+            ],
+            "artSegIds": [
+                "a092747e-5253-4611-97e1-51ca2fdc0b1b",
+                "f8713d59-573b-4203-a7e7-df1dd971ef00",
+                "3ef1cd14-0709-4bdb-bda0-a92d607664f7",
+                "73671fed-7f5c-4c2e-bf4d-b7d83f708f0a",
+                "142a54b1-d77b-4de8-921b-0804b26f77d7",
+                "59e440d6-b16f-499c-87b9-46fda62234b8",
+                "08993e66-d59d-4964-ae40-be1c0e1b23fc"
+            ]
+        },
+        {
+            "guidStr": "5f74ee49-40bd-4633-b09f-4654dd040dcf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:146d9d69-d4fb-46c6-968b-63aa33270e90",
+                "2:419266ba-d6c8-4251-9e86-74a19a9ea88b",
+                "3:e939718c-c939-477c-b089-1b66f40346e2",
+                "4:50b686ef-8bf3-4c99-9364-f8ea970003a5",
+                "5:5d33f4dd-4c03-4520-aae5-5499fc756c6f",
+                "6:2b58c5dd-aaec-4560-b62e-fa453da14755",
+                "7:5954e051-fb6d-44cf-b538-f03dad395098"
+            ],
+            "artSegIds": [
+                "146d9d69-d4fb-46c6-968b-63aa33270e90",
+                "419266ba-d6c8-4251-9e86-74a19a9ea88b",
+                "e939718c-c939-477c-b089-1b66f40346e2",
+                "50b686ef-8bf3-4c99-9364-f8ea970003a5",
+                "5d33f4dd-4c03-4520-aae5-5499fc756c6f",
+                "2b58c5dd-aaec-4560-b62e-fa453da14755",
+                "5954e051-fb6d-44cf-b538-f03dad395098"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "f1daac15-da5c-4f96-809b-057156d970bd",
+            "name": [
+                " Chapter 1 Weakness",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:c5150882-5cf6-4a37-b9ea-32bba50b6d90",
+                "2:5ab40b84-faf0-4e3e-a41d-1c4a7d9fb172",
+                "3:5f74ee49-40bd-4633-b09f-4654dd040dcf"
+            ],
+            "articleIds": [
+                "c5150882-5cf6-4a37-b9ea-32bba50b6d90",
+                "5ab40b84-faf0-4e3e-a41d-1c4a7d9fb172",
+                "5f74ee49-40bd-4633-b09f-4654dd040dcf"
+            ]
+        }
+    ],
+    "publications": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

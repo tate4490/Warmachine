@@ -1,0 +1,1822 @@
+{
+    "bundleName": "data publication dark rising part six.json",
+    "general": {
+        "guidStr": "6c495efc-ec25-4c21-8931-cd1c6a6bb15b",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "6bbe1759-2f66-432f-a3e5-92db2fe4399a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "DARK RISING",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/fiction_darkrising_chapterheader.png",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0c1fc677-d847-4c83-8821-885b1fa0dc9f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ancient enemies have returned to the shores of the Iron Kingdoms, and for the first time in centuries, the military might of the kingdom of Khador will find itself challenged by an invading force from beyond the lands of western Immoren.\nAt first, Kapitan Ilari Borisyuk and his forces don’t know what they are seeing—but all too soon, the bloodthirsty invaders known as the Orgoth will make their presence felt and their intentions clear: to crush the nations of the Iron Kingdoms and subjugate its people once again—beginning with Khador. Ilari is not only the first line of defense against the Orgoth; unless he can survive to warn his countrymen, he may well be the only defense.\nAs the Orgoth soldiers, led by the powerful warwitch Sabbreth, called the Eternal Annihilation, pour ashore, Ilari will do what he must for his troops, for his Motherland, and for all of the Iron Kingdoms, even if it means making deadly decisions and impossible sacrifices…\n<b>Dark Rising</b> is the first book in Privateer’s ongoing monthly Saga series, available through the WARMACHINE app.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "736b97cc-83d4-4c3c-a5aa-74524bc6c3b7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "643b4d37-3996-4c9f-b583-e083aa7e453e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Chapter Six – The Dark Prince",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8d9f0159-ced6-4d1e-b686-4e3b10036626",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Kapitan Ilari Borisyuk and Magziev Zariyah Volkova stood at the bottom of a narrow flight of stairs carved into the side of a nameless mountain high in the Wyrmwalls. The stairs rose steeply into the frosty mist wreathing the upper reaches of the mountain. A small valley shielded them from the worst of the brutal cold and freezing wind, and Ilari was loath to leave its relative comfort. Behind him, Lieutenant Roslov, Chief Vislovski, and half a dozen handpicked soldiers with experience in the wilds huddled around a fire, looking uncomfortable and worried. Despite Roslov and Vislovski’s protests, he would not let them accompany Volkova and him to the tomb.\nThough he would have liked to take more troops with him, Volkova had warned him against it. Whatever lay in the tomb of Dagholoth would likely be dangerous to possess. There were also many other dangers in the Wyrmwalls—they were deep in Cygnaran territory, and though running into enemy soldiers would be problematic, it was the rumors of dragonspawn, the blasphemous progeny of the dragon Blighterghast, that worried Ilari the most. From their vantage point, his soldiers could spot and warn him and Volkova of a pending attack.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d2495571-68e0-4cda-a576-9a14176f996c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "It had taken them nearly a month to reach the site of the tomb. They had begun their journey outside the gates of Port Vladovar, now fallen to the Orgoth, and had worked their way carefully south. As they traveled, they learned of further attacks taking place up and down the Khadoran coast. Ice Watch had fallen, and the last information they’d heard—from a trader on the Cygnaran border—was that the Orgoth now marched toward Ohk. Ilari grieved for the soldiers he’d come to know at Ice Watch, and he hoped some of them survived, but he had seen the absolute viciousness of an Orgoth attack. He knew such hope was false. Worse, if the enemy took Ohk, they’d have access to the railway and a quick and direct means to assault Khardov and then Korsk.\nThe Motherland’s future was grim, but Ilari could only focus on where he was and on the task at hand. More of old Toskar’s wisdom bubbled to the surface of his mind. <i>Pull the trigger, then worry about what happens after.</i>\nHe checked the rack of spells he’d prepared this morning—three he hoped might be useful. Since he had no idea what he’d face, he prepared spells with a broad application: one that would enhance his combat abilities and another that would hide him and Volkova from enemies and even allow them to retreat if necessary. The last spell he’d taken simply on gut instinct, one that had been taught to many warcasters at the Druzhina after the Claiming.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "87ca3450-93f4-44b5-84d3-c34c0225b908",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Are you ready?\" he asked Volkova.\nShe tilted her head back, tracking the ascent of the stone stairway. \"I don’t think it is possible to be ready for whatever waits above.\"\n\"You must have raided Orgoth tombs when you were a Greylord.\"\nVolkova uttered a short, grim laugh. \"I did, and each held some new horror we had never encountered before.\"\nIlari shivered—not just from the cold—and powered up his warcaster armor. He’d been conserving coal and had donned it only a few minutes earlier. The arcane turbine flared to life, and the weight of the armor all but disappeared. The small furnace also provided some warmth, but he pulled his wolfskin cowl over his head just the same as he mounted the stairs.\nVolkova followed, and they ascended slowly, guardedly, the campfire below dwindling to a tiny ember and then disappearing altogether as they entered the frozen mist. Ilari gritted his teeth against the frigid air. The mist limited his vision to just a few feet, and he took each step with measured caution. To stumble here would send him tumbling hundreds of feet to the valley floor below.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "09483605-5cac-41c2-8d14-c2b99f5e1db5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "edb40852-3701-4124-8cfa-19288a3ed158",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Finally, after what seemed hours, the stairs terminated at a wide rocky ledge, and Ilari stepped onto flat, firm ground, his legs shaking from exertion, and moved away from the edge. Volkova came up seconds later, her face shrouded in a black scarf to keep out the cold.\nThey stood silently for a moment, catching their breath, then, finally, turned and beheld the tomb of Dagholoth.\nImpressive and terrifying all at once, a giant stone door sealed the resting place of Dagholoth. The great portal was easily fifteen feet high and ten across. An elongated screaming face was set in the center of the door, the visage twisted in horror and pain. Strange, spiraling script ran in a vertical line beneath this.\n\"Here lies the mighty one. He who sees. He who makes fate,\" Volkova read aloud.\nIlari was hardly surprised that she could read Orgoth. The words were cryptic and ominous and certainly gave some credence to Sabbreth’s dire pronouncement.\nThe former Greylord approached the great door, and a puzzled look came over her face.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e1cc6f6c-578a-486d-b72f-0bdcd72903bc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"What is it?\" Ilari asked.\nVolkova pointed. \"It’s . . . open.\"\nIlari saw a narrow slit of darkness on the right side of the door. \"Who could do such thing?\"\n\"I don’t know,\" Volkova said. \"It would take a powerful Greylord koldun to bypass the magical wards on a tomb such as this.\"\nAn obvious question sprang to Ilari’s mind, one he should have asked before they climbed up the side of this mountain. \"How were <i>you</i> planning to open it?\"\nVolkova turned and regarded him with an unreadable expression. \"Kapitan, there is a reason I was spared the gulag after the Greylords were disbanded.\"\nIlari waited for her to offer more explanation. When she did not, he cleared his throat. \"Well, what do you suggest we do?\"\n\"What we came to do,\" she said as she approached the door and put one hand on the leftmost side. She pushed, and it rotated slowly on a central axis. The slit of darkness yawned wider—wide enough for them to pass through.\nVolkova brought out one of the torches they had brought with them, lit it with flint and steel, and prepared to lead them through the aperture.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cfb1de48-635b-48dd-8d8b-f77a33ba80e8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8ac95140-96a3-4ee1-b988-7ad188231e55",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Wait,\" Ilari said and shouldered his magelock. He imbued a flare rune shot and fired through the narrow opening. The round lit up the interior of the tomb like a runaway comet, and Ilari could see the main entrance ran about fifty yards before making a sharp turn to the left. The flare revealed more of the howling demented faces lining the walls; most significantly, it also revealed footprints in the accumulated dust of centuries.\n\"We aren’t the first to enter this tomb,\" Ilari said. \"Could the Orgoth have been here before us?\"\nThe magziev shook her head. \"They seem to be confined to Khador for the moment. We’ve seen no signs of them this far south.\" With that, she stepped past him and entered the tomb. Lacking another option, Ilari followed.\nOnce inside, they were out of the fierce weather, but the interior seemed somehow colder. Ilari shivered in the stillness as he squatted down to examined the footprints. He’d done plenty of tracking in the Widowmaker Korps.\n\"They’re not fresh,\" he said to Volkova, who stood over him with her torch. \"The dust has started to fill them in. And this is not a boot. Wrong shape. They look like sabatons.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f1c29034-d06d-4bc9-b43b-36da3f8826d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Heavy armor then,\" Volkova said. \"Archaic.\"\nIlari stood, an image forming in his head, a memory. There were renderings of the great warcasters of old at the Druzhina, some of whom fell at Henge Hold. Many of them wore armor of a style that had gone out of fashion. \"We should move on.\"\nThey continued on through the dim passage and reached where it turned. To Ilari’s surprise, he found they no longer needed Volkova’s torch. There was light ahead, and it illuminated a vast space with a fell green luminance.\n\"How is there light?\" Ilari asked. The darkness, he thought, was preferable. The darkness was cold but empty. The terrible light ahead seemed aware and alive.\n\"The Orgoth practiced all manner of necromancy, and their resting places are often guarded by the fruits of these dark labors,\" Volkova said, then she paused. \"I have seen something like this before.\"\nIlari knew the Nightmare Empire of Cryx created undead horrors using stolen Orgoth magic. So, of course, why would the Orgoth not use these foul sorceries themselves? \"What did you see?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a76ee9e9-b210-447c-ac6c-9a9062604d3a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Volkova set her torch down and took her polearm in both hands. \"We opened a tomb in the Thundercliff Peaks, and inside was a creature of unimaginable power. It killed half our group before we could mount any defense. We retreated, and it did not follow. My magziev called it deathless.\"\n\"If you’re right, I don’t relish walking into a well-lit room like uninvited guests,\" Ilari said. \"Stand close to me.\" Volkova complied, and Ilari cast a spell, covering them both in a cloud of darkness. They could see through the murk, but it would be impenetrable to anyone outside of it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "29e438f7-2e95-4713-87f8-910c4ad60b8d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They entered a sprawling dome carved into the solid stone, a huge chamber dotted with ten stone pillars; to each, an ancient moldering skeleton was chained, hands above their skulls as if in supplication.\nThe light came from iron braziers suspended from the ceiling that shed a guttering verdigris light. Ilari could see no source for this illumination. It shed a flickering witch light across the space, glinting off the final occupant of the tomb.\nDagholoth lay upon a massive plinth clad in baroque armor bearing stretched and screaming faces from breastplate to greaves. He clasped a great two-handed sword to his chest, its wide blade covered in writing visages. None of this was more shocking than Dagholoth himself. The ancient Orgoth warlord was not a tattered millennia-old skeleton. Instead, he appeared to be alive, his bronze flesh whole and intact, the face beneath his helm uncomely with a square jaw, thin lips drawn tight into a rictus frown, and a heavy brow that gave him a brutish appearance. He was enormous, easily seven feet tall.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "91e7a2f4-2c9d-471c-83aa-9cd6dca3773d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Is that you, Tzepesci? Have you come to embrace your fate?\" The deathless’ voice filled the cavernous space with a deep rumble as he sat up. \"Why do you hide? I will not hinder you.\"\nIlari sensed Volkova wanting to move, but he gripped her shoulder inside their tenebrous cocoon.\n\"Wait,\" he said, and then, loudly, he said, \"I come to bargain. To seek another path.\"\nHis spell wouldn’t last long, and when it fell, his deception would be revealed. He needed to get as much information as possible in the short time he had remaining.\nThe deathless laughed. \"Bargain? You have nothing I want but the edge of your blade. There is no other path.\"\nNone of it made sense, but Ilari pressed. \"You are a seer. Surely you can see another way.\"\n\"No!\" Dagholoth bellowed. \"The future is set. Bring forth your sword, dark prince, and free me.\"\nThe deathless’ words began to make a kind of awful sense, but Ilari’s spell winked out before he could ponder it further.\nImmediately, Dagholoth laughed, cold and cruel, and raised his sword. \"So, Tzepesci would avoid his fate by sending another to slay me? Fools. I cannot be killed by such as you.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f25bfa32-aafc-42b9-bff6-70e30d0ee928",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari brought his rifle up, sighted in on the deathless, and pulled the trigger, choosing an armor-piercing rune shot. The bullet struck Dagholoth’s shoulder, denting the pauldron, but the great warrior did not so much as flinch.\nA look of puzzlement passed over Dagholoth’s brutal features. \"Your weapon is new to me. But it makes no matter. It will not save you.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "60d43d3d-fb6c-4f4a-9afc-7ad883c8ef8b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Orgoth walked slowly forward, exuding a casual arrogance. Ilari fired again. The bullet shrieked away in a ricochet, and Dagholoth remained undeterred.\nVolkova sprinted forward, and Ilari hoped her polearm, enchanted with Greylord sorcery, might have some effect. She lashed out in a spinning cut, but Dagholoth batted the weapon away with his sword, a hammer blow that sent Volkova stumbling back.\n\"Did Tzepesci tell you of the prophecy?\" Dagholoth asked with a toothy smile as he advanced on Volkova. \"No? Then I shall. You will die knowing your destruction cannot be undone.\"\nVolkova retreated, and Dagholoth let her go. Then he spread his arms wide and intoned, <i>\"From death, I see the end of all.\"</i>\nIlari worked the bolt on his magelock and chambered a rune shot designed to inflict horrific wounds on an opponent. He aimed and fired. The shot struck the Orgoth warlord beneath his helm—his head snapped back with the force of the impact. That round should have left a gaping hole where the Orgoth’s face used to be, but his flesh remained untouched.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cf95cd00-ab99-45d3-9834-77707a3a4952",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "He laughed, turned his awful gaze on Ilari, and spoke again. <i>\"The shrine is shattered. The mighty fall.\"</i>\nWhile Ilari had Dagholoth’s focus, Volkova summoned a spell and blasted the deathless with a howling sheet of razor winds. A sorcery that could tear warjacks to pieces pushed the deathless back a single step toward his plinth.\n<i>\"In darkened tomb my words ring true,\"</i> he said, the mocking smile still fixed on his face.\nIlari sprinted from his position near the entrance of the vault to center of the room. He passed within striking distance of the Orgoth, and thus Dagholoth took a swipe at him. Ilari jumped aside to avoid the blade, but a glancing blow struck his power field with such force that it nearly knocked him off his feet.\nDagholoth seemed unconcerned about their attacks and continued to recite his cryptic prophecy. \"A dark prince brings death anew.\"\nVolkova raced around one of the stone columns, obscuring her from the Orgoth’s view for a moment, and charged the warlord again. She struck him from behind, targeting the back of his knee where there was no armor. The sickle-bladed polearm rebounded as if she’d struck solid stone, and the deathless whirled, his sword cutting the air with a shrieking whine. Volkova dropped to her own knee, the blade passing over her, her black hair waving in the wind it created.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2e8e823d-c3b2-4005-bfa9-6399d860a675",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She rolled forward, sprang to her feet with surprising agility for someone so heavily armored, and ran to join Ilari near the plinth. Together, they ducked behind it, and Ilari dropped another darkness spell over them.\n\"Hiding again, maggots? Then listen well,\" Dagholoth said. The deathless moved toward them, and his rumbling voice grew louder. <i>\"Come lightless masters on ebon wings.\"</i>\n\"We have to escape,\" Ilari said. \"We can’t beat him.\"\n\"We still must hear it all,\" Volkova said.\nDagholoth obliged her. \"Come sunless dawns and fallen kings.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fe4c9935-a072-4f44-93c0-eb9c04015400",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The darkness winked out again, and Dagholoth advanced on them once more. Still, he moved with fearless ease, and for the first time, Ilari realized the deathless left no tracks in the thick dust that coated the stone floor of his tomb.\n<i>\"Across the sea where blacks sails plume,\"</i> Dagholoth said, his eyes distant, as if lost in a memory. <i>No,</i> Ilari realized, <i>he sees the future.<i>\nIlari pulled Volkova away from the plinth, and they ran toward another of the sacrificial pillars. Dagholoth followed. His words echoed off the stone walls. <i>\"The once defeated bring forth doom.\"</i>\nThe Orgoth now moved with more intent, weathering a shot from Ilari’s magelock, and rushed their position. Ilari backed away to summon a spell as the deathless lashed out at Volkova. She threw up a desperate parry. It succeeded, but Dagholoth’s great blade cut her weapon in half. She held the ends of her polearm, eyes wide in disbelief as Dagholoth lashed out with a brutal kick, knocking her to the ground. He stood over the magziev with blade raised, grinning, his eyes still distant though he remained focused on his prey. Volkova tried to crawl away, but the deathless stamped down on her breastplate, pinning her to the ground and denting her armor. She gasped in pain. The deathless held her helpless, but he did not strike. He wasn’t finished with his prophecy. <i>\"The heavens butchered and gods cast down.\"</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2143828b-9b1b-4449-aff0-6433d5edb37f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Spell runes flashed around Ilari’s body as his spell took effect. He’d learned the dark unraveling from a Menoth priest who’d come to the Druzhina to teach new warcasters how to battle the infernals should they return. Dagholoth was certain evil, but Ilari had no idea if the deathless would be affected. His magelock was limned in golden light when he fired. This time, the bullet pierced Dagholoth’s breastplate, and he staggered back, freeing Volkova.\nThe deathless looked down at his damaged armor and laughed. \"Not enough, maggot. Not <i>enough!</i> Now hear me!\" The deathless disappeared and reappeared next to Ilari. No, not disappeared, Ilari realized—the deathless had moved so quickly that Ilari’s eyes simply could not track him.\nDagholoth grasped the barrel of Ilari’s magelock and ripped the weapon from his grasp. Ilari tried to backpedal, but Dagholoth struck him with the flat of his sword, smashing him to the ground. Then the Orgoth bent over, pushing his dreadful face inches from Ilari’s. <i>\"In blood divine all shall drown.\"</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4533d951-f951-4f86-a772-f35a29b84af1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Above Dagholoth, the light dimmed, and Ilari could see the shadows grow like long talons across the room. Silence fell. Dagholoth stood motionless, as if he were frozen.\n\"What is this?\" Ilari whispered and crawled away, surprised he could still move and speak.\n\"I come to offer you your bargain, proud son of the Motherland,\" said a dry, terrible voice from deep in the shadows behind him. He rolled over onto his hands and knees as a figure stepped out of the gloom: a hunched creature, shrouded in dirty gray tatters beneath which a woman’s face, incalculably old, stared out. She moved toward Ilari. He could see her hands were not flesh but iron claws, long and sharp. In one of them she clenched a scabbarded two-handed sword with a majestic golden hilt.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d9187d62-7841-49cf-9b4f-fec85692a64e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Volkova appeared beside Ilari and helped him to his feet.\n\"It cannot be,\" she said.\n\"Yes, you know me, child,\" the old woman croaked. \"But it is not you who must make a choice.\"\n\"What choice?\" Ilari said, dread clawing up his spine with cold talons. \"Who are you?\"\n\"She is Zevanna Agha,\" Volkova said, answering Ilari’s question in a hushed, fearful whisper. \"The Old Witch.\"\nIlari knew that name. He’d heard tales of an ancient witch who weaved the skeins of Immoren’s fate. But he had reasonably dismissed them as nothing more than fanciful tales.\nHe had been wrong to do so.\nThe Old Witch held out the sword. \"Here is your choice. Take this blade and end Dagholoth . . . or do not and die. You decide which fate is worse.\"\n\"Ilari,\" Volkova said, drawing his gaze from the proffered sword, \"you cannot trust her. She is not here for our benefit. Her reasons are her own.\"\n\"She speaks truly,\" The Old Witch said with a hiss. \"But it changes nothing. He <i>must</i> choose.\"\nIlari stared back at the frozen form of Dagholoth. The screaming faces along the length of the deathless’ sword still swam in a monstrous green sea. Ilari knew it as a fell blade. He also knew if he died by it, he would lose more than his life.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "dc4742d0-b69d-4337-9b64-03720f62b2ec",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Ilari, don’t,\" Volkova said. \"Please.\"\nBut he could see only one choice. He grasped the hilt of the great sword and pulled it from the Old Witch’s grasp. The shadows faded, and sound bloomed as the Old Witch’s gleeful cackling echoed off the walls.\nIlari ripped the great sword free from its scabbard and glanced at Dagholoth, who remained bent over, his neck exposed, stretched out as if on an executioner’s block. The naked blade in Ilari’s grasp shimmered silver and gold; the line of eldritch runes that ran its length shined with azure radiance. He took the blade in both hands and charged Dagholoth. The deathless turned his head just before Ilari struck. He grinned, and Ilari knew he had been fooled. His arms moved as if they were not his own, the great sword blurred, and Dagholoth’s head came free of his neck and thudded to the stone. That was the last thing Ilari saw before the vault was suddenly plunged into darkness.\nHe could only hear his own breathing.\n\"Volkova?\" Ilari called out.\n\"I’m here,\" she said.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2a78a8d6-f4a7-49db-b491-1b5c24a6aa9c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sparks flew from a flint and steel, flared, and then a torch blazed to life. Dagholoth lay at Ilari’s feet, but the deathless was no longer flesh and blood. He was ancient and withered, his armor a rusted hulk covering a headless corpse.\n\"The blade,\" Volkova said and pointed to the great sword in Ilari’s hands. \"You must know who it belonged to. You must.\"\nIlari shook his head and closed his eyes, He knew but could not bring himself to say it. He cleared his throat. \"I had to. Dagholoth would have killed us.\"\n\"There are things worse than death,\" she said and walked away from him toward the central plinth.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "817024c9-892a-4596-bd59-031455f15d30",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari picked up the scabbard for the sword and slid the blade inside. He could not bear to look at it any longer. The hilt was cold, bordering on icy, and the heat of his body did nothing to warm it.\n\"There are words here,\" Volkova said as she climbed on top of the mammoth slab of stone and raised her torch.\n\"Read them,\" Ilari said, though he desperately wished she wouldn’t.\nVolkova bent down and began to read.\n\"From death I see the end of all. The shrine is shattered. The mighty fall. In darkened tomb my words ring true. A dark prince brings death anew.\"\n\"These are his words,\" Ilari said, his stomach roiling with growing horror. \"A dark prince? Does he mean Vlad Tzepesci?\"\n\"I don’t know,\" Volkova said, then continued reading aloud. Her face was ashen in the guttering torch light. \"Come lightless masters on ebon wings. Come sunless dawns and fallen kings. Across the sea, where blacks sails plume. The once defeated bring forth doom.\"\n\"The once defeated? The Orgoth?\" Part of him wanted to dismiss this as the mad ramblings of an evil mind, but it was making a horrible kind of sense. The moments of dismissing were long over.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e9ee6bf4-4352-44be-9507-de6ba974dcbf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Volkova ignored him. \"The heavens butchered and gods cast down. In blood divine, you all shall drown.\"\n\"Gods butchered? Is such a thing . . . ?\" Ilari faltered. The thought stole the breath from his lungs for a dozen heartbeats. \"Is it even possible?\"\nVolkova, not looking up from the inscription on the tomb, whispered, \"Anything is possible.\"\nIlari tightened his grip around the sword that had slain Dagholoth. He did not draw relief from its icy touch; he understood Volkova had repeated everything the deathless had said. \"That is the end of it. Just words to frighten. There can be no truth to them.\"\nThe magziev turned to him, eyes wide with terror.  \"But there is more.\"\nIlari swallowed and in a trembling voice asked, \"What more?\"\n\"Take up your blade in vengeful hate. Strike me down and seal your fate.\"\nThe great sword fell from Ilari’s nerveless fingers. It clattered on the floor with a hollow ringing sound like a distant bell, like the very knell of death. \"What have I done?\"\nVolkova’s legs seemed to give out—she sat down hard on the plinth. Slowly, she shook her head. \"You have fulfilled a prophecy.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "11b38427-e284-4346-8609-2ebcf6e38ae9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "fa2edffe-e088-49bd-aeb0-dcc24e8a4981",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:6bbe1759-2f66-432f-a3e5-92db2fe4399a",
+                "2:0c1fc677-d847-4c83-8821-885b1fa0dc9f",
+                "3:736b97cc-83d4-4c3c-a5aa-74524bc6c3b7",
+                "4:643b4d37-3996-4c9f-b583-e083aa7e453e",
+                "5:8d9f0159-ced6-4d1e-b686-4e3b10036626",
+                "6:d2495571-68e0-4cda-a576-9a14176f996c",
+                "7:87ca3450-93f4-44b5-84d3-c34c0225b908",
+                "8:09483605-5cac-41c2-8d14-c2b99f5e1db5"
+            ],
+            "artSegIds": [
+                "6bbe1759-2f66-432f-a3e5-92db2fe4399a",
+                "0c1fc677-d847-4c83-8821-885b1fa0dc9f",
+                "736b97cc-83d4-4c3c-a5aa-74524bc6c3b7",
+                "643b4d37-3996-4c9f-b583-e083aa7e453e",
+                "8d9f0159-ced6-4d1e-b686-4e3b10036626",
+                "d2495571-68e0-4cda-a576-9a14176f996c",
+                "87ca3450-93f4-44b5-84d3-c34c0225b908",
+                "09483605-5cac-41c2-8d14-c2b99f5e1db5"
+            ]
+        },
+        {
+            "guidStr": "aaa9032f-a0c9-461d-98d7-a38837d8b31d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:edb40852-3701-4124-8cfa-19288a3ed158",
+                "2:e1cc6f6c-578a-486d-b72f-0bdcd72903bc",
+                "3:cfb1de48-635b-48dd-8d8b-f77a33ba80e8"
+            ],
+            "artSegIds": [
+                "edb40852-3701-4124-8cfa-19288a3ed158",
+                "e1cc6f6c-578a-486d-b72f-0bdcd72903bc",
+                "cfb1de48-635b-48dd-8d8b-f77a33ba80e8"
+            ]
+        },
+        {
+            "guidStr": "49b88fee-7271-4b90-ba4c-f1116ea64449",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:8ac95140-96a3-4ee1-b988-7ad188231e55",
+                "2:f1c29034-d06d-4bc9-b43b-36da3f8826d7",
+                "3:a76ee9e9-b210-447c-ac6c-9a9062604d3a"
+            ],
+            "artSegIds": [
+                "8ac95140-96a3-4ee1-b988-7ad188231e55",
+                "f1c29034-d06d-4bc9-b43b-36da3f8826d7",
+                "a76ee9e9-b210-447c-ac6c-9a9062604d3a"
+            ]
+        },
+        {
+            "guidStr": "5d81af29-bfba-43a8-a4cb-6f1de472db74",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:29e438f7-2e95-4713-87f8-910c4ad60b8d",
+                "2:91e7a2f4-2c9d-471c-83aa-9cd6dca3773d",
+                "3:f25bfa32-aafc-42b9-bff6-70e30d0ee928"
+            ],
+            "artSegIds": [
+                "29e438f7-2e95-4713-87f8-910c4ad60b8d",
+                "91e7a2f4-2c9d-471c-83aa-9cd6dca3773d",
+                "f25bfa32-aafc-42b9-bff6-70e30d0ee928"
+            ]
+        },
+        {
+            "guidStr": "7547b7d0-7843-4014-8e7f-1184e88efa19",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:60d43d3d-fb6c-4f4a-9afc-7ad883c8ef8b",
+                "2:cf95cd00-ab99-45d3-9834-77707a3a4952",
+                "3:2e8e823d-c3b2-4005-bfa9-6399d860a675"
+            ],
+            "artSegIds": [
+                "60d43d3d-fb6c-4f4a-9afc-7ad883c8ef8b",
+                "cf95cd00-ab99-45d3-9834-77707a3a4952",
+                "2e8e823d-c3b2-4005-bfa9-6399d860a675"
+            ]
+        },
+        {
+            "guidStr": "9578fbc9-2139-4852-b4e9-f3fb5a3f8f5e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:fe4c9935-a072-4f44-93c0-eb9c04015400",
+                "2:2143828b-9b1b-4449-aff0-6433d5edb37f",
+                "3:4533d951-f951-4f86-a772-f35a29b84af1"
+            ],
+            "artSegIds": [
+                "fe4c9935-a072-4f44-93c0-eb9c04015400",
+                "2143828b-9b1b-4449-aff0-6433d5edb37f",
+                "4533d951-f951-4f86-a772-f35a29b84af1"
+            ]
+        },
+        {
+            "guidStr": "12421a5f-854b-4fe6-a20e-7a9d1c789e85",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:d9187d62-7841-49cf-9b4f-fec85692a64e",
+                "2:dc4742d0-b69d-4337-9b64-03720f62b2ec",
+                "3:2a78a8d6-f4a7-49db-b491-1b5c24a6aa9c"
+            ],
+            "artSegIds": [
+                "d9187d62-7841-49cf-9b4f-fec85692a64e",
+                "dc4742d0-b69d-4337-9b64-03720f62b2ec",
+                "2a78a8d6-f4a7-49db-b491-1b5c24a6aa9c"
+            ]
+        },
+        {
+            "guidStr": "d7c393be-884b-40b5-826a-4753f39375b6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:817024c9-892a-4596-bd59-031455f15d30",
+                "2:e9ee6bf4-4352-44be-9507-de6ba974dcbf",
+                "3:11b38427-e284-4346-8609-2ebcf6e38ae9"
+            ],
+            "artSegIds": [
+                "817024c9-892a-4596-bd59-031455f15d30",
+                "e9ee6bf4-4352-44be-9507-de6ba974dcbf",
+                "11b38427-e284-4346-8609-2ebcf6e38ae9"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "c6d1b293-ffbb-4861-a74c-49535d1d9c04",
+            "name": [
+                "Dark Rising\\nPart Six - Chapter 1 Dark Rising Part Six: The Dark Prince",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:fa2edffe-e088-49bd-aeb0-dcc24e8a4981",
+                "2:aaa9032f-a0c9-461d-98d7-a38837d8b31d",
+                "3:49b88fee-7271-4b90-ba4c-f1116ea64449",
+                "4:5d81af29-bfba-43a8-a4cb-6f1de472db74",
+                "5:7547b7d0-7843-4014-8e7f-1184e88efa19",
+                "6:9578fbc9-2139-4852-b4e9-f3fb5a3f8f5e",
+                "7:12421a5f-854b-4fe6-a20e-7a9d1c789e85",
+                "8:d7c393be-884b-40b5-826a-4753f39375b6"
+            ],
+            "articleIds": [
+                "fa2edffe-e088-49bd-aeb0-dcc24e8a4981",
+                "aaa9032f-a0c9-461d-98d7-a38837d8b31d",
+                "49b88fee-7271-4b90-ba4c-f1116ea64449",
+                "5d81af29-bfba-43a8-a4cb-6f1de472db74",
+                "7547b7d0-7843-4014-8e7f-1184e88efa19",
+                "9578fbc9-2139-4852-b4e9-f3fb5a3f8f5e",
+                "12421a5f-854b-4fe6-a20e-7a9d1c789e85",
+                "d7c393be-884b-40b5-826a-4753f39375b6"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

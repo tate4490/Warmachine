@@ -1,0 +1,1070 @@
+{
+    "bundleName": "data publication interstitial 5 - new beginning.json",
+    "general": {
+        "guidStr": "d8a650a5-7cd3-438e-853b-654a0a096150",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "26213e64-4874-47b1-8e4b-588f58b66a3f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "New Beginning",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "96df48ef-ead1-4f05-ba31-d67c3104112b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_brineblood_captainfirequill_portrait.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1300,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e67f4607-7f1e-47e8-a1d3-0240e766f15b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I need to see a body. Without one, I refuse to believe that Thorga Boomhowler is dead.\" Badloche Firequill’s closed fist hit the table, lending finality to his words and causing a tankard to spill its contents over the wooden surface.\nIn the following silence, he coldly stared down all of the others. A challenge, for any of them to speak up.\nThey had all heard the stories by now—them, and the rest of the Brineblood Marauder fleet. The Baying Wolf had been sighted off the southern coast of the Alchiere, adrift and barely afloat. The first ship that had boarded her to investigate had discovered a floating tomb. Large sections of the decking and masts had been turned to black ash by fire. The sails were gone, and what rigging remained hung loose over the side, dancing in the wind. Worse still, her crew had been rendered into corpses, left to turn ripe in the sun and by now foul enough to make a dire troll retch.\nOver the next day, most of the crew had been accounted for. But there had been no sign of Admiral Boomhowler. The closest thing to leaders amongst the Brineblood Marauders, the other captains had swiftly assembled in response to a growing sense of alarm and uncertainty amongst not only their own crews, but the entire fleet, and now met in Firequill’s quarters aboard the Archon’s Lament, docked at Brackish Lake.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "066bd6a3-58d3-4885-ad6d-dfc9d8bbdf01",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The silence stretched on uncomfortably, Firequill’s eyes moving between each of the other captains. Shadowtongue and Foulblood both sat at the table. The former stared ahead. It was impossible to know whether he spied something through the window in the mists outside, or simply into space; either was possible in Firequill’s experience of the morbid soul. His tankard upturned, Foulblood had instead retrieved a hipflask from somewhere about his person, and set to divesting himself of any traces of sobriety that yet remained.\nLike Firequill, Ragemonger stood. Easily the largest of them all, he leaned over the table, face caught in an expression that had flitted back and forth between anguish and agitation, and finally settled somewhere in the middle. Firequill expected Ragemonger to be the first to speak. Braghen was ever the pessimist, who let cold logic lead until he was either deep in his cups or battle lust was upon him.\nIt was then with some surprise that a different voice entirely was first to break the quiet.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0974b43d-444c-4ba4-8d4c-a48d13315367",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I have seen it, Badloche.\" Shadowtongue’s voice somehow managed to be at the same time both soft yet utterly compelling. \"I have seen the auguries of life and death concerning this matter. Her end… was not a pleasant one.\" Whilst his words were dispassionately delivered, Shadowtongue at least had the decency to cast his eyes down.\nWhilst normally content to indulge the strange captain’s behaviour and words, this time Firequill instead felt a gorge rise in his throat as several violent expressions sought to escape all at once. He opened his mouth to expel them, but was cut short by Ragemonger.\n\"He’s right, Firequill. And you needn’t take just his word. Every fell caller in Alchiere has been struck down like a drunk turned sober for three days now. That’s not normal.\"\nRagemonger spoke the truth. A day prior to the discovery of the Baying Wolf, the fell callers amongst not only the Brineblood fleet but also on the mainland had entered into a sort of torpid stupor, refusing to speak and acknowledge others beyond haunted stares. Some of them were at last beginning to recover, but to the best of Firequill’s knowledge, none had been able to communicate the source of their malady, speaking only in confusing riddles.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f8e36797-4058-4de9-bfc3-fb627338b5b0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I need more than the whispers of your dead shipmates, necromancer.\" Firequill shot Shadowtongue a dangerous look, before turning on Ragemonger. \"And it will take more than a few sick fell callers to tell me our Admiral is dead. You’re so desperate to fulfil your own death wish, you’re letting it cloud your better judgement.\"\nRagemonger shrugged in response. \"Believe what you want. Whether she lives or not, I intend to mete out vengeance. Whether you sail with me on that voyage is up to you.\"\nFirequill’s hand hammered into the table once more. \"Then you’re a fool. Do you even know who this enemy is? Or are you just planning on attacking anything in sight?\"\nRagemonger clearly bristled at the insult, but retained his composure enough to bite his tongue and instead look in Shadowtongue’s direction.\n\"The Nightmare Empire.\" Came the sinister reply. Another quiet lull threatened to descend in its wake, as each of those present absorbed the information and its ramifications, but a chuckle cut it short.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cacbcf37-89f2-4016-8a7d-2d92fac37b8b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Well then, that’s made up my mind. No good fortune or coin will ever come of chasing ghosts. Eh, doubt the old girl would have wanted us to waste our lives like that, either.\" Dario Foulblood offered the others a wry smile as he leaned back in his chair and propped his boots up on the edge of the table. \"We’d do better to find a new leader than argue about how to avenge the old one.\"\nFirequill saw red. His hand went for his pistol, but stopped as Ragemonger stepped in front of him, the much larger trollkin’s frame blocking out his sight to Foulblood entirely.\n\"He’s an impudent bastard, and he will get his due.\" Ragemonger’s voice remained level. \"But he’s not wrong. She was the best of us, and whoever follows will do so in her shadow—but we need a new leader.\"\n\"Not him, Braghen.\" Firequill met the words with a warning.\n\"Not him.\" Ragemonger agreed. \"And not me, either. I already have enough problems getting my crew to keep their powder dry. My fate is mine, and mine alone.\"\n\"For what it’s worth, I agree.\" Foulblood ignored Firequill and addressed Ragemonger. \"You just aren’t admiral material. Don’t take it personally. Not all of us are born to lead.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a83fafa3-d132-45c7-ad3f-f220e226d759",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ragemonger turned and covered the steps between himself and Foulblood in barely a second, swiping the smaller trollkin’s boots from the table as he seized his collar and lifted him into the air. \"Not. You.\"\nTo his credit, Foulblood lost none of his composure, maintaining a smirk. \"Well then, that just leaves the spooky lad, and the late admiral’s secret admirer—and I don’t think either of them are fit for the job.\" His grin grew wider. \"Listen to me when I say that what you really need is someone used to leading an armada, like me, to take over.\"\n\"I’ve seen your idea of discipline and honour. Half the fleet would mutiny and take to the high seas within days, than suffer under your command.\" Firequill’s voice dropped to a growl. \"But if you want, we can resolve this in the only currency you truly respect. Blood.\"\n\"Enough.\" Madrak Ironhide’s voice echoed through the ship’s hold, drawing all their attention at once.\nSo engrossed in their argument were they that none of them had noticed the great chieftain of the Southern Kriels enter the cabin. Hale and hearty despite his years and experiences, Madrak’s physical presence in the room was rivalled only by Ragemonger, and the aura of his personality was second to none.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f08dd1fb-d200-4daf-84f5-f10cc068c5ec",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "His unexpected appearance silenced the arguing Brineblood Marauders. In Alchiere, all trollkin bent the knee to Madrak, a living legend that had earned his people’s respect a hundred times over for both his considered wisdom and martial prowess.\nRagemonger let go of Foulblood’s collar, allowing the rebellious captain to sink back to his feet. Firequill observed that other than a spiteful glance in Ragemonger’s direction, Foulblood, arrogant and deep in his cups as he was, knew to shut up and let the current take him.\n\"Thorga was a close friend and a vital ally to the Southern Kriels. She shall be missed—and avenged.\" He looked to Ragemonger before continuing. \"Those who have visited such tragedy upon us will not escape punishment. But we won’t allow ourselves to be blinded by petty revenge, or become a frenzied animal mindlessly lashing out at anything it sees.\n\"That was a trap that caught our people in a snare of death and destruction in the past, and caused our clans woe enough for many lifetimes. You all know me well enough to accept the truth in these words—I have seen firsthand where that fate leads.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0a31ea90-03c5-4e40-b7fb-8e54d9caa6ee",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0bd7c94d-3beb-479c-946c-42062685d891",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Firequill found himself remembering tales told around the campfires, of Rathrok and the World Ender, and of the shaman Hoarluk Doomshaper.\n\"I will not demand or enforce a new leader upon you this day. Such decisions can be made another time, and by clear heads and hearts. But I will remind you that you and your crews have each sworn allegiance to the Southern Kriels. In the days to come, I expect you to fulfil those vows and lead the others under the Brineblood banner accordingly.\"\nMadrak looked at each of them, and apparently finding the obeisance he sought, continued.\n\"The time of peace in Alchiere has ended, and a new threat faces us. A danger that rises from the foul depths below, and a challenge made by both enemies old and new—adversaries that seek not only to displace us from our land, but claim our bodies and souls for their wretched industries and masters.\n\"Together with the Kithguard, you will hunt down and defeat these foes. Thorga Boomhowler’s death was the opening shot in this tale, the first blood taken by our enemies. The Southern Kriels shall deliver the killing blow that ends this vile incursion and chapter of our history before it can truly begin.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "43f6319e-ccba-4e6a-94f6-886c62f311d0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Despite himself, Badloche Firequill felt like cheering the great chieftain’s name. Looking between the other captains, he saw he was not alone.\n***\nUltimately, Nekane had been forced to admit that, in contrast to her previous experience and expectations, the trollkin had been considerably harder work to break than she’d considered possible.\nIt seemed that her master had been right to praise their stubborn refusal to simply die.\nEven then, while Thorga Boomhowler’s body had finally succumbed and Nekane had at last achieved the deathly summons that she sought, it was doubtful that the trollkin warlock’s spirit had truly been defeated. Indeed, as Boomhowler’s soul had been dragged from her body in the aftermath, her spirit had resisted and almost escaped into the earthen embrace of Dhunia.\nAlmost.\nNow, the trollkin’s remaining essence occupied a soul cage at Nekane’s belt. Unlike most others that pledged their allegiance to the Nightmare Empire, however, the Wraithbinder was not given to seeing souls as a pure resource, and expending them frivolously on the battlefield. Instead, she kept her most powerful defeated enemies captive, savouring their hatred and contempt like a fine wine.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "30fd7e80-7935-4931-9679-d5b42b0a70ad",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The trollkin was no different. Nekane could feel the animosity radiating outwards from the prison of arcane steel. Strong and vibrant, even severed from its body. Nekane was no stranger to research or experimentation regarding souls, even having at times risked her own. She knew very well the limits of what might be expected before a soul might wither and be consumed. An endless amount of torture and suffering awaited Boomhowler at the Wraithbinder’s pleasure.\nOstensibly, the death of the Brineblood Marauder admiral had accomplished its goal. The leadership of the Brineblood Marauder fleet had been held together only by Boomhowler’s strength of will and continued presence. Without her, they were a disorganised rabble and would doubtless break away to pursue their own primitive and base agendas.\nWith no navy to protect her shores, Alchiere was open to the arrival of both additional Cryxian forces sent to bolster those that already flooded towards the continent through the ancient cephalyx tunnels, and the Orgoth. Together with the cephalyx, they would easily overwhelm the outposts and settlements established by the Southern Kriels.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cdbe6dd2-f797-4511-9a47-28987a27036c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Nekane would entrust that onerous and thankless task to her allies. The promise of souls and captives would maintain the respective interest of the Orgoth and cephalyx. Meanwhile, her efforts were better spent completing the mission set to her by Dominarch Deneghra, which was of far greater importance.\nThat Nekane had reservations regarding the goals of the Orgoth Warwitch Sabbreth was irrelevant; whether the Eternal Annihilation actually accomplished her lofty objective or not, the process and methodology of constructing this unique Necropolis promised to be of great scientific interest to Nekane.\nBoomhowler herself had simply sweetened the triumph—not only in providing a delectable new victim for Nekane to savour, but far more importantly, to provide a means to reach into the void. The echo of the trollkin’s death had not been sufficiently powerful to retrieve her master, but to send a message to him as he nestled within the embrace of the forgotten god Lyliss.\nMachinations are underway to ensure your return.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "478e6e9c-ddf5-402e-adc7-e29f48c483d9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The concept of Ghyrrshyld’s return contained as much trepidation as anticipation for Nekane. In his final days, he had merged with the void and become something that was unprecedented. Whether he could be reasoned with or, failing that, controlled in this capacity was entirely unknown. Yet, the promise of the secrets he had uncovered and his expanded understanding of the void, a subject that Nekane had studied for much of her life, was too much to pass over.\nNekane had done her first part in his summons. Now, she had to trust in the actions of others for the next steps.\n***\nNightfall had brought with it a calm that had settled over the bay, banishing the winds and settling the tide. The water lapped quietly at the shore in a soothing susurrus, pale moonlight reflecting from its surface. Where the water grew deeper, the Baying Wolf floated at anchor like a sentinel, a dark shape against the lighter backdrop of the night sky.\nRather than remain in his village this evening, Korlar had instructed the settlement’s strongest krielstone bearer to hoist the sacred stone onto his shoulders and follow him. There hadn’t been a destination in mind; as the stone scribe had walked he’d let his feet choose the direction, until the pair had eventually reached the bay.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4f980801-9440-4d77-82e6-5deb9f6cc664",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "It had a been a strange day of mixed portents. Unseasonal weather, that saw the morning sun chased away by torrential rain and savage winds. Intermittent tremors that took hold of the earth and held it within their thrall for several heartbeats, before resting once more. A pair of gulls, wheeling around each other through the skies, locked in an unusual struggle against each other.\nA fell caller in the village, Jata, had finally recovered enough to speak, although of what had caused her to fall into the waking sleep, she either couldn’t or wouldn’t say.\nAt least now, Korlar reasoned, the world appeared to have returned to normal. The air was warm, and the skies clear. The ground no longer shook. In the distance, he could hear the sound of the inhabitants of his village, celebrating Jata’s awakening, and smiled at the warm glow of their pyres.\nThe stone scribe’s own campfire, a small thing he’d hastily lit in order to do his work, was settling in nicely, painting the krielstone’s surface in a soft amber hue. As he had done so many times before, Korlar closed his eyes and ran thumb and forefinger over the deep grooves of the aged carvings. Doing so always left him with an immense sense of satisfaction and gratitude. For generations, these stories had been passed down by his people—tales of hope, heroism, and triumph.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d19aae6f-0a95-4e07-b9a3-51b74506adbe",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "He savoured the moment until he recognised an inner peace had settled, ousting the worries from earlier in the day. Then, with the words and deeds of his ancestors and elders playing through his mind, he carefully picked up his tools and began to add new runes, telling the tale of the first Admiral of the Brineblood Marauders, The Thunder and daughter of Bragg, Thorga Boomhowler.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "798db954-7257-4330-a595-93d1a50dc418",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:26213e64-4874-47b1-8e4b-588f58b66a3f",
+                "2:96df48ef-ead1-4f05-ba31-d67c3104112b",
+                "3:e67f4607-7f1e-47e8-a1d3-0240e766f15b",
+                "4:066bd6a3-58d3-4885-ad6d-dfc9d8bbdf01",
+                "5:0974b43d-444c-4ba4-8d4c-a48d13315367",
+                "6:f8e36797-4058-4de9-bfc3-fb627338b5b0",
+                "7:cacbcf37-89f2-4016-8a7d-2d92fac37b8b",
+                "8:a83fafa3-d132-45c7-ad3f-f220e226d759",
+                "9:f08dd1fb-d200-4daf-84f5-f10cc068c5ec",
+                "10:0a31ea90-03c5-4e40-b7fb-8e54d9caa6ee"
+            ],
+            "artSegIds": [
+                "26213e64-4874-47b1-8e4b-588f58b66a3f",
+                "96df48ef-ead1-4f05-ba31-d67c3104112b",
+                "e67f4607-7f1e-47e8-a1d3-0240e766f15b",
+                "066bd6a3-58d3-4885-ad6d-dfc9d8bbdf01",
+                "0974b43d-444c-4ba4-8d4c-a48d13315367",
+                "f8e36797-4058-4de9-bfc3-fb627338b5b0",
+                "cacbcf37-89f2-4016-8a7d-2d92fac37b8b",
+                "a83fafa3-d132-45c7-ad3f-f220e226d759",
+                "f08dd1fb-d200-4daf-84f5-f10cc068c5ec",
+                "0a31ea90-03c5-4e40-b7fb-8e54d9caa6ee"
+            ]
+        },
+        {
+            "guidStr": "2a3e52c2-0bde-4152-bd0b-502b69491bea",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:0bd7c94d-3beb-479c-946c-42062685d891",
+                "2:43f6319e-ccba-4e6a-94f6-886c62f311d0",
+                "3:30fd7e80-7935-4931-9679-d5b42b0a70ad",
+                "4:cdbe6dd2-f797-4511-9a47-28987a27036c",
+                "5:478e6e9c-ddf5-402e-adc7-e29f48c483d9",
+                "6:4f980801-9440-4d77-82e6-5deb9f6cc664",
+                "7:d19aae6f-0a95-4e07-b9a3-51b74506adbe"
+            ],
+            "artSegIds": [
+                "0bd7c94d-3beb-479c-946c-42062685d891",
+                "43f6319e-ccba-4e6a-94f6-886c62f311d0",
+                "30fd7e80-7935-4931-9679-d5b42b0a70ad",
+                "cdbe6dd2-f797-4511-9a47-28987a27036c",
+                "478e6e9c-ddf5-402e-adc7-e29f48c483d9",
+                "4f980801-9440-4d77-82e6-5deb9f6cc664",
+                "d19aae6f-0a95-4e07-b9a3-51b74506adbe"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "02e8fdc1-c1c4-459d-a8be-5167948cc470",
+            "name": [
+                "Chapter 1 New Beginning",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:798db954-7257-4330-a595-93d1a50dc418",
+                "2:2a3e52c2-0bde-4152-bd0b-502b69491bea"
+            ],
+            "articleIds": [
+                "798db954-7257-4330-a595-93d1a50dc418",
+                "2a3e52c2-0bde-4152-bd0b-502b69491bea"
+            ]
+        }
+    ],
+    "publications": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

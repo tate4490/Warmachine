@@ -1,0 +1,1195 @@
+{
+    "bundleName": "data publication interstitial 3 - the hunt.json",
+    "general": {
+        "guidStr": "7fc4bd8d-dbe0-48b0-a418-24ee402ed093",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "e64de6c8-6ba0-4454-acb0-95429d5d8c9c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "The Hunt",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ae13a292-a5bb-42af-921c-775b59b5fba0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/SeaRaiders/lore_basic_orgoth_kishtaar_portrait.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1300,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e45a6003-5753-4e52-8b63-97230f2cd526",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "984bfa5e-2fb3-43b6-b2f1-81aa37ab03d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "PART THREE",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#310515",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4799fd28-348b-4e4b-b0f0-d6d9a55d66fd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The air around Ord simmered. The summer sun had risen only hours before but was already unrelenting in its intensity, long before reaching its zenith. This far inland and away from the coast, there was no breeze to caress the skin and soothe the heat. The narrow streets had quickly turned close and muggy since dawn, despite the shade they offered.\nThe fires only added to the misery. Thanks to their presence, there had been no respite in the temperature through the evening, and now as the sun’s warmth returned they simply amplified the rising humidity.\nOrd had fallen barely a day before now, yet the smell of death had already become ripe in this torment. Kishtaar was far from squeamish. For generations she had stalked her enemies on the battlefield, such hunts ending only in violent and bloody death. She had unflinchingly carried out gory rituals at the behest of her Fellgoeth masters. Most recently, she had hunted across the wastes ahead of her pack, a place where carrion was common and a necessary sustenance when prey was absent.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "84ca7594-2c9c-4884-8f4b-2a11f03eb857",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The sickly odor was distracting. It masked the earthy scent of her prey’s sweat and the sweet copper of their blood. Kishtaar possessed several other means of pursuing her hunt, and the absence of smell presented only a limited hindrance; her remaining senses, both natural and unnatural, were not blunted. Yet, it was through smell that she enjoyed the sport the most. Fear held its own scent, a wicked undertone in the cocktail of sweat, blood, leather, and metal. Upon catching a hint of it, the hairs on her skin rose in excitement, and adrenaline flushed through her veins.\nKishtaar had outpaced the reavers under her command and even her own battlegroup as she hurried through the claustrophobic streets and vaulted over ruined walls. Their absence mattered little. The primal call of the hunt was upon her. Besides, there was no remaining opposition worthy of the full might of a battlegroup. Most of the defenders had been killed in the days prior or had managed to flee during the night.\nThe latter had been a cause of considerable frustration. Kishtaar was unconcerned with either discipline or strategy, but she bristled at her prey being allowed to escape. Such incompetence could not be forgiven. She had instructed the warwitches to make an example of the reavers that had allowed their lines to be broken. The soldiers had forfeit their souls as punishment, and their lifeless bodies had been fed to the ulkor. In death they would at least serve some duty.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6a14beb8-786a-4103-be7a-f212c9cbc2f7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Prey.\nA whisper caught Kishtaar’s attention, an urgent echo carried over bare stone. She paused, all motion ceasing and her body now utterly still. The world shrank down to her beating heart as Kishtaar closed her eyes to concentrate, waiting for another murmur.\nThe next sound came a handful of heartbeats later.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cacc12c9-52d7-4edc-9ee5-087162e42727",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A low groan. Above, through a shattered window on the second floor of the building to the right.\nShe wasted no further moment or movement in response. Her feet padded soundlessly over the cobbles and then aided her hands as she quickly climbed up the side of the building, the hooks in her gauntlets providing leverage where handholds were absent. Within moments, she had reached the opening and carefully snatched a glance through the jagged shards of glass.\nA bare room, sparsely decorated and with bare floorboards. A soldier lay atop them, wearing the teal unform of Ord’s Crucible Guard. Crimson stained his shirt to a muddy hue. His eyes were closed and his body still but for a tremble that shook his jaw, and his lips were white where pain drew them tight; his teeth gnawed at chapped skin. A second soldier knelt at his side and held his hand in hers. Her eyes betrayed her concern as much as her body language as she leaned over him.\nThese two were weak and presented little challenge. But they were prey, nonetheless—and the hunger of Kishtaar’s Fellgoeth masters was endless.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c4ce7c43-44e9-46c6-8c3b-e142a6c49da5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She crashed through what remained of the window, glass fracturing the light with tiny punctuations as it cascaded inward and across the floor. The wounded soldier’s eyes opened, and Kishtaar saw terror had taken root in them, raw and untamed; a thrill raced through her limbs as surely as it froze his and stole any agency remaining to him.\nThe expression of the second soldier was lost for a moment amidst the blur of movement as Kishtaar rolled on landing and then pounced. As a Death Whisperer struck the woman’s neck in an explosion of gore, Kishtaar’s reward was an expression caught locked betwixt horror and excruciating pain. The soldier’s soul was instantly torn free by such a violent death, an ethereal visage of her final moment that screamed as it was dragged into Kishtaar’s embrace before being utterly consumed by the Fellgoeth. Her essence so destroyed, the soldier fell limply to the floorboards, an empty corpse wearing a death mask that would forever adorn its features until the flesh expired.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ecc77cca-c5c7-4edf-a4de-3cc2ad4127fb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The wounded soldier could do little but sob as Kishtaar turned her attention to him. The fear in his eyes had seeped out to encompass his entire face, the fright risen to such heights that it numbed any agony he might have been feeling. Kishtaar regarded him for a moment, her head tilted to one side. His eyes widened, and his mouth opened, a word beginning to form.\nKishtaar’s blade drew a precise line through his throat, cutting his voice short before it could escape. The soldier convulsed as he expired, gurgling noises in his throat as blood stained the wood below. Finally he grew still, and his soul drifted free, severed from its mortal fundament. It was a weak and withered thing, almost completely devoid of essence, and easily claimed.\nSilence returned and so too did Kishtaar’s contemplation.\nIt was not the man that had given her pause in action but the kill itself. For years, ever since her return to House Gaargash, Kishtaar had known of the vile whispers of the clan elders, spoken when they believed themselves out of earshot. They feared she was flawed. A ruined heir, incapable of leading their house in her current form. She had tolerated the words without umbrage; she cared as little for their disloyalty as she did their concerns, and if truth be told, even the fate of House Gaargash itself.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ad120b40-0c5e-4702-9800-d3b9a22cf14b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Kishtaar’s motivations had never been for political advancement of even herself, let alone her house. In the wastes, only the strongest and most cunning survived. A pack was useful only as long as it served an important function. If the individual creatures within a pack faltered, then they were unnecessary and cumbersome—fat to be culled until only lean flesh remained. Kishtaar was convinced she did not need a pack. Her triumphs had come from her own cunning and ferocity alone.\nEven so, she was conflicted. While those were the beliefs of Kishtaar herself—or at least, the current incarnation of Kishtaar—other voices echoed in her mind that were at once her own and alien to her. Those were the voices of Kishtaar as she had been during prior incarnations. Nebulous and intangible, fleeting emotions and sensations that arrested her attention for events that might otherwise offer little to no interest. Several of those voices considered political advancement of paramount importance.\nThe only current sentiment Kishtaar felt aligned with her prior incarnations was in serving the Fellgoeth and claiming their tithe of souls. Even in that, however, her motivation was muddied.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "41727e1c-1b4c-471e-9387-67d3573d913b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She had not truly understood the nature of her servitude upon first learning of the pact. In the fighting pits, she had thought to honor the Fellgoeth with the souls of mighty warriors, mistakenly thinking her masters possessed some concept of that honor. Yet when the trial was over, she was left feeling hollow and empty—as though some greater purpose was denied to her. No matter how great the victory, some instinct within the core of her being told her that she had failed.\nThen came the annihilation of House Shuvur. The act of reaping so many souls in quick succession had left her heady and breathless and enraptured by the unholy carnage as a sense of purpose aligned Kishtaar’s thoughts for the first time. For a time thereafter, she had indulged her primal instincts and allowed herself to be driven by simple bloodlust.\nIt had proven to be transient. Ostensibly Kishtaar’s actions served her masters, but in truth they masked her rising dissatisfaction with her own actions. Since arriving in Western Immoren, she had felt impossibly adrift from her own nature as a hunter. War and conquest were of little interest to her, nor was the infamy of glory on the battlefield. When she listened to Horruskh’s tales of past victories and vengeance, her mind wandered elsewhere.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d517d1ac-5f4f-445f-9f5b-92a1c3fe142b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "It was no foolish sense of pride that led these feelings; there was no pretence of honor between Kishtaar and her prey, and she held no care for trophy hunting. All the same, empty kills like the two soldiers now had become increasingly commonplace. There was no excitement in chasing them down. Any thrill was passing at most, desensitized by how many times she had followed this trail. The lack of challenge in hunting the weak was unsatisfying when once she had struck down mighty champions and great beasts. As with any alpha hunter, she wanted to establish dominance—and that was most satisfying when it was taken, not assumed or easily given.\nIt was an instinct that was completely opposed to that of her prior incarnations. None had been hunters, only witches and warriors. They cared not for her sport but instead for a mixture of religious fanaticism, self-preservation, and prestige. And so, Kishtaar was increasingly at war with herself, questioning what the true motivations of the Howling Silence were.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0d1f3e2a-553a-4a60-a516-d330b235d7b0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8ec88854-6421-4d6e-9418-258adfd1cca5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The hunt continued deeper into the city, as Kishtaar sought to refocus herself on the simple agency of the hunt itself. Still unaccompanied, in silence she prowled, searching for prey.\nTwice, she found a quarry. The first was a pair of frightened civilians that offered no sport. Their blood stained the cobblestones bright red, a stark contrast to the amber taint in the air from the Crucible Guard’s gas weapons. The second was an officer wearing a uniform she didn’t recognize. Kishtaar allowed him to run a little, for her amusement, yet his death was ultimately as unfulfilling as the others.\nHer throat was dry by now, and she couldn’t prevent herself from intermittently issuing a raspy cough, the sound stark in her silent surroundings. The thick clouds had crept up on her while she had stalked the officer, creating a roiling barrier between her and the main body of the fleeing defenders. Unlike the Ordic soldiers, she had no protective wear to prevent her from choking on the toxic fumes if she attempted to wade through them; and irrespective of that, she had little sense of what waited on the opposite side. Kishtaar knew if she met concentrated resistance, there was no guarantee that her fighting prowess alone would be able to overcome it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a7f20a49-ce18-4a68-a524-5aca51c8c327",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "It was time to return to her own lines. There would be other hunts and other souls to claim, no matter how hollow the exercise.\nKishtaar carefully began to pick her way back through the ruined city, but she stopped when she sensed the presence. A creature unlike the others she had stalked here. One that did not have the cloying stench of humanity upon it nor the sweet scent of fear she had detected amongst the prey. Instead, it radiated an aura of power, terrible in its potency.\nUnable to wrest her attention from this unknown presence, Kishtaar sought a vantage point from higher ground, climbing the wall of the closest building in several deft movements. Upon reaching the top, she carefully padded across the rooftop, eyes darting back and forth.\nThere.\nA creature that did not exude life but instead, stole it from her surroundings. One wrapped in the shroud of undeath yet entirely unlike the shambling husks that Kishtaar had witnessed amongst the forces of her Cryxian allies, who were wreathed in smoke and dripping with bile. This creature instead held a sense of serenity, curiously pure and hallowed in the silence of death. Unanchored from the earth, the creature drifted through the mundane streets, all the more elegant against the gutted ruins and blackened stone.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5c158aa5-266a-41c2-83bf-0d85be3eca1f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Fascinated, Kishtaar moved closer.\nA tide of nausea rose and threatened to overwhelm her until she swallowed it down once more, riding a harsh acidic sting in her throat. It was an unwelcome weakness that came not from the rising stench of decay and cooked flesh but from a revulsion at the core of her being; it was a sensation that Kishtaar did not call her own but one from her ancestral incarnations, disgusted that she could be so enraptured by an undead cadaver housing a corrupted and rotting soul.\nUnaware of Kishtaar’s presence, the figure continued to weave a path away from the city. An aura of sadness and lamentation imbued her being, entirely at odds with the raw power Kishtaar could feel rising from her. Kishtaar had heard of these creatures—the eldritch, vampiric creatures that had come to rule over the fallen nation of Ios. Horruskh in particular had spoken of their martial prowess with as close a sense of respect as Kishtaar had ever encountered in his tone.\nThis was a foe worthy of the hunt. Not a sniveling runt that gave away its fear at the sight of the predator come to end its existence. A creature over whom death held no power, that would only show terror when its mind and body were utterly broken, and she had established dominance over it. The concept made Kishtaar salivate. A creature that would truly test her.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fd667e43-1337-4e68-9fb7-b7d532eb4bc2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "That the condition of the soul was so vile… Kishtaar’s instincts roiled in a turbulent storm. Hunting this creature would achieve nothing beyond the death of a single enemy; an enemy that, whilst undoubtedly powerful, was of diminished value to her Infernal masters. The Fellgoeth did not show interest in petty mortal concerns such as military campaigns or territory. These things were nothing compared to their unholy and imperative hunger for souls.\nSeeking dominance over this prey was entirely wasteful to not only her masters, but also the Kishtaars of the past—but equally, immensely appealing to the Kishtaar of the present.\nPerhaps, Kishtaar released, this hunt would be how she would break free from the past. Not to prove herself to the scions and elders of her clan but to a way  she could achieve mastery over her own ancestral selves and put to rest those intrusive voices that left her in such a state of weakness. No longer would she doubt her own mind. No longer would she deny her instincts. As her wicked excitement grew, the voices grew softer, weaker. The shroud that had settled over her slipped away. She felt alone and focused, a sense that she had not known since she walked the wastelands.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0cd44b69-cffc-4cc8-a368-88d488fe10aa",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This hunt would define her. It would give legend to the Howling Silence as something more than a flawed vessel.\nKishtaar bared her teeth in a feral grin. Below, the eldritch continued along her path and was soon lost to the heavy clouds that cloaked the city.\nIt mattered little. For now, Kishtaar was without her battlegroup and was not in a position to pursue this hunt. Her prey was powerful and that required respect as well as an equal display of strength. But this simply meant the trail would be drawn out farther and the pursuit longer. The anticipation would become more delicate and nuanced as she stalked the eldritch across the entirety of the Iron Kingdoms.\nKishtaar’s grin grew wider.\nThe hunt had begun.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "3fce0247-ba42-473a-b3aa-27a75ce67093",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:e64de6c8-6ba0-4454-acb0-95429d5d8c9c",
+                "2:ae13a292-a5bb-42af-921c-775b59b5fba0",
+                "3:e45a6003-5753-4e52-8b63-97230f2cd526",
+                "4:984bfa5e-2fb3-43b6-b2f1-81aa37ab03d7",
+                "5:4799fd28-348b-4e4b-b0f0-d6d9a55d66fd",
+                "6:84ca7594-2c9c-4884-8f4b-2a11f03eb857",
+                "7:6a14beb8-786a-4103-be7a-f212c9cbc2f7"
+            ],
+            "artSegIds": [
+                "e64de6c8-6ba0-4454-acb0-95429d5d8c9c",
+                "ae13a292-a5bb-42af-921c-775b59b5fba0",
+                "e45a6003-5753-4e52-8b63-97230f2cd526",
+                "984bfa5e-2fb3-43b6-b2f1-81aa37ab03d7",
+                "4799fd28-348b-4e4b-b0f0-d6d9a55d66fd",
+                "84ca7594-2c9c-4884-8f4b-2a11f03eb857",
+                "6a14beb8-786a-4103-be7a-f212c9cbc2f7"
+            ]
+        },
+        {
+            "guidStr": "40193901-fe16-49f5-b875-97da72c1c7d1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:cacc12c9-52d7-4edc-9ee5-087162e42727",
+                "2:c4ce7c43-44e9-46c6-8c3b-e142a6c49da5",
+                "3:ecc77cca-c5c7-4edf-a4de-3cc2ad4127fb",
+                "4:ad120b40-0c5e-4702-9800-d3b9a22cf14b",
+                "5:41727e1c-1b4c-471e-9387-67d3573d913b",
+                "6:d517d1ac-5f4f-445f-9f5b-92a1c3fe142b",
+                "7:0d1f3e2a-553a-4a60-a516-d330b235d7b0"
+            ],
+            "artSegIds": [
+                "cacc12c9-52d7-4edc-9ee5-087162e42727",
+                "c4ce7c43-44e9-46c6-8c3b-e142a6c49da5",
+                "ecc77cca-c5c7-4edf-a4de-3cc2ad4127fb",
+                "ad120b40-0c5e-4702-9800-d3b9a22cf14b",
+                "41727e1c-1b4c-471e-9387-67d3573d913b",
+                "d517d1ac-5f4f-445f-9f5b-92a1c3fe142b",
+                "0d1f3e2a-553a-4a60-a516-d330b235d7b0"
+            ]
+        },
+        {
+            "guidStr": "222696e8-227f-4a26-bde6-22104fd4019c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:8ec88854-6421-4d6e-9418-258adfd1cca5",
+                "2:a7f20a49-ce18-4a68-a524-5aca51c8c327",
+                "3:5c158aa5-266a-41c2-83bf-0d85be3eca1f",
+                "4:fd667e43-1337-4e68-9fb7-b7d532eb4bc2",
+                "5:0cd44b69-cffc-4cc8-a368-88d488fe10aa"
+            ],
+            "artSegIds": [
+                "8ec88854-6421-4d6e-9418-258adfd1cca5",
+                "a7f20a49-ce18-4a68-a524-5aca51c8c327",
+                "5c158aa5-266a-41c2-83bf-0d85be3eca1f",
+                "fd667e43-1337-4e68-9fb7-b7d532eb4bc2",
+                "0cd44b69-cffc-4cc8-a368-88d488fe10aa"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "72006dae-a78e-4749-853e-bb9835a1564e",
+            "name": [
+                "Chapter 1 The Hunt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:3fce0247-ba42-473a-b3aa-27a75ce67093",
+                "2:40193901-fe16-49f5-b875-97da72c1c7d1",
+                "3:222696e8-227f-4a26-bde6-22104fd4019c"
+            ],
+            "articleIds": [
+                "3fce0247-ba42-473a-b3aa-27a75ce67093",
+                "40193901-fe16-49f5-b875-97da72c1c7d1",
+                "222696e8-227f-4a26-bde6-22104fd4019c"
+            ]
+        }
+    ],
+    "publications": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

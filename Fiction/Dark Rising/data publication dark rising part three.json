@@ -1,0 +1,1746 @@
+{
+    "bundleName": "data publication dark rising part three.json",
+    "general": {
+        "guidStr": "9eefb5cd-da4a-466d-8b36-c8fee05e3ae6",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "bd3360d7-14c7-4c1e-9aa1-99dd698a1768",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "DARK RISING",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/fiction_darkrising_chapterheader.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c06e3a32-0865-43c5-bcfa-0f0280a4fcea",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Ancient enemies have returned to the shores of the Iron Kingdoms, and for the first time in centuries, the military might of the kingdom of Khador will find itself challenged by an invading force from beyond the lands of western Immoren. \nAt first, Kapitan Ilari Borisyuk and his forces don’t know what they are seeing—but all too soon, the bloodthirsty invaders known as the Orgoth will make their presence felt and their intentions clear: to crush the nations of the Iron Kingdoms and subjugate its people once again—beginning with Khador. Ilari is not only the first line of defense against the Orgoth; unless he can survive to warn his countrymen, he may well be the only defense.\nAs the Orgoth soldiers, led by the powerful warwitch Sabbreth, called the Eternal Annihilation, pour ashore, Ilari will do what he must for his troops, for his Motherland, and for all of the Iron Kingdoms, even if it means making deadly decisions and impossible sacrifices…</I>\n<b>Dark Rising</b><i> is the first book in Privateer’s ongoing monthly Saga series, available through the WARMACHINE app. The first three of six chapters will be available for free; the remaining chapters will continue in monthly installments, along with additional content and features, with a paid WARMACHINE app subscription.</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e5baaf75-28e5-496c-a2aa-0363eabac9d0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "33ba7d61-6afa-4c4d-8132-8a8620dc648e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Chapter Three – Dark Haven",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0635b02e-a4e3-4c92-858c-2a909af6b382",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The rising sun sprayed feeble light through the trees and provided neither warmth nor comfort as Ilari and what remained of his forces sprinted through the forest. Behind them, screeching howls of bloodlust and fury echoed as the enemy gave chase. \nGlancing over his shoulder, he saw armored shapes loping through the trees, getting closer with each stride. The thought of turning and making a last stand occurred to him, but he and his forces were all but out of ammunition, and the thought of being taken captive by the Orgoth was too terrible to contemplate. \nSo, they ran.\nAnother breathless minute and Ilari burst from the trees to see the Lothpool River stretching before them, Beyond it, the walls of the great port city of Skrovenberg. The river wound around and through the city, allowing goods to come from inland and then be shipped out through the thriving port. \nA burst of energy and hope flooded Ilari’s brain and he shouted, \"Run! We’re almost there!\"\nTheir groupe—one warcaster, a warjack guttering smoke from a nearly exhausted coal supply, and a dozen haggard Winter Korps troops—raced toward the river and the great bridge that spanned it. Ilari muttered a thanks to Menoth that the bridge was still down. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f7f541f8-361c-4582-b60e-1454fbe14536",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Not far behind them, their Orgoth pursuers emerged from the trees. The sight of the city did not deter them. They continued the chase with bloodcurdling shrieks. \nIlari made the bridge, a great span of ironwood and steel crossing the Lothpool. A distance of some twenty yards remained from the shore to the tall gates. Above the gates, dotting the spaces between crenellations, he saw faces staring down—soon those faces were replaced with rifles, and the staccato burst of gunfire sounded over Ilari’s head. For a moment, he thought the soldiers of Skrovenberg might have mistaken he and his troops for enemies, but a quick glance back showed Orgoth warriors stumbling and falling, felled by well-aimed shots from atop the gates. \nThe rest of his troops had made it onto the bridge, and Ilari pointed at the gates. \"Raise the bridge! Raise the bridge!\"\nThe Orgoth were nearly to the shore of the Lothpool when the grinding clash of massive gears rumbled beneath Ilari’s feet. Slowly the bridge lifted from the ground, and soon Ilari was running downhill. Orgoth warriors sprang from the shore, and a few caught the lip of the bridge as it rose; more hit the water and were likely dragged to the bottom by the weight of their armor. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a2e75e09-99a9-4086-8bbe-701f56b55d91",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A dozen enemies made it onto the bridge, but they were shot down in a barrage of gunfire from the city. \nThe gates cracked open as the bridge rose, and Nail lost its footing, sending nine tons of warjack sliding like a crimson, smoke-spewing boulder toward the city. It hit the cobblestoned street beyond with a tremendous crash, but Ilari’s link with it informed him it was not badly damaged. The warjack climbed to its feet, surrounded by some fifty soldiers, their faces wide-eyed and staring. \nIlari half-ran, half-slid into Skrovenberg along with the rest of his force. The rising gate reached its terminus and hit the wall with a hollow boom. Ilari bent over, put his hands on his knees and struggled to catch his breath. He’d run for miles upon miles as a Widowmaker but never with the added hindrance of armor. Even with the arcane turbine in his warcaster kit offsetting much of the weight, it was still like sprinting through thick mud. Roslov, Vislovski, and even Nasdovich looked like they’d just run through Urcaen, which wasn’t far from the truth. The remaining infantry that had come with Ilari from Ice Watch looked even worse, but they were alive and safe for the moment. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ad789d2c-3dd6-4c9d-abe1-513ff58b9af9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A Winter Korps sergeant pushed through the troops clustered around Ilari and his soldiers, a grizzled man with a shock of white hair and a face like old leather. He had almost certainly gained his rank as a member of the Winter<i> Guard</i>.  \nThe sergeant saluted, recognizing Ilari’s warcaster armor and the kapitan’s insignia on his right pauldron. \"Are you wounded, Kapitan?\"\nIlari shook his head. He bore a dozen cuts, burns, and a bone bruise on his right leg deep enough that each step sent a jolt of pain shooting up through his body. But he had no time for something as trivial as his own pain. \"Take me to the posadnik. Now.\"\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ab1ad05d-be97-47c7-9b95-3710c5d8a178",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Before following the sergeant, Ilari ordered Lieutenant Roslov to take care of their troops and herself. Rest, food, clean unforms, and a resupply of ammunition. He ordered Chief Vislovski to make sure Nail was repaired, its armaments were reloaded, it was fully refueled, and then to get some rest himself. Sergeant Nasdovich finally climbed out of her Man-O-War armor, a tall, gangly woman covered in soot and minor burns. Her crazed smile never left her face except when one of Skrovenberg’s mechaniks began going over her suit to repair and refuel it. Then she looked like a worried mother watching her firstborn during a medical examination, and she hovered over the mechanic, making pained noises until Roslov ordered her to go and clean up.\nIlari followed the sergeant north along the Lothpool River that ran through the heart of the city. The waterway was packed with merchant vessels that had travelled down from farther inland bearing goods to be traded or shipped to the south. There were few warships; that concerned Ilari.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "781559ee-ba13-4079-b5b4-f8e678be2996",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They reached an area of the city called the Nine Boards—nine great buildings of red-and-white brick, set around a central garden. These buildings housed renowned schools on a wide variety of subjects, from engineering to alchemical sciences. Skrovenberg had long been a center for learning and education in Khador. The posadnik’s modest palace was the tenth building, a newer construction of simple gray stone, almost shoddy in comparison to its stately, erudite neighbors. \nA pair of Man-O-War stood outside the gates of the posadnik’s palace, and the courtyard beyond held a dozen Winter Korps riflemen. \nOne of the Man-O-War opened the gates without question, and Ilari was ushered through the courtyard and into the palace proper. The first room was a sealed antechamber, utilitarian, with racks and benches where soldiers could leave weapons before seeing the posadnik. \nIlari surrendered his magelock rifle to the sergeant-at-arms and then gratefully let the woman help him remove his warcaster armor. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "972c6094-2a2d-4ab6-befd-4675623bc8f0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"I’ll have this cleaned and refueled for you, sir,\" she said. \n\"My thanks, Sergeant,\" he replied, suddenly realizing how filthy he was. He was covered head to toe in dirt, blood, and his own sweat. He must smell like a slaughterhouse. \nThe sergeant who’d led him to the palace noted Ilari’s discomfort at his disheveled state. \"Don’t concern yourself with that, sir. I saw what was chasing you, and I think the posadnik would want to see you right away.\"\nDecorum was hardly a concern given what waited outside the walls Skrovenberg—and worse, what waited for them to the north. Ilari left the antechamber escorted by a pair of soldiers in dress uniforms bearing what Ilari assumed was the posadnik’s crest on their left shoulders. They said nothing as they led him down a short hallway with gray marble floors, its walls decorated with paintings of past posadniks. At the end of the hallway stood an ornate set of doors, the seal of Skrovenberg—a stylized river circling the tripartite anvils of Khador—set in their center. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6dda8c4b-6960-4432-9707-153f48b65b63",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The doors opened, and Ilari entered into the presence of the ruler of Skrovenberg. The posadnik was a large man, burly, thick in the chest and arms. His hair and beard were black but speckled with gray, and he had a ruddy complexion with deep-set brown eyes. Not an attractive man but one who emanated strength and poise. \nThe posadnik’s stateroom was modestly appointed with a window overlooking the gardens of the Nine Boards. There was a stout wooden table upon which a map of the city had been placed, the posadnik’s plain desk, and walls covered in bookshelves, as befitting a city dedicated to learning. The posadnik was not alone. A woman, tall and dignified, her features sharp and unforgiving, stood near the map table. She wore a dark gray cloak over black shirt and hose, and the hilt of a long straight sword peeked out from beneath her outer covering. It seemed some were allowed to carry weapons in the palace after all. \n\"I am Posadnik Dmitri Meshik,\" the ruler of Skrovenberg said. \"What is your name, Kapitan?\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "424a13d7-051a-48f6-84ec-b40ee4e158d2",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Ilari Borisyuk, sir,\" Ilari said. The posadnik was technically outside the military hierarchy, but his bloodline was likely that of the old nobles and demanded respect. \"I have dire news.\"\n\"Borisyuk,\" the gray woman said, as if she were somehow familiar with the name. \"You are a warcaster?\" Her gaze never strayed from Ilari, and its weight made him shiver. \n\"I recently completed my training at the Druzhina, and I was stationed at Ice Watch,\" Ilari said. \nThe woman’s eyes narrowed, and it somehow made her gaze more intense. \"You are uncommonly old for a kadet.\"\n\"Kapitan.\" Ilari corrected the woman, then noted, \"You are uncommonly alive for a Greylord.\" \nHe’d believed the sorcerous cabal that had once served Khador and then turned on it during the Infernal Wars had been disbanded, its members tried and executed for treason. As a Widowmaker, he’d been assigned nearly a dozen hunt-and-kill orders for those who escaped the initial purge. \n\"You were not always a warcaster. What did you do before your ascended to that position?\" the gray woman asked, her question pointed.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "03d8b96f-ad6f-4c5d-90d5-60c69a3dceaf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Could she know?</i> Ilari wondered, then said, \"Who are you?\" His question was as dagger-sharp as her own.\n\"She is Magziev Zariyah Volkova,\" Posadnik Meshik said, breaking into the conversation as he likely sensed the tension between them.\n\"You entertain traitors, Posadnik,\" Ilari said. He expected some reaction from Magziev Volkova, but received none. If she were affronted by being labeled a traitor, it did not affect her icy calm. \n\"She is a patriot,\" the posadnik said, though he did not seem any more offended by Ilari’s harsh words then she did. \"She has proven her loyalty and is part of the Winter Korps, just as you are.\"\n\"If you say so, Posadnik,\" Ilari replied, conceding that it must be true if Volkova were here. \n\"What have you brought to these gates?\" Volkova said, as if the exchange between them about her status as an enemy to the Motherland had never happened. \"We have reports of attacks up and down the coast by mysterious raiders. You have seen them, yes?\"\nIlari glanced at the Posadnik, who nodded. \"Answer her.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5b15aa80-59ac-4ed9-9bdb-f6ceb9289fbd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"They made landfall at Marova, a village on Brone’s Point,\" Ilari said. \"I was sent from Ice Watch to investigate, and . . . I made contact with the enemy there.\"\n\"What enemy?\" the posadnik said.\nIlari drew in a deep breath. Somehow, even after all he had seen and suffered, to think it, let alone say it, seemed absurd. \"The Orgoth have returned, sir.\"\n \"The Orgoth?\" The posadnik’s bushy eyebrows furrowed. \"Kapitan, I have no doubt you fought hard to bring me news of these invaders, and it is true, our own reports, in addition to the enemy at my gates, corroborate your story, but I struggle to believe these invaders stepped out of myth and legend to attack our shores once more. Are you sure they weren’t Cryxian raiders?\nSudden anger gripped Ilari. \"I lost half my forces getting here to warn you. I saw the ships, Posadnik. I saw the horrors that spilled out of them, and I am here to tell you that if we do not act now, <i>everything</i> we know will burn.\" \nThe posadnik held up his hands in a conciliatory gesture. \"I meant no offense, Kapitan, and I’m sorry for the troops you lost. But you must understand—\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a612b7e0-45a2-4f6c-b53d-a29d10d1ce66",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"He is right,\" Volkova said, her voice barely above a whisper. \n\"Magziev, no disrespect to you either, but how can you know this?\" the posadnik said.\n\"I have seen it in my dreams. A great darkness from the ocean,\" Volkova replied as if such a thing were incontrovertible proof of her assertions.  \nThe posadnik shook his head. \"Dreams are not evidence. You know this.\"\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "97af687a-3e3e-44b2-910c-857f9ff3295f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari remained silent, but he could not care less where the Magziev’s belief came from; he was beginning to see her as an ally instead of a dangerous holdover from a dark chapter in Khador’s history. \n\"The empress believes differently,\" Volkova said, then turned to Ilari. \"Now, tell me exactly what you saw.\"\n\"Ships,\" Ilari said. \"Many huge ships filled with warriors. I couldn’t get an accurate count—\" He paused, remembering the flames and screams as Marova fell beneath the Orgoth—\"but there were thousands of them.\"\n\"You fought them?\" she urged. \nHe nodded \"I had a detachment of infantry, including a Man-O-War, supported by two Dire Wolfs. We engaged the enemy outside of Marova. They fought like demons. Their armor and weapons were strange, but there was no denying what they were. Who they were.\"\n\"Go on,\" Volkova said. \n\"Have you ever seen the horrors from the Nightmare Empire?\" the posadnik said. \"Monstrous things. Inhuman. Cryx’s Black Fleet has been known to raid these shores.\"\nVolkova wheeled on the ruler of Skrovenberg. \"I advise you to remember the history of your own city. It was burned to the ground by the Orgoth. Twice.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3a3208e7-32ce-4e48-9b26-d42110d46f90",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The posadnik was silent for a moment, then he shook his head, a sure sign of resignation. \"Magziev, Kapitan, perhaps we are coming at this problem from the wrong direction. I do not doubt we face a terrible enemy, and we must act before they spread. If they are Cryx or Orgoth, it matters little.\" \n\"It matters more than you can comprehend, Posadnik.\" She did not let the ruler of Skrovenberg answer. \"Continue with your report, Kapitan.\"\n\"We fled Marova,\" Ilari said. \"There was nothing I could do for them, and I thought it of greater importance to warn all everyone I could. I wanted to stay. I wanted to fight.\" The guilt washed over him, and the full weight of the terrible flight from Marova settled on him like heavy chains. He swallowed, his lips quivered, and he clenched his hands into fists, fighting his emotions.\n\"Take a breath, Kapitan,\" the posadnik said and took glass and decanter from a small silver service tray. He poured a liberal dose of what looked to be uiske and brought it to Ilari. \"Drink this.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b29f70c9-3eeb-42fc-9a0a-8535234e7d5e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari took the glass with a shaking hand and downed the fiery liquor in a single gulp. Warmth filled his belly, and he felt more in control. Whatever the Posadnik’s faults, he was not an unkind man. \"Thank you.\"\nVolkova said, \"You were right to flee. War demands of us terrible things . . .\" She trailed off, and her eyes took on a glassy, faraway look. \n\"We fled and were pursued,\" Ilari continued. \"We fought the Orgoth again on the Vescheneg Headlands. \"Some of them had firearms, but not like ours. They used an energy source I have never seen. It blazed with crimson light. It might be some new form of mechanika.\"\nVolkova’s eyebrows went up. \"Did you see this technology elsewhere?\"\n\"Before I left Marova, I saw more of what came off the Orgoth ships. I saw that burning energy in the heart of a machine. A warjack.\"\n\"Are you certain?\" Volkova’s voice was sharp and cold. \n\"Without question. It was a warjack, and with all the troops they were offloading, there had to be more of them.\"\n\"If there are warjacks,\" the posadnik began, \"then—\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6404e9d7-c0f4-4e33-a3c4-5ec6afd71b39",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"—there are warcasters,\" Volkova finished.\nIlari opened his mouth to say more, but a deep shuddering boom shook the floor, stone dust raining down from the ceiling. \n\"The gates,\" Ilari said. \n\"I will muster the city’s defenses,\" the posadnik said. \"Go to the gates, rally who you can, and I will send soldiers and what warjacks we have to you.\"\n\"I will go with you,\" Volkova said. She turned to the posadnik. \"Send runners to Port Vladovar. If the enemy attacked from the sea, we’ll need warships.\" \n\"It will be done.\"\nIlari took a deep breath and prepared himself again—and again and again—for war.\nThe sergeant-at-arms had been true to her word—Ilari’s armor was clean and refueled when he and Volkova entered the antechamber. The sergeant offered him a clean gambeson and a bucket of warm soapy water, which he accepted gratefully. \n\"I’ll meet you outside,\" Volkova said and exited. \nIlari shrugged out of his stained, soiled, and blood-soaked garment to wash himself as best he could. The water sluiced off him in pinkish brown rivulets. It reeked of death. When he was as clean as he was likely to get, he braided his beard, tied his hair back, and slipped on the new gambeson. The sergeant-at-arms helped him don his armor, and when he powered it up, the arcane turbine took on most of the weight.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e4af1bb9-7be9-419f-bfbd-8718ac5bc122",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "He felt almost human again and hoped Roslov and the rest of his meager forces had taken at least <i>some</i> rest. \nIlari made his way through the city with Volkova, approaching the south gate as the sound of gun and cannon fire grew louder. Winter Korps soldiers swarmed the area. \nThey were nearly there when Volkova looked over at him, frowning, her eyes glinting somehow colder than before. \"I know you, Kapitan Borisyuk. Those in my order called you Death’s Shadow.\"\n\"I had my orders. I carried them out.\"\n\"And quite efficiently,\" Volkova responded. \n\"Your order turned on the Motherland. Sought alliances with monsters,\" Ilari said. \"I have no remorse for those I brought to justice.\"\nVolkova drew in a deep breath and stared at the ground as they hurried toward the gates. \"I too brought my brothers and sisters . . . to justice.\"\n<i>So that’s how she survived,</i> Ilari thought. The posadnik had called her a patriot. Ilari couldn’t go that far, but he couldn’t help but feel some sympathy for the terrible decision she’d had to make.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e6369b25-8759-4235-b603-78dcd1d8053b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"All right. That is the past. Let us leave it there,\" Ilari said as the drew within sight of the gates. \"I bear you no ill will, and if the empress values your talents and knowledge, then so do I.\"\nVolkova nodded but said nothing. Ilari wouldn’t blame her if she held a grudge, but he would not recommend it.  \nThey reached the wide bailey behind the gate, and Lieutenant Roslov was there to meet him. She’d cleaned herself up and found a new uniform that was slightly too big for her slender frame—she’d rolled the cuffs and pant legs to fit her. Ilari could see fear in her eyes, something he hadn’t seen even when they faced the horrors on the Vescheneg Headlands. It startled him. \n\"What is it, Lieutenant?\" he asked. \n\"You have to see for yourself, sir,\" she said and pointed to the ramparts above the gates. The soldiers atop it had ceased firing; the cannons mounted above and gone silent. \nIlari walked to the steep stairs that led up to the ramparts and climbed them slowly. The smell of blasting powder and the stink of fear lingered over the gates. He reached the top and drew in a sharp breath. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "46b73473-2ab9-47a7-86ab-adf1ff2756f1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Volkova, beside him, was silent, but he felt the woman tense, and her confident, aloof demeanor seemed to disappear for a moment. \nAcross the river, a massive Orgoth host had assembled. They’d pulled back out of range of Skrovenberg’s defenses and clotted the field between the forest and the river like a swarm of black locusts. \nIlari brought his rifle up and rested it on one of the crenellations. He peered through the scope and shuddered. That such abominations could walk in the daylight was all the more unsettling. He saw thousands of troops like those he’d fought along the way to Skrovenberg, but they were simply humans in armor, terrible, but none so alien as the hulking shapes of feral warjacks that towered over them. They were bestial things, their hulls sculpted like ravening monsters, spiked, tusked, and fitted with scything talons or long-barreled cannons. They produced no smoke, but their bodies blazed with crimson light.  \n\"Can you get a count?\" Volkova whispered. \nIlari pulled his gaze away from the horde. \"Ten thousand. Maybe more.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5b2f8808-9eac-4c59-8f51-5eb31c871253",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "He noticed soldiers around them listening, their eyes wide and staring. Terror spread among them like a disease on a cold wind. He could not allow that. He turned and addressed them. \"Defenders of Skrovenberg, the Motherland bleeds, but show me a beast that does not fight harder when wounded. We will hold this city or make them pay with bodies and blood if they take it.\" \nA chorus of ayes and nods answered Ilari’s words. \n\"For the Motherland. For the empress,\" he shouted.\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e98428af-5562-4a67-97ea-e8ea9f5686e1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b0fd6927-39b6-4de6-ba54-3afee6747123",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Interlude: Red Siege",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6fe1f87e-6349-4c97-b944-76cf2856236a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She did not know the name of the city on the river nor did Sabbreth care—it was simply an obstacle and a prize. The fact that The Red had taken refuge here only made her desire to tear this city down, brick by brick, more intense. The Immorese sorcerer had once again fought his way through her soldiers, slaughtering many with his own hand or by the weapons of the war machine he controlled. He had not escaped entirely unscathed. Many of his own dead lay in his wake.\nHer host had assembled at the banks of the river, a wide, sluggish channel but still too deep for her soldiers to simply forge through. Bridges spanning the river had been drawn up, and the city’s defenders had begun their attack with cannons and gunfire. From the rear of her army, Sabbreth watched, gauging the effectiveness of the enemy’s weapons. She lost some troops, but she had learned the range and potency of the city’s offensive capabilities.\nA small forest stood behind her, and she had ulkor axers hewing trees to build rafts. She did not want to risk her ships yet. She would use them to attack other areas of the city, while the city’s defenders focused their efforts here. She had sent the ulkor barragers to the front of their lines, and reaver commanders there had ordered them to begin firing on the city walls with their bombards. The heavy thudding reports of the weapons brought a smile to Sabbreth’s face. This was just the beginning. The full might of her host would soon be brought to bear, and the city would bleed pain and souls in the forge of her ascendancy. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7f3ed62a-624f-4f9d-8a43-7da7faac5412",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Mighty one,\" said Drashak. She had allowed the reaver commander to live, and he had become part of her retinue. \"There are ships on the river.\"\n\"What?\" Sabbreth said, whirling on the commander. \"I ordered no such attack.\"\nDrashak stared at the ground. His body trembled with terror, his armor rattling softly. \"They are not your ships, mighty one. They belong to the Thousand Wraths.\"\n\"Horruskh,\" Sabbreth said, spitting his name from her mouth like something spoiled. Her rival warlord had caught up with his own part of the great host and now challenged her for souls and glory. \nWith a snarl, she gathered her two Jackals and pushed through the mass of warriors, her warjacks smashing reavers and even ulkors from her path.  She made the shore of the river, and her power field began to flare and flash as small arms fire deflected from it. Her warjacks took fire as well, but the damage was only superficial. \nDrashak had spoken truly. Horruskh’s ships moved slowly up the river. Warjacks armed with ranged weapons loomed on the decks along with reavers armed with bolt throwers. They began to fire up at the walls, doing more damage than her ulkor barrages could manage from across the river. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "261543f7-8148-4e4a-a6c6-19dc17b4bccb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sabbreth was about to turn and rejoin her army when heavy thunder from the other side of the river sounded—one of Horruskhs’ warjacks exploded in a shower of metal and crimson fluid from a ruptured blaze core. She scanned the walls, and there, on a ledge accessible by a sallyport, was The Red. He had two war machines with him. Both were great hulking things with crimson armor, but one was considerably larger, and it fired some manner of screeching cannon at the decks of the Orgoth ships. Reavers and more warjacks were ripped to pieces by the shredding barrage.\nSabbreth raised one of her swords in salute. Let Horruskh feel The Red’s wrath for a bit.  \n",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "a00d9e79-8116-49cd-9bde-31b96a91d730",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:bd3360d7-14c7-4c1e-9aa1-99dd698a1768",
+                "2:c06e3a32-0865-43c5-bcfa-0f0280a4fcea",
+                "3:e5baaf75-28e5-496c-a2aa-0363eabac9d0",
+                "4:33ba7d61-6afa-4c4d-8132-8a8620dc648e",
+                "5:0635b02e-a4e3-4c92-858c-2a909af6b382",
+                "6:f7f541f8-361c-4582-b60e-1454fbe14536",
+                "7:a2e75e09-99a9-4086-8bbe-701f56b55d91",
+                "8:ad789d2c-3dd6-4c9d-abe1-513ff58b9af9"
+            ],
+            "artSegIds": [
+                "bd3360d7-14c7-4c1e-9aa1-99dd698a1768",
+                "c06e3a32-0865-43c5-bcfa-0f0280a4fcea",
+                "e5baaf75-28e5-496c-a2aa-0363eabac9d0",
+                "33ba7d61-6afa-4c4d-8132-8a8620dc648e",
+                "0635b02e-a4e3-4c92-858c-2a909af6b382",
+                "f7f541f8-361c-4582-b60e-1454fbe14536",
+                "a2e75e09-99a9-4086-8bbe-701f56b55d91",
+                "ad789d2c-3dd6-4c9d-abe1-513ff58b9af9"
+            ]
+        },
+        {
+            "guidStr": "e2434caf-e720-45d3-983a-49bf5eb07bcb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:ab1ad05d-be97-47c7-9b95-3710c5d8a178",
+                "2:781559ee-ba13-4079-b5b4-f8e678be2996",
+                "3:972c6094-2a2d-4ab6-befd-4675623bc8f0",
+                "4:6dda8c4b-6960-4432-9707-153f48b65b63",
+                "5:424a13d7-051a-48f6-84ec-b40ee4e158d2",
+                "6:03d8b96f-ad6f-4c5d-90d5-60c69a3dceaf",
+                "7:5b15aa80-59ac-4ed9-9bdb-f6ceb9289fbd",
+                "8:a612b7e0-45a2-4f6c-b53d-a29d10d1ce66"
+            ],
+            "artSegIds": [
+                "ab1ad05d-be97-47c7-9b95-3710c5d8a178",
+                "781559ee-ba13-4079-b5b4-f8e678be2996",
+                "972c6094-2a2d-4ab6-befd-4675623bc8f0",
+                "6dda8c4b-6960-4432-9707-153f48b65b63",
+                "424a13d7-051a-48f6-84ec-b40ee4e158d2",
+                "03d8b96f-ad6f-4c5d-90d5-60c69a3dceaf",
+                "5b15aa80-59ac-4ed9-9bdb-f6ceb9289fbd",
+                "a612b7e0-45a2-4f6c-b53d-a29d10d1ce66"
+            ]
+        },
+        {
+            "guidStr": "4b7a4da6-fb98-4ccf-a81f-9de0d8fed616",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:97af687a-3e3e-44b2-910c-857f9ff3295f",
+                "2:3a3208e7-32ce-4e48-9b26-d42110d46f90",
+                "3:b29f70c9-3eeb-42fc-9a0a-8535234e7d5e",
+                "4:6404e9d7-c0f4-4e33-a3c4-5ec6afd71b39",
+                "5:e4af1bb9-7be9-419f-bfbd-8718ac5bc122",
+                "6:e6369b25-8759-4235-b603-78dcd1d8053b",
+                "7:46b73473-2ab9-47a7-86ab-adf1ff2756f1",
+                "8:5b2f8808-9eac-4c59-8f51-5eb31c871253"
+            ],
+            "artSegIds": [
+                "97af687a-3e3e-44b2-910c-857f9ff3295f",
+                "3a3208e7-32ce-4e48-9b26-d42110d46f90",
+                "b29f70c9-3eeb-42fc-9a0a-8535234e7d5e",
+                "6404e9d7-c0f4-4e33-a3c4-5ec6afd71b39",
+                "e4af1bb9-7be9-419f-bfbd-8718ac5bc122",
+                "e6369b25-8759-4235-b603-78dcd1d8053b",
+                "46b73473-2ab9-47a7-86ab-adf1ff2756f1",
+                "5b2f8808-9eac-4c59-8f51-5eb31c871253"
+            ]
+        },
+        {
+            "guidStr": "ece10653-03bf-4a62-9377-4e3352c8986a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:e98428af-5562-4a67-97ea-e8ea9f5686e1",
+                "2:b0fd6927-39b6-4de6-ba54-3afee6747123",
+                "3:6fe1f87e-6349-4c97-b944-76cf2856236a",
+                "4:7f3ed62a-624f-4f9d-8a43-7da7faac5412",
+                "5:261543f7-8148-4e4a-a6c6-19dc17b4bccb"
+            ],
+            "artSegIds": [
+                "e98428af-5562-4a67-97ea-e8ea9f5686e1",
+                "b0fd6927-39b6-4de6-ba54-3afee6747123",
+                "6fe1f87e-6349-4c97-b944-76cf2856236a",
+                "7f3ed62a-624f-4f9d-8a43-7da7faac5412",
+                "261543f7-8148-4e4a-a6c6-19dc17b4bccb"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "92b20ed3-bd62-4f76-862b-491a4530f345",
+            "name": [
+                "Dark Rising Part Three",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:a00d9e79-8116-49cd-9bde-31b96a91d730",
+                "2:e2434caf-e720-45d3-983a-49bf5eb07bcb",
+                "3:4b7a4da6-fb98-4ccf-a81f-9de0d8fed616",
+                "4:ece10653-03bf-4a62-9377-4e3352c8986a"
+            ],
+            "articleIds": [
+                "a00d9e79-8116-49cd-9bde-31b96a91d730",
+                "e2434caf-e720-45d3-983a-49bf5eb07bcb",
+                "4b7a4da6-fb98-4ccf-a81f-9de0d8fed616",
+                "ece10653-03bf-4a62-9377-4e3352c8986a"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

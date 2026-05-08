@@ -1,0 +1,1197 @@
+{
+    "bundleName": "data publication emergence part 1.json",
+    "general": {
+        "guidStr": "eea529f1-a262-4264-891c-3bf27a267f36",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "39e7f7aa-7cf1-4ee2-bd19-2198d8d8ec8d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Emergence",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "By Erik Reiersen",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/lore_basic_khymaera_emergence.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 512,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "076640f0-bec2-4c09-8e4e-27dd053dd87c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The gore-covered shard contrasted against her pale hands as Rhyas cradled the only remnant of her sister. The shard’s once azure surface was now black as pitch, yet somehow an intensifying inner glow of amber managed to refract off its facets like a brilliant evening sky viewed through a broken piece of glass. She was momentarily distracted from her grief, allowing herself to slowly be drawn in by the hypnotic emanations, just before her body was seized with pain and a raging howl shrieked inside her.\nHer sister Saeryn had discarded her ensorcelled spear and strode through the crowds of evacuees into the Henge Hold gate just moments ago. When she did, she wore the countenance of a queen about to accept her title and domain. As humanity sought respite from soul-devouring horrors, the cult known as the Convergence of Cyriss had aided and enabled their departure from their besieged world via a gargantuan mechanical gate said to lead to the realm of the god herself. Profiled by the shadows of leviathan refugee skyships that passed through the gate with a tranquil ripple above her as they fled the infernal onslaught, Saeryn shared a final, knowing look with her sister, stepped forth, and explosively evaporated like a raindrop upon molten steel. It was as if Cyriss, the Machine Goddess herself, interfered with Saeryn’s passing, sensing something so anathematic to the Goddess’ own being that She was stirred to action. Rhyas witnessed the destruction of her soul-linked sister at the summit of their quest to fulfill their enigmatic destiny. The Talons of Everblight, as they were known, had sacrificed everything, including their free will, in servitude to a dragon in order to climb toward their fate. As the civilization of the winter elves, the Nyss, fell to the insatiable dragon Everblight, Saeryn was struck with a cryptic vision that saw her and Rhyas’ path required submission. After defeating Everblight’s vessel Thagrosh using their combined sorcerous and martial prowess, instead of finishing him, they knelt and offered servitude. In exchange for fragments of his essence—his <i>athanc</i>—buried in their chests he would enhance their powers—but at the cost of their own volition. Saeryn, however, had deceived Everblight and had worked tirelessly to conquer her <i>athanc</i> shard and become something greater, all while shielding her sister from the dragon’s prying gaze. But with Saeryn’s sudden demise, the veil had fallen, and Rhyas was now exposed to the unfathomable wrath of her former master.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "675f191f-5f42-4b73-af11-2dac86f4f4ad",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She felt Everblight palpably convey pure hatred as the connective strands to her remaining spawn were unceremoniously cut, and her mind began torturously bending to his will. She could sense through her shard the dispassionate regard of her fellow warlocks who served him as they moved, even now, to reclaim the traitorous twins’ <i>athanc</i> pieces despite the cataclysmic battle raging around them. She tightened her grip upon her sister’s shard and pressed it against her chest, instinctively seeking the same protection that had guided her here, but no salvation came. With her body failing, her mind on the precipice of complete enslavement, and a cold torment consuming her, Rhyas made one final play.\nShe exhausted all the fury she still bore, and with violent finality, she made one last gamble: she pierced the jagged stone into her chest.\n***\nStill, dark, and absolutely silent, her surroundings seemed like a hollow void—until a faint amber light began to build. She slowly became aware of her own disembodied existence, despite all her other senses being seemingly deprived. She saw and heard nothing, but she felt words and sights as if thousands of memories were involuntarily called forth of things she had yet to know or experience. Saeryn was not gone. No.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "108aade0-1276-44dd-9fc3-8bef00c4d341",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She was trapped in a prison of her own making. She had provoked Cyriss’ divine power to oppose something outside even the Goddess’ own understanding and comprehension. The <i>athanc</i> shard was clearly from beyond the stars. Its properties were paradoxical—indestructibly rigid yet coalescent, reflective yet devouring. Saeryn found she could implant herself and her will inside it, letting it absorb her very soul, slowly shifting and compartmentalizing Everblight’s control while expanding her own. She knew when she touched the gate and challenged the Maiden of Gears that she would invite Her purposeful opposition. It was during this display of godly might Saeryn had the shard imprint that very strength on just a fragment of the jewel. In her hubris and confidence of predestination, she had grossly underestimated the impact of a god. Her domain splintered, and her soul was nearly destroyed as it became divided and trapped in a complex crystalline labyrinth as the athanc adapted and recovered from the new power it held. Everblight’s lingering presence seemed to be banished entirely by the trapped energies. Fragmented, enfeebled, and strained as she slowed the power funneling to her sister, Saeryn conveyed her plan and vision in halting and lilting direct thoughts.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1cd90a08-92ed-4ee8-bbec-dd5cc40720bf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Flee this place... We’re hunted even now... Find somewhere remote and hidden... Our destiny is to lead, but not the Nyss... Their fire is fading and cannot be rekindled... We will create something greater, something that can outlast even this world.... I have seen it... I’ve glimpsed into the expanse and beyond.... Our true war and purpose are on a timeline indifferent to these people and these lands... Subtlety is one of your greatest strengths. We need it now more than ever... I have led us this far, but until I can disentangle myself, you must lead... Our athancs are linked but not fully combined... We share their power as we share this body... I am sorry I kept you in the dark, but I didn't understand the visions myself... When you're ready, I'll share them with you.... But now... Wake up...</i>\n***\nThe rusty smell of blood and earth buried in her nostrils struck her as the cacophony of battle and gunfire jarred her from her dream. Rhyas peeled her face off the ground where the defenders and crowds of migrants briefly regarded her with callous indifference before returning their eyes to the encroaching infernal hordes. Despite a gaping wound in her chest, she felt complete serenity and unfettered freedom. Slowly, she dragged herself to her knees and retrieved her sister’s spear, still lying beside her. She felt not just the presence of everyone around her but every breath, every heartbeat, every cytogenesis. The tingling of life harmonized with the singing of steel that hummed and beckoned to her. The fine craftsmanship of the spear resonated beautifully in her hand. She tested her refreshed sense of magical energy by attempting to close the weeping hole where her heart should be. As the ragged flesh stretched and closed, she saw dancing flashes of silver streaming across her forearm and merging with her body, knitting symbiotically with fibers in her scar. The spear felt flimsy and pliant in her grasp as part of it merged with her to heal the lesion. Clarity settled in as she started to fully grasp the weight of her situation. She occluded herself with magic and enhanced her speed to escape before drawing any more attention. Before distancing herself, she quickly scanned to see if anyone had noticed what had happened, and it was then that her eyes were drawn to a melodious song of steel reverberating from a many-armed metal man, one with lidless unblinking eyes who seemingly controlled the gate. His ubiquitous gaze seemed to be assessing her, but his arms never stopped adjusting configurations upon the control panel. She dismissed it out of necessity as she sprinted through the war zone like a passing reaper to those who were about to die.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d988c37e-fe05-447e-8e1b-d64b87089f23",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "***\nFor several days Rhyas avoided scattered settlements and the numerous military forces littering the lands, following the music she could now hear coming from every corner of the landscape. Her body felt as if it were constantly shifting and changing, rebuilding itself, but she actively used her arcane power to suppress any significant mutations. She was now trailing the tune of a particularly inspiring song that rang out from an abandoned mine within the Wyrmwall Mountains. The corroded rails and the unkempt detritus lay silent and dull while notes trilled from the lowest depths, leading her on. She spelunked deeper and deeper into unfinished, unworked paths that led far from any natural life, yet at the same time, she began to feel the sensation of burgeoning mortal life growing stronger somewhere below. She planted her sister’s spear in the soil and unsheathed her long blade Antiphon from its scabbard, eager to use its flawless edge again. Within the darkest caverns, she found an opening into more refined and expansive tunnels carved by differently skilled hands. The tunnel walls were completely lined with cabling. Great laboratories with countless instruments with unknown purposes began taking shape in the gloom as she moved past them. Several beings moved to flank her and take her by surprise, but she felt their every motion, sensed their every action, and grew excited with anticipation.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "82754cc3-83c2-4e0f-9fef-9ff67d95d1ec",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Spiked nets fired from three directions but failed to connect with their elusive target and embedded themselves with sparking error into three different sets of cabling along the walls beyond her. Rhyas’ body gracefully arced through the air as she cleanly removed the head from the shoulders of the first creature to fire at her. The attacker’s head seemed to her as if it were made from an elaborate helmet with tubes feeding into its body that now hissed and sprayed into the air. The humanoid’s weapons weren’t held in its arms and hands; rather, they were grafted directly onto those limbs themselves. She sensed a much larger force now descending upon her, one with more many-limbed creatures guiding them. She wondered if they could be working for the one operating the gate, but she dismissed this—the notes and chords their technology emitted were duller and tinny by comparison. She felt the helmeted bodies moving in unison as they were directed by the black-leather-clad masters. She didn’t quite understand what the abominations were nor their goals, but as she eyed their spider-like female commander guarded by a massive, twelve-foot-tall body of muscled flesh, a symphony called to her. Whirling blades and vice-like pinchers thrust and grabbed at her as she artfully dismembered her foes with precise counterattacks, leaving the assailants writhing on the ground while biding her time for their leader to over-commit. Their attempts to dominate her will were just as unsuccessful; they misjudged her enhanced resistance. As the path seemed to avail itself, she found herself accosted with unseen blasts of force. They rattled her bones and stripped her flesh. Ultimately, they were sacrificing their own troops in suicide attacks to halt her advance. She felt Saeryn’s faint resolve push from the depths to spur her sister to accelerate this, to stop toying with these creatures. The organic and mechanikal fragments that spattered against her as she butchered her foes dissipated and melded into her flesh, repairing the damage she had endured.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2903f996-b3c8-40d6-84b5-5a509ddb7ceb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Rhyas dashed past the remaining line troops, sliding between the massive hulk’s legs, dipping below its flailing blades. And despite the caster’s telekinetic field straining against her, she bisected the biomechanical aberration that drove these forces onward with a single upstroke of her honed blade. As their leader collapsed in an incomprehensible heap, the suddenly directionless cobbled warriors raged at random or idled. The few other multi-limbed lieutenants of the dead leader attempted to flee but were easily cut down by the sword master. With the precision of a surgeon, Rhyas removed the weapon limbs from the living constructs and hobbled them with her sword. Although she felt several of the creatures’ bodies fade from her, most still clung to life despite their severe injuries. She dutifully dragged the harmless flinching remains toward the one too large to move—and began her work.\nConcentrating to reach out with her mind, Rhyas extended her arms palm-down over the decimated bodies.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "832022fe-ffdc-4eb3-be24-6f20da628863",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"Let me show you how it’s done,\" she whispered.\nHer mind extended with the imagination of what was needed: a beast of power and utility that could rid these tunnels of its remaining occupants. A form of grace, elegance, and brutality. She could faintly feel Saeryn bolstering her from the void. Turning her palms upward, she pushed with her swelling inner power and intensified her focus. The effusive bodies spouted mists of blood and cells that had yet to die, leaving behind husks of dead and damaged tissue. Slivers of metal twisted and melted off the various pipes, machines, and bodies, the pure raw material sloughing away from stains of paint chips, contaminants, corrosion, and burn marks as they rose into the air. A form melding both mechanikal precision and biological grace began to coalesce before her. The organic clouds and elemental metals whirled in coiling helical patterns as bone and steel fused to make a long and durable skeletal structure. It was then layered with efficient, mechanikally enhanced organs and circulatory system and then wrapped and connected with firm, corded muscles made from powerful but flexible minerals and tissue.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1dbb1f81-c99e-4aee-ae1f-0d735bdd915d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "She watched as salvaged bone, teeth, and metallic debris fused together before elongating into a jagged maw while razor-edged blades emerged from its forelimbs. The serpentine body bore armored plates down its entire length that culminated in a wickedly dangerous-looking barbed tail. With an anguished wail, the ephemeral soul essence of the bodies swirled into burning raw energy and fused with the creation. Once the form was complete, she placed her hands upon it and poured her own energy into it, imprinting some of herself upon it. Amber light built between the cracks in its chitin until it brightly flashed from its six eyes. The creature made its first tentative movements, exploring its existence and gradually waking to its reality with shared memories from its mother. After slithering forward and testing its sculpted, weaponized form on random bodies and apparatus, the creature halted before Rhyas, looking down at her as it obediently awaited directions. She willed the beast to sweep any stragglers left in the area toward her, then to patrol for tunnels that might lead to more raw materials—whether living or not. Rhyas knew. The time had come to birth  their army. However, unlike the path chosen by Everblight or even these strange beings before her, their forces would not be composed of slaves serving out of fear. Instead, they would create a family, a family imbued with one singular cause and purpose.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1e11406c-aed5-4289-8332-129e7f2b6da7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Emboldened by her first success, Rhyas now set her sights on a greater use of her power. She sorted the choicest machinery—items with the greatest concentrations of refined alloys and precious metals, whose presence now lay visible before her expanded senses. After doing so, she dragged the bizarre spider-like commander to where she worked. The now-motionless leather-clad form still rang with exultant notes from its elaborate biological craftsmanship. She tossed the ruined form upon the heap, watching as the merged devices fruitlessly attempted to stay the death of the entombed body fading inside. Rhyas and Saeryn would need raw materials, both organic and metallic, to grow their family.\nBut first, they would need a bodyguard and executioner that could lead vanguard forces and act as their first line of defense while their army grew in hiding. Rhyas would need to craft a vessel capable of storing and sharing some of her own power, but one with the will and understanding to achieve their goals. Playing God came easily to her, but Rhyas questioned if she could grant a creation enough of her power to marshal their forces without leaving herself and her sister physically vulnerable. She sat cross-legged atop the twisted and macabre pile and again raised her arms as she set to work crafting. In the inky blackness of their new realm, the Shyvess sisters planted the seed to grow a new nightmare.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ee8dbec3-edf0-4546-a503-7f7857f40d0c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Khymaera were born.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3da6eb45-5553-4718-bdc5-7cb10352c667",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Meanwhile…</i>\nWith intense curiosity, Exulon Nixian telepathically watched Rhyas through the failing eyes of one of her mangled drudges. Silexus Cintrox had proven shrewd and capable in the past, perhaps even a threat to Nixian’s own position of leading the hive, had Cintrox been given more opportunity. But now Cintrox’s bifurcated form was vaporizing and coiling through the air with fragments of the living assets entrusted to her as they were being shaped into a profound new form. The souls of the slain were shredded from their hosts and, with trailing screams, integrated into this new and powerful frame. The architect placed her hands upon its physique and shared her energy in a manner similar to the previous fabrication, but then things became divergent. The Nyss’ body swelled with blinding light and began to show severe draconic mutation as she wailed in pain during her exertion. The effort had become too great, and she was forced to refocus her efforts from maintaining her current form to passing some of her radiance into this new life. Rhyas’ feet and hands erupted into large claws, her neck and face elongated, and her body swelled as plated chitin burst from her skin and a tail suddenly thrust out behind her. The brilliant amber light abruptly faded as the rite reached its crescendo.  Rhyas’ monstrous form collapsed, weak but conscious, but instead of falling to the ground she was caught in the arms of the now-living perfect amalgamation of the fallen forces and their equipment. He stood nearly eight feet tall with thick woven muscle and his body a cross between a dragon’s scales and a suit of armor. His four burning eyes on his squat toothy head narrowed as he took in his surroundings, and they betrayed an intelligence and cunning of their own. Despite his brutish appearance, he moved with ease and grace.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "05d4a870-8cf1-4b61-8836-3b4c1dd91003",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Exulon Nixian had taken great pride in the flesh-crafting she had perfected over the past century. She had managed to twist countless forms to ascend far beyond any course that nature could have plotted for them. Even her own body was modified beyond recognition via her cephalomek expertise, her  previously frail form transformed into a smooth, armored, floating sarcophagus with mantis-like blades capable of both delicately guiding her through the narrow tunnels and precisely vivisecting any creature she could obtain. Now she bore witness to technique and methodology that shattered her long-established paradigms.\nOnce human, the similarities between the cephalyx and their forebears became mostly academic after four-and-a-half millennia spent living their subterranean existences. A people forsaken by their creator, they sheltered from an inhospitable world beneath its surface and led a life of hardship and despair. Scarcity of resources turned them to cannibalism and savagery until their society was molded into a tyrannical caste system. The individualized pursuit of self-enhancement trumped all other prerogatives, pushing an already cutthroat system to greater heights of brutality. Their evolution was selective, self-made. Endless sinister experiments divulged the limitations of the flesh as they tried to transcend their bodies and enhance their minds. A constant stream of slaves was required for both experimentation and manipulation, most of whom were turned into drudges, living, weaponized automatons imprisoned within their own minds. The largest and most advanced products of their craft were aptly designated as monstrosities. Ultimately, the cephalyx became defined by their nurtured psychic powers and mechanikal grafts that gave them haunting visages. Nixian was no exception. She fully embodied the relentless pursuit of self-perfection. And although she had proven herself perfect enough to rule a hive, her tenacity threatened her peers and left her isolated from their schemes.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "82b3a2b9-0b01-406e-8147-e837fd2853f8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this curious creature had first wandered into her hive, Nixian knew it was more than some mere experiment-in-waiting. She knew this lone being, confidently advancing in pitch darkness at the bottom of the world, was not destined to be another ordinary drudge. She had initially hoped her greatest silexus would have the body readied for examination, but now Nixian pulled back well beyond her layered defenses. The game had not only changed; it was being rewritten. She blocked herself off from any prying thoughts from beyond her hive as she plotted anew what to do with this fortuitous intruder. Too long had she been considered the least of the exulons. In fact, she had almost gone to war once when Thexus implied she was the most <i>human</i> of them, a slight never to be forgotten. Just the same, she suspected she was within a decade of being deposed entirely and remembered only as an insignificant footnote. But once she apprehended this being and ripped from its mind its recipe for this harmonious union of the organic and inorganic, she might be able to evolve her own forces beyond anything the cephalyx had ever dreamed of achieving. The exulons’ telepathic connection had danced from drudge to drudge as they died or were consumed by creation to see every moment of this craft performed, now only to be seen through a cracked lens of a shattered helmet of a dimming servant. She simultaneously worshiped the artful flesh sculpting while her driving jealousy plotted to seize it for herself. Of her three silexuses that oversaw hive operations, she would’ve chosen Cintrox for this task, but with the current developments, Yortho and his might should be more than capable. In an unusual move, he had chosen to enhance his physicality for warfare, something more befitting slaves, but perhaps it would be useful in this specific assignment. She would send her hardiest monstrosities, supported by more drudges and a small army of assorted surface-dwellers that were fully dominated and conditioned for servitude, to ensure failure didn’t repeat itself. It could take weeks or even months to gather and perfect her hunting force, but after operating on expansive timelines for generations, she felt a rush of anticipation as leaps of advancement were presented to her through happenstance. Underneath the opaque cognitive-enhancing carapace that encased her mind, she felt the unfamiliar muscles twitch and contort on her face as they created what she imagined was a smile.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a4e25b25-19c8-43a9-a70b-86df679e4f1e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "08e0a564-829b-40a7-9d2f-fb8c6b6d658f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Elsewhere…</i>\nScattered screams and gunfire cut through the night air as the lithe shapes combed the grounds near the collapsed Henge Hold gate. The battlefield was still littered with thousands of corpses that were in the process of slowly being sorted and given proper burials. A magical flare a defender had managed to fire illuminated the sky, reminding Fyanna that time was of the essence. She had not only received the blighted mutations to enhance the speed, tracking, and other predatory abilities that made her a strider, but she had also been granted a shard of Everblight’s <i>athanc</i> to grant her sorcerous power, turning her into the perfect hunter. As such, she was the warlock tasked with locating and returning the <i>athanc</i> shards that had been gifted to the now renegade twins who betrayed their dragon master. Lylyth perched upon the wreckage of the great gate above Fyanna as she scanned the field of death for a sign of their quarry. Lylyth, another warlock of Everblight, was a peerless archer and master of stealth who complemented Fyanna’s abilities perfectly. Fyanna couldn’t help but feel Lylyth was sent due to distrust that Fyanna could handle the task on her own, but if she encountered both sisters somehow alive, she would be grateful to have Lylyth backing her. Beneath the body of a peasant woman who had been trampled by desperate refugees was a dark oily stain that killed the patchy grass in a four-foot radius. This was the spot, through Everblight’s bond, where they had seen Rhyas kneeling when she stabbed herself with her sister’s <i>athanc.</i> That had been the moment their ability to perceive and feel her through their shared connection with the dragon abruptly ceased.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "99089fe1-a326-4ba5-8082-8884013ab943",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The occasional rifle reports from the watchtowers faded as her striders dealt with the lookouts protecting the field from looters. They had hoped to eliminate the guards silently and give themselves as much time to track as possible, but with the dwindling tear of the flare slowly streaking down from the stars, it was unlikely they’d have long. Fyanna queried Lylyth through their connected minds if there was a chance the body was moved by the soldiers, though the removal of corpses was slowly working its way in from the edges—this area looked undisturbed. Therefore, Rhyas <i>must</i> have survived.  Lylyth now directed her gaze to the horizon. Settlements were in all directions, but the jagged teeth of the Wyrmwall Mountains could provide countless cavities to hide in. Fyanna gave a call. The striders began to consolidate toward their leader as they withdrew quickly to the tree line where their supporting dragonspawn lay in wait. Rhyas would undoubtedly go into hiding and find someplace far from civilization to avoid open conflict, someplace confined in order to bring her pursuers closer to her blade.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e8707912-5738-4462-aa91-12969d3952e5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "No matter. None at all.\nThey covered their trail and made for the mountains, drawing ever closer to their prey.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "14ceaa0b-3420-4c64-ae69-15d5d61b23ed",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:39e7f7aa-7cf1-4ee2-bd19-2198d8d8ec8d",
+                "2:076640f0-bec2-4c09-8e4e-27dd053dd87c",
+                "3:675f191f-5f42-4b73-af11-2dac86f4f4ad",
+                "4:108aade0-1276-44dd-9fc3-8bef00c4d341",
+                "5:1cd90a08-92ed-4ee8-bbec-dd5cc40720bf",
+                "6:d988c37e-fe05-447e-8e1b-d64b87089f23",
+                "7:82754cc3-83c2-4e0f-9fef-9ff67d95d1ec",
+                "8:2903f996-b3c8-40d6-84b5-5a509ddb7ceb",
+                "9:832022fe-ffdc-4eb3-be24-6f20da628863",
+                "10:1dbb1f81-c99e-4aee-ae1f-0d735bdd915d",
+                "11:1e11406c-aed5-4289-8332-129e7f2b6da7",
+                "12:ee8dbec3-edf0-4546-a503-7f7857f40d0c"
+            ],
+            "artSegIds": [
+                "39e7f7aa-7cf1-4ee2-bd19-2198d8d8ec8d",
+                "076640f0-bec2-4c09-8e4e-27dd053dd87c",
+                "675f191f-5f42-4b73-af11-2dac86f4f4ad",
+                "108aade0-1276-44dd-9fc3-8bef00c4d341",
+                "1cd90a08-92ed-4ee8-bbec-dd5cc40720bf",
+                "d988c37e-fe05-447e-8e1b-d64b87089f23",
+                "82754cc3-83c2-4e0f-9fef-9ff67d95d1ec",
+                "2903f996-b3c8-40d6-84b5-5a509ddb7ceb",
+                "832022fe-ffdc-4eb3-be24-6f20da628863",
+                "1dbb1f81-c99e-4aee-ae1f-0d735bdd915d",
+                "1e11406c-aed5-4289-8332-129e7f2b6da7",
+                "ee8dbec3-edf0-4546-a503-7f7857f40d0c"
+            ]
+        },
+        {
+            "guidStr": "943c4c61-62f7-46ef-a4c3-7ab30fec79a0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:3da6eb45-5553-4718-bdc5-7cb10352c667",
+                "2:05d4a870-8cf1-4b61-8836-3b4c1dd91003",
+                "3:82b3a2b9-0b01-406e-8147-e837fd2853f8",
+                "4:a4e25b25-19c8-43a9-a70b-86df679e4f1e"
+            ],
+            "artSegIds": [
+                "3da6eb45-5553-4718-bdc5-7cb10352c667",
+                "05d4a870-8cf1-4b61-8836-3b4c1dd91003",
+                "82b3a2b9-0b01-406e-8147-e837fd2853f8",
+                "a4e25b25-19c8-43a9-a70b-86df679e4f1e"
+            ]
+        },
+        {
+            "guidStr": "3d088cf9-f621-4c29-ad17-7bb8ed755a7d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:08e0a564-829b-40a7-9d2f-fb8c6b6d658f",
+                "2:99089fe1-a326-4ba5-8082-8884013ab943",
+                "3:e8707912-5738-4462-aa91-12969d3952e5"
+            ],
+            "artSegIds": [
+                "08e0a564-829b-40a7-9d2f-fb8c6b6d658f",
+                "99089fe1-a326-4ba5-8082-8884013ab943",
+                "e8707912-5738-4462-aa91-12969d3952e5"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "c508ae8b-cae8-476c-9562-25bd4888be01",
+            "name": [
+                "Emergence Part 1 - Chapter 1 Emergence",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:14ceaa0b-3420-4c64-ae69-15d5d61b23ed",
+                "2:943c4c61-62f7-46ef-a4c3-7ab30fec79a0",
+                "3:3d088cf9-f621-4c29-ad17-7bb8ed755a7d"
+            ],
+            "articleIds": [
+                "14ceaa0b-3420-4c64-ae69-15d5d61b23ed",
+                "943c4c61-62f7-46ef-a4c3-7ab30fec79a0",
+                "3d088cf9-f621-4c29-ad17-7bb8ed755a7d"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

@@ -1,0 +1,970 @@
+{
+    "bundleName": "data publication dark rising part one.json",
+    "general": {
+        "guidStr": "c55cadf2-203f-44e0-9cb6-dae90213c0d0",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "287dd66d-b161-439d-9e52-84804b840e60",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Graphic Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "DARK RISING",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "by Aeryn Rudel",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Fiction/fiction_darkrising_chapterheader.png",
+            "widthPerc": 85,
+            "mediaWidth": 1300,
+            "mediaHeight": 750,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "aaa335a0-78d5-45aa-a178-6d83f6c3da8a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "<i>Ancient enemies have returned to the shores of the Iron Kingdoms, and for the first time in centuries, the military might of the kingdom of Khador will find itself challenged by an invading force from beyond the lands of western Immoren. \nAt first, Kapitan Ilari Borisyuk and his forces don’t know what they are seeing—but all too soon, the bloodthirsty invaders known as the Orgoth will make their presence felt and their intentions clear: to crush the nations of the Iron Kingdoms and subjugate its people once again—beginning with Khador. Ilari is not only the first line of defense against the Orgoth; unless he can survive to warn his countrymen, he may well be the only defense.\nAs the Orgoth soldiers, led by the powerful warwitch Sabbreth, called the Eternal Annihilation, pour ashore, Ilari will do what he must for his troops, for his Motherland, and for all of the Iron Kingdoms, even if it means making deadly decisions and impossible sacrifices…</i>\n<b>Dark Rising</b> <i>is the first book in Privateer’s ongoing monthly Saga series, available through the WARMACHINE app. The first three of six chapters will be available for free; the remaining chapters will continue in monthly installments, along with additional content and features, with a paid WARMACHINE app subscription.</i>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "054ad318-9fe6-4db8-b816-2136c76c00ba",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Chapter 1: Dark Dawn",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "23f132fd-3b07-4356-876c-a3da20ba3d14",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Kapitan Ilari Borisyuk lifted his magelock rifle to his shoulder and peered through the scope. His old commanding officer in the now disbanded Widowmaker Korps would have rapped him the back of the head with his rifle butt for using a scope for anything than putting a bullet in a man’s head. But Lieutenant Toskar was long dead, along with most of the men and women he’d trained with, and Ilari was now a warcaster, a fact that still felt surreal.\nHe scanned the rolling hills of the Vescheneg Highlands and saw only tundra and snow. He pivoted east, and there, on the distant horizon, a bloom of black smoke. He slung his rifle and frowned. The village of Marova was in that direction. He and his mother, once a member of the Winter Guard, had bought fish there when she was home on leave one time. That had been shortly before his gift manifested, and he was sent off to the Druzhina to learn the ways of a warcaster. The world had erupted into chaos and death shortly thereafter, and she’d been swept away. He never saw her again.\n\"What do you see, Kapitan?\" A voice behind Ilari pulled him from his reverie. He turned and regarded his second in command. Lieutenant Stefka Roslov was tall and thin, her willowy frame evident even beneath her heavy furs and breastplate. The youthful face staring out from under her ushanka was focused, and her bright green eyes shone with intelligence. She wore a long straight sword at her hip, not standard issue for a Winter Korps officer, but Ilari had been told the young woman was hell and blood with a blade, and the sword was a family heirloom. \nIlari swallowed and tugged at his beard. \"Smoke.\" \n\"The invaders?\" Chief Mechanik Fedor Vislovski said. The direct antitheses of young Lieutenant Roslov, Fedor was old and worn, his body a patchwork of muscles held together by a thousand scars. His face was lined like old parchment, his short hair a grim halo of steel gray on his square head. \"Just pirates, I say. No reason to rouse us like this.\" \nIlari glanced back at the ragtag group of Winter Korps infantry they’d taken from Ice Watch. Half of them had never seen combat, and most had seen fewer than twenty-five winters, except for the few that had seen more than fifty. \nChief Vislovski seemed to read his thoughts. \"If it’s more than pirates, this lot are in trouble.\"\nIlari shook his head. \"Kommander Yoslik would not have sent us out after just pirates. Something worse.\" \nHe remembered the kommander’s worried look when he’d come to Ilari in the mess hall of Ice Watch, the lonely lighthouse and northernmost fortress in Khador. The conversation had been brief but terrifying. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "19fdcb80-b785-40c9-aa36-2277b9a4213d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "\"You are to take what troops you can and make your way to Brone’s Point,\" Yoslik had said. \"We have reports of strange ships making landfall there.\"\n\"Strange ships? Do we have any other information?\" Ilari had answered. Sudden dread began to grow in the pit of his stomach. \n\"None beyond the word they match no recognizable design or shape.\" The kommander shook his head. \"Exaggerations from frightened villagers, no doubt.\" \n\"Sir, I’m only two weeks from the Druzhina—\" Ilari had begun. It was a mistake.\n\"You are warcaster in the Khadoran army. I expect you to lead,\" Yoslik had said; his tone had changed for the worse. \"Now assemble your troops and move out at once.\"\nIlari had picked his troops and had left within an hour.\nIt was his first command. He’d been recently elevated to the rank of kapitan, the lowest rank a warcaster could hold. Before that, he’d been a sergeant in the Widowmakers, deferring to Lieutenant Toskar for his orders. Who to target. Who to kill. Now he would aim others, just as Toskar had aimed him. And it would not be so simple as pulling a trigger. \nCould it be Cryx?\" Lieutenant Roslov asked. \n\"I don’t know.\" Even as he spoke, Ilari realized that such a response would not elicit confidence in his second. He covered it with an order. \"Gather the troops. We’re moving out now.\"\n\"Yes, sir.\" Roslov walked off to where twenty-five Winter Korps troops, mostly riflemen with half a dozen machine gunners squatted in the snow, trying to stay warm by huddling together. Ilari had forbidden any fires lest they be detected. That much he could rely on from his days as a sniper. \n\"We have no ’jacks, sir,\" Chief Vislovski said. \"If it is more than pirates, I’d like to have a Juggernaut or two at my back. \nThere hadn’t been a Juggernaut in active duty for years. Ilari remembered the massive warjacks Khador had once fielded alongside legendary names like Kratikoff and Irusk, names he’d heard over and over in the Druzhina. Names he would be measured against. \nIlari agreed with the Chief Vislovski’s assessment, though his own experience with the great fighting machines was limited to battered training ’jacks. \"We’re making a stop before we reach the coast.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fc3b8d1b-d64c-4e45-a974-923d9e9ba01e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The village of Druska was not on any map. First, it was little more than a collection of four or five buildings surrounding a wide place in the road. Second, it had long been a secret Khadoran supply depot, and the men and women who lived in the town were either current or former soldiers. A burly Winter Korps sergeant waited for them on the stoop of one of the buildings, a squat bunkhouse that likely served as the town barracks. \n\"Kapitan,\" the sergeant said and saluted. \"I’m Sergeant Petrovik, sir.\" \n Ilari nodded a greeting. \"Sergeant, you have equipment for me.\"\nPetrovik nodded. \"I do, sir. If you’ll follow me.\"\n\"Chief, with me,\" Ilari said. \"Lieutenant Roslov, take the men into the barracks, get them warm, and get some food into them, but I want them to be ready to move out in thirty minutes.\"\n\"Sir,\" Roslov replied and moved off to carry out his orders. \nSergeant Petrovik led them to the largest building in the village, one that actually looked like a purpose-built military depot. The barn-like double doors at its front looked big enough to drive a gun carriage through, and when the sergeant pulled them open, the scent of gun oil and blasting powder wafted out. Inside, beneath the dim yellow glow of hanging oil lamps, were racks of weapons and other munitions, mostly small arms. In the middle of all this military largesse were two towering figures, their hulls painted with a fresh coat of crimson. The machines with which all the nations of the Iron Kingdoms fought their wars were man-shaped—two arms, two legs, and heads slung low on their armored bodies. They were powered by potent steam engines, and their primitive brains, called cortexes, were capable of simple thought and self-direction. Their primary advantage was their ability to link their cortexes to the mind of a warcaster, to receive telepathic orders from him, and to draw strength from his reservoir of magic. \n\"You just need to power them up and make the connections, sir,\" Sergeant Petrovik said.  \nChief Vislovski grimaced. \"Small for ’jacks.\"  \n\"But faster,\" Ilari replied. The new Dire Wolf class warjack was still bulkier than its Cygnaran or Ordic counterparts, but opposed to the lumbering strength of the older Khadoran models, it was swift and agile. The kind of warjack a former sniper could appreciate. The first Dire Wolf was outfitted with a massive plow-shield on its left arm and long-handled mechanika battle-axe held in its right fist. The second was equipped for ranged attacks, and its right arm ended in a massive bombard. Its left fist featured a flamethrower to deal with targets at close range. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "60c4809a-c0bf-414a-b25e-135694915dc3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                " \"You want me to power them up?\" Chief Vislovski said. \n\"Do it.\" Ilari took in a deep breath to steady himself. Despite an advanced age for a warcaster—his gift had manifested at the age of thirty-five instead of in his early teens as was more typical—he had done well with commanding the training ’jacks at the Druzhina. But these were warjacks, designed for combat, their cortexes instilled with a base aggression that had to be harnessed and directed. \nThe chief ignited the Dire Wolves’ boilers, and the steam began to build with a deep, rumbling hiss. Soon the hydraulic pressure was high enough that the warjacks could move. The Dire Wolf, armed with a long axe, raised its head and strained slightly against the ’jack hoist holding it in place.\n\"Uh, Kapitan,\" Chief Vislovski said, \"they might get a bit agitated if you don’t make connection soon.\"\n\"I know that,\" Ilari said more harshly than he’d intended. He opened his mouth to apologize but caught himself. It would make him appear less confident. He stepped forward and put his hand on the hull of the first Dire Wolf. He felt its mind beneath the steel, a surging presence of raw aggression. Its eyes flashed blue, as did his own, limning the arms depot in azure light as the consciousness of warcaster and warjack became one. \nStill, Ilari commanded, and the warjack ceased straining against its restraints. He repeated the process with the second Dire Wolf, splitting his mind into three parts—his own consciousness and those of his warjacks. It was disorienting at first, but as he’d been taught, he compartmentalized the warjacks’ minds, pushing them to the back of his own. \n\"I have them,\" Ilari said aloud. \"Cut them loose.\" \nChief Vislovski removed the chains and other restraints that held the warjacks in place when they were powered down. \n<i>Follow.</i>\nIlari walked out into the snow flanked by two great machines, their crimson hulls and iron insignias glinting in the winter sun. The arcane turbine in Ilari’s warcaster armor would provide him magical focus he could use to enhance their attacks, and he felt it now with the warjacks so close, tingling along every nerve in his body. \n\"Kapitan,\" Sergeant Petrovik said, \"I have one more piece of equipment for you.\"\n\"Another warjack?\" A momentary surge of panic rushed through Ilari at the thought of commanding three warjacks at once. \nThe sergeant shook his head, a pinched and worried look on his face. \"Not exactly.\" \nHe pointed down the wide, snowy road where a figure was approaching, a huge, looming shape. He could hear the steam-powered joints of the Man-O-War battle suit from fifty yards away. It was one of the new suppressor models, easier to pilot and nearly as large as a light warjack. It carried a pair of rapid-fire hailstorm cannons mounted on each arm that could shred an entire unit of infantry in seconds.\nWhen the Man-O-War drew near, the operator’s helmet lifted away with a hiss of steam, exposing the face of a grinning woman, her head plastered with sweat-slicked blonde hair, her eyes huge and round. She beamed with a kind of frenetic enthusiasm. \"Kapitan Borisyuk!\" she shouted over the rumble and hiss of her suit. \"Sergeant Klenka Nasdovich reporting for duty.\"\nIlari looked back at Sergeant Petrovik, who shrugged and said, \"I have my orders from Kommander Yoslik. She’s your problem now.\"\nIlari shook his head. Though powerful, a Man-O-War battle suit was a slow and cumbersome thing, not exactly designed for covert or swift action. While Sergeant Nasdovich’s cannons might be an asset in certain situations, her massive clanking suit would alert any enemies within a hundred yards. But Yoslik had commanded Ilari take her with him, and that was the end of it. \n\"Sir, I’m eager to move out,\" Klenka said. \"Mysha and Koshka are hungry.\" \nShe nodded at the pair of hailstorm cannons attached to her right and left arms.\nIlari looked to the east where Marova and Brone’s Point lay. \"Well, Sergeant Nasdovich, let’s get them something to eat.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "143c5ec7-1a3b-48f3-8a60-b26ff13a37a0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Despite being faster than heavier warjacks, the Dire Wolfs forced the group to move at a slower pace than Ilari would have liked. Sergeant Nasdovich and her Man-O-War armor only further reduced their speed As a Widowmaker, he’d been accustomed to rapid deployment, completing a mission, and then rapid retreat. His advancement to warcaster and kapitan, especially in these troubled times, had forced him to adapt, to learn new ways of using his old skills with a wider mix of troops. It was no longer possible to assemble a group of Widowmakers, Manhunters, and Kossite archers that could race across any terrain to overwhelm an enemy with a lighting attack or to stalk them quietly through wild terrain, picking them off one at a time. Those korps and specialists were part of a Khadoran army that no longer existed. \nThey grew closer to the smoke on the eastern horizon, and Ilari glanced back at his current troops. Their formation was ragged, and they drifted out of marching order more like an armed mob than a group of disciplined soldiers. \n\"Lieutenant Roslov,\" Ilari shouted over the boilers of his two warjacks, which he had begun to think of as Hammer and Nail. The instructors at the Druzhina had warned them against naming their warjacks, lest they become attached to a machine that might need to be sacrificed at a moment’s notice, but the names formed in his mind nonetheless. \"Come here.\"\nRoslov trotted up, weaving around the hulking shape of Klenka in her Man-O-War armor. \"Sir?\"\n\"Lieutenant, we are about to walk into a dangerous situation we know little about. Would you agree?\"\n\"I would.\"\n\"Then why are the three squads of Winter Korps, which you command, at my back unable to hold a goddamn formation?\"\nRoslov’s eyes widened. \"I . . . I’m sorry, sir. They’re barely trained, and this the first deployment for most of—\"\n\"I don’t want to hear excuses, Lieutenant.\" He pointed to the east, where the village of Marova was not more than two or three miles away. The smoke had grown thicker, and the red bloom of fire glowed on the dusky horizon. \"I will not walk into that unprepared.\" \n\"I understand, sir,\" Roslov said and saluted. Ilari wondered briefly if dressing down the young lieutenant had been the right thing to do. He’d certainly felt the rough side of old Toskar’s tongue on occasion. Then he heard Roslov’s voice ringing like a drill master on the parade ground. The troops were in perfect formation in a matter of seconds, and Ilari allowed himself a brief smile. \nThey pushed on and crested the hill overlooking Marova. A tide of screams rose up from the village, desperate, howling, and pained. Behind Marova, on the shore of the Meredius were a dozen gigantic ships of a design Ilari had never seen. They featured a central hull between two long pontoons, each fitted with a paddle wheel. He watched as one crashed out of the water, its paddle wheels clawing up sand as it hauled its enormous bulk onto the beach like some vast sea monster. Every inch of the ship was carved with leering sinister faces and grinning skulls. A ramp hit the beach as the central hull opened like a great black maw and disgorged a tide of ghastly shapes.\n\"What. . . what are they?\" Chief Vislovski said. \"Menoth above, they look like . . .\"\nThe chief faltered, obviously unable to put voice to such horror, but Ilari could,--he had to, just to get the poisonous word out of his mind.\n\"Orgoth.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9331f484-b154-4be0-ad21-4b9bfdce9e59",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari led his troops down the hill. He could see figures moving in their direction. Some were villagers—their screams for help reached him like a klaxon. Behind them came the invaders in a dark wave, howls of fury and bloodlust rising in a whooping din. The noise prickled the back of Ilari’s neck and sent icy shivers down his spine. \n\"I want a firing line right here,\" he shouted and drew to a halt. Hundreds of Orgoth warriors were streaming off the ships. That sight and the very concept of the Orgoth returning were so horrifically ludicrous he was almost overcome with hysterical laughter. \nThe Dire Wolfs eagerness for battle flowed over him in a tide of primal aggression, heightening his fear. He tamped it down and let some of the warjacks’ hostility into his own mind. Anger was better than terror.  \nThe Winter Korps had formed into three firing lines with machine gunners on each flank. Lieutenant Roslov had drawn both sword and blunderbuss and stood with her soldiers. \n\"There are civilians here,\" Ilari shouted. \"Aim carefully.\" As a Widowmaker, he’d been trained that civilian casualties would not be tolerated. The korps demanded precision—collateral damage was a mark of failure and shame.\nThe first wave of villagers reached them, faltered for a moment, then realized Ilari’s force were their own people, not more monsters come to torment and kill. A woman with the left side of her face scorched and bleeding fell at Ilari’s feet. \"Help us, please,\" she shrieked. \"They’re everywhere!\"\n\"Who is?\" Chief Vislovski shouted at the woman, the fear on his face nearly as intense as hers. \"Who’s everywhere? Is it the Orgoth?\"\n\"You!\" Ilari shouted at two young men in the crowd of villagers running for safety. \"Take this woman with you. Now.\" They scooped up the injured woman and continued on. He turned back to his own troops.\n\"Chief, get your emotions under control. Now.\" He understood the man’s terror, but there was no time for it. He needed the mechanik. \nVislovski drew in a shaky breath and hoisted his blast torch and bolt setter. The setter was more tool than weapon, but it fired a steel bolt with enough force to penetrate a warjack hull. \"Yes, sir. I’m sorry.\"\n\"Stay near the ’jacks,\" Ilari said.\nVislovski nodded and took up a position behind Nail.\nMore villagers streamed by them, most too terrified to plead for aid, and those who did, Lieutenant Roslov redirected toward Skrovenberg, the nearest city with the means to take in refugees. The invaders had caught up to the last group of villagers; steel flashed in the firelight glare.  \nIlari raised his magelock rifle to his shoulder and peered through the scope. He put the crosshairs on a savage-looking warrior wielding a pair of curved swords. The warrior’s armor was black and gold, ornate, and his head was covered by a fearsome helmet with bulbous eye pieces that gave him an insectoid appearance. The Orgoth raised one of his blades to make his kill. \nIlari chambered a rune shot  designed for maximum damage and pulled the trigger. The magelock bucked against his shoulder and spat fire and thunder, and the ensorcelled bullet struck true. The Orgoth’s head disappeared in a geyser of blood and bone fragments. Just flesh and blood, Ilari thought. They can be killed. \nThere were more Orgoth than villagers at this point, and Ilari decided to take a chance: strike hard to blunt the enemy advance. \"Open fire!\"\nThe chatter of the machine gunners came first, followed by the thudding reports of the riflemen. Klenka stepped forward with a howl of joy made tinny and somehow more intimidating by her helmet. Her hailstorm cannons spun up with a deathly whine. \nAhead, Orgoth warriors were cut down, shot through their vitals, or were torn to pieces by machine gun and hailstorm fire. Yet they advanced. More than advanced: they charged. More were coming from the ships, and for each one they shot down, two more emerged from the burning village. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ca51b919-b21e-4b6f-a7a6-b59ab5d26a54",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ilari’s instinct was to use his rifle, to sink to his knee and kill with carefully placed shots. That’s what a Widowmaker would do, but he was a warcaster now. He reached out to Nail and ordered the Dire Wolf to fire its bombard. The cannon boomed, and the explosive shell whistled overhead, sending up a geyser of dirt and bodies two hundred yards away. He fired again and again, and still the Orgoth came. Ilari’s troops would soon be in hand-to-hand combat with them. \n\"Close combat formation,\" he shouted. The Winter Korps drew short-hafted axes and curved blades. Ilari left his own sword sheathed at his hip and continued to pick off enemies with his magelock. They’d killed dozens now, and it hadn’t made a dent in the swarming enemy. \nThe Orgoth fell upon them in a howling horde of blades. Up close, their savagery was even more acute. Their bodies were covered in bizarre tattoos and their armor, though impressively constructed, gave them a hellish, inhuman appearance. Ilari sent his warjacks forward, and the sweep of Hammer’s axe cut down two Orgoth. Nail’s flamethrower engulfed three more. Their feral joy at dealing death surged through their connection with Ilari. No practice warjack had ever projected more than a sludgy compliance.  \nThe battle quickly became chaos. Ilari found himself face-to-face with a hulking Orgoth warrior wielding a shield and a massive axe that glowed with a fell blue fire. He ducked the woman’s first swipe, knelt, and fired his rifle with one hand, bracing its butt against the ground. The armor-piercing rune shot hit the Orgoth in the chest, blasted through her armor, and sent her stumbling backward. Ilari stood and put another bullet in her skull.  \nGlancing to his left, he saw Lieutenant Roslov locked in battle with two Orgoth warriors who wielded curved blades in each hand. Her sword was a steel blur as she parried strikes from one assailant and blasted the other with her blunderbuss. She neatly turned her parries into a reposts and thrust her blade through the remaining Orgoth’s throat, right between gorget and helm.\nIlari briefly checked the status of his warjacks. The Orgoth seemed unable to penetrate the Dire Wolfs’ armor for the moment, and Hammer and Nail exacted a heavy toll on any that got close enough to try. Yet that wouldn’t last forever, he knew. \nThe Orgoth had fallen on the Winter Korps now, and Ilari was surprised his green troops didn’t panic and run. Bravery did not make them better fighters, and shrieks of agony and black sprays of arterial blood painted a gruesome scene in the melee. Roslov wove in and out of the combat, her blade and blunderbuss reaping enemies. Her presence no doubt heartened her troops, but it wouldn’t be enough.\n\"Klenka!\" Ilari shouted. The Man-O-War pilot was intermittently smashing warriors aside with her gauntlets and shredding them with her hailstorm cannons at point blank. \"Back up the infantry!\"\nKlenka smashed an Orgoth aside and ran toward the infantry.\nSomething like pain blared into Ilari’s mind. Hammer had been damaged. The warjack was being swarmed by enemies—the Orgoth covered him like angry ants, slashing and pounding. Some of them had managed to get through his hull. Ilari ordered Nail to unleash his flamethrower at point-blank range. The flames were not hot enough to damage Hammer, but the Orgoth were scorched and killed. \n\"Chief, damage report!\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d1bedc8c-49f6-4c08-8ebf-1b7f15be812a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Vislovski appeared behind Hammer, blood streaming down his face from a wound on his scalp. \"Hull puncture. Patching it now.\" The flare of his blowtorch soon lit up the night, and Ilari turned to survey the battle. Put simply, it was lost. Worse, more ships appeared near the shore, and more Orgoth disembarked. \nKlenka had joined the infantry, her cannons and crushing blows rallying them. Soon, the Orgoth warriors lay dead, allowing Ilari and his troops a brief respite. He brought his scope up and adjusted the magnification. The village still burned, and not all the villagers had been able to escape. These unfortunate souls were not being killed outright; instead, they were subdued, bound, and carried bodily back toward the ships. Men, women, even children suffered the same fate. It enraged and frightened Ilari. He scanned the area, and his scope fell upon a terrible shape.\n\"Sir,\" Roslov’s voice pulled him away before he could properly identify what he was seeing. The lieutenant was streaked with gore, but she appeared uninjured. \"What are your orders?\"\nIlari shook his head to clear it of the awful images, but the anger remained. \"We march down there and save as many people as possible.\" \n\"Sir, I . . .\" Roslov said, glancing back at what troops remained. \"If your orders are that we die today—\"\n\"They’re taking captives, Lieutenant,\" he said, glaring at his second. \"You’ve heard the legends. You know what they’ll do.\" \nOld Toskar’s voice suddenly broke through Ilari’s anger. Shoot, kill, retreat. Repeat. The Widowmaker officer’s icy calm and fearsome stubbornness had been legendary, as had been his commitment to sound military tactics. Think, don’t simply react. Each footstep, each pull of the trigger must be done with purpose. \nIlari’s right hand clenched around the stock of his rifle. Think, don’t simply react. \"How many Winter Korps are left?\"\nRoslov swallowed and shook her head. \"Half our original force.\"\nIlari again checked the status of his warjacks. They were still in fighting shape. \n\"Do we advance?\"\n\"No,\" Ilari said after a long pause. He could see more Orgoth moving in their direction. They were still a good distance away, and they could escape if they left now. \"We make for Skrovenberg. To warn them and join any efforts to repel these invaders.\"\nThe relief on Roslov’s face was palpable. \"I’ll get the Korps ready to move.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "197cd810-0a00-4679-bd12-cdb74e293b38",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "They marched away from the flames, from the devastation, from the howls of terror and bloodlust. It pained Ilari with every footstep he took away from the besieged Marova, but he would gain nothing by dying there. He and his soldiers might be the only people to lay eyes on the Orgoth at this point, and any information they possessed would be invaluable. \nAs they moved at double time across the Vescheneg Highlands toward Skrovenberg, one image remained bright and horrible in Ilari’s mind. When he’d scanned the invading force with his scope, he’d let it linger on one awful shape. \nIt had been a terrible to see, but the towering armored monstrosity with red witch light pulsing in its chest could only be one thing.\nThe Orgoth had learned from their ancient defeat and had returned with warjacks of their own. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "de1adabf-1531-4e52-aa4c-6d4d6a782deb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Interlude: Red Rises",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "19776b2c-80db-4fe6-bdf7-41470fb64cde",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Sabbreth stood in the fiery glow of blaze-powered warjacks. They painted the hundreds of warriors in the hull of the great ship a bloody red. How fitting it was; an omen, perhaps. Sabbreth was filled with a great hunger for the many souls she would soon claim in the name of the Fellgoeth infernals. She would make a great tribute to them, gain their favor, and become more powerful.\nThe ship shuddered as it hit the shore, and the great ramp at the front of the vessel opened and fell, striking the sandy shore with a solid thump. The hoarse shouts of reaver commanders rose, and a surge of armored bodies flowed out onto the shore. Sabbreth followed slowly, two Jackal warjacks flanking her, their feral presence in her mind a raging sea of malice. She quieted them. There would be a blood and souls aplenty soon. \nAhead lay an Immorese village already partly consumed by fire. The first ships had hit the shore hours ago and had easily subdued the citizens. Reavers were rounding them up and carrying them back to the shore where they could be more easily and ritually dispatched. \nA huge battle-scarred reaver commander approached Sabbreth as she neared the outskirts of the town. He knelt before her, his head down, waiting for her to acknowledge him. She made him wait for a few moments, and then said, \"Stand and report.\"\nThe commander climbed to his feet. \"The town has fallen, mighty one, and we have secured many prisoners.\"\n\"What of Horruskh and Kishtaar?\" she asked, naming her fellow warlords. They were both allies and adversaries, each vying for more power and favor from their Fellgoeth masters. \n\"They have not made landfall yet, mighty one,\" the commander said. \nSabbreth smiled. This was good. She was first, and her conquest would begin well before her rivals.\nThe commander’s face became pale, pinched, and he looked away. Sabbreth smelled his fear like the rot off a corpse. \"What else is there, commander? Tell me now.\"\n\"We encountered resistance outside the city, mighty one,\" he said.\n\"Did you destroy them?\"\n\"No, mighty one. They fought fiercely, and a combat sorcerer and his war machines were among them. They battled their way through dozens of reavers and escaped to the south.\"\nSabbreth grimaced. Her hands itched for the blades sheathed at her hip. Normally, she would not tolerate such failure, but the commander had information that could prove vital. They had expected resistance of course, but nagging doubts about the strength of the Immorese, who no Orgoth had seen in centuries, bloomed once more in her mind. If one sorcerer and his machines defeated so many, what might an army of the same accomplish? \"Form a raiding party and pursue. They cannot be allowed to warn the port cities to the south.\"\n\"Yes, mighty one.\" The commander turned to leave.\n\"Commander,\" Sabbreth said, halting the man in his tracks, \"do not fail me again. The warwitches are always in need of fresh souls.\"",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "394d8375-8c7c-4a8e-bdd4-a7abcc024ffb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:287dd66d-b161-439d-9e52-84804b840e60",
+                "2:aaa335a0-78d5-45aa-a178-6d83f6c3da8a",
+                "3:054ad318-9fe6-4db8-b816-2136c76c00ba",
+                "4:23f132fd-3b07-4356-876c-a3da20ba3d14",
+                "5:19fdcb80-b785-40c9-aa36-2277b9a4213d"
+            ],
+            "artSegIds": [
+                "287dd66d-b161-439d-9e52-84804b840e60",
+                "aaa335a0-78d5-45aa-a178-6d83f6c3da8a",
+                "054ad318-9fe6-4db8-b816-2136c76c00ba",
+                "23f132fd-3b07-4356-876c-a3da20ba3d14",
+                "19fdcb80-b785-40c9-aa36-2277b9a4213d"
+            ]
+        },
+        {
+            "guidStr": "8edf750e-75de-4bcf-a0ab-bd7fc7dce06e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:fc3b8d1b-d64c-4e45-a974-923d9e9ba01e",
+                "2:60c4809a-c0bf-414a-b25e-135694915dc3"
+            ],
+            "artSegIds": [
+                "fc3b8d1b-d64c-4e45-a974-923d9e9ba01e",
+                "60c4809a-c0bf-414a-b25e-135694915dc3"
+            ]
+        },
+        {
+            "guidStr": "11d76cb3-8fe5-42e5-a010-2fff94cd634e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:143c5ec7-1a3b-48f3-8a60-b26ff13a37a0"
+            ],
+            "artSegIds": [
+                "143c5ec7-1a3b-48f3-8a60-b26ff13a37a0"
+            ]
+        },
+        {
+            "guidStr": "4a95c59c-be6e-4748-beaa-a3b8df992e5b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:9331f484-b154-4be0-ad21-4b9bfdce9e59",
+                "2:ca51b919-b21e-4b6f-a7a6-b59ab5d26a54",
+                "3:d1bedc8c-49f6-4c08-8ebf-1b7f15be812a"
+            ],
+            "artSegIds": [
+                "9331f484-b154-4be0-ad21-4b9bfdce9e59",
+                "ca51b919-b21e-4b6f-a7a6-b59ab5d26a54",
+                "d1bedc8c-49f6-4c08-8ebf-1b7f15be812a"
+            ]
+        },
+        {
+            "guidStr": "51952cc0-1e9f-464e-9b5a-26576cfd1a43",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:197cd810-0a00-4679-bd12-cdb74e293b38",
+                "2:de1adabf-1531-4e52-aa4c-6d4d6a782deb",
+                "3:19776b2c-80db-4fe6-bdf7-41470fb64cde"
+            ],
+            "artSegIds": [
+                "197cd810-0a00-4679-bd12-cdb74e293b38",
+                "de1adabf-1531-4e52-aa4c-6d4d6a782deb",
+                "19776b2c-80db-4fe6-bdf7-41470fb64cde"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "6830c585-99e6-47db-9d14-14a039cf7c14",
+            "name": [
+                "Dark Rising Part One",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:394d8375-8c7c-4a8e-bdd4-a7abcc024ffb",
+                "2:8edf750e-75de-4bcf-a0ab-bd7fc7dce06e",
+                "3:11d76cb3-8fe5-42e5-a010-2fff94cd634e",
+                "4:4a95c59c-be6e-4748-beaa-a3b8df992e5b",
+                "5:51952cc0-1e9f-464e-9b5a-26576cfd1a43"
+            ],
+            "articleIds": [
+                "394d8375-8c7c-4a8e-bdd4-a7abcc024ffb",
+                "8edf750e-75de-4bcf-a0ab-bd7fc7dce06e",
+                "11d76cb3-8fe5-42e5-a010-2fff94cd634e",
+                "4a95c59c-be6e-4748-beaa-a3b8df992e5b",
+                "51952cc0-1e9f-464e-9b5a-26576cfd1a43"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}
