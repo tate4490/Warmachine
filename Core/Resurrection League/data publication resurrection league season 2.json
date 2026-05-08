@@ -1,0 +1,2083 @@
+{
+    "bundleName": "data publication resurrection league season 2.json",
+    "general": {
+        "guidStr": "74fbd5e7-112b-4866-a852-687c45758664",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "a212c1d0-beca-473f-b971-534abe9c6d39",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resurrection League",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6a55f66b-c609-4e43-a3a2-90d361446f2c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/Lore/HouseKallyss/Dusk_App_ArmyBanner.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 453,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c905a577-d00d-46b3-8687-cfe0c3463847",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading Color",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resurrection League:\\nSeason 2",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "#281916",
+            "textColorHex": "#FFFFFF",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "447e2553-5d87-4bf2-a5d7-772c40920199",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": 20,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Resurrection League is a multiweek Organized Play event designed to be hosted by game stores or clubs. Brick-and-mortar retail stores or club organizers can order Resurrection League kits through distributors that carry WARMACHINE or directly from Privateer Press through the online store.\nEach Resurrection League Season 2 kit is intended to supply a league of four players and contains the following prizes:\n- 4 × Hoard Revenant Miniatures\n- 2 × Orgoth Spike Trap Defenses Team Rewards\n- Seasonal Challenge Coin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b7288332-6331-4c32-97dc-f15ffd321728",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Each League kit also contains the following promotional items:\n- Resurrection League Window Cling\n- League Tracking Poster",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6395da83-f0bc-43f6-b5ef-f76186645e25",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Reinforcement kits with additional support for two players are also available but do not contain the Seasonal Challenge Coin or the Resurrection League Window Cling. We recommend leagues obtain one Resurrection League kit plus one Reinforcement kit for every two players above the initial four (e.g., an eight-player league would require one Resurrection League kit and two Reinforcement kits to provide the prize support for everyone).\nThe Resurrection League does not require a dedicated event organizer, though it’s generally welcome if one player is willing to be responsible for disbursing the prize support and updating the tracking poster.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9a2bfc13-0598-462a-8143-b3ba0ce322e8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "League Support",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e69b3e2e-29aa-4504-acd0-2f807421da0c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "At the onset of the league, each participant should be given a Hoard Revenant miniature. The Hoard Revenant possesses special rules for the league season that could provide advantages to players who choose to include the model in their force.\nThe Orgoth Spike Trap Defenses are variant sculpts of the normal Spike Trap Defense and use the same rules. The Orgoth Spike Traps are intended to serve as the rewards for the players of the league’s winning team.\nThe Seasonal Challenge Coin is battled over each week, going to the player scoring the most League Points each week and conferring benefits on the player who won it. At the end of the league, the coin is intended to go to the overall league Champion.\nThe League Tracking Poster should be placed in a visible space near the play area of the store and can be used to track the progress of league participants from week to week. Each poster can track up to four players. Reinforcement kits contain a poster to track additional players.\nLast, we’ve included a spiffy window cling that we hope organizers and store managers will put in a visible spot in the storefront or club to let players know the Resurrection League is being played in your venue!",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "74a09608-842f-49c4-a820-5c9290d2cadd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "01ab0e75-55a9-40e2-a756-c26bb59ae3fd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "League Overview",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4909ad20-fa23-47cd-929b-865ad771947b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Resurrection League is played over a twelve-week season, using the Black Tide narrative campaign published through the WARMACHINE app. For the full narrative experience, players will need to subscribe to the WARMACHINE app. However, scenario rules can be downloaded at <font=\"Roboto-Regular SDF\"><color=#f48021>[Link coming November 29, 2023]</color></font> for event organizers or players who do not yet subscribe to the app.\nPlayers divide into two equal teams and participate in a series of narrative scenarios, competing for weekly achievements while increasing their individual league ranks. At the end of the season, the player with the highest individual league rank is the Champion and takes home the coin, and each player on the team with the highest cumulative league rank takes home a seasonal reward. (Note: The Champion may not necessarily be on the winning team.)\nIf a league has an odd number of players, at the end of the league, the team with more players should not count their player with the lowest league rank in their points total.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d665b13b-2093-4393-b988-440e493a431b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "If a player drops out of the league before it completes or repeatedly fails to participate, teams should rebalance if they end up with uneven numbers of team members. It is recommended that the player or players who move from the larger team to the smaller team be determined randomly (drawing straws, rolling dice, etc.) and that when a player must change teams, they are awarded five additional League Points in the week they change teams.\nWhen a player drops, their League Points cannot be counted toward their team’s total. When a player changes teams, their points only count toward the total of the team they conclude the league with.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "338e92d6-ea0e-42fc-a44b-fcce31a9d1e7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Format",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "58bb3c33-e917-4912-af55-63dd515a7605",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Resurrection League is intended to be played with the scenarios featured in the Black Tide campaign. Use the Black Tide, Season 4 scenarios with this season of the Resurrection League. They can be found in the app for subscribers or downloaded at <font=\"Roboto-Regular SDF\"><color=#f48021>[link coming November 29, 2023]</color></font>\nA full season consists of three chapters, published through the WARMACHINE app. Each chapter includes three scenarios with an asymmetrical Attacker and Defender role.\nFor an increased narrative experience, the league can optionally utilize the full campaign rules, but players will need to be subscribed to have access to the narrative elements of the campaign.\nPlayers are encouraged to play as many games per week as they like, and repeating scenarios from any chapter is acceptable. Players should record the highest score they achieve in both the Attacker and Defender roles for any scenario played but should not count points toward their League Rank for playing the same role in a scenario more than once. Players are not required to play every scenario or every role in each scenario.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d3f63e22-3bee-4a63-b01b-a174b4df57fe",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Before a match, players can either agree which role, Invader or Defender, each player takes on, or they can roll dice, and the high roller picks their role first. If one player has already played a scenario in a specific role, then they may choose to take on the opposite role without a die roll.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2359ffe3-ddcd-4a7a-bc1d-5ec10bcf29fa",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Scoring",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "66f7e83b-1bea-4502-bc12-33f1439448c1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Scenarios will be scored using the following scale:\n- Decisive Win (Winning by Scenario)—5 League Points\n- Point Advantage Win—4 League Points\n- Last Leader Win—3 League Points\n- Victory Point Win—2 League Points\n- Tie or Loss — 1 League Point",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "512fe465-149d-48d3-9661-db485efc4f41",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "League Points are cumulative and determine a player’s rank within the league. However, it’s important to track the number of League Points gained each week, as that determines who takes possession of the Seasonal Challenge Coin.\nNote: When playing the Black Tide narrative campaign, players will earn Victory Points through the course of a scenario, which determine the outcome of the match. Victory Points are not the same as League Points. For instance, a player may achieve a Decisive Win with 7 Victory Points gained during the match. For the League, that player will record 5 League Points for the Decisive Win.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ea4790b1-f2e6-4a57-9e93-5f7f6199eb9e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Triumphs",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "04b7a1e6-d339-4e9a-9982-6809f64e1dfe",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Triumphs are weekly achievements that are gained by meeting specific conditions during a match. Each Triumph may only be earned once by each player in a single week. Each Triumph earned adds 1 League Point to a player’s rank.\nExamples:\n- Strategic Architect—Score a Decisive Win in 5 rounds or less.\n- Mangler—Destroy all of an opponent’s Cohort models during a match.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "43175338-6b95-42ac-830d-cdbd2dcf56a6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Bounties",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a8de5d19-bd1b-4f01-a02c-3d2f72316048",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Bounties are won by being the first or only player to fulfill a certain set of conditions each week. Only one player can win each Bounty each week. Each Bounty won adds 1 League Point to a player’s rank.\nExamples:\n- Trifecta—The first player to win three matches in a week with no losses in between.\n- Bounce Back—The player with the most losses each week.\n- Go-Getter—The player with the most games played each week.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c4391b98-5fe3-4e72-9a5d-fa07fac1de4f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Weekly Champion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9b6e038d-b2bd-4034-85e4-66c0e2f19001",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Weekly Champion is the player who scores the most points from Triumphs and Bounties in each week and only for that week. This player is awarded the Seasonal Challenge Coin and gains its benefits for the following week, or until they redeem the coin for a Feat.  A player can only be awarded the Seasonal Challenge Coin once during a season until all players have been awarded the coin. If the same player scores the most Triumph and Bounty points two weeks in a row, they are instead awarded 5 League Points and the coin goes to the player with the next highest cumulative Triumph and Bounty score for that week. If that player was already awarded the coin, then they are awarded 4 League Points, and the coin goes to the player with the next highest Triumph and Bounty score, and so on.  Regardless of how many players are in the league, players are rewarded at least 1 League Point when passing the coin to another player. No matter how many players are in the league, if a player must pass the coin to another player because they have already been awarded the coin in a previous week, they receive at least 1 League Point. Once all players have been awarded the Seasonal Challenge Coin once, start the process over. No player can be awarded the coin a third time until all players have been awarded the coin twice, and so on.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fb0590f5-0338-496d-a354-b6c6a572f811",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "75a862e7-5cfe-4c15-9e69-53f65f842264",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Coin Benefits and Feats",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "29323628-b42a-4d52-939b-5b3c6bb58619",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "The Weekly Champion must have the coin present to gain the benefits or to use the coin’s Feat.\nThe Weekly Champion gains the following benefits by possessing the coin:\n- Cannot be affected by the Hoard Revenant’s Melee Attack or Mark Target, Subterfuge, or Hinderance abilities.\n- Once per game, the coin holder may use a Command Card without discarding it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "bbf349ea-9f12-4614-af7d-0e126585ad44",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "During their maintenance phase, the Weekly Champion can pass the coin to an opponent once during the week they possess it in exchange for one of the following Feats:\n- Return one destroyed large-based or smaller Cohort model that was part of your Leader’s battlegroup to play with full health. Place it anywhere within 3\" of your Leader model. The Cohort model must forfeit its Combat Action this turn.\n- Return one destroyed solo model to play with full health. Remove all damage from the returned solo and place it on the table within 10\" of your Leader. The Cohort model must forfeit its Combat Action this turn.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c8f69398-dbc9-4726-b115-684c651f1f33",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "If a Weekly Champion passes the coin to an opponent, they no longer gain any coin benefits for the remainder of the week. The opponent receiving the coin cannot gain any of the benefits of the coin and cannot pass it to an opponent during the game in which they receive the coin.\nReceiving the coin from an opponent who passes it to you does not count as being awarded the Seasonal Challenge Coin at the end of a week.\nPlayers playing against a Weekly Champion gain +1 League Point for the match, regardless of outcome.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "00336f47-503c-47d9-958c-334c5d8762bd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "League Victory",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9da1fda5-48c6-40c3-849d-f393d9fc5a7b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "At the end of the twelfth week, players should add up all the points received from playing scenarios as well as points awarded from Triumphs and Bounties. The player with the most League Points at the end of the league season is the league Champion and takes home the Seasonal Coin. In the event of a tie, players can either play a match to determine the winner or flip the Seasonal Coin and call it!\nAll players on each team should combine their scores and the team with the highest cumulative League Rank is the league winner, and each player should receive an Orgoth Spike Trap Defense Team Reward.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4e622e4d-d687-4786-967f-665fcbb0adf4",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Heading",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "The Hoard Revenant",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3fd07562-edab-404f-8113-fe36fedcd11c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "All players participating in the Resurrection League should receive a Hoard Revenant miniature. The Hoard Revenant is a mercenary that can be added to any army, including both Legacy and new MKIV armies.\nDuring this season of the Resurrection League, only league rules will be available in the WARMACHINE app for the Hoard Revenant. Once the season ends, the Hoard Revenant will be updated and added to all armies with official non-league rules.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 100,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "15946d01-51f2-4f34-8ab5-99a23006d063",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/OrganizedPlay/hoardrevenant_card1.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 1604,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c6c0f6db-3b7c-425e-b405-4734693075b8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Image",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Publications/OrganizedPlay/hoardrevenant_card2.png",
+            "widthPerc": 100,
+            "mediaWidth": 1024,
+            "mediaHeight": 570,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "8e27f0f6-6ee2-449d-a83d-a48cc6b673ec",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:a212c1d0-beca-473f-b971-534abe9c6d39",
+                "2:6a55f66b-c609-4e43-a3a2-90d361446f2c",
+                "3:c905a577-d00d-46b3-8687-cfe0c3463847",
+                "4:447e2553-5d87-4bf2-a5d7-772c40920199",
+                "5:b7288332-6331-4c32-97dc-f15ffd321728",
+                "6:6395da83-f0bc-43f6-b5ef-f76186645e25",
+                "7:9a2bfc13-0598-462a-8143-b3ba0ce322e8",
+                "8:e69b3e2e-29aa-4504-acd0-2f807421da0c",
+                "9:74a09608-842f-49c4-a820-5c9290d2cadd"
+            ],
+            "artSegIds": [
+                "a212c1d0-beca-473f-b971-534abe9c6d39",
+                "6a55f66b-c609-4e43-a3a2-90d361446f2c",
+                "c905a577-d00d-46b3-8687-cfe0c3463847",
+                "447e2553-5d87-4bf2-a5d7-772c40920199",
+                "b7288332-6331-4c32-97dc-f15ffd321728",
+                "6395da83-f0bc-43f6-b5ef-f76186645e25",
+                "9a2bfc13-0598-462a-8143-b3ba0ce322e8",
+                "e69b3e2e-29aa-4504-acd0-2f807421da0c",
+                "74a09608-842f-49c4-a820-5c9290d2cadd"
+            ]
+        },
+        {
+            "guidStr": "9b0d2b7a-c272-46d6-85b6-ab3898b97ac0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:01ab0e75-55a9-40e2-a756-c26bb59ae3fd",
+                "2:4909ad20-fa23-47cd-929b-865ad771947b",
+                "3:d665b13b-2093-4393-b988-440e493a431b",
+                "4:338e92d6-ea0e-42fc-a44b-fcce31a9d1e7",
+                "5:58bb3c33-e917-4912-af55-63dd515a7605",
+                "6:d3f63e22-3bee-4a63-b01b-a174b4df57fe"
+            ],
+            "artSegIds": [
+                "01ab0e75-55a9-40e2-a756-c26bb59ae3fd",
+                "4909ad20-fa23-47cd-929b-865ad771947b",
+                "d665b13b-2093-4393-b988-440e493a431b",
+                "338e92d6-ea0e-42fc-a44b-fcce31a9d1e7",
+                "58bb3c33-e917-4912-af55-63dd515a7605",
+                "d3f63e22-3bee-4a63-b01b-a174b4df57fe"
+            ]
+        },
+        {
+            "guidStr": "62eb0734-24b2-4673-87cd-eb3d2dded2fd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:2359ffe3-ddcd-4a7a-bc1d-5ec10bcf29fa",
+                "2:66f7e83b-1bea-4502-bc12-33f1439448c1",
+                "3:512fe465-149d-48d3-9661-db485efc4f41",
+                "4:ea4790b1-f2e6-4a57-9e93-5f7f6199eb9e",
+                "5:04b7a1e6-d339-4e9a-9982-6809f64e1dfe",
+                "6:43175338-6b95-42ac-830d-cdbd2dcf56a6",
+                "7:a8de5d19-bd1b-4f01-a02c-3d2f72316048"
+            ],
+            "artSegIds": [
+                "2359ffe3-ddcd-4a7a-bc1d-5ec10bcf29fa",
+                "66f7e83b-1bea-4502-bc12-33f1439448c1",
+                "512fe465-149d-48d3-9661-db485efc4f41",
+                "ea4790b1-f2e6-4a57-9e93-5f7f6199eb9e",
+                "04b7a1e6-d339-4e9a-9982-6809f64e1dfe",
+                "43175338-6b95-42ac-830d-cdbd2dcf56a6",
+                "a8de5d19-bd1b-4f01-a02c-3d2f72316048"
+            ]
+        },
+        {
+            "guidStr": "36cf6899-78da-4efe-87f5-429459160a49",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:c4391b98-5fe3-4e72-9a5d-fa07fac1de4f",
+                "2:9b6e038d-b2bd-4034-85e4-66c0e2f19001",
+                "3:fb0590f5-0338-496d-a354-b6c6a572f811",
+                "4:75a862e7-5cfe-4c15-9e69-53f65f842264",
+                "5:29323628-b42a-4d52-939b-5b3c6bb58619",
+                "6:bbf349ea-9f12-4614-af7d-0e126585ad44",
+                "7:c8f69398-dbc9-4726-b115-684c651f1f33"
+            ],
+            "artSegIds": [
+                "c4391b98-5fe3-4e72-9a5d-fa07fac1de4f",
+                "9b6e038d-b2bd-4034-85e4-66c0e2f19001",
+                "fb0590f5-0338-496d-a354-b6c6a572f811",
+                "75a862e7-5cfe-4c15-9e69-53f65f842264",
+                "29323628-b42a-4d52-939b-5b3c6bb58619",
+                "bbf349ea-9f12-4614-af7d-0e126585ad44",
+                "c8f69398-dbc9-4726-b115-684c651f1f33"
+            ]
+        },
+        {
+            "guidStr": "0d4bedf9-0208-4842-840a-41fefe5bd327",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:00336f47-503c-47d9-958c-334c5d8762bd",
+                "2:9da1fda5-48c6-40c3-849d-f393d9fc5a7b",
+                "3:4e622e4d-d687-4786-967f-665fcbb0adf4",
+                "4:3fd07562-edab-404f-8113-fe36fedcd11c",
+                "5:15946d01-51f2-4f34-8ab5-99a23006d063",
+                "6:c6c0f6db-3b7c-425e-b405-4734693075b8"
+            ],
+            "artSegIds": [
+                "00336f47-503c-47d9-958c-334c5d8762bd",
+                "9da1fda5-48c6-40c3-849d-f393d9fc5a7b",
+                "4e622e4d-d687-4786-967f-665fcbb0adf4",
+                "3fd07562-edab-404f-8113-fe36fedcd11c",
+                "15946d01-51f2-4f34-8ab5-99a23006d063",
+                "c6c0f6db-3b7c-425e-b405-4734693075b8"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "16a47e82-708a-4454-894f-1701374a5488",
+            "name": [
+                "Resurrection League\\nSeason 2 - Chapter 1 Resurrection League Season 2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:8e27f0f6-6ee2-449d-a83d-a48cc6b673ec",
+                "2:9b0d2b7a-c272-46d6-85b6-ab3898b97ac0",
+                "3:62eb0734-24b2-4673-87cd-eb3d2dded2fd",
+                "4:36cf6899-78da-4efe-87f5-429459160a49",
+                "5:0d4bedf9-0208-4842-840a-41fefe5bd327"
+            ],
+            "articleIds": [
+                "8e27f0f6-6ee2-449d-a83d-a48cc6b673ec",
+                "9b0d2b7a-c272-46d6-85b6-ab3898b97ac0",
+                "62eb0734-24b2-4673-87cd-eb3d2dded2fd",
+                "36cf6899-78da-4efe-87f5-429459160a49",
+                "0d4bedf9-0208-4842-840a-41fefe5bd327"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

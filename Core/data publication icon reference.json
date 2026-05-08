@@ -1,0 +1,5632 @@
+{
+    "bundleName": "data publication icon reference.json",
+    "general": {
+        "guidStr": "080cd968-c365-48e1-93bb-9137876577c5",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "",
+        "arenaPrimeId": "",
+        "arenaUnlimitedId": "",
+        "editionMKIVId": "",
+        "editionLegacyId": "",
+        "defaultGameTypeId": "",
+        "addDurMatchCardTypeIds": [],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [],
+        "pointCostHTIds": [],
+        "modelBlockHTIds": [],
+        "damageHTIds": [],
+        "gridsHTIds": [],
+        "spiralsHTIds": [],
+        "websHTIds": [],
+        "meleeHTIds": [],
+        "rangedHTIds": [],
+        "featHTIds": [],
+        "spellsHTIds": [],
+        "subTitle": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "dataBundles": [],
+    "mediaBundles": [],
+    "arenas": [],
+    "editions": [],
+    "gameTypes": [],
+    "releaseNotes": [],
+    "menuOptions": [],
+    "matchTypes": [],
+    "helpTerms": [],
+    "rulings": [],
+    "keywords": [],
+    "factions": [],
+    "cardTypes": [],
+    "modelAdvantages": [],
+    "weaponQualities": [],
+    "cardConfigs": [],
+    "commandCardAbilities": [],
+    "cardAbilities": [],
+    "modelAbilities": [],
+    "weaponAbilities": [],
+    "cards": [],
+    "models": [],
+    "weapons": [],
+    "spells": [],
+    "steamrollerCards": [],
+    "commandCards": [],
+    "spellCards": [],
+    "cardOptions": [],
+    "armies": [],
+    "cadres": [],
+    "libCats": [],
+    "libSubCats": [],
+    "articleSegments": [
+        {
+            "guidStr": "42950e00-c24a-4c1d-a57f-1cc75d1330cf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "ICON REFERENCE",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1db5d157-23e5-4da2-83fe-8debb3583351",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title Subhead",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "MODEL ADVANTANGES",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "106063d3-ceec-4a1f-90a3-46d8b07e1183",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "’Jack Marshal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv jack marshal.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fa3cda45-3260-4f42-b28f-8c5ad932d071",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model is a ’jack marshal and can command warjacks (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ed7871ec-87a9-4fc5-89dd-4449b4c538fc"
+            ],
+            "helpTermIds": [
+                "ed7871ec-87a9-4fc5-89dd-4449b4c538fc"
+            ]
+        },
+        {
+            "guidStr": "71392874-a799-4af2-81c8-7739e98fac15",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Advance Deployment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv advance deployment.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a3472f27-4f57-4a33-a84a-b7c87a9a9e06",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "In most scenarios, this model can be deployed after normal deployment, up to 3\" beyond the established deployment zone (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:193f1971-6158-4a8e-a77c-25d6562eb33a"
+            ],
+            "helpTermIds": [
+                "193f1971-6158-4a8e-a77c-25d6562eb33a"
+            ]
+        },
+        {
+            "guidStr": "cc2ce144-91d5-4f28-b975-7e4d2f2ac0c5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Ambush",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv ambush.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "96597480-79b1-44c9-9928-02e7854b4b4e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "In most scenarios, this model does not have to be deployed at the start of the game. Instead, it can be placed at the end of any of your Control Phases after the first turn (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:193f1971-6158-4a8e-a77c-25d6562eb33a"
+            ],
+            "helpTermIds": [
+                "193f1971-6158-4a8e-a77c-25d6562eb33a"
+            ]
+        },
+        {
+            "guidStr": "47682420-11d8-48e4-9315-9dc7efc2e302",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Amphibious",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv amphibious.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "62400e9b-7f5d-467e-87fe-bab9a909147d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model treats shallow water as open terrain (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) while advancing (<link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>). While completely in shallow water, this model gains concealment (<link=\"3\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) and does not block line of sight.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:d08813ed-c9a2-46b6-8e64-9064e91f1f5c",
+                "2:d0c9b0bb-99a9-4b92-ad35-63c67ae380cd",
+                "3:170b3556-a5a8-4210-9e3c-5a250691534d"
+            ],
+            "helpTermIds": [
+                "d08813ed-c9a2-46b6-8e64-9064e91f1f5c",
+                "d0c9b0bb-99a9-4b92-ad35-63c67ae380cd",
+                "170b3556-a5a8-4210-9e3c-5a250691534d"
+            ]
+        },
+        {
+            "guidStr": "abfe81b6-1ce9-448e-b25c-658e1ce32787",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Arc Node",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv arc node.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "34f9d3b8-faa1-4ffe-a0a6-32833b234ce7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This warjack is a channeler equipped with an arc node and can act as a conduit for spells cast by its warcaster (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:7994dcdb-d4e0-4523-8e54-f3b9a8268222"
+            ],
+            "helpTermIds": [
+                "7994dcdb-d4e0-4523-8e54-f3b9a8268222"
+            ]
+        },
+        {
+            "guidStr": "1b840a29-255c-42b4-8837-19114368eccd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Assault",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv assault.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "aebee33f-cfea-48e4-93bd-16a902e655ac",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can make an Assault ranged attack (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:debc2f2f-646b-48d8-ae1e-44821689eb75"
+            ],
+            "helpTermIds": [
+                "debc2f2f-646b-48d8-ae1e-44821689eb75"
+            ]
+        },
+        {
+            "guidStr": "d94074a0-c2a5-49ab-81e8-89bf38728794",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Cavalry",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv cavalry.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ba5e7d63-65f5-4774-81a9-8492e9ad14dc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model is a cavalry model (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:59b2f807-e02c-47e1-bc9f-77b424e4517f"
+            ],
+            "helpTermIds": [
+                "59b2f807-e02c-47e1-bc9f-77b424e4517f"
+            ]
+        },
+        {
+            "guidStr": "f798a2de-3457-4592-b608-047652bb87ea",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Combined Melee Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv combined melee attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0c649817-c3e8-45f7-b9f7-021b8dd6695a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can participate in combined melee attacks with other models in its unit (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:692bf45c-b6d5-47ed-9297-c9a6cb33407f"
+            ],
+            "helpTermIds": [
+                "692bf45c-b6d5-47ed-9297-c9a6cb33407f"
+            ]
+        },
+        {
+            "guidStr": "ce5cee5b-a2cf-4e2e-a565-18a4fcd3fa86",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Combined Ranged Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv combined ranged attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d48ebd09-ae31-43f5-a429-6a3bbf0b4423",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can participate in combined ranged attacks with other models in its unit (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ac1d6519-d407-44b7-a91a-352dc6ead5f5"
+            ],
+            "helpTermIds": [
+                "ac1d6519-d407-44b7-a91a-352dc6ead5f5"
+            ]
+        },
+        {
+            "guidStr": "088aea5f-2d37-46bc-bd4c-b30d72511b07",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Construct",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv construct.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "210382b8-7dcb-4c80-8828-cf90ee6ee201",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model is a construct and is not a living model.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "feaf5980-6828-4e32-9575-0b02d4093a49",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Dual Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv dual attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "773b83f0-9679-49c4-b2c0-a735527a80ad",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can make melee and ranged attacks in the same activation. When this model makes its initial melee attacks, it can also make its initial ranged attacks. This model cannot make ranged attacks after making a power attack (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:7bfdd626-271c-46a0-b246-f68e82188be2"
+            ],
+            "helpTermIds": [
+                "7bfdd626-271c-46a0-b246-f68e82188be2"
+            ]
+        },
+        {
+            "guidStr": "f49a2da7-d846-4c03-ae50-535892855292",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Eyeless Sight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv eyeless sight.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fe32b22d-d0cd-421c-ac7f-4dd30ccbcd33",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model ignores cloud effects (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) when determining line of sight. This model ignores concealment  <link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) and Stealth (<link=\"3\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) and never suffers Blind.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:d9197d57-b6f3-4dc0-8541-559401b0c5b0",
+                "2:170b3556-a5a8-4210-9e3c-5a250691534d",
+                "3:38db87aa-df6f-4f2e-beeb-ae337ff12e5f"
+            ],
+            "helpTermIds": [
+                "d9197d57-b6f3-4dc0-8541-559401b0c5b0",
+                "170b3556-a5a8-4210-9e3c-5a250691534d",
+                "38db87aa-df6f-4f2e-beeb-ae337ff12e5f"
+            ]
+        },
+        {
+            "guidStr": "8cc275a3-54c8-400a-a67e-9bbc1f6d7fb1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Flight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv flight.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c7d1a4ea-ab51-4448-a35f-5fcca1cf30a3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can fly (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:d9e8b83f-0458-4c85-92ba-d056ca92c338"
+            ],
+            "helpTermIds": [
+                "d9e8b83f-0458-4c85-92ba-d056ca92c338"
+            ]
+        },
+        {
+            "guidStr": "d81bf740-27f1-40dd-8f51-d48bf6ab5a3b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Gladiator",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv gladiator.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7c4efbb1-7a05-4d27-84c6-c0b3ba8b3360",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model gains +2 on power attack damage rolls and on power attack collateral damage rolls.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1d5f69ac-6cf1-4b54-8d4a-c4f6dd06b04d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Gunfighter",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv gunfighter.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0b1bec1e-160b-4b5e-99f9-0f93a51d8468",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model makes a ranged attack while engaged, it does not have to target the model engaging it with the attack (see \"Engaged Attacker,\" <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:d52c8da9-d95a-4b1c-9ad2-2f879a221567"
+            ],
+            "helpTermIds": [
+                "d52c8da9-d95a-4b1c-9ad2-2f879a221567"
+            ]
+        },
+        {
+            "guidStr": "93902f0b-35ab-4f46-843f-d36f94dcd2de",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Headbutt Power Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv headbutt power attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6ad56946-0821-4dc4-be66-2ec3ed0c19a1",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can make Headbutt power attacks (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:f1ac5f0f-6715-4dc1-9d67-65d6da5e4700"
+            ],
+            "helpTermIds": [
+                "f1ac5f0f-6715-4dc1-9d67-65d6da5e4700"
+            ]
+        },
+        {
+            "guidStr": "1bafcca3-7389-463a-9a21-88d2228b7023",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Incorporeal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv incorporeal.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "23e9fa74-4be0-4c00-95e2-a21fc7682183",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model roams the battlefield in spectral form (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:7560dae8-c3dc-4b61-8e43-09c0fbcfad97"
+            ],
+            "helpTermIds": [
+                "7560dae8-c3dc-4b61-8e43-09c0fbcfad97"
+            ]
+        },
+        {
+            "guidStr": "c3c5464a-a733-4e14-beca-371e042f6d11",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Pathfinder",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv pathfinder.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a4d67903-8c40-454d-a3af-aaab49a6e1c8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model treats rough terrain as open terrain (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) while advancing. While charging, slam power attacking, or trample power attacking, this model does not stop its movement when it contacts an obstacle.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:d08813ed-c9a2-46b6-8e64-9064e91f1f5c"
+            ],
+            "helpTermIds": [
+                "d08813ed-c9a2-46b6-8e64-9064e91f1f5c"
+            ]
+        },
+        {
+            "guidStr": "91a35fb5-93f1-4d5d-ac4d-e23057f118fb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Slam Power Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv slam power attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "75ed5136-7ee7-4ee9-970f-cf7ecff00b58",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can make Slam power attacks (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:9e14b7a3-aa3e-4576-93f9-d39c05f6dc7b"
+            ],
+            "helpTermIds": [
+                "9e14b7a3-aa3e-4576-93f9-d39c05f6dc7b"
+            ]
+        },
+        {
+            "guidStr": "ff584ee6-6419-4f80-a953-e00ab047d3ff",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Soulless",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv soulless.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "30f19125-6986-4c6f-b10c-4cf5220aad46",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This living model does not generate a soul token (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) when it is destroyed.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:a0c9d2a4-5c8f-4a01-b6fa-3b5410df2353"
+            ],
+            "helpTermIds": [
+                "a0c9d2a4-5c8f-4a01-b6fa-3b5410df2353"
+            ]
+        },
+        {
+            "guidStr": "6ca44895-20dd-4767-86b7-fec80fed385d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Stealth",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv stealth.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d046f3df-69bb-4d05-8bfc-42178f23019e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Ranged and arcane attacks targeting this model from a point of origin (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) greater than 5\" away automatically miss. This model is not an intervening model (see \"Line of Sight & Targeting\" <link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) when determining line of sight from a model more than 5\" away.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ced27485-6cbf-45b6-baf3-d555085cee86",
+                "2:e8a1e343-4000-4726-a184-e4ae6f7737c8"
+            ],
+            "helpTermIds": [
+                "ced27485-6cbf-45b6-baf3-d555085cee86",
+                "e8a1e343-4000-4726-a184-e4ae6f7737c8"
+            ]
+        },
+        {
+            "guidStr": "4631f723-30ab-4001-8d55-edded4110cbf",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Tough",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv tough.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e1f0158b-91ab-4264-a82c-1672777d4848",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model is disabled (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>), roll a d6. On a 5 or 6, remove 1 damage point from this model; it is no longer disabled and becomes knocked down (<link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>). While knocked down, this model loses Tough.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:35fab5dd-c0c3-4b73-828f-c073a71e1c1e",
+                "2:9b0c5665-c401-4818-8d80-ea1f5b3cced3"
+            ],
+            "helpTermIds": [
+                "35fab5dd-c0c3-4b73-828f-c073a71e1c1e",
+                "9b0c5665-c401-4818-8d80-ea1f5b3cced3"
+            ]
+        },
+        {
+            "guidStr": "3713036b-50d6-4886-be8e-bad8dc8551c5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Trample Power Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv trample power attack.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fbc70088-47f0-40ab-83c2-c82d7d1252e3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model can make Trample power attacks (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:1ff8cd12-edb9-48cf-88f8-a294ca7faac8"
+            ],
+            "helpTermIds": [
+                "1ff8cd12-edb9-48cf-88f8-a294ca7faac8"
+            ]
+        },
+        {
+            "guidStr": "c973f2a0-e6a0-472f-aec2-36617c475439",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Undead",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv undead.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "20061e22-f207-4d4f-85ce-b3e008f5469b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model is an undead model and not a living model.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "60f137d5-8b05-4747-a99a-cde28a35efef",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Unstoppable",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model adv unstoppable.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "29bea60a-1446-4c7f-bc65-afadec784ce5",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This model does not have to forfeit its Combat Action when it advances or is placed out of one or more enemy models’ melee ranges during its Normal Movement (see \"Disengaging, \" <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:58a8336f-65c2-4aba-a7ed-5a978e2393b9"
+            ],
+            "helpTermIds": [
+                "58a8336f-65c2-4aba-a7ed-5a978e2393b9"
+            ]
+        },
+        {
+            "guidStr": "5d7c77ce-b2f8-474e-9582-e72f1aab2abc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title Subhead",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "MODEL RESISTANCES",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7fcde715-3a88-4b0a-af38-1c27ff93c5c3",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resistance: Cold",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model res cold.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a26e2565-5a12-4449-b8ed-13541582506f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model suffers a cold damage roll, remove one die from the damage roll (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:88c26bcd-ec80-409c-b0bb-799c234f8ff6"
+            ],
+            "helpTermIds": [
+                "88c26bcd-ec80-409c-b0bb-799c234f8ff6"
+            ]
+        },
+        {
+            "guidStr": "4023dcd2-c2bb-4f09-ba69-09bbe7f92f23",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resistance: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model res corrosion.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e7d6cd1b-75d8-4de8-a020-8bb69193c959",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model suffers a corrosion damage (see \"Damage Types\" <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) roll, remove one die from the damage roll. Additionally, this model is immune to the Corrosion continuous effect (see \"Continuous Effects\" <link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link> and \"Continuous Effect: Corrosion\" <link=\"3\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d",
+                "2:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6",
+                "3:9c636687-5bc3-49a8-8007-265e0e36d73d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d",
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6",
+                "9c636687-5bc3-49a8-8007-265e0e36d73d"
+            ]
+        },
+        {
+            "guidStr": "ec8d57de-b8d9-4895-b5a8-27476e2f2554",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resistance: Electricity",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model res electricity.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ee566709-60e4-4f80-9391-1bf63d92b2fb",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model suffers an electrical damage (see \"Damage Types\" <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) roll, remove one die from the damage roll. Additionally, when lightning arcs as a result of a special rule, ignore models with Resistance: Electricity when determining which model the lightning arcs to. Lightning cannot arc from a model with Resistance: Electricity.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "479a3849-7e65-440d-99a7-865292f9013a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resistance: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model res fire.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d9ff7083-05ea-4eb4-8e7f-b08824c47b1c",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model suffers a fire damage (see \"Damage Types\" <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) roll, remove one die from the damage roll. Additionally, this model is immune to the Fire continuous effect (see \"Continuous Effects\" <link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link> and \"Continuous Effect: Fire\" <link=\"3\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d",
+                "2:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6",
+                "3:e7a6ed21-0747-4acd-81d9-40e86effa741"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d",
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6",
+                "e7a6ed21-0747-4acd-81d9-40e86effa741"
+            ]
+        },
+        {
+            "guidStr": "6963de9e-5f0d-461a-9f87-f73bc06ccaff",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Title Subhead",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "WEAPON QUALITIES",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "25dc1332-8f5a-4b81-8c4e-e98c31cf765a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Blessed",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual blessed.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "aa17d2f4-a5f2-4900-bb66-e9f7b57f03fe",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Attacks with this weapon ignore bonuses from spells, including animi, that add to a model’s ARM or DEF.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1970935c-7299-4517-9ed5-8e2724585708",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Buckler",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual buckler.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "41de4582-e356-4a6c-bd26-7d8637213e6a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon has an integral buckler that gives the model a cumulative +1 ARM bonus; for example, a model with two of them gains a bonus of +2 ARM. A model does not gain this bonus while the weapon system with the buckler is crippled.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "02242a31-1b53-4417-8f0f-b3596db43563",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Chain Weapon",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual chain weapon.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "d9ff0ce9-fdca-43f0-8c58-11645f763b3b",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "Attacks with this weapon ignore the Buckler and Shield weapon qualities and Shield Wall ARM bonus.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c615e5f1-e197-4b95-bc98-180f49448d4f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Continuous Effect: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual cont eff corrosion.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2920eb45-f72b-44cc-998b-974df579e7f0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A model hit by this attack suffers the Corrosion continuous effect (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ],
+            "helpTermIds": [
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ]
+        },
+        {
+            "guidStr": "262a4a02-aa24-4800-a709-0f0e85289902",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Continuous Effect: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual cont eff fire.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7eb2807c-2ec2-4ff6-9ffe-445d999ebda8",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A model hit by this attack suffers the Fire continuous effect (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ],
+            "helpTermIds": [
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ]
+        },
+        {
+            "guidStr": "e54cab2d-695a-4dfb-8c59-edf818dbdf15",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Critical Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual crit corrosion.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4ff9ffa8-9967-42f2-bff4-6c3269de30dc",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "On a critical hit (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>), the model hit by this attack suffers the Corrosion continuous effect (<link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ebc74333-3550-450f-9347-3a3a9eedc64e",
+                "2:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ],
+            "helpTermIds": [
+                "ebc74333-3550-450f-9347-3a3a9eedc64e",
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ]
+        },
+        {
+            "guidStr": "5341c24f-a529-4ae2-8e11-0bb022c6f4aa",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Critical Disruption",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual crit disruption.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4f8205dd-8e26-4bc3-ac74-7f5b7e6ef01a",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "On a critical hit (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>) on a warjack, the warjack suffers Disruption. A warjack suffering Disruption loses its focus points and cannot channel spells or gain focus by any means, including by being allocated focus, for one round.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ebc74333-3550-450f-9347-3a3a9eedc64e"
+            ],
+            "helpTermIds": [
+                "ebc74333-3550-450f-9347-3a3a9eedc64e"
+            ]
+        },
+        {
+            "guidStr": "d19a464b-a30f-4129-8e34-0782f3620e63",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Critical Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual crit fire.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2874753e-fcf1-4328-b5aa-1ded079e20bd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "On a critical hit (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>), the model hit by this attack suffers the Fire continuous effect (<link=\"2\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ebc74333-3550-450f-9347-3a3a9eedc64e",
+                "2:a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ],
+            "helpTermIds": [
+                "ebc74333-3550-450f-9347-3a3a9eedc64e",
+                "a00aeac7-2b00-49e9-a5fd-3a8c87e0f7c6"
+            ]
+        },
+        {
+            "guidStr": "26ae7665-3a79-4173-8446-1294edb7d756",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Damage Type: Cold",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual dam type cold.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2ab9150b-f8c5-41f0-a987-c82aa4a9b96f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon causes cold damage (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "de5fe9a5-384c-453a-be00-44b5553d5de9",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Damage Type: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual dam type corrosion.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ad346b90-2fb8-4123-a98a-2eec8fc309af",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon causes corrosion damage (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "e222c8a9-15c5-4f9e-bc1c-f7ac7d106002",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Damage Type: Electricity",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual dam type electricity.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a37f492d-b83b-4123-9e07-9d6b1a3815d6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon causes electrical damage (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "0a1958bd-7883-41b0-9a12-4e7e007732cd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Damage Type: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual dam type fire.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8554f267-dca2-4181-93e2-c13f4d3c74d0",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon causes fire damage (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "96606a05-f170-4cab-b894-7b2ef549f564",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Damage Type: Magical",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual dam type magical.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0197f8c8-7b6a-410e-aa0d-780d141ca438",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon causes magical damage (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ],
+            "helpTermIds": [
+                "ca556972-8c6e-4c1e-853a-bd1a2465b59d"
+            ]
+        },
+        {
+            "guidStr": "f0fe8fb1-bff2-4b91-ae95-5c109bd36f47",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Disruption",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual disruption.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1b6e72ca-6b16-468d-8e16-4445e42f3db6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A warjack hit by this attack loses its focus points and cannot channel spells or gain focus by any means, including by being allocated focus, for one round.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "60a74747-1250-4008-a4a7-7219bcc14583",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Pistol",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual pistol weapon.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e125a149-a115-4f00-b9fc-b146b8acd49e",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "A model making an attack with this weapon targeting a model it is in melee with ignores the Target in Melee bonus when resolving this attack (see <link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:9dd3cfe6-cd5d-44ee-b224-db6eb42eb09e"
+            ],
+            "helpTermIds": [
+                "9dd3cfe6-cd5d-44ee-b224-db6eb42eb09e"
+            ]
+        },
+        {
+            "guidStr": "9dcbdd22-f38d-4f9c-a4cc-3aaf5b2a9b44",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Shield",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual shield.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "09e497b6-5f7a-4727-b1db-147eb1fe95ed",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon is a shield that gives the model a cumulative +2 ARM bonus; for example, a model with two of them gains a bonus of +4 ARM. A model does not gain this bonus while the weapon system with the shield is crippled.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2abd990d-366f-4f1f-8e1a-c66988b968d6",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Throw Power Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual open fist.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "98017682-28e4-45f0-96aa-a4f763ca7f0f",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "This weapon can be used to make throw power attacks (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:f00b44b1-d5ea-416d-8b80-d90063c3612d"
+            ],
+            "helpTermIds": [
+                "f00b44b1-d5ea-416d-8b80-d90063c3612d"
+            ]
+        },
+        {
+            "guidStr": "6b33fd48-ef35-4c3b-ac28-a3d3894292d7",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Weapon Master",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/weapon qual weapon master.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "80a420ff-66e6-4489-8f70-0d01317e307d",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When resolving an attack with this weapon, add an additional die to damage rolls.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "216327ea-96b5-4838-b3b8-3ced3803c3fd",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body Subhead 2",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "Resistance: Blast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "/Media/Icons/model res blast.png",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9d41104f-e94e-45ac-985c-847f21270e57",
+            "name": [
+                "Name",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "type": "Body",
+            "topMarginOverride": -1,
+            "bottomMarginOverride": -1,
+            "leftMarginOverride": -1,
+            "rightMarginOverride": -1,
+            "title": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "body": [
+                "When this model suffers a blast damage roll, remove one die from the damage roll (<link=\"1\"><color=#00F><font=\"BellGothicStd-Black SDF\">LINK</font></color></link>).",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "colorHex": "",
+            "textColorHex": "",
+            "mediaPath": "",
+            "widthPerc": 85,
+            "mediaWidth": 0,
+            "mediaHeight": 0,
+            "caption": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isSub": false,
+            "helpTermSorting": [
+                "1:88c26bcd-ec80-409c-b0bb-799c234f8ff6"
+            ],
+            "helpTermIds": [
+                "88c26bcd-ec80-409c-b0bb-799c234f8ff6"
+            ]
+        }
+    ],
+    "articles": [
+        {
+            "guidStr": "5d2af589-f894-481a-8b3e-b18518da2da5",
+            "name": [
+                "Chap1 Art1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "artSegSort": [
+                "1:42950e00-c24a-4c1d-a57f-1cc75d1330cf",
+                "2:1db5d157-23e5-4da2-83fe-8debb3583351",
+                "3:106063d3-ceec-4a1f-90a3-46d8b07e1183",
+                "4:fa3cda45-3260-4f42-b28f-8c5ad932d071",
+                "5:71392874-a799-4af2-81c8-7739e98fac15",
+                "6:a3472f27-4f57-4a33-a84a-b7c87a9a9e06",
+                "7:cc2ce144-91d5-4f28-b975-7e4d2f2ac0c5",
+                "8:96597480-79b1-44c9-9928-02e7854b4b4e",
+                "9:47682420-11d8-48e4-9315-9dc7efc2e302",
+                "10:62400e9b-7f5d-467e-87fe-bab9a909147d",
+                "11:abfe81b6-1ce9-448e-b25c-658e1ce32787",
+                "12:34f9d3b8-faa1-4ffe-a0a6-32833b234ce7",
+                "13:1b840a29-255c-42b4-8837-19114368eccd",
+                "14:aebee33f-cfea-48e4-93bd-16a902e655ac",
+                "15:d94074a0-c2a5-49ab-81e8-89bf38728794",
+                "16:ba5e7d63-65f5-4774-81a9-8492e9ad14dc",
+                "17:f798a2de-3457-4592-b608-047652bb87ea",
+                "18:0c649817-c3e8-45f7-b9f7-021b8dd6695a",
+                "19:ce5cee5b-a2cf-4e2e-a565-18a4fcd3fa86",
+                "20:d48ebd09-ae31-43f5-a429-6a3bbf0b4423",
+                "21:088aea5f-2d37-46bc-bd4c-b30d72511b07",
+                "22:210382b8-7dcb-4c80-8828-cf90ee6ee201",
+                "23:feaf5980-6828-4e32-9575-0b02d4093a49",
+                "24:773b83f0-9679-49c4-b2c0-a735527a80ad",
+                "25:f49a2da7-d846-4c03-ae50-535892855292",
+                "26:fe32b22d-d0cd-421c-ac7f-4dd30ccbcd33",
+                "27:8cc275a3-54c8-400a-a67e-9bbc1f6d7fb1",
+                "28:c7d1a4ea-ab51-4448-a35f-5fcca1cf30a3",
+                "29:d81bf740-27f1-40dd-8f51-d48bf6ab5a3b",
+                "30:7c4efbb1-7a05-4d27-84c6-c0b3ba8b3360",
+                "31:1d5f69ac-6cf1-4b54-8d4a-c4f6dd06b04d",
+                "32:0b1bec1e-160b-4b5e-99f9-0f93a51d8468",
+                "33:93902f0b-35ab-4f46-843f-d36f94dcd2de",
+                "34:6ad56946-0821-4dc4-be66-2ec3ed0c19a1",
+                "35:1bafcca3-7389-463a-9a21-88d2228b7023",
+                "36:23e9fa74-4be0-4c00-95e2-a21fc7682183",
+                "37:c3c5464a-a733-4e14-beca-371e042f6d11",
+                "38:a4d67903-8c40-454d-a3af-aaab49a6e1c8",
+                "39:91a35fb5-93f1-4d5d-ac4d-e23057f118fb",
+                "40:75ed5136-7ee7-4ee9-970f-cf7ecff00b58",
+                "41:ff584ee6-6419-4f80-a953-e00ab047d3ff",
+                "42:30f19125-6986-4c6f-b10c-4cf5220aad46",
+                "43:6ca44895-20dd-4767-86b7-fec80fed385d",
+                "44:d046f3df-69bb-4d05-8bfc-42178f23019e",
+                "45:4631f723-30ab-4001-8d55-edded4110cbf",
+                "46:e1f0158b-91ab-4264-a82c-1672777d4848",
+                "47:3713036b-50d6-4886-be8e-bad8dc8551c5",
+                "48:fbc70088-47f0-40ab-83c2-c82d7d1252e3",
+                "49:c973f2a0-e6a0-472f-aec2-36617c475439",
+                "50:20061e22-f207-4d4f-85ce-b3e008f5469b",
+                "51:60f137d5-8b05-4747-a99a-cde28a35efef",
+                "52:29bea60a-1446-4c7f-bc65-afadec784ce5",
+                "53:5d7c77ce-b2f8-474e-9582-e72f1aab2abc",
+                "54:216327ea-96b5-4838-b3b8-3ced3803c3fd",
+                "56:7fcde715-3a88-4b0a-af38-1c27ff93c5c3",
+                "57:a26e2565-5a12-4449-b8ed-13541582506f",
+                "58:4023dcd2-c2bb-4f09-ba69-09bbe7f92f23",
+                "59:e7d6cd1b-75d8-4de8-a020-8bb69193c959",
+                "60:ec8d57de-b8d9-4895-b5a8-27476e2f2554",
+                "61:ee566709-60e4-4f80-9391-1bf63d92b2fb",
+                "62:479a3849-7e65-440d-99a7-865292f9013a",
+                "63:d9ff7083-05ea-4eb4-8e7f-b08824c47b1c",
+                "64:6963de9e-5f0d-461a-9f87-f73bc06ccaff",
+                "65:25dc1332-8f5a-4b81-8c4e-e98c31cf765a",
+                "66:aa17d2f4-a5f2-4900-bb66-e9f7b57f03fe",
+                "67:1970935c-7299-4517-9ed5-8e2724585708",
+                "68:41de4582-e356-4a6c-bd26-7d8637213e6a",
+                "69:02242a31-1b53-4417-8f0f-b3596db43563",
+                "70:d9ff0ce9-fdca-43f0-8c58-11645f763b3b",
+                "71:c615e5f1-e197-4b95-bc98-180f49448d4f",
+                "72:2920eb45-f72b-44cc-998b-974df579e7f0",
+                "73:262a4a02-aa24-4800-a709-0f0e85289902",
+                "74:7eb2807c-2ec2-4ff6-9ffe-445d999ebda8",
+                "75:e54cab2d-695a-4dfb-8c59-edf818dbdf15",
+                "76:4ff9ffa8-9967-42f2-bff4-6c3269de30dc",
+                "77:5341c24f-a529-4ae2-8e11-0bb022c6f4aa",
+                "78:4f8205dd-8e26-4bc3-ac74-7f5b7e6ef01a",
+                "79:d19a464b-a30f-4129-8e34-0782f3620e63",
+                "80:2874753e-fcf1-4328-b5aa-1ded079e20bd",
+                "81:26ae7665-3a79-4173-8446-1294edb7d756",
+                "82:2ab9150b-f8c5-41f0-a987-c82aa4a9b96f",
+                "83:de5fe9a5-384c-453a-be00-44b5553d5de9",
+                "84:ad346b90-2fb8-4123-a98a-2eec8fc309af",
+                "85:e222c8a9-15c5-4f9e-bc1c-f7ac7d106002",
+                "86:a37f492d-b83b-4123-9e07-9d6b1a3815d6",
+                "87:0a1958bd-7883-41b0-9a12-4e7e007732cd",
+                "88:8554f267-dca2-4181-93e2-c13f4d3c74d0",
+                "89:96606a05-f170-4cab-b894-7b2ef549f564",
+                "90:0197f8c8-7b6a-410e-aa0d-780d141ca438",
+                "91:f0fe8fb1-bff2-4b91-ae95-5c109bd36f47",
+                "92:1b6e72ca-6b16-468d-8e16-4445e42f3db6",
+                "93:60a74747-1250-4008-a4a7-7219bcc14583",
+                "94:e125a149-a115-4f00-b9fc-b146b8acd49e",
+                "95:9dcbdd22-f38d-4f9c-a4cc-3aaf5b2a9b44",
+                "96:09e497b6-5f7a-4727-b1db-147eb1fe95ed",
+                "97:2abd990d-366f-4f1f-8e1a-c66988b968d6",
+                "98:98017682-28e4-45f0-96aa-a4f763ca7f0f",
+                "99:6b33fd48-ef35-4c3b-ac28-a3d3894292d7",
+                "100:80a420ff-66e6-4489-8f70-0d01317e307d",
+                "55:9d41104f-e94e-45ac-985c-847f21270e57"
+            ],
+            "artSegIds": [
+                "42950e00-c24a-4c1d-a57f-1cc75d1330cf",
+                "1db5d157-23e5-4da2-83fe-8debb3583351",
+                "106063d3-ceec-4a1f-90a3-46d8b07e1183",
+                "fa3cda45-3260-4f42-b28f-8c5ad932d071",
+                "71392874-a799-4af2-81c8-7739e98fac15",
+                "a3472f27-4f57-4a33-a84a-b7c87a9a9e06",
+                "cc2ce144-91d5-4f28-b975-7e4d2f2ac0c5",
+                "96597480-79b1-44c9-9928-02e7854b4b4e",
+                "47682420-11d8-48e4-9315-9dc7efc2e302",
+                "62400e9b-7f5d-467e-87fe-bab9a909147d",
+                "abfe81b6-1ce9-448e-b25c-658e1ce32787",
+                "34f9d3b8-faa1-4ffe-a0a6-32833b234ce7",
+                "1b840a29-255c-42b4-8837-19114368eccd",
+                "aebee33f-cfea-48e4-93bd-16a902e655ac",
+                "d94074a0-c2a5-49ab-81e8-89bf38728794",
+                "ba5e7d63-65f5-4774-81a9-8492e9ad14dc",
+                "f798a2de-3457-4592-b608-047652bb87ea",
+                "0c649817-c3e8-45f7-b9f7-021b8dd6695a",
+                "ce5cee5b-a2cf-4e2e-a565-18a4fcd3fa86",
+                "d48ebd09-ae31-43f5-a429-6a3bbf0b4423",
+                "088aea5f-2d37-46bc-bd4c-b30d72511b07",
+                "210382b8-7dcb-4c80-8828-cf90ee6ee201",
+                "feaf5980-6828-4e32-9575-0b02d4093a49",
+                "773b83f0-9679-49c4-b2c0-a735527a80ad",
+                "f49a2da7-d846-4c03-ae50-535892855292",
+                "fe32b22d-d0cd-421c-ac7f-4dd30ccbcd33",
+                "8cc275a3-54c8-400a-a67e-9bbc1f6d7fb1",
+                "c7d1a4ea-ab51-4448-a35f-5fcca1cf30a3",
+                "d81bf740-27f1-40dd-8f51-d48bf6ab5a3b",
+                "7c4efbb1-7a05-4d27-84c6-c0b3ba8b3360",
+                "1d5f69ac-6cf1-4b54-8d4a-c4f6dd06b04d",
+                "0b1bec1e-160b-4b5e-99f9-0f93a51d8468",
+                "93902f0b-35ab-4f46-843f-d36f94dcd2de",
+                "6ad56946-0821-4dc4-be66-2ec3ed0c19a1",
+                "1bafcca3-7389-463a-9a21-88d2228b7023",
+                "23e9fa74-4be0-4c00-95e2-a21fc7682183",
+                "c3c5464a-a733-4e14-beca-371e042f6d11",
+                "a4d67903-8c40-454d-a3af-aaab49a6e1c8",
+                "91a35fb5-93f1-4d5d-ac4d-e23057f118fb",
+                "75ed5136-7ee7-4ee9-970f-cf7ecff00b58",
+                "ff584ee6-6419-4f80-a953-e00ab047d3ff",
+                "30f19125-6986-4c6f-b10c-4cf5220aad46",
+                "6ca44895-20dd-4767-86b7-fec80fed385d",
+                "d046f3df-69bb-4d05-8bfc-42178f23019e",
+                "4631f723-30ab-4001-8d55-edded4110cbf",
+                "e1f0158b-91ab-4264-a82c-1672777d4848",
+                "3713036b-50d6-4886-be8e-bad8dc8551c5",
+                "fbc70088-47f0-40ab-83c2-c82d7d1252e3",
+                "c973f2a0-e6a0-472f-aec2-36617c475439",
+                "20061e22-f207-4d4f-85ce-b3e008f5469b",
+                "60f137d5-8b05-4747-a99a-cde28a35efef",
+                "29bea60a-1446-4c7f-bc65-afadec784ce5",
+                "5d7c77ce-b2f8-474e-9582-e72f1aab2abc",
+                "7fcde715-3a88-4b0a-af38-1c27ff93c5c3",
+                "a26e2565-5a12-4449-b8ed-13541582506f",
+                "4023dcd2-c2bb-4f09-ba69-09bbe7f92f23",
+                "e7d6cd1b-75d8-4de8-a020-8bb69193c959",
+                "ec8d57de-b8d9-4895-b5a8-27476e2f2554",
+                "ee566709-60e4-4f80-9391-1bf63d92b2fb",
+                "479a3849-7e65-440d-99a7-865292f9013a",
+                "d9ff7083-05ea-4eb4-8e7f-b08824c47b1c",
+                "6963de9e-5f0d-461a-9f87-f73bc06ccaff",
+                "25dc1332-8f5a-4b81-8c4e-e98c31cf765a",
+                "aa17d2f4-a5f2-4900-bb66-e9f7b57f03fe",
+                "1970935c-7299-4517-9ed5-8e2724585708",
+                "41de4582-e356-4a6c-bd26-7d8637213e6a",
+                "02242a31-1b53-4417-8f0f-b3596db43563",
+                "d9ff0ce9-fdca-43f0-8c58-11645f763b3b",
+                "c615e5f1-e197-4b95-bc98-180f49448d4f",
+                "2920eb45-f72b-44cc-998b-974df579e7f0",
+                "262a4a02-aa24-4800-a709-0f0e85289902",
+                "7eb2807c-2ec2-4ff6-9ffe-445d999ebda8",
+                "e54cab2d-695a-4dfb-8c59-edf818dbdf15",
+                "4ff9ffa8-9967-42f2-bff4-6c3269de30dc",
+                "5341c24f-a529-4ae2-8e11-0bb022c6f4aa",
+                "4f8205dd-8e26-4bc3-ac74-7f5b7e6ef01a",
+                "d19a464b-a30f-4129-8e34-0782f3620e63",
+                "2874753e-fcf1-4328-b5aa-1ded079e20bd",
+                "26ae7665-3a79-4173-8446-1294edb7d756",
+                "2ab9150b-f8c5-41f0-a987-c82aa4a9b96f",
+                "de5fe9a5-384c-453a-be00-44b5553d5de9",
+                "ad346b90-2fb8-4123-a98a-2eec8fc309af",
+                "e222c8a9-15c5-4f9e-bc1c-f7ac7d106002",
+                "a37f492d-b83b-4123-9e07-9d6b1a3815d6",
+                "0a1958bd-7883-41b0-9a12-4e7e007732cd",
+                "8554f267-dca2-4181-93e2-c13f4d3c74d0",
+                "96606a05-f170-4cab-b894-7b2ef549f564",
+                "0197f8c8-7b6a-410e-aa0d-780d141ca438",
+                "f0fe8fb1-bff2-4b91-ae95-5c109bd36f47",
+                "1b6e72ca-6b16-468d-8e16-4445e42f3db6",
+                "60a74747-1250-4008-a4a7-7219bcc14583",
+                "e125a149-a115-4f00-b9fc-b146b8acd49e",
+                "9dcbdd22-f38d-4f9c-a4cc-3aaf5b2a9b44",
+                "09e497b6-5f7a-4727-b1db-147eb1fe95ed",
+                "2abd990d-366f-4f1f-8e1a-c66988b968d6",
+                "98017682-28e4-45f0-96aa-a4f763ca7f0f",
+                "6b33fd48-ef35-4c3b-ac28-a3d3894292d7",
+                "80a420ff-66e6-4489-8f70-0d01317e307d",
+                "216327ea-96b5-4838-b3b8-3ced3803c3fd",
+                "9d41104f-e94e-45ac-985c-847f21270e57"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "guidStr": "0f5aad76-c370-4312-9e1e-9383b962c0d0",
+            "name": [
+                "Icon Reference",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "intro": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "articleSorting": [
+                "1:5d2af589-f894-481a-8b3e-b18518da2da5"
+            ],
+            "articleIds": [
+                "5d2af589-f894-481a-8b3e-b18518da2da5"
+            ]
+        }
+    ],
+    "publications": [],
+    "advertisements": [],
+    "promotionalCampaigns": [],
+    "marquees": [],
+    "packedArenaIds": [],
+    "packedEditionIds": [],
+    "packedGameTypeIds": [],
+    "packedArmyIds": [],
+    "packedMatchTypeIds": [],
+    "packedCardIds": [],
+    "packedCardOptionIds": [],
+    "packedCommandCardIds": [],
+    "packedSpellCardIds": []
+}

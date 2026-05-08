@@ -1,0 +1,3385 @@
+{
+    "entries": [
+        {
+            "minClientVersion": 10,
+            "folderName": "mkiv-main",
+            "versionId": 554,
+            "files": [
+                {
+                    "fileName": "data general.json",
+                    "fileSize": 18710256,
+                    "lastModified": 1776181603,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data library.json",
+                    "fileSize": 294272,
+                    "lastModified": 1776099166,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication admiral thorga the thunder boomhowler.json",
+                    "fileSize": 50752,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication app help.json",
+                    "fileSize": 17888,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge bunker busters.json",
+                    "fileSize": 115360,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge cairn control.json",
+                    "fileSize": 103680,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge cutthroat.json",
+                    "fileSize": 113792,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge dark offering.json",
+                    "fileSize": 102144,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge date night.json",
+                    "fileSize": 105888,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge enemy intel.json",
+                    "fileSize": 119392,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge feast or famine.json",
+                    "fileSize": 110528,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge fury road.json",
+                    "fileSize": 105904,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge grudge match.json",
+                    "fileSize": 105760,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge grym harvest.json",
+                    "fileSize": 104368,
+                    "lastModified": 1728428855,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge hidden treasure.json",
+                    "fileSize": 108016,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge hoist the colors.json",
+                    "fileSize": 109024,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge holdout deadlights.json",
+                    "fileSize": 198960,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge kill the messenger.json",
+                    "fileSize": 102448,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge march madness.json",
+                    "fileSize": 99296,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge none shall pass.json",
+                    "fileSize": 108096,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge salvage operation.json",
+                    "fileSize": 108736,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge the floor is lava.json",
+                    "fileSize": 107728,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge the gifting tree.json",
+                    "fileSize": 107696,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication big iron the mastodon compendium.json",
+                    "fileSize": 54752,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 2 part 1.json",
+                    "fileSize": 152224,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 2 part 2.json",
+                    "fileSize": 94096,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 2 part 3.json",
+                    "fileSize": 90512,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 3 part 1.json",
+                    "fileSize": 149520,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 3 part 2.json",
+                    "fileSize": 148160,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 3 part 3.json",
+                    "fileSize": 143232,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 4 part 1.json",
+                    "fileSize": 145216,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 4 part 2.json",
+                    "fileSize": 151504,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide 4 part 3.json",
+                    "fileSize": 148512,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide part 1.json",
+                    "fileSize": 122448,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide part 2.json",
+                    "fileSize": 119968,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication black tide part 3.json",
+                    "fileSize": 153520,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication braghen ragemonger.json",
+                    "fileSize": 55648,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication brine blood and bilgewater 2.json",
+                    "fileSize": 109520,
+                    "lastModified": 1729558673,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication brine blood and bilgewater.json",
+                    "fileSize": 94752,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication captain athena di baro.json",
+                    "fileSize": 47520,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication captain firequill.json",
+                    "fileSize": 37152,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication captain madison calder.json",
+                    "fileSize": 48304,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication captain raef huxley.json",
+                    "fileSize": 44144,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication captain shadowtongue.json",
+                    "fileSize": 41232,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication cursebound cadre.json",
+                    "fileSize": 92128,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part five.json",
+                    "fileSize": 107280,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part four.json",
+                    "fileSize": 83104,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part one.json",
+                    "fileSize": 54816,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part six.json",
+                    "fileSize": 70496,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part three.json",
+                    "fileSize": 69808,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark rising part two.json",
+                    "fileSize": 72208,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark technologies of the orgoth.json",
+                    "fileSize": 96336,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dead on arrival part 1.json",
+                    "fileSize": 63728,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dead on arrival part 2.json",
+                    "fileSize": 88880,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dead on arrival part 3.json",
+                    "fileSize": 82480,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dead on arrival part 4.json",
+                    "fileSize": 127840,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication discerptor eviscerus.json",
+                    "fileSize": 44640,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall epilogue.json",
+                    "fileSize": 38816,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall part 1.json",
+                    "fileSize": 81504,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall part 2.json",
+                    "fileSize": 103392,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall part 3.json",
+                    "fileSize": 89376,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall part 4.json",
+                    "fileSize": 106416,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dragonfall the home edition.json",
+                    "fileSize": 47600,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication ekaterina baranova.json",
+                    "fileSize": 38016,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication emergence part 1.json",
+                    "fileSize": 56144,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication emergence part 2.json",
+                    "fileSize": 125232,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication emergence part 3.json",
+                    "fileSize": 44816,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication emergence part 4.json",
+                    "fileSize": 126128,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication emergence part 5.json",
+                    "fileSize": 138976,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication eye of the storm the maelstrom compendium.json",
+                    "fileSize": 35504,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication fire tongue warriors.json",
+                    "fileSize": 121200,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of mercenaries.json",
+                    "fileSize": 55904,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the brineblood marauders.json",
+                    "fileSize": 222032,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the cygnar storm legion.json",
+                    "fileSize": 156480,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the dusk house kallyss.json",
+                    "fileSize": 145696,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the khador winter korps.json",
+                    "fileSize": 184480,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the orgoth sea raiders.json",
+                    "fileSize": 153856,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication forces of the shadowflame shard.json",
+                    "fileSize": 212992,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication from the dark depths the abyssal king compendium.json",
+                    "fileSize": 72288,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication hazaroth narcissar of ruin.json",
+                    "fileSize": 58784,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication hellyth scyir of nightfall.json",
+                    "fileSize": 33504,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication horruskh the thousand wraths.json",
+                    "fileSize": 55952,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication icon reference.json",
+                    "fileSize": 158288,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication journeyman league.json",
+                    "fileSize": 147584,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kapitan ilari borisyuk.json",
+                    "fileSize": 40976,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kapitan yana kovoskiy.json",
+                    "fileSize": 56928,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication king of beasts gharlghast compendium.json",
+                    "fileSize": 66496,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kishtaar the howling silence.json",
+                    "fileSize": 56272,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kommander valerii savaryn.json",
+                    "fileSize": 53696,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kyrrax the unrelenting night.json",
+                    "fileSize": 49200,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication lich lord dekathus.json",
+                    "fileSize": 36976,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication major anson wolfe.json",
+                    "fileSize": 62256,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication master necrosurgeon sepsira.json",
+                    "fileSize": 46272,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication nyxyan the stygian coil.json",
+                    "fileSize": 42432,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication orsus the betrayed.json",
+                    "fileSize": 57696,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication rassyk spawn of shadows.json",
+                    "fileSize": 37392,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication resurrection league season 2.json",
+                    "fileSize": 64656,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication resurrection league triumphs bounties.json",
+                    "fileSize": 37280,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication resurrection league.json",
+                    "fileSize": 64608,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication rise of the winter korps.json",
+                    "fileSize": 172880,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication rising from beneath the necrofactoriu compendium.json",
+                    "fileSize": 206192,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication rough seas of the brineblood marauders.json",
+                    "fileSize": 152880,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication sabbreth the eternal annihilation.json",
+                    "fileSize": 53776,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication scyrafael nis-issyr of desolations.json",
+                    "fileSize": 76128,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication shard incarnates cadre compendium.json",
+                    "fileSize": 75696,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication shock awe the annihilator cadre compendium.json",
+                    "fileSize": 100096,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication shyryss the flawless dark.json",
+                    "fileSize": 25392,
+                    "lastModified": 1750976969,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication splitting the heavens the storm forge cadre.json",
+                    "fileSize": 101920,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication steamroller 2024.json",
+                    "fileSize": 223088,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the empire of the eternal dusk.json",
+                    "fileSize": 300464,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the galvanic technologies of cygnar.json",
+                    "fileSize": 111680,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the harmonic synthesis of the khymaera.json",
+                    "fileSize": 171152,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the living dead ghosts of ios cadre compendium.json",
+                    "fileSize": 162976,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the mark of caine part 1.json",
+                    "fileSize": 331968,
+                    "lastModified": 1729825440,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the mark of caine part 2.json",
+                    "fileSize": 709776,
+                    "lastModified": 1730436877,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the way of caine part 1.json",
+                    "fileSize": 197056,
+                    "lastModified": 1727111785,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the way of caine part 2.json",
+                    "fileSize": 162384,
+                    "lastModified": 1727453553,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the way of caine part 3.json",
+                    "fileSize": 206096,
+                    "lastModified": 1728570179,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication timing reference.json",
+                    "fileSize": 30192,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication tyrus nis-arsyr of spiders.json",
+                    "fileSize": 45168,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication unbowed.json",
+                    "fileSize": 45392,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication unstoppable.json",
+                    "fileSize": 49472,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication waking the dead part 1.json",
+                    "fileSize": 101072,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication waking the dead part 2.json",
+                    "fileSize": 88944,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication waking the dead part 3.json",
+                    "fileSize": 97200,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication waking the dead part 4.json",
+                    "fileSize": 125536,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication warcaster training guide.json",
+                    "fileSize": 285680,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication warlock training guide.json",
+                    "fileSize": 260832,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication warmachine mkiv rules.json",
+                    "fileSize": 1616240,
+                    "lastModified": 1736874734,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication wraithbinder nekane.json",
+                    "fileSize": 79616,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data release notes.json",
+                    "fileSize": 277824,
+                    "lastModified": 1776181603,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data strings.json",
+                    "fileSize": 58713,
+                    "lastModified": 1764713054,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army 5th division.zip",
+                    "fileSize": 5834170,
+                    "lastModified": 1736963582,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army armored korps.zip",
+                    "fileSize": 2847384,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army army of the western reaches.zip",
+                    "fileSize": 5518786,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army blackfleet.zip",
+                    "fileSize": 4802031,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army blindwater congregation.zip",
+                    "fileSize": 6654384,
+                    "lastModified": 1772482312,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army brineblood marauders.zip",
+                    "fileSize": 4953563,
+                    "lastModified": 1742413485,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army convergence of cyriss.zip",
+                    "fileSize": 2221048,
+                    "lastModified": 1776182541,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army crucible guard.zip",
+                    "fileSize": 310973,
+                    "lastModified": 1776182542,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army dark host.zip",
+                    "fileSize": 3335621,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army dark operations.zip",
+                    "fileSize": 2926307,
+                    "lastModified": 1764172790,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army devourers host.zip",
+                    "fileSize": 5116117,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army dragons host.zip",
+                    "fileSize": 4751725,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army exalted.zip",
+                    "fileSize": 3360075,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army final interdiction.zip",
+                    "fileSize": 4758650,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army first army.zip",
+                    "fileSize": 5660698,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army grymkin.zip",
+                    "fileSize": 13010523,
+                    "lastModified": 1776102051,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army house kallyss.zip",
+                    "fileSize": 5398017,
+                    "lastModified": 1776182547,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army infernals.zip",
+                    "fileSize": 158478,
+                    "lastModified": 1776182548,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army legions of dawn.zip",
+                    "fileSize": 4316883,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army necrofactorium.zip",
+                    "fileSize": 4368835,
+                    "lastModified": 1763176246,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army ravens of war.zip",
+                    "fileSize": 3953867,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army rhul guard.zip",
+                    "fileSize": 3583581,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army sea raiders.zip",
+                    "fileSize": 4721915,
+                    "lastModified": 1763190419,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army secret dominion.zip",
+                    "fileSize": 4433922,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army shadowflame shard.zip",
+                    "fileSize": 3696269,
+                    "lastModified": 1743619897,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army shadows of the retribution.zip",
+                    "fileSize": 3722054,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army soldiers of fortune.zip",
+                    "fileSize": 3828527,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army storm knights.zip",
+                    "fileSize": 3868042,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army storm legion.zip",
+                    "fileSize": 4131061,
+                    "lastModified": 1770831686,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army storm of the north.zip",
+                    "fileSize": 4873938,
+                    "lastModified": 1748450876,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army talion charter.zip",
+                    "fileSize": 2929029,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army temple guardians.zip",
+                    "fileSize": 3066223,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army thornfall alliance.zip",
+                    "fileSize": 1142314,
+                    "lastModified": 1770831687,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army united kriels.zip",
+                    "fileSize": 4396490,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited circle orboros.zip",
+                    "fileSize": 1931711,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited convergence of cyriss.zip",
+                    "fileSize": 86096,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited crucible guard.zip",
+                    "fileSize": 66419,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited cryx.zip",
+                    "fileSize": 4913732,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited cygnar.zip",
+                    "fileSize": 4279000,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited grymkin.zip",
+                    "fileSize": 156201,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited infernals.zip",
+                    "fileSize": 79211,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited khador.zip",
+                    "fileSize": 4756926,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited legion of everblight.zip",
+                    "fileSize": 3354301,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited mercenaries.zip",
+                    "fileSize": 7882156,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited protectorate of menoth.zip",
+                    "fileSize": 3670570,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited retribution of scyrah.zip",
+                    "fileSize": 2468988,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited skorne.zip",
+                    "fileSize": 1907443,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army unlimited trolls.zip",
+                    "fileSize": 3658400,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army winter korps.zip",
+                    "fileSize": 4686059,
+                    "lastModified": 1770224888,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media general cards.zip",
+                    "fileSize": 6266818,
+                    "lastModified": 1763050270,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media general.zip",
+                    "fileSize": 38953736,
+                    "lastModified": 1776102104,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media library.zip",
+                    "fileSize": 32694186,
+                    "lastModified": 1776102061,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication admiral thorga the thunder boomhowler.zip",
+                    "fileSize": 1775498,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "04cca5b3-d232-45a9-b970-02061542644b"
+                },
+                {
+                    "fileName": "media publication app help.zip",
+                    "fileSize": 1480978,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge bunker busters.zip",
+                    "fileSize": 2691210,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "21cfe9d6-50e6-4a93-b3ca-26fc1c705153"
+                },
+                {
+                    "fileName": "media publication battle forge cairn control.zip",
+                    "fileSize": 3062965,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "d1265a11-f088-4315-a00c-6121f5a5ace7"
+                },
+                {
+                    "fileName": "media publication battle forge cutthroat.zip",
+                    "fileSize": 3391375,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "99c4e619-71bf-4ce8-81fc-58e48ef57e2c"
+                },
+                {
+                    "fileName": "media publication battle forge dark offering.zip",
+                    "fileSize": 2929679,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "0f4f4127-72fe-4c8b-b0f7-4ed342f81a99"
+                },
+                {
+                    "fileName": "media publication battle forge date night.zip",
+                    "fileSize": 2883471,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "aa3e0ac1-8925-4eb3-8ddb-c816760753a1"
+                },
+                {
+                    "fileName": "media publication battle forge enemy intel.zip",
+                    "fileSize": 3079392,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "e6af7971-cf1a-4c46-8c37-2452d96cfc90"
+                },
+                {
+                    "fileName": "media publication battle forge feast or famine.zip",
+                    "fileSize": 3056945,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "02313938-ce83-47c8-a631-3e842260b3a0"
+                },
+                {
+                    "fileName": "media publication battle forge fury road.zip",
+                    "fileSize": 2883471,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "958927c0-731d-439a-af6a-39036db4307f"
+                },
+                {
+                    "fileName": "media publication battle forge grudge match.zip",
+                    "fileSize": 2995610,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c79da30d-ca79-4314-93b0-a3a2cf8c5e3f"
+                },
+                {
+                    "fileName": "media publication battle forge grym harvest.zip",
+                    "fileSize": 3064595,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "536c772c-66b6-46bf-aa5b-75db0ee22041"
+                },
+                {
+                    "fileName": "media publication battle forge hidden treasure.zip",
+                    "fileSize": 2887183,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "cd781132-d104-4565-b187-90b44151e8c4"
+                },
+                {
+                    "fileName": "media publication battle forge hoist the colors.zip",
+                    "fileSize": 2997371,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2b437e17-76d1-445d-80e9-ad216354b63b"
+                },
+                {
+                    "fileName": "media publication battle forge holdout deadlights.zip",
+                    "fileSize": 4766372,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "d63826f3-1a6e-4a54-9298-0e3d991f8add"
+                },
+                {
+                    "fileName": "media publication battle forge kill the messenger.zip",
+                    "fileSize": 2723731,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "24ff54ed-a8df-42ad-91f0-4222200b43a0"
+                },
+                {
+                    "fileName": "media publication battle forge march madness.zip",
+                    "fileSize": 3022499,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "652b3b7e-8ab2-4b45-bdd1-3533370cc6f1"
+                },
+                {
+                    "fileName": "media publication battle forge none shall pass.zip",
+                    "fileSize": 2721027,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "6180e5a1-388e-44c7-94d5-aee76717ba85"
+                },
+                {
+                    "fileName": "media publication battle forge salvage operation.zip",
+                    "fileSize": 2727424,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "480a4cd8-12c3-4da3-b83d-dbfc5eac05df"
+                },
+                {
+                    "fileName": "media publication battle forge the floor is lava.zip",
+                    "fileSize": 2523688,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "0c8f7b64-a4d3-42fe-91b1-0769af5a9f10"
+                },
+                {
+                    "fileName": "media publication battle forge the gifting tree.zip",
+                    "fileSize": 2949109,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "df279724-36f8-49e6-ad32-7f4806d82572"
+                },
+                {
+                    "fileName": "media publication big iron the mastodon compendium.zip",
+                    "fileSize": 1760188,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "3d8a34fc-6c05-48bb-a1d3-a75504bf40fc"
+                },
+                {
+                    "fileName": "media publication black tide 2 part 1.zip",
+                    "fileSize": 5073501,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "5bd7fec1-34f8-443d-83c2-45dd35a8f3e0"
+                },
+                {
+                    "fileName": "media publication black tide 2 part 2.zip",
+                    "fileSize": 4908176,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "35414048-2888-4b0c-b44f-7896bc56caaf"
+                },
+                {
+                    "fileName": "media publication black tide 2 part 3.zip",
+                    "fileSize": 4021566,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "27c4ee77-318f-4958-a67f-b0315fa1d1f1"
+                },
+                {
+                    "fileName": "media publication black tide 3 part 1.zip",
+                    "fileSize": 5590063,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "39b5824a-1406-45b6-8f0a-4790d07b0c59"
+                },
+                {
+                    "fileName": "media publication black tide 3 part 2.zip",
+                    "fileSize": 4956041,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "b86fbf52-6ba8-4108-9e47-796ebbfe87d3"
+                },
+                {
+                    "fileName": "media publication black tide 3 part 3.zip",
+                    "fileSize": 4795665,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "db8aaca3-b474-4fa5-b4e7-a4efbac79838"
+                },
+                {
+                    "fileName": "media publication black tide 4 part 1.zip",
+                    "fileSize": 4792295,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "8e9d3056-4b0c-43f2-ba5e-d5a610a1ae52"
+                },
+                {
+                    "fileName": "media publication black tide 4 part 2.zip",
+                    "fileSize": 4932337,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "130daa0a-8764-408c-b5e6-80c15f14c2cd"
+                },
+                {
+                    "fileName": "media publication black tide 4 part 3.zip",
+                    "fileSize": 3635462,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "8e7878f1-5c97-427d-a0ba-d65983afd333"
+                },
+                {
+                    "fileName": "media publication black tide part 1.zip",
+                    "fileSize": 4809918,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "06755741-b1f2-4150-a168-80705e193964"
+                },
+                {
+                    "fileName": "media publication black tide part 2.zip",
+                    "fileSize": 4923146,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "0c17f197-56c7-45e1-b231-fbe1116f4d13"
+                },
+                {
+                    "fileName": "media publication black tide part 3.zip",
+                    "fileSize": 5163766,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4dfa2372-b1d8-435c-aa99-c964cb9a7a83"
+                },
+                {
+                    "fileName": "media publication braghen ragemonger.zip",
+                    "fileSize": 1822286,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "6b9f7837-3e19-4937-b840-74e906204536"
+                },
+                {
+                    "fileName": "media publication brine blood and bilgewater 2.zip",
+                    "fileSize": 864547,
+                    "lastModified": 1729519934,
+                    "isCore": false,
+                    "dependentGuid": "485a91a0-e33d-4b7d-9db7-faabc7c03705"
+                },
+                {
+                    "fileName": "media publication brine blood and bilgewater.zip",
+                    "fileSize": 2741915,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "d7b7500a-444e-4805-ab89-6f5d680981dd"
+                },
+                {
+                    "fileName": "media publication captain athena di baro.zip",
+                    "fileSize": 2106793,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "ac1d03be-80ca-4e79-9c3f-1aa76af3c36a"
+                },
+                {
+                    "fileName": "media publication captain firequill.zip",
+                    "fileSize": 1878896,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c184c3e3-0dfd-4482-851b-10c3a016fb84"
+                },
+                {
+                    "fileName": "media publication captain madison calder.zip",
+                    "fileSize": 2102157,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "059d5ed1-d2eb-4bb5-acf3-073bcc2fddf6"
+                },
+                {
+                    "fileName": "media publication captain raef huxley.zip",
+                    "fileSize": 2184564,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4c4ac139-0fdf-4d25-8f9f-4f25ed3189c3"
+                },
+                {
+                    "fileName": "media publication captain shadowtongue.zip",
+                    "fileSize": 1800011,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "9b1d12f6-8c1b-4288-8e91-9d501264163e"
+                },
+                {
+                    "fileName": "media publication cursebound cadre.zip",
+                    "fileSize": 3077640,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "255eef36-59fa-4dc8-95db-ad98d22635a3"
+                },
+                {
+                    "fileName": "media publication dark rising part five.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "1d86cb9d-d473-4074-b4c2-6bfd7efbe965"
+                },
+                {
+                    "fileName": "media publication dark rising part four.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "211cda3e-883c-41e3-994b-c040b5c70668"
+                },
+                {
+                    "fileName": "media publication dark rising part one.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "7ade523b-0ef5-4d67-babf-0833a3769328"
+                },
+                {
+                    "fileName": "media publication dark rising part six.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "af630c71-59a4-4cbf-83a3-6e5628d5729a"
+                },
+                {
+                    "fileName": "media publication dark rising part three.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "f4aba573-6fa6-4fed-8c8c-c90e5ce0edc5"
+                },
+                {
+                    "fileName": "media publication dark rising part two.zip",
+                    "fileSize": 1145868,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "18024751-3cb4-4842-a565-a55a4ae25808"
+                },
+                {
+                    "fileName": "media publication dark technologies of the orgoth.zip",
+                    "fileSize": 3190025,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4feace38-9e8d-4713-9c62-b698d8f22d0c"
+                },
+                {
+                    "fileName": "media publication dead on arrival part 1.zip",
+                    "fileSize": 1109263,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "55747d18-f257-4119-9e56-76cac81a84b6"
+                },
+                {
+                    "fileName": "media publication dead on arrival part 2.zip",
+                    "fileSize": 1109263,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "e07862b9-fcc0-4b33-a889-bc19884f3c18"
+                },
+                {
+                    "fileName": "media publication dead on arrival part 3.zip",
+                    "fileSize": 1109263,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "96bc396c-75b8-40ca-9d83-76a0bfa1a84a"
+                },
+                {
+                    "fileName": "media publication dead on arrival part 4.zip",
+                    "fileSize": 1109263,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "85efa71e-c16e-42dd-b046-6103ea741279"
+                },
+                {
+                    "fileName": "media publication discerptor eviscerus.zip",
+                    "fileSize": 1499055,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4eadfc55-2c1c-4b92-b443-e087a6f560f5"
+                },
+                {
+                    "fileName": "media publication dragonfall epilogue.zip",
+                    "fileSize": 2407826,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "f766d339-603e-42af-a5f4-3d60878a1db9"
+                },
+                {
+                    "fileName": "media publication dragonfall part 1.zip",
+                    "fileSize": 846415,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c9857ad9-dead-48ac-988c-83a8617692b8"
+                },
+                {
+                    "fileName": "media publication dragonfall part 2.zip",
+                    "fileSize": 846415,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "be77ec73-c39e-490f-b3ab-c7bf98cc36d3"
+                },
+                {
+                    "fileName": "media publication dragonfall part 3.zip",
+                    "fileSize": 846415,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "ae5d4619-3d0d-4495-88e9-89d2bf4a8dd8"
+                },
+                {
+                    "fileName": "media publication dragonfall part 4.zip",
+                    "fileSize": 846415,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "09086cfa-a94e-4ca0-a8cc-1593967a9761"
+                },
+                {
+                    "fileName": "media publication dragonfall the home edition.zip",
+                    "fileSize": 3839762,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "7ef877d9-5441-4076-8b08-390625ecd656"
+                },
+                {
+                    "fileName": "media publication ekaterina baranova.zip",
+                    "fileSize": 1411327,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "5aed89ff-c57c-4da7-855f-74bfae47711b"
+                },
+                {
+                    "fileName": "media publication emergence part 1.zip",
+                    "fileSize": 1011249,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2afb6420-5b19-475f-ae26-daf32f6c5922"
+                },
+                {
+                    "fileName": "media publication emergence part 2.zip",
+                    "fileSize": 4712206,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "73d3638b-d2f3-4b12-afc5-b849e6ebaf95"
+                },
+                {
+                    "fileName": "media publication emergence part 3.zip",
+                    "fileSize": 1011249,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "bd7b6d96-e465-4127-a401-fa3dca978f8b"
+                },
+                {
+                    "fileName": "media publication emergence part 4.zip",
+                    "fileSize": 1011249,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "90af458a-b685-4393-a744-a24aadd46a0d"
+                },
+                {
+                    "fileName": "media publication emergence part 5.zip",
+                    "fileSize": 1011249,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c14b1684-9128-4d26-93c6-fa58c22adc05"
+                },
+                {
+                    "fileName": "media publication eye of the storm the maelstrom compendium.zip",
+                    "fileSize": 1895415,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "5cf15cb3-b021-43e6-8fd8-6d16bfa0b331"
+                },
+                {
+                    "fileName": "media publication fire tongue warriors.zip",
+                    "fileSize": 8682628,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "40b48030-2f94-41c6-8cd0-486295faa323"
+                },
+                {
+                    "fileName": "media publication forces of mercenaries.zip",
+                    "fileSize": 1941109,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "5fc2fd7f-9072-446f-b246-211754e176e4"
+                },
+                {
+                    "fileName": "media publication forces of the brineblood marauders.zip",
+                    "fileSize": 14692522,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "9ee98877-0a4d-4ce0-8e60-cff73704e830"
+                },
+                {
+                    "fileName": "media publication forces of the cygnar storm legion.zip",
+                    "fileSize": 12260556,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "49b60fb1-0903-4ce9-ada1-4510e0f4cbed"
+                },
+                {
+                    "fileName": "media publication forces of the dusk house kallyss.zip",
+                    "fileSize": 8584349,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2b155be9-2fec-4bcf-b80b-afea06fed005"
+                },
+                {
+                    "fileName": "media publication forces of the khador winter korps.zip",
+                    "fileSize": 9249175,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "5a60ff66-0e80-4eff-9d7d-f1000575c483"
+                },
+                {
+                    "fileName": "media publication forces of the orgoth sea raiders.zip",
+                    "fileSize": 13419791,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "11859939-07ef-4da1-9195-f45c05855fcc"
+                },
+                {
+                    "fileName": "media publication forces of the shadowflame shard.zip",
+                    "fileSize": 12097775,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "210d9071-cc2a-4885-abd9-8dd786ae0096"
+                },
+                {
+                    "fileName": "media publication from the dark depths the abyssal king compendium.zip",
+                    "fileSize": 2114105,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "6cdec6fd-062b-4007-9fc5-f886ec4e165a"
+                },
+                {
+                    "fileName": "media publication hazaroth narcissar of ruin.zip",
+                    "fileSize": 1839963,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "03a5ce54-dec1-4262-bc9d-cba3dfe2d7a1"
+                },
+                {
+                    "fileName": "media publication hellyth scyir of nightfall.zip",
+                    "fileSize": 1798387,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "75e8777f-b29b-44ea-bf95-1e04662e9a1f"
+                },
+                {
+                    "fileName": "media publication horruskh the thousand wraths.zip",
+                    "fileSize": 1892102,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "fdd2d56a-dbd4-4f1b-886d-795758577141"
+                },
+                {
+                    "fileName": "media publication icon reference.zip",
+                    "fileSize": 668865,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication journeyman league.zip",
+                    "fileSize": 5015098,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c932dfdd-8551-4ccf-b243-aae993762934"
+                },
+                {
+                    "fileName": "media publication kapitan ilari borisyuk.zip",
+                    "fileSize": 2121622,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "ee863919-03c5-40a4-96af-69edc3ae973a"
+                },
+                {
+                    "fileName": "media publication kapitan yana kovoskiy.zip",
+                    "fileSize": 1763585,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "45424249-7a61-4121-aa3b-2cc3b48e1a10"
+                },
+                {
+                    "fileName": "media publication king of beasts gharlghast compendium.zip",
+                    "fileSize": 1931647,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "64c465d6-9452-4f1e-91e5-8f6121aa6a95"
+                },
+                {
+                    "fileName": "media publication kishtaar the howling silence.zip",
+                    "fileSize": 1878092,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "21873868-531f-4cf4-b091-ca59db773bea"
+                },
+                {
+                    "fileName": "media publication kommander valerii savaryn.zip",
+                    "fileSize": 2124126,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "18aac87d-9526-45e3-a82c-1a9b1ed633d2"
+                },
+                {
+                    "fileName": "media publication kyrrax the unrelenting night.zip",
+                    "fileSize": 1787577,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "0cc82b2d-1eda-414d-89b8-9c3d2e70b2ef"
+                },
+                {
+                    "fileName": "media publication lich lord dekathus.zip",
+                    "fileSize": 1649734,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication major anson wolfe.zip",
+                    "fileSize": 1733330,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "452ead13-bed9-4fc0-a2c1-639141f5951b"
+                },
+                {
+                    "fileName": "media publication master necrosurgeon sepsira.zip",
+                    "fileSize": 1839309,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "e1b1fcbc-853d-4ef3-b071-8f1c835ffb1c"
+                },
+                {
+                    "fileName": "media publication nyxyan the stygian coil.zip",
+                    "fileSize": 2200456,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "ec3d46f5-931d-4ae2-b712-51027c9f0997"
+                },
+                {
+                    "fileName": "media publication orsus the betrayed.zip",
+                    "fileSize": 1821688,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "66da006e-c357-4212-b56f-ed3301597619"
+                },
+                {
+                    "fileName": "media publication rassyk spawn of shadows.zip",
+                    "fileSize": 1878804,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "53a9dea5-cda6-483c-b1bb-b698296f124f"
+                },
+                {
+                    "fileName": "media publication resurrection league season 2.zip",
+                    "fileSize": 2827308,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "d7302fe8-718d-4419-9a40-de20f4859f2d"
+                },
+                {
+                    "fileName": "media publication resurrection league.zip",
+                    "fileSize": 2544939,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "88577bda-0277-4e80-b327-c0e6f164fd14"
+                },
+                {
+                    "fileName": "media publication rise of the winter korps.zip",
+                    "fileSize": 8865632,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "901ce962-5d5e-4a4a-8f05-943aec553697"
+                },
+                {
+                    "fileName": "media publication rising from beneath the necrofactoriu compendium.zip",
+                    "fileSize": 7989827,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "3da0c60b-cbf6-4520-b702-0360f91449df"
+                },
+                {
+                    "fileName": "media publication rough seas of the brineblood marauders.zip",
+                    "fileSize": 6194988,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "920e4b8f-b8d8-4aaf-ae8a-c5fddf8052b3"
+                },
+                {
+                    "fileName": "media publication sabbreth the eternal annihilation.zip",
+                    "fileSize": 2205408,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "8e4550ba-d3a2-4be8-97f5-0b0acc1f1dfe"
+                },
+                {
+                    "fileName": "media publication scyrafael nis-issyr of desolations.zip",
+                    "fileSize": 2158785,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4ae610db-b9a5-4543-b88c-6181708cfdd4"
+                },
+                {
+                    "fileName": "media publication shard incarnates cadre compendium.zip",
+                    "fileSize": 5932386,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4b100cbd-628c-419b-b88d-6ae9f697e05b"
+                },
+                {
+                    "fileName": "media publication shock awe the annihilator cadre compendium.zip",
+                    "fileSize": 2400876,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "fb19d4d1-1692-4eda-b3df-877260795ee5"
+                },
+                {
+                    "fileName": "media publication shyryss the flawless dark.zip",
+                    "fileSize": 1786821,
+                    "lastModified": 1751476537,
+                    "isCore": false,
+                    "dependentGuid": "d202d5db-d3a0-4a92-8b21-bcd587241f8e"
+                },
+                {
+                    "fileName": "media publication splitting the heavens the storm forge cadre.zip",
+                    "fileSize": 3920840,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2c240b53-0c1c-44aa-b68d-db376fba1e3c"
+                },
+                {
+                    "fileName": "media publication steamroller 2024.zip",
+                    "fileSize": 10848774,
+                    "lastModified": 1737995631,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the empire of the eternal dusk.zip",
+                    "fileSize": 4935209,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "9c32959f-ea27-4fbc-9c6b-b59240526b6c"
+                },
+                {
+                    "fileName": "media publication the galvanic technologies of cygnar.zip",
+                    "fileSize": 2879110,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "09ea4d75-2efe-4b68-9fe3-a4ea4cc47cf1"
+                },
+                {
+                    "fileName": "media publication the harmonic synthesis of the khymaera.zip",
+                    "fileSize": 8153525,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2e6ab617-565d-4fb2-b4a9-5d47b360b794"
+                },
+                {
+                    "fileName": "media publication the living dead ghosts of ios cadre compendium.zip",
+                    "fileSize": 7779919,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "cdc4f405-b248-466a-814b-5e73495a98cc"
+                },
+                {
+                    "fileName": "media publication the mark of caine part 1.zip",
+                    "fileSize": 1439690,
+                    "lastModified": 1729825130,
+                    "isCore": false,
+                    "dependentGuid": "99063dc1-c524-45fe-8b16-2f9819e49f16"
+                },
+                {
+                    "fileName": "media publication the mark of caine part 2.zip",
+                    "fileSize": 1439690,
+                    "lastModified": 1729825130,
+                    "isCore": false,
+                    "dependentGuid": "7b750916-9c42-42a9-8a2a-a563fcd50d94"
+                },
+                {
+                    "fileName": "media publication the way of caine part 1.zip",
+                    "fileSize": 3785589,
+                    "lastModified": 1727111174,
+                    "isCore": false,
+                    "dependentGuid": "2d52c248-45f0-4768-bed8-b710cdee680e"
+                },
+                {
+                    "fileName": "media publication the way of caine part 2.zip",
+                    "fileSize": 1596689,
+                    "lastModified": 1727111174,
+                    "isCore": false,
+                    "dependentGuid": "3e158ca6-d82c-473b-a03f-82886a47b36a"
+                },
+                {
+                    "fileName": "media publication the way of caine part 3.zip",
+                    "fileSize": 1570129,
+                    "lastModified": 1727111174,
+                    "isCore": false,
+                    "dependentGuid": "8513f73c-bab6-4c2e-9b19-d986625f26c0"
+                },
+                {
+                    "fileName": "media publication tyrus nis-arsyr of spiders.zip",
+                    "fileSize": 2117341,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "a2b8f43e-b3d4-4f88-be5c-d0dc49ec650b"
+                },
+                {
+                    "fileName": "media publication unbowed.zip",
+                    "fileSize": 849968,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "77e4498a-52c2-449d-9332-e9bdfdb12b2d"
+                },
+                {
+                    "fileName": "media publication unstoppable.zip",
+                    "fileSize": 1122715,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "55638afe-7e4a-49ad-8d69-5815cfb6e692"
+                },
+                {
+                    "fileName": "media publication waking the dead part 1.zip",
+                    "fileSize": 740613,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "f2e29c55-551d-4954-a3c7-62783c98f034"
+                },
+                {
+                    "fileName": "media publication waking the dead part 2.zip",
+                    "fileSize": 740613,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "4359f3db-97b8-44f1-bacd-1b983b4f1344"
+                },
+                {
+                    "fileName": "media publication waking the dead part 3.zip",
+                    "fileSize": 740613,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "3e517fe6-6170-4a13-82ae-390bf963752c"
+                },
+                {
+                    "fileName": "media publication waking the dead part 4.zip",
+                    "fileSize": 740613,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "798a0914-18d4-475b-923a-1a101bd4c4dd"
+                },
+                {
+                    "fileName": "media publication warcaster training guide.zip",
+                    "fileSize": 9831307,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication warlock training guide.zip",
+                    "fileSize": 5244019,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication warmachine mkiv rules.zip",
+                    "fileSize": 44381687,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication wraithbinder nekane.zip",
+                    "fileSize": 1700597,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "2445161c-5943-46e6-8664-d3eec22e05f5"
+                },
+                {
+                    "fileName": "data publication battle forge blockader bad.json",
+                    "fileSize": 100048,
+                    "lastModified": 1731092349,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication battle forge blockader.json",
+                    "fileSize": 100032,
+                    "lastModified": 1731118599,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication steamroller 2023.json",
+                    "fileSize": 293584,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the mark of caine part 3.json",
+                    "fileSize": 221936,
+                    "lastModified": 1732038204,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army gravediggers.zip",
+                    "fileSize": 5858597,
+                    "lastModified": 1752078112,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army old umbrey.zip",
+                    "fileSize": 5906858,
+                    "lastModified": 1770224882,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge blockader bad.zip",
+                    "fileSize": 2922328,
+                    "lastModified": 1731041705,
+                    "isCore": false,
+                    "dependentGuid": "63275c9e-c9b8-45bf-8d27-d9198ccb32bf"
+                },
+                {
+                    "fileName": "media publication battle forge blockader.zip",
+                    "fileSize": 2922328,
+                    "lastModified": 1731041705,
+                    "isCore": false,
+                    "dependentGuid": "aebad92a-f520-417c-ba6a-3d1fe2671205"
+                },
+                {
+                    "fileName": "media publication steamroller 2023.zip",
+                    "fileSize": 8551888,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "a69a81ec-407d-4105-b8c4-ba93b4fad2f4"
+                },
+                {
+                    "fileName": "media publication the mark of caine part 3.zip",
+                    "fileSize": 1439690,
+                    "lastModified": 1729825130,
+                    "isCore": false,
+                    "dependentGuid": "89e0061e-4bcf-4639-bb2a-245d5c9585a2"
+                },
+                {
+                    "fileName": "data publication kapitan zahara vikul.json",
+                    "fileSize": 44080,
+                    "lastModified": 1733076234,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication kapitan zahara vikul.zip",
+                    "fileSize": 1596212,
+                    "lastModified": 1732915717,
+                    "isCore": false,
+                    "dependentGuid": "f52c6404-f7c2-472b-a90e-e10923a09065"
+                },
+                {
+                    "fileName": "data publication battle forge snowball fight.json",
+                    "fileSize": 110576,
+                    "lastModified": 1733283578,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kapitan zahara vilkul.json",
+                    "fileSize": 44080,
+                    "lastModified": 1733769026,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication warmachine rulebook.json",
+                    "fileSize": 1612896,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge snowball fight.zip",
+                    "fileSize": 3019865,
+                    "lastModified": 1733283578,
+                    "isCore": false,
+                    "dependentGuid": "6e858e2f-4e30-4fa8-a506-2d7c629d961c"
+                },
+                {
+                    "fileName": "media publication kapitan zahara vilkul.zip",
+                    "fileSize": 1596212,
+                    "lastModified": 1732915717,
+                    "isCore": false,
+                    "dependentGuid": "f52c6404-f7c2-472b-a90e-e10923a09065"
+                },
+                {
+                    "fileName": "media publication warmachine rulebook.zip",
+                    "fileSize": 44381687,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication lylyth the raven vengeance.json",
+                    "fileSize": 74496,
+                    "lastModified": 1733972085,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication lylyth the raven vengeance.zip",
+                    "fileSize": 1899975,
+                    "lastModified": 1733971872,
+                    "isCore": false,
+                    "dependentGuid": "4c790cd3-a8ad-42a9-b746-2dfc6d8b1dbb"
+                },
+                {
+                    "fileName": "data publication forces of the necrofactorium.json",
+                    "fileSize": 166752,
+                    "lastModified": 1734975006,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication forces of the necrofactorium.zip",
+                    "fileSize": 12576645,
+                    "lastModified": 1734720104,
+                    "isCore": false,
+                    "dependentGuid": "8f1a2d26-cf83-4e31-a7da-46e1e97fdcec"
+                },
+                {
+                    "fileName": "data publication battle forge portal war.json",
+                    "fileSize": 108016,
+                    "lastModified": 1736357350,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication rising from beneath the necrofactorium compendium.json",
+                    "fileSize": 206192,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the quick the dead hellslingers compendium.json",
+                    "fileSize": 109648,
+                    "lastModified": 1736537496,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army circle orboros.zip",
+                    "fileSize": 11317948,
+                    "lastModified": 1764782052,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army cryx.zip",
+                    "fileSize": 8562618,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army cygnar.zip",
+                    "fileSize": 13691252,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army khador.zip",
+                    "fileSize": 4896680,
+                    "lastModified": 1776102053,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army legion of everblight.zip",
+                    "fileSize": 7254473,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army mercenaries.zip",
+                    "fileSize": 22005446,
+                    "lastModified": 1767804603,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army protectorate of menoth.zip",
+                    "fileSize": 6672307,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army retribution of scyrah.zip",
+                    "fileSize": 5995574,
+                    "lastModified": 1764782063,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army skorne.zip",
+                    "fileSize": 2031971,
+                    "lastModified": 1728403366,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army trollbloods.zip",
+                    "fileSize": 7713782,
+                    "lastModified": 1764782067,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge portal war.zip",
+                    "fileSize": 2898298,
+                    "lastModified": 1736184533,
+                    "isCore": false,
+                    "dependentGuid": "4d1b62fd-c37d-43ea-8b28-febb3b40dc06"
+                },
+                {
+                    "fileName": "media publication rising from beneath the necrofactorium compendium.zip",
+                    "fileSize": 7989827,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "3da0c60b-cbf6-4520-b702-0360f91449df"
+                },
+                {
+                    "fileName": "media publication the quick the dead hellslingers compendium.zip",
+                    "fileSize": 3148543,
+                    "lastModified": 1736537141,
+                    "isCore": false,
+                    "dependentGuid": "3f59e02e-74f8-448d-b4f0-e0dd44888c5f"
+                },
+                {
+                    "fileName": "data publication steamroller 2025.json",
+                    "fileSize": 192848,
+                    "lastModified": 1738122917,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication steamroller 2025.zip",
+                    "fileSize": 10577793,
+                    "lastModified": 1768856304,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication secret kommando service six the sks-6 compendium.json",
+                    "fileSize": 102672,
+                    "lastModified": 1738716147,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication secret kommando service six the sks-6 compendium.zip",
+                    "fileSize": 3437988,
+                    "lastModified": 1737995631,
+                    "isCore": false,
+                    "dependentGuid": "1a646cca-e2ac-4646-a142-26bfe4ceca7e"
+                },
+                {
+                    "fileName": "data publication captain buck hasker.json",
+                    "fileSize": 54640,
+                    "lastModified": 1739315734,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication captain buck hasker.zip",
+                    "fileSize": 2035133,
+                    "lastModified": 1739380338,
+                    "isCore": false,
+                    "dependentGuid": "48b0c903-bc21-4071-b389-c7583c743cbe"
+                },
+                {
+                    "fileName": "data publication battle forge two hearts that beat as one.json",
+                    "fileSize": 106816,
+                    "lastModified": 1739902297,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge two hearts that beat as one.zip",
+                    "fileSize": 2944346,
+                    "lastModified": 1739902297,
+                    "isCore": false,
+                    "dependentGuid": "a8247c1a-4cfe-43b8-b693-4466fbbed287"
+                },
+                {
+                    "fileName": "data publication heroes villains captain cynthia cyn rosko.json",
+                    "fileSize": 40176,
+                    "lastModified": 1740417242,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication heroes villains captain cynthia cyn rosko.zip",
+                    "fileSize": 2051355,
+                    "lastModified": 1740416912,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication wrath of cain part 1.json",
+                    "fileSize": 247456,
+                    "lastModified": 1741110280,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication wrath of cain part 1.zip",
+                    "fileSize": 1695010,
+                    "lastModified": 1741109855,
+                    "isCore": false,
+                    "dependentGuid": "102a1c53-6ebd-4ecf-8c38-368ca7372d1e"
+                },
+                {
+                    "fileName": "data publication battle forge march hare.json",
+                    "fileSize": 102720,
+                    "lastModified": 1741365904,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication battle forge march hare.zip",
+                    "fileSize": 1160748,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "c13573d1-c85b-4cf5-9da8-d3089d08a12b"
+                },
+                {
+                    "fileName": "data publication the kings own gravediggers compendium.json",
+                    "fileSize": 346400,
+                    "lastModified": 1742401200,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the kings own gravediggers compendium.zip",
+                    "fileSize": 9056402,
+                    "lastModified": 1735338456,
+                    "isCore": false,
+                    "dependentGuid": "3ab0a042-40ff-4365-9b0c-e656ff9ed408"
+                },
+                {
+                    "fileName": "data publication major grant vargus.json",
+                    "fileSize": 41152,
+                    "lastModified": 1744149557,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication major grant vargus.zip",
+                    "fileSize": 1843894,
+                    "lastModified": 1744062668,
+                    "isCore": false,
+                    "dependentGuid": "8efe3a51-7f0c-413c-84f3-ed0e3714f6f0"
+                },
+                {
+                    "fileName": "data publication mortenebra perfected.json",
+                    "fileSize": 15792,
+                    "lastModified": 1745341743,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication mortenebra perfected.zip",
+                    "fileSize": 1748170,
+                    "lastModified": 1745341743,
+                    "isCore": false,
+                    "dependentGuid": "0e4b7256-73c0-4146-802b-017bb78fcd44"
+                },
+                {
+                    "fileName": "data publication forces of gravediggers.json",
+                    "fileSize": 178736,
+                    "lastModified": 1746026147,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication forces of gravediggers.zip",
+                    "fileSize": 13985395,
+                    "lastModified": 1746026147,
+                    "isCore": false,
+                    "dependentGuid": "c6bee983-7e7e-4dc9-b3ce-4495a248dfe0"
+                },
+                {
+                    "fileName": "data publication wrath of cain part 2.json",
+                    "fileSize": 242592,
+                    "lastModified": 1746632083,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication wrath of cain part 2.zip",
+                    "fileSize": 95970,
+                    "lastModified": 1727111174,
+                    "isCore": false,
+                    "dependentGuid": "5cb64039-9f31-46c3-8efd-a5cdd966268e"
+                },
+                {
+                    "fileName": "data publication captain connor boom boom mccoy.json",
+                    "fileSize": 56272,
+                    "lastModified": 1747253686,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication captain connor boom boom mccoy.zip",
+                    "fileSize": 1823711,
+                    "lastModified": 1747254189,
+                    "isCore": false,
+                    "dependentGuid": "861af5c9-63d5-4637-a278-23d19e3a0e66"
+                },
+                {
+                    "fileName": "data publication wrath of cain part 3.json",
+                    "fileSize": 295600,
+                    "lastModified": 1747777097,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication wrath of cain part 3.zip",
+                    "fileSize": 95970,
+                    "lastModified": 1727111174,
+                    "isCore": false,
+                    "dependentGuid": "a9fd73c5-b8b4-41f2-a084-6fcbc5f98c5a"
+                },
+                {
+                    "fileName": "data publication colonel allison jakes.json",
+                    "fileSize": 46048,
+                    "lastModified": 1748448140,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication colonel allison jakes.zip",
+                    "fileSize": 1855039,
+                    "lastModified": 1748371931,
+                    "isCore": false,
+                    "dependentGuid": "ba66ca57-4dd7-40a9-be20-e0fabf9aa523"
+                },
+                {
+                    "fileName": "data publication bohdan lesnoi apostle of the witch.json",
+                    "fileSize": 62160,
+                    "lastModified": 1749056230,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication bohdan lesnoi apostle of the witch.zip",
+                    "fileSize": 1644731,
+                    "lastModified": 1748974391,
+                    "isCore": false,
+                    "dependentGuid": "623c4249-e6da-4c46-9453-3bad20e70982"
+                },
+                {
+                    "fileName": "data publication kapitan galina lissya.json",
+                    "fileSize": 78496,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication kapitan galina lissya.zip",
+                    "fileSize": 1702884,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": "20fd77ab-5802-4673-bf5e-9e716f83ab56"
+                },
+                {
+                    "fileName": "data publication the old ways part 1.json",
+                    "fileSize": 153168,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the old ways part 1.zip",
+                    "fileSize": 1697581,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": "4b898f44-83b0-4d8e-8926-70fe145e5e23"
+                },
+                {
+                    "fileName": "data publication mad bad and dangerous to know foulbloods armada compendium.json",
+                    "fileSize": 60496,
+                    "lastModified": 1750819370,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication soaring shadows the shard nocturnes compendium.json",
+                    "fileSize": 62688,
+                    "lastModified": 1750819370,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication mad bad and dangerous to know foulbloods armada compendium.zip",
+                    "fileSize": 2626197,
+                    "lastModified": 1750819370,
+                    "isCore": false,
+                    "dependentGuid": "bc9adc5b-1079-4278-b618-2a3ffa0498aa"
+                },
+                {
+                    "fileName": "media publication soaring shadows the shard nocturnes compendium.zip",
+                    "fileSize": 3082351,
+                    "lastModified": 1750819370,
+                    "isCore": false,
+                    "dependentGuid": "734ad987-bae4-47d2-b706-7e2163c23e84"
+                },
+                {
+                    "fileName": "data publication the old ways part 2.json",
+                    "fileSize": 141008,
+                    "lastModified": 1751474832,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the old ways part 2.zip",
+                    "fileSize": 1697581,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": "3ab27d15-4e9b-427f-806a-8b1722e396fb"
+                },
+                {
+                    "fileName": "data publication chaos entwined the trikhymaerax compendium.json",
+                    "fileSize": 54752,
+                    "lastModified": 1748371931,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication desolation.json",
+                    "fileSize": 54048,
+                    "lastModified": 1752002774,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication chaos entwined the trikhymaerax compendium.zip",
+                    "fileSize": 2204716,
+                    "lastModified": 1738950379,
+                    "isCore": false,
+                    "dependentGuid": "7af3eeff-6734-4a3c-a1fc-fa2963f60b10"
+                },
+                {
+                    "fileName": "media publication desolation.zip",
+                    "fileSize": 1752228,
+                    "lastModified": 1752002774,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication kapitan maksim azlanov.json",
+                    "fileSize": 71760,
+                    "lastModified": 1752595768,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication kapitan maksim azlanov.zip",
+                    "fileSize": 1964131,
+                    "lastModified": 1752595768,
+                    "isCore": false,
+                    "dependentGuid": "f0e02862-464b-46da-af5a-2229935229e5"
+                },
+                {
+                    "fileName": "data publication desolation- interstitial 1.json",
+                    "fileSize": 54064,
+                    "lastModified": 1752002774,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication weakness - interstitial 2.json",
+                    "fileSize": 56016,
+                    "lastModified": 1753284996,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication desolation- interstitial 1.zip",
+                    "fileSize": 1752228,
+                    "lastModified": 1752002774,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication weakness - interstitial 2.zip",
+                    "fileSize": 1972523,
+                    "lastModified": 1753284996,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication old ways part 3.json",
+                    "fileSize": 138224,
+                    "lastModified": 1753807251,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication old ways part 3.zip",
+                    "fileSize": 1697581,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication olesea reznikova mistress of thorns.json",
+                    "fileSize": 73264,
+                    "lastModified": 1754498079,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the old ways part 3.json",
+                    "fileSize": 138224,
+                    "lastModified": 1753807251,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication olesea reznikova mistress of thorns.zip",
+                    "fileSize": 1608027,
+                    "lastModified": 1754498079,
+                    "isCore": false,
+                    "dependentGuid": "7a2ad536-3d8d-455c-881d-f0688af2c63f"
+                },
+                {
+                    "fileName": "media publication the old ways part 3.zip",
+                    "fileSize": 1697581,
+                    "lastModified": 1749575035,
+                    "isCore": false,
+                    "dependentGuid": "3535e772-2779-4630-9ab7-5a743452a541"
+                },
+                {
+                    "fileName": "data publication forces of old umbry.json",
+                    "fileSize": 195808,
+                    "lastModified": 1759164358,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication forces of old umbry.zip",
+                    "fileSize": 15950568,
+                    "lastModified": 1759334999,
+                    "isCore": false,
+                    "dependentGuid": "61a8ca80-c9c0-40ff-8467-984e25a65b9c"
+                },
+                {
+                    "fileName": "data publication kapitan kazimir morozov.json",
+                    "fileSize": 82384,
+                    "lastModified": 1757435983,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication lure of the occult old umbreycompendium.json",
+                    "fileSize": 246688,
+                    "lastModified": 1758313283,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication kapitan kazimir morozov.zip",
+                    "fileSize": 1659739,
+                    "lastModified": 1757435983,
+                    "isCore": false,
+                    "dependentGuid": "bb9da788-cbcf-4519-bf41-955efa2a4414"
+                },
+                {
+                    "fileName": "media publication lure of the occult old umbreycompendium.zip",
+                    "fileSize": 9273913,
+                    "lastModified": 1757435983,
+                    "isCore": false,
+                    "dependentGuid": "8df579f2-939d-44d6-a00b-4177aa996797"
+                },
+                {
+                    "fileName": "data publication the hunt.json",
+                    "fileSize": 46000,
+                    "lastModified": 1757959914,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the hunt.zip",
+                    "fileSize": 1878092,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication the hunt - interstitial 3.json",
+                    "fileSize": 46016,
+                    "lastModified": 1757959914,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication the hunt - interstitial 3.zip",
+                    "fileSize": 1878092,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication final hunt compendium.json",
+                    "fileSize": 71712,
+                    "lastModified": 1759164358,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication final hunt compendium.zip",
+                    "fileSize": 4018548,
+                    "lastModified": 1759164358,
+                    "isCore": false,
+                    "dependentGuid": "377d4b11-37f6-4cde-a2e3-a5161e438ee4"
+                },
+                {
+                    "fileName": "data publication graveborn compendium.json",
+                    "fileSize": 66768,
+                    "lastModified": 1759164358,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication graveborn compendium.zip",
+                    "fileSize": 4808327,
+                    "lastModified": 1759164358,
+                    "isCore": false,
+                    "dependentGuid": "989d7070-d24b-48e9-a88b-2c8d16d9aa53"
+                },
+                {
+                    "fileName": "data publication cephalyx compendium.json",
+                    "fileSize": 372496,
+                    "lastModified": 1762205632,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication cephalyx compendium.zip",
+                    "fileSize": 17171288,
+                    "lastModified": 1762205632,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication summons.json",
+                    "fileSize": 55824,
+                    "lastModified": 1762895549,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication summons.zip",
+                    "fileSize": 1961774,
+                    "lastModified": 1762834722,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication interstitial 1 - desolation.json",
+                    "fileSize": 50032,
+                    "lastModified": 1767373059,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication interstitial 2 - weakness.json",
+                    "fileSize": 56016,
+                    "lastModified": 1753284996,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication interstitial 3 - the hunt.json",
+                    "fileSize": 46016,
+                    "lastModified": 1757959914,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication interstitial 4 - summons.json",
+                    "fileSize": 55840,
+                    "lastModified": 1762895549,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication interstitial 1 - desolation.zip",
+                    "fileSize": 1062135,
+                    "lastModified": 1767387301,
+                    "isCore": false,
+                    "dependentGuid": "64fe9d0e-8cb8-4e7c-bab4-7e0e36f6dc00"
+                },
+                {
+                    "fileName": "media publication interstitial 2 - weakness.zip",
+                    "fileSize": 1972523,
+                    "lastModified": 1753284996,
+                    "isCore": false,
+                    "dependentGuid": "2ed738cf-c620-40f6-ae48-30a4c28ec0a3"
+                },
+                {
+                    "fileName": "media publication interstitial 3 - the hunt.zip",
+                    "fileSize": 1878092,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": "31733b56-3da7-4036-b2c8-13df6944c929"
+                },
+                {
+                    "fileName": "media publication interstitial 4 - summons.zip",
+                    "fileSize": 1961774,
+                    "lastModified": 1762834722,
+                    "isCore": false,
+                    "dependentGuid": "7d1c20d1-d4fb-4299-855a-5d958baff3b9"
+                },
+                {
+                    "fileName": "media army fane of nyrro.zip",
+                    "fileSize": 985173,
+                    "lastModified": 1763240526,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army reaper covenant.zip",
+                    "fileSize": 967097,
+                    "lastModified": 1763186180,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army order of the golden crucible.zip",
+                    "fileSize": 66419,
+                    "lastModified": 1728403366,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication gorger compendium.json",
+                    "fileSize": 48928,
+                    "lastModified": 1763486610,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication gorger compendium.zip",
+                    "fileSize": 1945976,
+                    "lastModified": 1763439238,
+                    "isCore": false,
+                    "dependentGuid": "9bb076d1-72b6-4b89-853c-1049b6aed89f"
+                },
+                {
+                    "fileName": "data publication crucible guard compendium.json",
+                    "fileSize": 391552,
+                    "lastModified": 1764091231,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication crucible guard compendium.zip",
+                    "fileSize": 26329658,
+                    "lastModified": 1764091231,
+                    "isCore": false,
+                    "dependentGuid": "4821d73e-af46-4508-9ab1-408eaffd3a3e"
+                },
+                {
+                    "fileName": "data publication zacchaeus the winters chill.json",
+                    "fileSize": 36320,
+                    "lastModified": 1764774570,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication zacchaeus the winters chill.zip",
+                    "fileSize": 2054003,
+                    "lastModified": 1764644756,
+                    "isCore": false,
+                    "dependentGuid": "898ddce8-c7e1-4425-b5b3-e8ac4cdbc5aa"
+                },
+                {
+                    "fileName": "data publication interstitial 5 - new beginning.json",
+                    "fileSize": 43056,
+                    "lastModified": 1764967125,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication interstitial 5 - new beginning.zip",
+                    "fileSize": 1883344,
+                    "lastModified": 1764909963,
+                    "isCore": false,
+                    "dependentGuid": "35a4ef7a-0c8c-4154-9bd4-d1dff4ff324b"
+                },
+                {
+                    "fileName": "data publication interstitial 6 - the devils you know.json",
+                    "fileSize": 56064,
+                    "lastModified": 1765849118,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication interstitial 6 - the devils you know.zip",
+                    "fileSize": 1682421,
+                    "lastModified": 1765761375,
+                    "isCore": false,
+                    "dependentGuid": "0aef71b6-c786-4f43-91ba-49319cb1a5f1"
+                },
+                {
+                    "fileName": "data publication captain cynthia cyn rosko.json",
+                    "fileSize": 40112,
+                    "lastModified": 1740417242,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication deathjack dark apotheosis.json",
+                    "fileSize": 39520,
+                    "lastModified": 1766507272,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication sgt hulder craghorn.json",
+                    "fileSize": 61376,
+                    "lastModified": 1766165966,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication captain cynthia cyn rosko.zip",
+                    "fileSize": 2051355,
+                    "lastModified": 1740416912,
+                    "isCore": false,
+                    "dependentGuid": "130e3f44-fc21-4f37-8910-3be944744b56"
+                },
+                {
+                    "fileName": "media publication deathjack dark apotheosis.zip",
+                    "fileSize": 1915698,
+                    "lastModified": 1766458919,
+                    "isCore": false,
+                    "dependentGuid": "16df74ab-c804-4005-9f0c-fccf3cef7ef7"
+                },
+                {
+                    "fileName": "media publication sgt hulder craghorn.zip",
+                    "fileSize": 1745072,
+                    "lastModified": 1765951879,
+                    "isCore": false,
+                    "dependentGuid": "5365a75b-7ffd-4b0e-97c2-410734597dbf"
+                },
+                {
+                    "fileName": "data publication midas.json",
+                    "fileSize": 61136,
+                    "lastModified": 1767723273,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication midas.zip",
+                    "fileSize": 2250734,
+                    "lastModified": 1767723273,
+                    "isCore": false,
+                    "dependentGuid": "88a10aa5-47b2-4557-83fe-8e8c112d8ddc"
+                },
+                {
+                    "fileName": "data publication azdharak.json",
+                    "fileSize": 40720,
+                    "lastModified": 1768842880,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication azdharak.zip",
+                    "fileSize": 1755038,
+                    "lastModified": 1768398863,
+                    "isCore": false,
+                    "dependentGuid": "d220b2e4-6d8c-4d0e-9fb0-2d6c9b623ed3"
+                },
+                {
+                    "fileName": "data publication steamroller 2026.json",
+                    "fileSize": 182864,
+                    "lastModified": 1769188940,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication steamroller 2026.zip",
+                    "fileSize": 16263763,
+                    "lastModified": 1768856304,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication dark operations compendium.json",
+                    "fileSize": 372512,
+                    "lastModified": 1762205632,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication thornfall alliance compendium.json",
+                    "fileSize": 387632,
+                    "lastModified": 1770746368,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication dark operations compendium.zip",
+                    "fileSize": 17171288,
+                    "lastModified": 1762205632,
+                    "isCore": false,
+                    "dependentGuid": "30470ab9-d3c5-44b1-9d7b-b1dd5891c175"
+                },
+                {
+                    "fileName": "media publication thornfall alliance compendium.zip",
+                    "fileSize": 19529999,
+                    "lastModified": 1770831731,
+                    "isCore": false,
+                    "dependentGuid": "59a5c4b9-5e5a-4ed5-9225-c8ce4f4b40cb"
+                },
+                {
+                    "fileName": "data publication behemoth.json",
+                    "fileSize": 42720,
+                    "lastModified": 1769542642,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media army kithguard.zip",
+                    "fileSize": 4201240,
+                    "lastModified": 1774371369,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication behemoth.zip",
+                    "fileSize": 1952066,
+                    "lastModified": 1769370060,
+                    "isCore": false,
+                    "dependentGuid": "2d753111-549e-44ad-a827-b70835f150b2"
+                },
+                {
+                    "fileName": "data publication interstitial 7 - behemoth.json",
+                    "fileSize": 46240,
+                    "lastModified": 1770829577,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication interstitial 7 - behemoth.zip",
+                    "fileSize": 1795797,
+                    "lastModified": 1770510953,
+                    "isCore": false,
+                    "dependentGuid": "07e3fc48-2f0a-42a1-ae3c-bbe0909d7b13"
+                },
+                {
+                    "fileName": "data publication steamrolller tales from the frontlines.json",
+                    "fileSize": 391968,
+                    "lastModified": 1771520568,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication steamrolller tales from the frontlines.zip",
+                    "fileSize": 31512803,
+                    "lastModified": 1771520568,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication thunderhead heart of the storm.json",
+                    "fileSize": 38512,
+                    "lastModified": 1772036515,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication thunderhead heart of the storm.zip",
+                    "fileSize": 1954687,
+                    "lastModified": 1771520568,
+                    "isCore": false,
+                    "dependentGuid": "5f130605-9721-4324-9a06-592f3189827a"
+                },
+                {
+                    "fileName": "data publication mailis wroughtmourn.json",
+                    "fileSize": 54336,
+                    "lastModified": 1772644763,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication mailis wroughtmourn.zip",
+                    "fileSize": 1969659,
+                    "lastModified": 1772037532,
+                    "isCore": false,
+                    "dependentGuid": "c2a7a0af-0350-4cfc-9b8c-f0daaed5203f"
+                },
+                {
+                    "fileName": "data publication tales from the frontlines.json",
+                    "fileSize": 391920,
+                    "lastModified": 1772821337,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication tales from the frontlines.zip",
+                    "fileSize": 31512803,
+                    "lastModified": 1771520568,
+                    "isCore": true,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication tarja grimtusk.json",
+                    "fileSize": 53520,
+                    "lastModified": 1773157948,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication tarja grimtusk.zip",
+                    "fileSize": 1916971,
+                    "lastModified": 1772819576,
+                    "isCore": false,
+                    "dependentGuid": "09b35fee-a8fe-4d4c-8374-d621402ad255"
+                },
+                {
+                    "fileName": "data publication major abraham stormcraw.json",
+                    "fileSize": 66656,
+                    "lastModified": 1773156546,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication major abraham stormcraw.zip",
+                    "fileSize": 1957617,
+                    "lastModified": 1773156546,
+                    "isCore": false,
+                    "dependentGuid": "47909b4b-3781-47e2-8027-f7e1af68d540"
+                },
+                {
+                    "fileName": "data publication imperatus.json",
+                    "fileSize": 36384,
+                    "lastModified": 1776099166,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "data publication interstitial 8 - trollpocalypse now.json",
+                    "fileSize": 116800,
+                    "lastModified": 1776099166,
+                    "isCore": false,
+                    "dependentGuid": ""
+                },
+                {
+                    "fileName": "media publication imperatus.zip",
+                    "fileSize": 1910772,
+                    "lastModified": 1776094358,
+                    "isCore": false,
+                    "dependentGuid": "c30698cf-6a88-4160-9fd6-2fa676e934c9"
+                },
+                {
+                    "fileName": "media publication interstitial 8 - trollpocalypse now.zip",
+                    "fileSize": 1918557,
+                    "lastModified": 1776094358,
+                    "isCore": false,
+                    "dependentGuid": "4786b3ca-7c83-4611-8c76-34d9c70d37ad"
+                }
+            ]
+        }
+    ]
+}
