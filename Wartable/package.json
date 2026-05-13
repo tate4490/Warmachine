@@ -1,0 +1,14 @@
+{
+  "name": "wartable-local",
+  "version": "1.0.0",
+  "description": "Local Warmachine MKIV virtual tabletop — full VTT with multiplayer, army builder, dice, and damage tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}

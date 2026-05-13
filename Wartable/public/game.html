@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wartable Local — Game</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="https://unpkg.com/konva@9/konva.min.js"></script>
+  <style>
+    /* Waiting banner — shown while room is being set up */
+    #waiting-banner {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 16px;
+      background: #0f1a2e;
+      border-bottom: 1px solid var(--accent2);
+      font-size: 13px;
+      color: var(--text-dim);
+      flex-shrink: 0;
+    }
+    #waiting-banner .room-code {
+      font-family: var(--font-mono);
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: 0.18em;
+      color: var(--accent);
+    }
+    #waiting-banner .waiting-label {
+      color: var(--text-muted);
+      font-size: 12px;
+    }
+    #waiting-banner .waiting-spinner {
+      width: 14px; height: 14px;
+      border: 2px solid var(--border-light);
+      border-top-color: var(--accent2);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      flex-shrink: 0;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Home link in top bar */
+    #home-link {
+      padding: 2px 8px;
+      font-size: 11px;
+      color: var(--text-muted);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: var(--bg-panel2);
+      transition: color 0.1s, border-color 0.1s;
+    }
+    #home-link:hover { color: var(--text); border-color: var(--border-light); }
+  </style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════ GAME SCREEN -->
+<div id="game-screen" style="display:flex;flex-direction:column;height:100vh;overflow:hidden;">
+
+  <!-- WAITING BANNER (hidden after opponent joins or in solo mode) -->
+  <div id="waiting-banner" hidden>
+    <div class="waiting-spinner"></div>
+    <div>
+      <div>Waiting for opponent… share this code:</div>
+      <div class="room-code" id="waiting-room-code">----</div>
+    </div>
+    <div class="waiting-label">Game will start when they join</div>
+  </div>
+
+  <!-- TOP BAR -->
+  <div id="top-bar">
+    <div class="top-section top-left">
+      <a id="home-link" href="/home.html">⌂ Home</a>
+      <span id="room-badge" class="badge" hidden></span>
+      <span id="player-badge" class="badge badge-player"></span>
+    </div>
+
+    <div class="top-section top-center">
+      <button id="end-turn-btn" class="btn btn-sm">End Turn ▶</button>
+      <span class="round-label">Round <strong id="round-display">1</strong></span>
+      <span id="active-player-label" class="active-label"></span>
+    </div>
+
+    <div class="top-section top-right">
+      <button id="measure-btn" class="btn btn-sm btn-tool" title="Measure distance (M)">📏 Measure</button>
+      <span id="measure-display" class="measure-display"></span>
+      <button id="clear-board-btn" class="btn btn-sm btn-danger" title="Remove all tokens">Clear Board</button>
+    </div>
+  </div>
+
+  <!-- MAIN LAYOUT -->
+  <div id="main-layout">
+
+    <!-- LEFT PANEL: Army Builder -->
+    <div id="left-panel">
+      <div class="panel-tabs">
+        <button class="ptab active" data-tab="army">Army</button>
+        <button class="ptab" data-tab="cards">Cards</button>
+      </div>
+
+      <!-- ARMY TAB -->
+      <div id="tab-army" class="tab-pane active">
+        <div class="panel-section">
+          <label class="section-label">Faction</label>
+          <select id="faction-select">
+            <option value="">Select faction…</option>
+          </select>
+          <div id="data-warning" class="data-warning" hidden>
+            No unit data installed. The VTT board still works — add tokens manually below.
+          </div>
+        </div>
+
+        <div class="panel-section flex-grow" id="unit-list-section" hidden>
+          <label class="section-label">Units <span id="unit-count" class="count-badge">0</span></label>
+          <input id="unit-search" type="text" placeholder="Search units…" class="search-input" />
+          <div id="unit-list" class="scroll-list"></div>
+        </div>
+
+        <div class="panel-section">
+          <label class="section-label">Add Custom Token</label>
+          <input id="custom-unit-name" type="text" placeholder="Unit name" maxlength="30" />
+          <div class="custom-token-row">
+            <select id="custom-base-size">
+              <option value="small">30mm (Small)</option>
+              <option value="medium" selected>40mm (Medium)</option>
+              <option value="large">50mm (Large)</option>
+              <option value="huge">120mm (Huge)</option>
+            </select>
+            <select id="custom-player">
+              <option value="0">P1</option>
+              <option value="1">P2</option>
+            </select>
+          </div>
+          <button id="add-custom-btn" class="btn btn-secondary btn-full">Add to Board</button>
+        </div>
+
+        <div class="panel-section" id="army-list-section">
+          <label class="section-label">Army List
+            <span id="army-points-badge" class="count-badge">0 pts</span>
+          </label>
+          <div id="army-list" class="scroll-list army-list"></div>
+        </div>
+
+        <!-- FORCE FILES (shown when WM App saves are found) -->
+        <div class="panel-section" id="forces-section" hidden>
+          <label class="section-label">Saved Forces
+            <span class="count-badge" title="From Warmachine App saves">WM App</span>
+          </label>
+          <div id="forces-list" class="scroll-list"></div>
+        </div>
+      </div>
+
+      <!-- CARDS TAB -->
+      <div id="tab-cards" class="tab-pane">
+        <div class="panel-section">
+          <input id="card-search" type="text" placeholder="Search all units…" class="search-input" />
+        </div>
+        <div id="card-list" class="scroll-list"></div>
+        <div id="card-detail" class="card-detail" hidden></div>
+      </div>
+    </div>
+
+    <!-- BOARD CONTAINER -->
+    <div id="board-container">
+      <div id="board"></div>
+      <div id="board-controls">
+        <button id="zoom-in-btn"  class="zoom-btn" title="Zoom in (+)">＋</button>
+        <button id="zoom-out-btn" class="zoom-btn" title="Zoom out (-)">－</button>
+        <button id="zoom-fit-btn" class="zoom-btn" title="Fit to screen (0)">⊡</button>
+      </div>
+      <div id="coord-display" class="coord-display"></div>
+    </div>
+
+    <!-- RIGHT PANEL: Selected Token + Damage -->
+    <div id="right-panel">
+      <div class="panel-section" id="selected-unit-section">
+        <label class="section-label">Selected</label>
+        <div id="selected-none" class="muted-text">Click a token to select it</div>
+        <div id="selected-info" hidden>
+          <div id="selected-name" class="selected-name"></div>
+          <div id="selected-faction" class="selected-faction"></div>
+          <div id="stat-grid" class="stat-grid"></div>
+          <div id="abilities-list" class="abilities-list"></div>
+        </div>
+      </div>
+
+      <div class="panel-section" id="focus-section" hidden>
+        <label class="section-label" id="focus-label">Focus</label>
+        <div class="focus-row">
+          <button class="focus-btn" id="focus-minus">−</button>
+          <div class="focus-pips" id="focus-pips"></div>
+          <button class="focus-btn" id="focus-plus">＋</button>
+        </div>
+        <div class="focus-fraction"><span id="focus-cur">0</span> / <span id="focus-max">0</span></div>
+      </div>
+
+      <div class="panel-section" id="effects-section" hidden>
+        <label class="section-label">Effects</label>
+        <div class="effect-btns">
+          <button class="eff-btn" data-effect="knockdown"  title="Knocked Down">KD</button>
+          <button class="eff-btn" data-effect="stationary" title="Stationary">STA</button>
+          <button class="eff-btn" data-effect="blind"      title="Blind">BLI</button>
+          <button class="eff-btn" data-effect="fire"       title="On Fire">🔥</button>
+          <button class="eff-btn" data-effect="corrosion"  title="Corroded">☣</button>
+          <button class="eff-btn" data-effect="disrupted"  title="Disrupted">⚡</button>
+        </div>
+      </div>
+
+      <div class="panel-section flex-grow" id="damage-section" hidden>
+        <div class="damage-header">
+          <label class="section-label">Damage</label>
+          <div class="damage-header-right">
+            <span id="damage-fraction" class="damage-frac"></span>
+            <button id="damage-reset-btn" class="btn btn-xs btn-danger">Reset</button>
+          </div>
+        </div>
+        <div id="damage-box-grid" class="damage-box-grid"></div>
+        <div class="damage-config">
+          <label class="section-label" style="font-size:10px">Max boxes</label>
+          <input id="damage-max-input" type="number" min="1" max="60" value="20" class="damage-max-input" />
+          <button id="damage-max-apply" class="btn btn-xs">Apply</button>
+        </div>
+      </div>
+
+      <div class="panel-section" id="token-actions-section" hidden>
+        <button id="remove-token-btn" class="btn btn-danger btn-full">Remove Token</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- BOTTOM BAR: Dice + Chat -->
+  <div id="bottom-bar">
+    <div id="dice-panel">
+      <div class="dice-roll-row">
+        <button class="dice-preset-btn" data-dice="2d6">2d6</button>
+        <button class="dice-preset-btn" data-dice="3d6">3d6</button>
+        <button class="dice-preset-btn" data-dice="1d6">1d6</button>
+        <button class="dice-preset-btn" data-dice="4d6">4d6</button>
+        <div class="dice-custom-row">
+          <input id="custom-dice-count" type="number" value="2" min="1" max="10" class="dice-num-input" title="Dice count" />
+          <span class="dice-d">d</span>
+          <input id="custom-dice-sides" type="number" value="6"  min="2" max="100" class="dice-num-input" title="Sides" />
+          <button id="custom-dice-roll-btn" class="btn btn-sm">Roll</button>
+        </div>
+      </div>
+      <div id="dice-result-display" class="dice-result-display"></div>
+      <div id="dice-history" class="dice-history"></div>
+    </div>
+
+    <div id="chat-panel">
+      <div id="chat-log" class="chat-log"></div>
+      <div class="chat-input-row">
+        <input id="chat-input" type="text" placeholder="Message…" maxlength="200" />
+        <button id="chat-send-btn" class="btn btn-sm">Send</button>
+      </div>
+    </div>
+  </div>
+
+</div><!-- #game-screen -->
+
+<!-- ════════════════════════════════════════════ CONTEXT MENU (right-click) -->
+<div id="ctx-menu" class="ctx-menu" hidden>
+  <div class="ctx-item" id="ctx-select">Select</div>
+  <div class="ctx-item" id="ctx-damage-menu">Open Damage Tracker</div>
+  <div class="ctx-sep"></div>
+  <div class="ctx-item ctx-danger" id="ctx-remove">Remove Token</div>
+</div>
+
+<script type="module" src="/js/game.js"></script>
+</body>
+</html>

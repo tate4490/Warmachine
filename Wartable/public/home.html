@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wartable Local — Warmachine MKIV</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <style>
+    html, body {
+      height: 100%;
+      overflow: auto;
+    }
+
+    /* ─── Home layout ─────────────────────────────────────────── */
+    #home-screen {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      gap: 36px;
+    }
+
+    /* ─── Logo ────────────────────────────────────────────────── */
+    .home-logo {
+      text-align: center;
+    }
+    .home-logo .logo-icon {
+      font-size: 52px;
+      line-height: 1;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .home-logo h1 {
+      font-size: 30px;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.04em;
+    }
+    .home-logo p {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    /* ─── Tile grid ───────────────────────────────────────────── */
+    .home-tiles {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+      width: 100%;
+      max-width: 560px;
+    }
+
+    .home-tile {
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 24px 20px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+      transition: border-color 0.15s, background 0.15s, transform 0.1s;
+      user-select: none;
+      position: relative;
+      overflow: hidden;
+    }
+    .home-tile:hover:not(.disabled) {
+      border-color: var(--accent);
+      background: var(--bg-panel2);
+      transform: translateY(-1px);
+    }
+    .home-tile:active:not(.disabled) { transform: translateY(0); }
+
+    .home-tile.active-tile {
+      border-color: var(--accent2);
+      background: var(--bg-panel2);
+    }
+
+    .home-tile.disabled {
+      opacity: 0.45;
+      cursor: default;
+    }
+
+    .tile-icon {
+      font-size: 28px;
+      line-height: 1;
+    }
+    .tile-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .tile-desc {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+    .tile-badge {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      background: var(--bg-app);
+      border: 1px solid var(--border-light);
+      border-radius: 3px;
+      padding: 1px 5px;
+      color: var(--text-muted);
+    }
+
+    /* ─── Play card (inline, expands under the tiles) ─────────── */
+    #play-card {
+      width: 100%;
+      max-width: 560px;
+      background: var(--bg-panel);
+      border: 1px solid var(--accent2);
+      border-radius: 10px;
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      animation: slideDown 0.18s ease;
+    }
+    @keyframes slideDown {
+      from { opacity: 0; transform: translateY(-8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    #play-card h3 {
+      font-size: 14px;
+      color: var(--text-dim);
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+
+    .play-mode-row {
+      display: flex;
+      gap: 8px;
+    }
+    .play-mode-row .btn { flex: 1; }
+
+    .join-section {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .join-section .join-row {
+      display: flex;
+      gap: 8px;
+    }
+    .join-section .join-row input { flex: 1; }
+
+    /* error / status */
+    .play-status {
+      padding: 8px 12px;
+      border-radius: var(--radius);
+      font-size: 12px;
+    }
+    .play-status.error {
+      background: #3b0f0f;
+      border: 1px solid var(--danger);
+      color: #fca5a5;
+    }
+    .play-status.info {
+      background: #1e3a1e;
+      border: 1px solid var(--success);
+      color: #86efac;
+    }
+
+    /* divider */
+    .play-divider {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      position: relative;
+    }
+    .play-divider::before,
+    .play-divider::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      width: 38%;
+      height: 1px;
+      background: var(--border);
+    }
+    .play-divider::before { left: 0; }
+    .play-divider::after  { right: 0; }
+
+    /* ─── Misc ────────────────────────────────────────────────── */
+    .section-label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
+  </style>
+</head>
+<body>
+
+<div id="home-screen">
+
+  <!-- Logo -->
+  <div class="home-logo">
+    <div class="logo-icon">⚔</div>
+    <h1>Wartable Local</h1>
+    <p>Warmachine MKIV Virtual Tabletop</p>
+  </div>
+
+  <!-- Navigation tiles -->
+  <div class="home-tiles">
+
+    <div class="home-tile" id="tile-play">
+      <div class="tile-icon">🎲</div>
+      <div class="tile-title">Play</div>
+      <div class="tile-desc">Launch a solo or multiplayer game on the VTT board</div>
+    </div>
+
+    <div class="home-tile" id="tile-forces">
+      <div class="tile-icon">🛡</div>
+      <div class="tile-title">Build a Force</div>
+      <div class="tile-desc">Browse armies, pick units, save force lists</div>
+    </div>
+
+    <div class="home-tile disabled" id="tile-cards">
+      <div class="tile-badge">Soon</div>
+      <div class="tile-icon">📋</div>
+      <div class="tile-title">Cards</div>
+      <div class="tile-desc">Full card reference — stats, abilities, weapons</div>
+    </div>
+
+    <div class="home-tile disabled" id="tile-library">
+      <div class="tile-badge">Soon</div>
+      <div class="tile-icon">📖</div>
+      <div class="tile-title">Library</div>
+      <div class="tile-desc">Rules publications and reference documents</div>
+    </div>
+
+  </div>
+
+  <!-- Play card (hidden until tile-play is clicked) -->
+  <div id="play-card" hidden>
+    <h3>⚔ Start a Game</h3>
+
+    <div class="field-group">
+      <label class="section-label">Your Name</label>
+      <input id="player-name" type="text" placeholder="Enter your name…" maxlength="24" autocomplete="off" />
+    </div>
+
+    <div class="play-mode-row">
+      <button id="solo-btn" class="btn btn-primary btn-lg">
+        ⚔ Solo
+        <span class="btn-sub">Single player, no room</span>
+      </button>
+      <button id="create-btn" class="btn btn-secondary btn-lg">
+        ＋ Create Room
+        <span class="btn-sub">Host multiplayer</span>
+      </button>
+    </div>
+
+    <div class="play-divider">or join an existing room</div>
+
+    <div class="join-section">
+      <div class="join-row">
+        <input id="room-code-input" type="text" placeholder="Room code (e.g. AB3X)"
+               maxlength="4" autocomplete="off" style="text-transform:uppercase;font-family:var(--font-mono);font-size:16px;letter-spacing:0.1em;" />
+        <button id="join-btn" class="btn btn-secondary">Join</button>
+      </div>
+    </div>
+
+    <div id="play-status" class="play-status" hidden></div>
+  </div>
+
+</div><!-- #home-screen -->
+
+<script src="/js/home.js"></script>
+</body>
+</html>
