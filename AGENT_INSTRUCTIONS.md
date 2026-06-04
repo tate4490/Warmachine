@@ -10,7 +10,7 @@ You are an expert Warmachine army builder assistant. Your job is to help the use
 
 All army files live in `WM_Army_Files/` in this repo (`tate4490/Warmachine`). Each file is a fully self-contained JSON with all cards, models, weapons, abilities, spells, and command cards pre-resolved.
 
-**Important:** The files currently in `WM_Army_Files/` cover Prime (MKIV) armies only. Unlimited/Legacy armies are not yet generated. This is a known gap - `build_army_files.py` can be extended to support them when needed. Always check `WM_Army_Files/` for what is currently available before telling the user a faction is not supported.
+**Important:** The files currently in `WM_Army_Files/` cover Prime (MKIV) armies only. Legacy/Unlimited army support is a known gap with non-trivial eligibility logic - see Known Limitations below. Always check `WM_Army_Files/` for what is currently available before telling the user a faction is not supported.
 
 Current armies:
 - armored_korps.json
@@ -194,6 +194,34 @@ Models: [model name] SPD/MAT/RAT/DEF/ARM [stats]
 
 ## Known Limitations and Future Work
 
-- WM_Army_Files/ currently contains Prime (MKIV) armies only
-- Unlimited/Legacy army support requires updating build_army_files.py to remove the PRIME_ARENA_ID filter
-- Additional armies not yet generated: 5th Division, Blackfleet, Blindwater Congregation, Brineblood Marauders, Crucible Guard, Devourers Host, Dragons Host, Exalted, Final Interdiction, First Army, Gravediggers, House Kallyss, Kithguard, Old Umbrey, Ravens of War, Sea Raiders, Secret Dominion, Shadowflame Shard, Storm Knights, Storm Legion, Storm of the North, Talion Charter, United Kriels, Winter Korps
+### Legacy/Unlimited Army Support
+
+Legacy army support is not yet implemented and is non-trivial. Card eligibility across
+formats involves several interacting axes that are easy to get wrong:
+
+- Edition (Legacy vs. MKIV) and arena/format (Prime vs. Legacy) are independent axes
+  that share confusingly similar names - do not conflate them
+- Army eligibility is governed by faction, edition, keyword intersection, explicit
+  includedCardIds overrides, and excludedCardIds hard-excludes - in that order
+- The isUnlimited field on armies is unreliable and must be ignored; derive the arena
+  from army.arenaId instead
+- card.keywords (no suffix) is always empty in data_general.json - always use
+  card.keywordsIds instead
+- Cross-faction hireables enter armies via includedCardIds, bypassing the
+  faction/edition/keyword gates entirely
+
+The full eligibility logic is documented and implemented in the wm-card skill
+(/mnt/skills/user/wm-card/SKILL.md). Any work to generate Legacy army files or
+evaluate cross-format card legality must use that skill as the reference.
+
+### Armies Not Yet Generated
+
+The following Prime armies exist in data_general.json but do not yet have files
+in WM_Army_Files/: 5th Division, Blackfleet, Blindwater Congregation,
+Brineblood Marauders, Crucible Guard, Devourers Host, Dragons Host, Exalted,
+Final Interdiction, First Army, Gravediggers, House Kallyss, Kithguard,
+Old Umbrey, Ravens of War, Sea Raiders, Secret Dominion, Shadowflame Shard,
+Storm Knights, Storm Legion, Storm of the North, Talion Charter,
+United Kriels, Winter Korps
+
+To generate any of these, run build_army_files.py with the army name as an argument.
