@@ -1,0 +1,25 @@
+{
+    "gameTypes": [
+        {
+            "guidStr": "4735f6b4-bfc3-42ca-9117-98ddf1bb4b91",
+            "name": [
+                "Open",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "desc": [
+                "Just your average game still",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

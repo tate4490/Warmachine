@@ -1,0 +1,1128 @@
+{
+    "commandCards": [
+        {
+            "guidStr": "6faea94f-bbc8-4e06-9388-1180916dc753",
+            "name": [
+                "Blessing of the Gods",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:e17b89d9-e189-4304-8316-93d36587bb08"
+            ],
+            "commandCardAbilityIds": [
+                "e17b89d9-e189-4304-8316-93d36587bb08"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "8d90440f-030e-4825-a54f-a5ba743bb462",
+            "name": [
+                "Break Through",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:68c0e360-68dd-4487-bcaf-95497efeb587"
+            ],
+            "commandCardAbilityIds": [
+                "68c0e360-68dd-4487-bcaf-95497efeb587"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+            "name": [
+                "Careful Reconnaissance",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:1ad7b6a1-5e67-49cb-bfbb-5240a53a16fd"
+            ],
+            "commandCardAbilityIds": [
+                "1ad7b6a1-5e67-49cb-bfbb-5240a53a16fd"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+            "name": [
+                "Defenses",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:e8e9bada-e756-44f7-972e-b80050ffecfc"
+            ],
+            "commandCardAbilityIds": [
+                "e8e9bada-e756-44f7-972e-b80050ffecfc"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": [
+                "a85fc551-26bd-491c-95e0-798e1b9819d0"
+            ]
+        },
+        {
+            "guidStr": "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+            "name": [
+                "Duck and Cover!",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:5a4d7343-ad1f-468a-a374-a9d38736b56e"
+            ],
+            "commandCardAbilityIds": [
+                "5a4d7343-ad1f-468a-a374-a9d38736b56e"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "dbf6615e-61ed-499f-be36-4c458a5403f7",
+            "name": [
+                "Hit & Run",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:6c29ee35-a8c5-4854-b9cc-73f9ea9ce84d"
+            ],
+            "commandCardAbilityIds": [
+                "6c29ee35-a8c5-4854-b9cc-73f9ea9ce84d"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+            "name": [
+                "Lucky Penny",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:ba45d5bf-96b6-474f-a507-c7b37ced929e"
+            ],
+            "commandCardAbilityIds": [
+                "ba45d5bf-96b6-474f-a507-c7b37ced929e"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+            "name": [
+                "Old Faithful",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:90ce1727-13f4-43ad-b3f8-7284912d09af"
+            ],
+            "commandCardAbilityIds": [
+                "90ce1727-13f4-43ad-b3f8-7284912d09af"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "ef2ea8de-fe99-4d96-8454-260575372e2a",
+            "name": [
+                "Put the Fires Out",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:274d8400-cc8b-4a01-9ac0-dd6db3c368c3"
+            ],
+            "commandCardAbilityIds": [
+                "274d8400-cc8b-4a01-9ac0-dd6db3c368c3"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "c418be72-6b99-4400-890c-463a683527a3",
+            "name": [
+                "Sapper",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:03b03b52-1653-4242-be6e-ee9b4e9856a3"
+            ],
+            "commandCardAbilityIds": [
+                "03b03b52-1653-4242-be6e-ee9b4e9856a3"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "5cbc6099-c032-4d2a-8581-5ffdd47de0b8",
+            "name": [
+                "Heavy Airdrop 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "5",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:7147a7c4-2427-45df-8ad7-7fc6404738cd"
+            ],
+            "commandCardAbilityIds": [
+                "7147a7c4-2427-45df-8ad7-7fc6404738cd"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": [
+                "509008d1-ff23-4e4f-987e-6d017a1d6dd1",
+                "d8e1af30-4e89-4b22-902e-69f799347c70",
+                "bf11d2f0-987e-4cc0-9b09-7a658d7322c4",
+                "db4430fe-62e1-4db4-8fc5-ee6768a173a7"
+            ]
+        },
+        {
+            "guidStr": "7dd6e588-6825-4c4e-8408-da45aff2d2c2",
+            "name": [
+                "Light Airdrop 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:58ade5d9-7e64-4863-9642-95c117e04e52"
+            ],
+            "commandCardAbilityIds": [
+                "58ade5d9-7e64-4863-9642-95c117e04e52"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": [
+                "8f6d059d-f453-4342-87f9-19c74daf1dcf",
+                "73c7a0be-9e76-4f09-84ab-3127e211370c",
+                "707d0f00-c286-4456-8303-ef84c4e29c49",
+                "bcc18d4e-13b8-417d-a65f-726481d967ef"
+            ]
+        },
+        {
+            "guidStr": "bedd3764-e65f-42f0-ac62-56da18c67d7f",
+            "name": [
+                "Heavy Airdrop 2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "5",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:7147a7c4-2427-45df-8ad7-7fc6404738cd"
+            ],
+            "commandCardAbilityIds": [
+                "7147a7c4-2427-45df-8ad7-7fc6404738cd"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": [
+                "509008d1-ff23-4e4f-987e-6d017a1d6dd1",
+                "bf11d2f0-987e-4cc0-9b09-7a658d7322c4",
+                "d8e1af30-4e89-4b22-902e-69f799347c70",
+                "db4430fe-62e1-4db4-8fc5-ee6768a173a7"
+            ]
+        },
+        {
+            "guidStr": "75cb382a-e57c-4ae2-8ad8-643e77695bc2",
+            "name": [
+                "Light Airdrop 2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:58ade5d9-7e64-4863-9642-95c117e04e52"
+            ],
+            "commandCardAbilityIds": [
+                "58ade5d9-7e64-4863-9642-95c117e04e52"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": [
+                "8f6d059d-f453-4342-87f9-19c74daf1dcf",
+                "73c7a0be-9e76-4f09-84ab-3127e211370c",
+                "707d0f00-c286-4456-8303-ef84c4e29c49",
+                "bcc18d4e-13b8-417d-a65f-726481d967ef"
+            ]
+        },
+        {
+            "guidStr": "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
+            "name": [
+                "Military Engineering",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:5e97172f-9325-46e5-bdb4-00edebfe449b"
+            ],
+            "commandCardAbilityIds": [
+                "5e97172f-9325-46e5-bdb4-00edebfe449b"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+            "name": [
+                "Accursed",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:d54c1d33-bcfc-499c-8a8b-0cc9f9c35638"
+            ],
+            "commandCardAbilityIds": [
+                "d54c1d33-bcfc-499c-8a8b-0cc9f9c35638"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+            "name": [
+                "Fortune\u2019s Path",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:e0bf9c90-1343-4526-bab8-2525facc4eb8"
+            ],
+            "commandCardAbilityIds": [
+                "e0bf9c90-1343-4526-bab8-2525facc4eb8"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "a1b0b159-8609-405c-8951-9baaf66574d2",
+            "name": [
+                "Ill Omens ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:63486c8c-e2ca-4d5d-9779-53f85039eca8"
+            ],
+            "commandCardAbilityIds": [
+                "63486c8c-e2ca-4d5d-9779-53f85039eca8"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "c6e3daba-ff8c-4961-905f-410b1fd93473",
+            "name": [
+                "Labyrinth",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:287a6ed5-b873-4419-8b99-4f8b0e941166"
+            ],
+            "commandCardAbilityIds": [
+                "287a6ed5-b873-4419-8b99-4f8b0e941166"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
+            "name": [
+                "Ruin",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:6bcb0f60-2d4d-4637-b725-8b797e40989a"
+            ],
+            "commandCardAbilityIds": [
+                "6bcb0f60-2d4d-4637-b725-8b797e40989a"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "bcff4765-52b8-49ef-9189-46ad32914535",
+            "name": [
+                "Sacrifice",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:47523daa-e219-4870-bb3b-58d12a05ae23"
+            ],
+            "commandCardAbilityIds": [
+                "47523daa-e219-4870-bb3b-58d12a05ae23"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "848f9571-bc08-4ffd-a411-808d67d154df",
+            "name": [
+                "Shroud",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:a4384b50-a554-4e50-8903-52447d148bac"
+            ],
+            "commandCardAbilityIds": [
+                "a4384b50-a554-4e50-8903-52447d148bac"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
+            "name": [
+                "For the Motherland",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:598c91b0-c3f5-40a9-82c7-7bd28b66d426"
+            ],
+            "commandCardAbilityIds": [
+                "598c91b0-c3f5-40a9-82c7-7bd28b66d426"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "fdb8096b-45ba-4991-92d8-13fd5759d4f1",
+            "name": [
+                "[CAMPAIGN] CASTLE",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": false,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:4f7cb765-cfd0-406d-a3d2-12921c248cb7"
+            ],
+            "commandCardAbilityIds": [
+                "4f7cb765-cfd0-406d-a3d2-12921c248cb7"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "7195cb69-ca33-4226-bde1-fa7b97812659",
+            "name": [
+                "[CAMPAIGN] INVISIBILITY",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": false,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:1c385164-5a16-4fc4-b997-028f570b7cbe"
+            ],
+            "commandCardAbilityIds": [
+                "1c385164-5a16-4fc4-b997-028f570b7cbe"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "8b529871-a0da-4cb6-9eb2-0a08b8f0c270",
+            "name": [
+                "[CAMPAIGN] PLUNDER",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": false,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:d0599144-5bd0-44ee-9e4d-57a589a1c616"
+            ],
+            "commandCardAbilityIds": [
+                "d0599144-5bd0-44ee-9e4d-57a589a1c616"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "7b2f6098-285b-4e62-92b6-316dfff548d7",
+            "name": [
+                "[CAMPAIGN] REVERSE TACTICS",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": false,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:8aa3ab67-f0dd-431b-af3d-64057383e878"
+            ],
+            "commandCardAbilityIds": [
+                "8aa3ab67-f0dd-431b-af3d-64057383e878"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "6ab233b6-ab95-4d2a-b69f-30bce8fbcbf0",
+            "name": [
+                "[CAMPAIGN] REVIVIFICATION",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": false,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:cb2f1427-7375-4bd3-affc-dfca370a4bd5"
+            ],
+            "commandCardAbilityIds": [
+                "cb2f1427-7375-4bd3-affc-dfca370a4bd5"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        },
+        {
+            "guidStr": "9fe7ed98-e60e-4208-8747-c6420491b70a",
+            "name": [
+                "Overwatch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "reqSub": false,
+            "devNotes": "",
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "editionId": "",
+            "mediaPath": "",
+            "limitUse": true,
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "pointCost": "0",
+            "modelAdvantageIds": [],
+            "weaponQualityIds": [],
+            "commandCardAbilitySorting": [
+                "1:c697483f-97ad-4749-b4ef-f5e77b3768f9"
+            ],
+            "commandCardAbilityIds": [
+                "c697483f-97ad-4749-b4ef-f5e77b3768f9"
+            ],
+            "grantedCardCount": "1",
+            "grantedCardIds": []
+        }
+    ]
+}

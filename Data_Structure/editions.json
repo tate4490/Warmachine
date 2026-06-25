@@ -1,0 +1,46 @@
+{
+    "editions": [
+        {
+            "guidStr": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "name": [
+                "Legacy",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "desc": [
+                "Armies of the past for all your favorite factions!",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "name": [
+                "MKIV",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "desc": [
+                "New armies for a new war!",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

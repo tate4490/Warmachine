@@ -1,0 +1,2887 @@
+{
+    "armies": [
+        {
+            "guidStr": "bfc67193-cb80-4688-af24-3fcb472f6aa0",
+            "name": [
+                "5th Division",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "no",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction khador color.png",
+            "iconBnWPath": "",
+            "factionId": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "includedKeywordsIds": [
+                "f480448d-bde8-49ab-bfc9-1d77e371567b"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9efcb91e-c91a-453f-8a74-57367f9eccdb",
+            "name": [
+                "Armored Korps",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "testing1",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction khador color.png",
+            "iconBnWPath": "/Media/Factions/faction khador bnw.png",
+            "factionId": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "includedKeywordsIds": [
+                "420cdec7-a04c-493a-b08a-367eb108d6a4"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "52fb9b49-b64b-44df-b000-cb69377e53fc",
+            "name": [
+                "Army of the Western Reaches",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction skorne color.png",
+            "iconBnWPath": "/Media/Factions/faction skorne bnw.png",
+            "factionId": "c6c5c0c8-b066-4f04-bb57-73b0a51eff87",
+            "includedKeywordsIds": [
+                "b50253ce-d553-4e4d-a91c-9c69f1961da0"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "48a39a70-2319-403e-ac76-e17f60258afa",
+            "name": [
+                "Blackfleet",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cryx color.png",
+            "iconBnWPath": "",
+            "factionId": "9d2499c9-9369-46f0-9db3-2c4f507763a6",
+            "includedKeywordsIds": [
+                "b893dca6-ecc7-4e03-adbb-3c2d9567d8f8"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fbeb46a7-6640-4d7a-8455-7555ab2ea018",
+            "name": [
+                "Blindwater Congregation",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction minions bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "8bab9842-cce1-4ba6-b136-3b199109eedb"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b7de01ab-ef84-41b0-9e16-ec77cf671588",
+            "name": [
+                "Brineblood Marauders",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction southern kriels color.png",
+            "iconBnWPath": "",
+            "factionId": "6a3fcd9e-6c28-4c21-977f-658be1e36c6b",
+            "includedKeywordsIds": [
+                "dae63650-d994-41b5-be2b-d58e2c62ba72",
+                "e1aaa0d3-a5e5-4902-9301-ebaf32bc841f",
+                "7da8e833-cdd6-4711-94b3-07ad584449fe"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "8e6b56b3-4b69-4cf7-8bab-bb87dc87fb07",
+                "7818ceb9-b9f1-4422-9a9e-085d4bec29c3",
+                "bdac4897-080f-42d5-8638-8b1e1a4ae48b",
+                "7f0f8ddf-284b-4558-badb-521e42f0e781",
+                "875ef583-cb45-4001-84bb-185cf885cd81",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "5dbfcec3-cf04-49dc-b40b-f69010ed2e44",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5f21bcbb-04b4-4efa-9c78-bba7d24c37fe",
+            "name": [
+                "Circle Orboros",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction circle color.png",
+            "iconBnWPath": "/Media/Factions/faction circle bnw.png",
+            "factionId": "11366743-17da-4836-9cbf-45715b8c9d19",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "79b91a09-2852-4920-b90e-8fdcd5c0c94d",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fb5743c8-2e62-423e-bab5-cc54c2cca052",
+            "name": [
+                "Convergence of Cyriss ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction convergence color.png",
+            "iconBnWPath": "/Media/Factions/faction convergence bnw.png",
+            "factionId": "082bb92e-9af1-453a-ace9-be117814e02d",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "a2873c34-1cf4-4db8-bcce-a7e2195f71fe",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6366d104-e8ad-463a-9491-cd86fd7c8020",
+            "name": [
+                "Convergence of Cyriss",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction convergence color.png",
+            "iconBnWPath": "",
+            "factionId": "082bb92e-9af1-453a-ace9-be117814e02d",
+            "includedKeywordsIds": [
+                "837b9599-5ff9-4de3-8414-17abacb80a3c"
+            ],
+            "includedCardIds": [
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6a012f18-7d80-4e1e-83e9-4e693d64d5d0",
+            "name": [
+                "Crucible Guard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction crucible color.png",
+            "iconBnWPath": "",
+            "factionId": "08e51985-4289-48dc-b823-bab372114a3f",
+            "includedKeywordsIds": [
+                "8a49299c-2068-4f6a-8980-8e00a3af4d67"
+            ],
+            "includedCardIds": [
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a7f8c302-24cc-4acb-908b-75a12b2f0e81",
+            "name": [
+                "Crucible Guard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction crucible color.png",
+            "iconBnWPath": "/Media/Factions/faction crucible bnw.png",
+            "factionId": "08e51985-4289-48dc-b823-bab372114a3f",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "b11f4e17-2daa-43f5-a4c5-bb3d39c8c93c",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "c4dcec6e-95d7-4c1d-ae38-f011917ee0c6",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "e87dfec3-b8ba-44ac-bbc7-38e5afe8b2c7",
+            "name": [
+                "Cryx",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cryx color.png",
+            "iconBnWPath": "/Media/Factions/faction cryx bnw.png",
+            "factionId": "9d2499c9-9369-46f0-9db3-2c4f507763a6",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "a2873c34-1cf4-4db8-bcce-a7e2195f71fe",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "7e4d21e2-a718-495d-9f8b-8aca57949397",
+            "name": [
+                "Cygnar",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cygnar color.png",
+            "iconBnWPath": "/Media/Factions/faction cygnar bnw.png",
+            "factionId": "44d03240-635b-4055-8781-bbd6118500d1",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "c4dcec6e-95d7-4c1d-ae38-f011917ee0c6",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "88d18910-0568-4996-93f3-73eb943cb7b4",
+                "d14978f4-8b4b-4d48-a9d8-97a509018dae",
+                "62c5bb3f-c42d-4b19-9a7a-c92d630b08d3",
+                "aef85851-9886-46bd-aa6a-fc57c4ca3dec",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c61d282-6ba9-497e-90c9-2c31501897e4",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "9ed6e0ba-bcd7-4ea4-a2c5-065c447c1196",
+            "name": [
+                "Dark Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cryx color.png",
+            "iconBnWPath": "/Media/Factions/faction cryx bnw.png",
+            "factionId": "9d2499c9-9369-46f0-9db3-2c4f507763a6",
+            "includedKeywordsIds": [
+                "53479a61-6099-43fc-8c88-e282dc920d4e"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6a3511e6-c27c-4e07-b29e-333706ded0e0",
+            "name": [
+                "Dark Operations",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "b342e2e4-9a4d-48f3-9b9e-db811f45a818",
+                "6cc436c6-2b3b-4269-bc95-09db6377c5f2"
+            ],
+            "includedCardIds": [
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "a3989591-53db-4386-b891-bbf5de020f6c",
+                "0a17dd85-ff9c-4b16-8508-4e2c62c97ed0"
+            ],
+            "excludedCardIds": [
+                "4db38bc0-d95a-41e6-87b1-0d38d6f23119"
+            ],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "fc018ed3-63cd-4fce-8325-06c01bf376af",
+            "name": [
+                "Devourer's Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction circle color.png",
+            "iconBnWPath": "/Media/Factions/faction circle bnw.png",
+            "factionId": "11366743-17da-4836-9cbf-45715b8c9d19",
+            "includedKeywordsIds": [
+                "ebdf25f2-3cc5-443b-b2a1-eac10bcaa03e"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "89a184c8-830f-45c8-aede-c97edffb23a7",
+            "name": [
+                "Dragon's Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction legion color.png",
+            "iconBnWPath": "/Media/Factions/faction legion bnw.png",
+            "factionId": "aa468bec-4b1a-46aa-acb7-bb45a1eff76f",
+            "includedKeywordsIds": [
+                "73fc6075-ed9b-40ee-a984-bcff8f091bbf"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8858e6ab-4329-4a5f-8672-06ed408d9d0b",
+            "name": [
+                "Exalted",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction skorne color.png",
+            "iconBnWPath": "",
+            "factionId": "c6c5c0c8-b066-4f04-bb57-73b0a51eff87",
+            "includedKeywordsIds": [
+                "c8fe4feb-0c2f-43c7-9bfd-0bea0e2076b9"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "dd768893-b343-4c0c-85af-88c8046ab37a",
+            "name": [
+                "Fane of Nyrro",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/army fane of nyrro.png",
+            "iconBnWPath": "",
+            "factionId": "701d6799-9f49-4a85-867f-040de7035737",
+            "includedKeywordsIds": [
+                "7e35c0b5-1c6d-4f25-88b5-ddf99c240c5d"
+            ],
+            "includedCardIds": [
+                "ac142feb-e912-4d21-b8b7-b19a11a21aa0",
+                "0e9414cb-228e-457a-9cc1-440ff75d7a68",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0721932b-d41b-405c-b844-eb28394a1274",
+            "name": [
+                "Final Interdiction",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction protectorate color.png",
+            "iconBnWPath": "/Media/Factions/faction protectorate bnw.png",
+            "factionId": "da511c1f-9acc-4466-b50d-90b9af17fa26",
+            "includedKeywordsIds": [
+                "03fcc881-891a-41a2-b4fe-93adff2c5585"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "8eb8cfd3-1982-49d5-9c4c-cd68c5468864",
+            "name": [
+                "First Army",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cygnar color.png",
+            "iconBnWPath": "/Media/Factions/faction cygnar bnw.png",
+            "factionId": "44d03240-635b-4055-8781-bbd6118500d1",
+            "includedKeywordsIds": [
+                "51361403-e25a-4fb2-ba10-eccfe2879939"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cf47912c-63c1-4634-8dfe-d38a724751f0",
+            "name": [
+                "Gravediggers",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "testing1",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction cygnar gravediggers color.png",
+            "iconBnWPath": "",
+            "factionId": "44d03240-635b-4055-8781-bbd6118500d1",
+            "includedKeywordsIds": [
+                "07a8910c-65e5-48f2-8655-deff54797029",
+                "0956f24b-d8ce-49dd-ae01-0996276c2fd2",
+                "80711c2a-b472-4ebc-b84e-fb887377bb16"
+            ],
+            "includedCardIds": [
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "875ef583-cb45-4001-84bb-185cf885cd81",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "40caa3c8-5fc3-4a93-98a4-fd9b04b35c3a",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "f63e264a-8f33-44a0-82af-345f3430454a",
+                "1bfb316f-14bf-4c43-81a1-f8d044757e17",
+                "0fbf5dd3-387b-41e8-8064-dd87d42b8519",
+                "a3e2b934-8752-47fe-95bd-e1df37c4b327",
+                "9d8b160b-5292-4605-848a-91d4411eddf5",
+                "d395df0e-bfe5-4dee-8a83-f9791c216d1a",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [
+                "8f6d059d-f453-4342-87f9-19c74daf1dcf",
+                "73c7a0be-9e76-4f09-84ab-3127e211370c",
+                "509008d1-ff23-4e4f-987e-6d017a1d6dd1"
+            ],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "5cbc6099-c032-4d2a-8581-5ffdd47de0b8",
+                "7dd6e588-6825-4c4e-8408-da45aff2d2c2",
+                "bedd3764-e65f-42f0-ac62-56da18c67d7f",
+                "75cb382a-e57c-4ae2-8ad8-643e77695bc2",
+                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 3,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "1da087da-f7de-4aa4-bcd0-56e142a55560",
+            "name": [
+                "Grymkin",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction grymkin color.png",
+            "iconBnWPath": "/Media/Factions/faction grymkin bnw.png",
+            "factionId": "20031060-7520-43a3-885d-ebd56b8d4757",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "88155d81-13b4-4536-9e2f-0477597ad479",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "4e8f4281-c208-4a2d-ae87-502c40e39144",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+                "a1b0b159-8609-405c-8951-9baaf66574d2",
+                "c6e3daba-ff8c-4961-905f-410b1fd93473",
+                "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
+                "bcff4765-52b8-49ef-9189-46ad32914535",
+                "848f9571-bc08-4ffd-a411-808d67d154df"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "848f9571-bc08-4ffd-a411-808d67d154df",
+                "bcff4765-52b8-49ef-9189-46ad32914535"
+            ],
+            "commandCardAdj": 2,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "cf86daa5-9785-4539-ad0d-844205c0682a",
+            "name": [
+                "Grymkin",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction grymkin color.png",
+            "iconBnWPath": "",
+            "factionId": "20031060-7520-43a3-885d-ebd56b8d4757",
+            "includedKeywordsIds": [
+                "9770e807-a01e-43ca-9fa2-45d2d53da89b"
+            ],
+            "includedCardIds": [
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "4e8f4281-c208-4a2d-ae87-502c40e39144",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+                "a1b0b159-8609-405c-8951-9baaf66574d2",
+                "c6e3daba-ff8c-4961-905f-410b1fd93473",
+                "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
+                "bcff4765-52b8-49ef-9189-46ad32914535",
+                "848f9571-bc08-4ffd-a411-808d67d154df",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+                "a1b0b159-8609-405c-8951-9baaf66574d2",
+                "c6e3daba-ff8c-4961-905f-410b1fd93473",
+                "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
+                "bcff4765-52b8-49ef-9189-46ad32914535",
+                "848f9571-bc08-4ffd-a411-808d67d154df"
+            ],
+            "commandCardAdj": 2,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "965022df-ad4d-4cac-8cd1-606fefcda2a0",
+            "name": [
+                "House Kallyss",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction dusk house kallyss color.png",
+            "iconBnWPath": "/Media/Factions/army dusk bnw.png",
+            "factionId": "701d6799-9f49-4a85-867f-040de7035737",
+            "includedKeywordsIds": [
+                "640ed81b-0cdf-48b2-a766-b150012861b9",
+                "eae1bb5a-a189-4006-9940-26d17ff1f7b2",
+                "7cad1da7-3d5e-49ef-a67c-2a322b76a76f"
+            ],
+            "includedCardIds": [
+                "f63e264a-8f33-44a0-82af-345f3430454a",
+                "cd96c1ef-0328-4edc-92a1-b024abe21722",
+                "7c1f28c6-e3f0-4aab-9b80-f46f000d35f2",
+                "a96b3957-107d-4788-b81a-9761100fbfac",
+                "7e386b59-f6ed-45fd-ad4e-91974125a37c",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5dbfcec3-cf04-49dc-b40b-f69010ed2e44",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "0fbf5dd3-387b-41e8-8064-dd87d42b8519",
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a"
+            ],
+            "defaultCommandCardIds": [
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6384c9f5-8ab5-4813-b333-ed81a36612de",
+            "name": [
+                "Infernals",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction infernals color.png",
+            "iconBnWPath": "",
+            "factionId": "6bd6d5e9-5cac-435f-bfaa-00588e273c79",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "c3849fce-cf65-468b-97d5-ca1baa06bb37",
+            "name": [
+                "Infernals",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction infernals color.png",
+            "iconBnWPath": "/Media/Factions/faction infernals bnw.png",
+            "factionId": "6bd6d5e9-5cac-435f-bfaa-00588e273c79",
+            "includedKeywordsIds": [
+                "026fa145-5704-4ed7-a795-30ad62c1e79b"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "b63b71b0-f5a7-4ee8-9111-ccf18ce56e4f",
+            "name": [
+                "Khador ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction khador color.png",
+            "iconBnWPath": "/Media/Factions/faction khador bnw.png",
+            "factionId": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "b11f4e17-2daa-43f5-a4c5-bb3d39c8c93c",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "c4dcec6e-95d7-4c1d-ae38-f011917ee0c6",
+                "11ef0837-9be8-4a62-a73a-b94a74de3779",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "decbfadf-c178-46c9-b7ee-15e95dc255ac",
+            "name": [
+                "Kithguard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/Kithguard_optimized_Icon.png",
+            "iconBnWPath": "",
+            "factionId": "6a3fcd9e-6c28-4c21-977f-658be1e36c6b",
+            "includedKeywordsIds": [
+                "e211f55a-3c3e-4452-bb22-83e2b3b84844",
+                "e1aaa0d3-a5e5-4902-9301-ebaf32bc841f"
+            ],
+            "includedCardIds": [
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3e2b934-8752-47fe-95bd-e1df37c4b327",
+                "875ef583-cb45-4001-84bb-185cf885cd81",
+                "5dbfcec3-cf04-49dc-b40b-f69010ed2e44",
+                "7f0f8ddf-284b-4558-badb-521e42f0e781",
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6e94a6a7-52d9-479c-acf2-c0e7772770f0",
+            "name": [
+                "Legion of Everblight",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction legion color.png",
+            "iconBnWPath": "/Media/Factions/faction legion bnw.png",
+            "factionId": "aa468bec-4b1a-46aa-acb7-bb45a1eff76f",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "88155d81-13b4-4536-9e2f-0477597ad479",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f4541e01-b6b4-458a-bddc-35ed30e799ed",
+            "name": [
+                "Legions of Dawn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction retribution color.png",
+            "iconBnWPath": "/Media/Factions/faction retribution bnw.png",
+            "factionId": "95a65353-395f-46e6-8943-f259cec9c3ef",
+            "includedKeywordsIds": [
+                "bf0a8427-045c-40e6-92fd-f2f41d5e0c70"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2305e395-8c8d-4180-af68-fe332c943e59",
+            "name": [
+                "Mercenaries ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "b11f4e17-2daa-43f5-a4c5-bb3d39c8c93c",
+                "eb657916-706b-4504-bd19-3d2dabe73f1a",
+                "46f54477-658a-4d68-937f-a5a466f8cd41",
+                "5c0dc585-3a4a-4f2a-a521-75ac430edf10",
+                "77782603-92f8-42ed-be1e-a5d1b438de62",
+                "547cd593-b5e7-4129-b8b7-3b3dc527a14a",
+                "cf2bd724-6d29-4cee-a702-a7468296fab5",
+                "eb32b178-7060-47a8-aeb4-d86493527aa4",
+                "af901001-81f0-4ab4-8014-745b3db325fe",
+                "88155d81-13b4-4536-9e2f-0477597ad479",
+                "c4dcec6e-95d7-4c1d-ae38-f011917ee0c6",
+                "6dd3a681-97cb-450b-9962-acc7430dfbb6",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "dfff49fb-78b3-4b95-8e2d-7ea476b426f7",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "de3f5b61-831f-407f-a5d0-5766a10a697f",
+                "55c4d2c2-9a09-4577-90ab-ef0005bd244e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "53e21e08-b648-428e-9d9f-cb4835b08b2b",
+                "4bec003a-4b80-436d-b097-b494f97badb2",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "046cb2ab-fe8f-44ce-a54d-23d450aece58",
+            "name": [
+                "Necrofactorium",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction cryx necrofactorium color.png",
+            "iconBnWPath": "",
+            "factionId": "9d2499c9-9369-46f0-9db3-2c4f507763a6",
+            "includedKeywordsIds": [
+                "a0f6e782-3cd8-44a6-97dc-d545556802ce",
+                "b342e2e4-9a4d-48f3-9b9e-db811f45a818"
+            ],
+            "includedCardIds": [
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "cd96c1ef-0328-4edc-92a1-b024abe21722",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "0fbf5dd3-387b-41e8-8064-dd87d42b8519",
+                "a3989591-53db-4386-b891-bbf5de020f6c",
+                "0a17dd85-ff9c-4b16-8508-4e2c62c97ed0"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ce6aa9e5-1984-4ac4-b99b-dcee7941599f",
+            "name": [
+                "Old Umbrey",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/Khador-Old-Umbrey-color.png",
+            "iconBnWPath": "",
+            "factionId": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "includedKeywordsIds": [
+                "105f9dcc-e6d0-4ec4-b7c2-d99b6c508eec"
+            ],
+            "includedCardIds": [
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "4e8f4281-c208-4a2d-ae87-502c40e39144",
+                "b7d5df20-6b98-4759-a923-c5e5f753fa92",
+                "40caa3c8-5fc3-4a93-98a4-fd9b04b35c3a",
+                "f1fb1b3e-7480-4f20-845d-8e7a0821c492",
+                "c787af4f-e09e-4e6b-bf67-a42a75c6e0dd",
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "34dea3d3-347e-4e39-aaa2-9f75f27b6ede",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "c418be72-6b99-4400-890c-463a683527a3",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "bb289e1b-5a7f-4c23-b8f6-70f73297f131"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "4edec0b0-42ff-4900-8901-766c5f52a1a4",
+            "name": [
+                "Protectorate of Menoth",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction protectorate color.png",
+            "iconBnWPath": "/Media/Factions/faction protectorate bnw.png",
+            "factionId": "da511c1f-9acc-4466-b50d-90b9af17fa26",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f4f52f27-ce6a-41c6-9f1a-a98725541bd8",
+            "name": [
+                "Ravens of War",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction legion color.png",
+            "iconBnWPath": "/Media/Factions/faction legion bnw.png",
+            "factionId": "aa468bec-4b1a-46aa-acb7-bb45a1eff76f",
+            "includedKeywordsIds": [
+                "89d52625-3346-4d64-b435-86154d0366f9"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "815e898d-905b-4e0c-ad3f-e79c9a5c885b",
+            "name": [
+                "Reaper Covenant",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/army reaper covenant.png",
+            "iconBnWPath": "",
+            "factionId": "228bf7ed-e9d5-4e7c-a243-990edd3ce44b",
+            "includedKeywordsIds": [
+                "aac0fcf6-574c-4677-9c79-894b971785ee",
+                "3168e3a9-4569-4f5e-af22-72d2eae4b986"
+            ],
+            "includedCardIds": [
+                "fc047f88-9c3e-4a67-9b36-123bad18a6cb",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c",
+                "0a17dd85-ff9c-4b16-8508-4e2c62c97ed0"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "5925b9b8-bd4d-4bfc-b8b9-486ec234a0a8",
+            "name": [
+                "Retribution of Scyrah",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction retribution color.png",
+            "iconBnWPath": "/Media/Factions/faction retribution bnw.png",
+            "factionId": "95a65353-395f-46e6-8943-f259cec9c3ef",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "a2873c34-1cf4-4db8-bcce-a7e2195f71fe",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a18f8584-3af3-4310-918f-0a75b4021508",
+            "name": [
+                "Rhul Guard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "17f7d6fd-79ad-4c3b-8249-3e1fca853ba9"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "73167133-ac39-41ff-9d01-a55f235c95be",
+            "name": [
+                "Sea Raiders",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction orgoth color.png",
+            "iconBnWPath": "/Media/Factions/faction orgoth bnw.png",
+            "factionId": "228bf7ed-e9d5-4e7c-a243-990edd3ce44b",
+            "includedKeywordsIds": [
+                "d6b71b1e-7e49-4d8a-9d58-d09318a01281",
+                "04224304-b67d-41d7-b7e7-5b4dec527dbb",
+                "3168e3a9-4569-4f5e-af22-72d2eae4b986"
+            ],
+            "includedCardIds": [
+                "a3e2b934-8752-47fe-95bd-e1df37c4b327",
+                "cd96c1ef-0328-4edc-92a1-b024abe21722",
+                "34dea3d3-347e-4e39-aaa2-9f75f27b6ede",
+                "e632af24-256c-40b8-a9d2-204e97aed7e1",
+                "7a7d1406-2a0d-4405-b902-5414b370aa95",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c",
+                "0a17dd85-ff9c-4b16-8508-4e2c62c97ed0"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "231a8601-a584-4ffd-98dd-c05f2dae35f0",
+            "name": [
+                "Secret Dominion",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction circle color.png",
+            "iconBnWPath": "",
+            "factionId": "11366743-17da-4836-9cbf-45715b8c9d19",
+            "includedKeywordsIds": [
+                "f189c96a-b1f0-4bcd-ba45-01ad2cfe4796"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3b364d42-f8e2-490b-aeb9-c0ffd92f4f4e",
+            "name": [
+                "Shadowflame Shard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/army shadowflame shard color.png",
+            "iconBnWPath": "",
+            "factionId": "64ff8394-fe01-42bb-b1ae-d885a0b9f917",
+            "includedKeywordsIds": [
+                "2315cf0e-bf98-4681-bcd5-58dc3fe33cbb",
+                "8817ce8c-777f-4407-bb31-d229b520d637",
+                "07e45868-7e4c-4bac-aaf5-83c4adf4eaeb"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "fc047f88-9c3e-4a67-9b36-123bad18a6cb",
+                "7f0f8ddf-284b-4558-badb-521e42f0e781",
+                "4e8f4281-c208-4a2d-ae87-502c40e39144",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "f1af7b67-2348-41d2-8912-839e74b42090",
+            "name": [
+                "Shadows of the Retribution",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction retribution color.png",
+            "iconBnWPath": "",
+            "factionId": "95a65353-395f-46e6-8943-f259cec9c3ef",
+            "includedKeywordsIds": [
+                "28fa5a17-3df1-448c-ab2b-00846b022b76"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "ab2532a0-b243-47a8-9c1a-f33068e86269",
+            "name": [
+                "Skorne",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction skorne color.png",
+            "iconBnWPath": "/Media/Factions/faction skorne bnw.png",
+            "factionId": "c6c5c0c8-b066-4f04-bb57-73b0a51eff87",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "a2873c34-1cf4-4db8-bcce-a7e2195f71fe",
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "933bc1a2-d405-4b59-930d-0ea10f2e0e28",
+            "name": [
+                "Soldiers of Fortune",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "56077dbf-1b7d-49e5-b620-3b5c43025892"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "53e21e08-b648-428e-9d9f-cb4835b08b2b",
+                "4bec003a-4b80-436d-b097-b494f97badb2",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3c4c715a-9f06-431e-959e-12e4d9912814",
+            "name": [
+                "Storm Knights",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction cygnar color.png",
+            "iconBnWPath": "",
+            "factionId": "44d03240-635b-4055-8781-bbd6118500d1",
+            "includedKeywordsIds": [
+                "172af659-b655-4766-9dd9-47903e66c0b2"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "3a47596a-0066-405a-8e64-443db7a05a3a",
+            "name": [
+                "Storm Legion",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction cygnar storm legion color.png",
+            "iconBnWPath": "/Media/Factions/faction cygnar bnw.png",
+            "factionId": "44d03240-635b-4055-8781-bbd6118500d1",
+            "includedKeywordsIds": [
+                "f5d9b163-9e91-474e-ad86-a32aaeeb0ac1",
+                "0956f24b-d8ce-49dd-ae01-0996276c2fd2",
+                "80711c2a-b472-4ebc-b84e-fb887377bb16"
+            ],
+            "includedCardIds": [
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "a3e2b934-8752-47fe-95bd-e1df37c4b327",
+                "f63e264a-8f33-44a0-82af-345f3430454a",
+                "bfcb3222-a831-4232-a6f5-3a177a710ebc",
+                "cc91ba80-9105-4db4-aae5-5710764d9cfe",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5dbfcec3-cf04-49dc-b40b-f69010ed2e44",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "0fbf5dd3-387b-41e8-8064-dd87d42b8519",
+                "a3989591-53db-4386-b891-bbf5de020f6c"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "19acbc3f-4c5b-4542-8f4b-93fde054004c",
+            "name": [
+                "Storm of the North",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction trollbloods color.png",
+            "iconBnWPath": "/Media/Factions/faction trollbloods bnw.png",
+            "factionId": "10d3ae3e-6c97-4630-9479-13eabb4092da",
+            "includedKeywordsIds": [
+                "00eec436-89d6-47ca-8d4b-4d7364ede8df"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0a617440-7128-4a24-ac16-88a7283e91f2",
+            "name": [
+                "Talion Charter",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "93b116f5-49e7-419e-9d4f-7c85c8238614"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "53e21e08-b648-428e-9d9f-cb4835b08b2b",
+                "4bec003a-4b80-436d-b097-b494f97badb2"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "6d376a6a-f199-4782-b402-18e1f23c5d88",
+            "name": [
+                "Temple Guardians",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction protectorate color.png",
+            "iconBnWPath": "",
+            "factionId": "da511c1f-9acc-4466-b50d-90b9af17fa26",
+            "includedKeywordsIds": [
+                "98a0efb7-d3e4-4cdb-a6d7-df8296e172c8"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2f67baaa-81b7-4ed2-a24a-d7c15d7e17fe",
+            "name": [
+                "Thornfall Alliance",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/Thornfall-Alliance_optimized.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png",
+            "factionId": "204ce944-7783-4e55-b823-638e19c15749",
+            "includedKeywordsIds": [
+                "da9faed6-19dd-403a-a835-e1fa61dba7e5"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "159c9fce-44ad-45a7-981c-c979f0d892c2",
+            "name": [
+                "Trollbloods",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction trollbloods color.png",
+            "iconBnWPath": "/Media/Factions/faction trollbloods bnw.png",
+            "factionId": "10d3ae3e-6c97-4630-9479-13eabb4092da",
+            "includedKeywordsIds": [],
+            "includedCardIds": [
+                "165638e3-cf5b-4937-a3ad-7310a111f30e",
+                "88155d81-13b4-4536-9e2f-0477597ad479",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": true,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "faa5908e-50d7-440e-b964-156dc3b3b102",
+            "name": [
+                "United Kriels",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+            "iconColorPath": "/Media/Factions/faction trollbloods color.png",
+            "iconBnWPath": "",
+            "factionId": "10d3ae3e-6c97-4630-9479-13eabb4092da",
+            "includedKeywordsIds": [
+                "e9586bc2-282b-497e-a104-98e99b19f453"
+            ],
+            "includedCardIds": [
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6"
+            ],
+            "excludedCardIds": [],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "a861ff25-c537-46cb-b282-e71f27690c1c",
+            "name": [
+                "Winter Korps",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "arenaId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "editionId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+            "iconColorPath": "/Media/Factions/faction khador winter korps color.png",
+            "iconBnWPath": "/Media/Factions/faction khador bnw.png",
+            "factionId": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "includedKeywordsIds": [
+                "fe697c4a-70f8-4921-92f4-c188c28d9424",
+                "37ad3644-4921-4a39-af15-2e13abc41cfa",
+                "7ac5a599-0590-4030-85b9-25f2333aa48b"
+            ],
+            "includedCardIds": [
+                "53e2b607-d2ff-4b64-8e17-fbc7abc1c61c",
+                "7c1f28c6-e3f0-4aab-9b80-f46f000d35f2",
+                "34dea3d3-347e-4e39-aaa2-9f75f27b6ede",
+                "af46353d-b61a-407a-91ea-abd199cf0883",
+                "cf117334-a9b4-4aae-a438-1d9a5b89869e",
+                "5b97925d-b3a6-4672-ba44-e2be85cd40e6",
+                "b9d00ee7-550d-4780-8157-95b7502a8e1e",
+                "5dbfcec3-cf04-49dc-b40b-f69010ed2e44",
+                "2c2efd7c-a08c-427e-adc3-120b80b804d6",
+                "0fbf5dd3-387b-41e8-8064-dd87d42b8519",
+                "4e8f4281-c208-4a2d-ae87-502c40e39144"
+            ],
+            "excludedCardIds": [
+                "481282f4-ddce-4c97-986d-cc339859df6c",
+                "b7d5df20-6b98-4759-a923-c5e5f753fa92",
+                "dc77edf4-d236-47c4-b7ae-81306b136575"
+            ],
+            "isUnlimited": false,
+            "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
+                "dbf6615e-61ed-499f-be36-4c458a5403f7",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "c418be72-6b99-4400-890c-463a683527a3"
+            ],
+            "defaultCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
+                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+            ],
+            "commandCardAdj": 0,
+            "helpTermIds": []
+        }
+    ]
+}

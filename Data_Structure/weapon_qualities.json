@@ -1,0 +1,353 @@
+{
+    "weaponQualities": [
+        {
+            "guidStr": "732594ab-49a5-483b-b63e-ce221c9969da",
+            "name": [
+                "Pistol",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "3f0860a6-03ab-4b70-8a9d-8e33e989898e"
+            ],
+            "iconPath": "/Media/Icons/weapon qual pistol weapon.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
+            "name": [
+                "Damage Type: Magical",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "85669eb8-ef46-4237-b378-ab9b9612cc4e",
+                "c0ba6940-c369-46d9-9fc0-af6be723a5f8"
+            ],
+            "iconPath": "/Media/Icons/weapon qual dam type magical.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "4152d18e-cf65-4924-ac43-e0a8548ae469",
+            "name": [
+                "Continuous Effect: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "e7a6ed21-0747-4acd-81d9-40e86effa741",
+                "e2ef63e6-d3cf-43a4-afb8-2fc528c88f46"
+            ],
+            "iconPath": "/Media/Icons/weapon qual cont eff fire.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "86b1bdb8-7ec9-47af-8a94-024d89f18429",
+            "name": [
+                "Damage Type: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "867d2369-5842-4450-82e3-aec4f9f5d003"
+            ],
+            "iconPath": "/Media/Icons/weapon qual dam type fire.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "66f7ef06-7f1f-455b-8a06-8893871f1f7e",
+            "name": [
+                "Chain Weapon",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "0cd35b1f-998e-48f5-a034-c8e6461162f7"
+            ],
+            "iconPath": "/Media/Icons/weapon qual chain weapon.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "cd9820fb-ffcf-4aee-b793-d69acef4dc0c",
+            "name": [
+                "Throw Power Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "c640a404-230d-4680-bb0a-87d8541c0e36",
+                "f00b44b1-d5ea-416d-8b80-d90063c3612d",
+                "80e3d239-b767-4e6c-a931-aac4fb3b2c0a"
+            ],
+            "iconPath": "/Media/Icons/weapon qual open fist.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "79a058dd-436e-4f6f-98ce-3b710de279d3",
+            "name": [
+                "Shield",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "aeef6d2a-9043-48e3-8db0-b451c52f5e0e"
+            ],
+            "iconPath": "/Media/Icons/weapon qual shield.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "1eb9561e-efe7-4b00-be90-f9eddcfa91a7",
+            "name": [
+                "Blessed",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "ac537af8-bf8d-4298-9fb7-72f90d46199f"
+            ],
+            "iconPath": "/Media/Icons/weapon qual blessed.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "c02f0323-c6e0-4de3-b5a0-2e2659aaeb15",
+            "name": [
+                "Buckler",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "504a5b09-5750-44be-b02a-b3a73969c61b"
+            ],
+            "iconPath": "/Media/Icons/weapon qual buckler.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "03c1ea67-8233-48ba-b782-f53a1f099ec7",
+            "name": [
+                "Weapon Master",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "7085512e-88ce-40b4-a770-6a17f6bc693f"
+            ],
+            "iconPath": "/Media/Icons/weapon qual weapon master.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "31f6cd6a-10ae-499f-a8af-d9539e74e56e",
+            "name": [
+                "Damage Type: Electricity",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "0f74d673-0832-46a2-b208-7b22b9356bde"
+            ],
+            "iconPath": "/Media/Icons/weapon qual dam type electricity.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "70897a96-393e-4355-aba8-d7b0020d9f3b",
+            "name": [
+                "Critical Disruption",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "b5de49c4-f78c-46cd-8967-91dbe451b466"
+            ],
+            "iconPath": "/Media/Icons/weapon qual crit disruption.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "8e0aebf9-2a86-4921-b66d-34465342a5d1",
+            "name": [
+                "Damage Type: Cold",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "f2fcf2d5-431f-47a7-a396-9a67ec030130"
+            ],
+            "iconPath": "/Media/Icons/weapon qual dam type cold.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "050fd8a9-4e54-462e-ada1-eea7099cd8f1",
+            "name": [
+                "Critical Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "1acb8803-a0c4-43d3-a9e7-ad0f705c8269",
+                "91875861-8731-42d6-8afb-a96a2609a8f0"
+            ],
+            "iconPath": "/Media/Icons/weapon qual crit fire.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "e4471b02-80a4-4951-b7c6-790474bab53c",
+            "name": [
+                "Continuous Effect: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "9c636687-5bc3-49a8-8007-265e0e36d73d",
+                "d69775d6-76bf-4ff5-9eea-ec3f4c45aa2c"
+            ],
+            "iconPath": "/Media/Icons/weapon qual cont eff corrosion.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "bf0a49d8-9a98-4a62-bab2-230adbb9a481",
+            "name": [
+                "Damage Type: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "1d34b30a-5534-43f6-8de0-17f96cbf0b6d"
+            ],
+            "iconPath": "/Media/Icons/weapon qual dam type corrosion.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "fc6961c1-fc96-42fa-a906-d0910ca77209",
+            "name": [
+                "Disruption",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "be749761-45e2-493e-80d0-33629085967e"
+            ],
+            "iconPath": "/Media/Icons/weapon qual disruption.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "09028b1d-0101-46bd-9467-50f6a1ff97d1",
+            "name": [
+                "Critical Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "e353bfaa-6d3a-41e2-a2df-1821cf1d12b7",
+                "ee42a2aa-b07d-474f-a505-5582719d17a5"
+            ],
+            "iconPath": "/Media/Icons/weapon qual crit corrosion.png",
+            "displayPriority": 0
+        }
+    ]
+}

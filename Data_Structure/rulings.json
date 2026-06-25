@@ -1,0 +1,67 @@
+{
+    "rulings": [
+        {
+            "guidStr": "8af2bcee-f794-4d14-8270-85cbf3595bf1",
+            "name": [
+                "Gravedigger 'jack Marshaling",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "description": [
+                "Gravedigger models can't begin the game with a marshaled Warjack.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "23648c69-e290-43eb-9ae0-2f8826ea89bd",
+            "name": [
+                "Rum & Grapeshot",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "description": [
+                "Roll the distance for Stumbling Drunk before the direction is chosen with the feat. There is no range to Rum & Grapeshot, it effects the whole play area.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "62a8708f-3555-419e-aba2-85fd0f77d4c2",
+            "name": [
+                "Structure base size",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "description": [
+                "A structure uses its printed base size for volume and drawing LOS. If it has no base, such as a targetable piece of terrain, it is considered to have a 120mm base.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

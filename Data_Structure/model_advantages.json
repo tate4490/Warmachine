@@ -1,0 +1,667 @@
+{
+    "modelAdvantages": [
+        {
+            "guidStr": "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6",
+            "name": [
+                "Dual Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "6f9a460f-7235-41df-b031-5dbe231de48f"
+            ],
+            "iconPath": "/Media/Icons/model adv dual attack.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "23d8e5f4-a479-414b-a368-af3c8328414e",
+            "name": [
+                "Tough",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "421beb54-a932-4f5d-a638-0bc06378f3a4"
+            ],
+            "iconPath": "/Media/Icons/model adv tough.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+            "name": [
+                "z_30mm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/base size 30mm.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "f2755094-aa5d-4bf9-b445-e7f6caf359a5",
+            "name": [
+                "Arc Node",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "912a4bae-17d1-4845-99c0-9ababd13dc33"
+            ],
+            "iconPath": "/Media/Icons/model adv arc node.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "7cc10016-772a-4faa-8cc0-96a1108f066f",
+            "name": [
+                "Headbutt Power Attack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "f1ac5f0f-6715-4dc1-9d67-65d6da5e4700",
+                "1a982732-345b-4097-975e-8c7645a923e1"
+            ],
+            "iconPath": "/Media/Icons/model adv headbutt power attack.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
+            "name": [
+                "Slam Power Attack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "adb89494-de97-4e87-821e-47f3a09d4aa9"
+            ],
+            "iconPath": "/Media/Icons/model adv slam power attack.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "ac133871-865b-49aa-aea8-42b71f346aa2",
+            "name": [
+                "Trample Power Attack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "1ff8cd12-edb9-48cf-88f8-a294ca7faac8",
+                "475f36b6-4aef-4113-a3a3-2e16394cfc3c"
+            ],
+            "iconPath": "/Media/Icons/model adv trample power attack.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "ce657c69-33de-4973-bf2e-22cc82491fcb",
+            "name": [
+                "z_80mm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/base size 80mm.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "f5200740-40c9-44b6-b70c-2ae2161156a9",
+            "name": [
+                "Unstopable",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "c26fa8c2-32f6-4a72-b046-2e65faed1d6b"
+            ],
+            "iconPath": "/Media/Icons/model adv unstoppable.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "2dae2089-c98a-4d99-bec3-5b1ad72b5a4b",
+            "name": [
+                "Construct",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "2fca8b04-735b-473f-8075-560aa1b770c8",
+                "56bc295e-3bec-4b60-9bff-5c4b13f5f8f9"
+            ],
+            "iconPath": "/Media/Icons/model adv construct.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "c420fddb-89a9-4601-81c3-21ea363ba672",
+            "name": [
+                "z_40mm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/base size 40mm.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "b20c04e2-8777-4d82-82db-3bbea403862b",
+            "name": [
+                "Gladiator",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "982462bf-6abf-420b-ab68-00b94e52c1ae"
+            ],
+            "iconPath": "/Media/Icons/model adv gladiator.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "dadd3434-11b1-4961-aced-9f1977a10ec8",
+            "name": [
+                "Eyeless Sight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "66bc9630-73b2-4ccb-a0c7-db09350d0270"
+            ],
+            "iconPath": "/Media/Icons/model adv eyeless sight.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
+            "name": [
+                "Pathfinder",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "ecead19c-1f5b-4433-a240-77048f39e929"
+            ],
+            "iconPath": "/Media/Icons/model adv pathfinder.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "64509333-5e49-4e61-9993-e8fa3de58b3f",
+            "name": [
+                "Cavalry",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "0c931feb-ede8-424b-a549-0e8fe445bd82",
+                "59b2f807-e02c-47e1-bc9f-77b424e4517f",
+                "fa19e600-1e9c-4f09-83d0-7c30c9d7bacb"
+            ],
+            "iconPath": "/Media/Icons/model adv cavalry.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "1afe9782-4a94-4333-bf66-2ebdda191e0b",
+            "name": [
+                "z_50mm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/base size 50mm.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "161493f9-c421-4d15-b3e8-64bfba167863",
+            "name": [
+                "Flight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "d9e8b83f-0458-4c85-92ba-d056ca92c338",
+                "e4d164a2-8b81-4298-ad2a-bd6ab396a6fc"
+            ],
+            "iconPath": "/Media/Icons/model adv flight.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f",
+            "name": [
+                "Gunfighter",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "ae3609a6-034c-4ce7-992d-e1369beded88"
+            ],
+            "iconPath": "/Media/Icons/model adv gunfighter.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "41302850-b840-4850-97c9-c8efae97444a",
+            "name": [
+                "z_120mm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/base size 120mm.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "7f18e656-8b16-4b71-90e1-dd3eea087634",
+            "name": [
+                "Amphibious",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "4a460ccd-4121-405c-9891-013e352d7a80",
+                "40cdfb89-88e4-4c17-9d74-0bd01791ffa7"
+            ],
+            "iconPath": "/Media/Icons/model adv amphibious.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "22d83447-2f18-4482-8b47-cf5d8d3e39de",
+            "name": [
+                "Stealth",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "38db87aa-df6f-4f2e-beeb-ae337ff12e5f"
+            ],
+            "iconPath": "/Media/Icons/model adv stealth.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "400de431-5cc9-45cb-b0f8-e37f61744faa",
+            "name": [
+                "Advance Deployment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "eccd9853-b30a-4fac-a299-da729f3f3351",
+                "a915133d-1bc2-4b66-91ce-ed75f3b259dc",
+                "2a23ac12-90cd-408d-b1ff-3aa9f4e03781"
+            ],
+            "iconPath": "/Media/Icons/model adv advance deployment.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "64184d93-f771-45c8-bfe2-5bace8aa7a04",
+            "name": [
+                "Ambush",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "4739a976-bead-4c38-88a9-2ea3ca418b38",
+                "a915133d-1bc2-4b66-91ce-ed75f3b259dc",
+                "2a23ac12-90cd-408d-b1ff-3aa9f4e03781"
+            ],
+            "iconPath": "/Media/Icons/model adv ambush.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "626fc2c8-e564-4cdb-bb59-0f204938bf36",
+            "name": [
+                "Resistance: Fire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "fb7bec08-74a2-43ed-ae1d-ca0f738db551"
+            ],
+            "iconPath": "/Media/Icons/model res fire.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "b0a614f3-3f73-46a4-8713-09fcdec658ff",
+            "name": [
+                "Resistance: Cold",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "9d31c58b-0a21-4a10-abef-3002f226f0ec"
+            ],
+            "iconPath": "/Media/Icons/model res cold.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "bd167369-ce44-47d8-ab31-497ab7c8703b",
+            "name": [
+                "Resistance: Corrosion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "9bf42425-3692-47fc-bdf8-80ba8785c49c"
+            ],
+            "iconPath": "/Media/Icons/model res corrosion.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "6555f43d-b797-401b-b6fe-3392f831af3d",
+            "name": [
+                "Undead",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "83548a8e-8470-43d4-9dfd-e7df828f8c67"
+            ],
+            "iconPath": "/Media/Icons/model adv undead.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "f4fa6176-f6ab-4da6-bbb0-628b45fbebb8",
+            "name": [
+                "Resistance: Blast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "fd06e1b7-d4c2-4993-b7fb-301d7dc0dd2e"
+            ],
+            "iconPath": "/Media/Icons/model res blast.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "a5b0a54f-c752-4ba0-87fe-2647613ceb3e",
+            "name": [
+                "'Jack Marshal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "1c2a8ca4-10b4-41c2-920c-fe391b037393",
+                "185dd971-10e6-416d-8219-c73710f3dfc1"
+            ],
+            "iconPath": "/Media/Icons/model adv jack marshal.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "94759d91-77f6-4971-ba90-542a97ea83d7",
+            "name": [
+                "Resistance: Electricity",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "ab08f38c-6a05-4583-94a5-9416e5c7c970"
+            ],
+            "iconPath": "/Media/Icons/model res electricity.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "a90f9025-fdc5-4f7f-9893-ba356be63e60",
+            "name": [
+                "Soulless",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "4aaf4189-f330-48b6-b6b8-da510fc78f58",
+                "a0c9d2a4-5c8f-4a01-b6fa-3b5410df2353"
+            ],
+            "iconPath": "/Media/Icons/model adv soulless.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "dc67f649-b9cf-410b-b8c2-165cdd4eec62",
+            "name": [
+                "Incorporeal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "7560dae8-c3dc-4b61-8e43-09c0fbcfad97",
+                "7e71228f-8ea4-4e6d-b18a-97308dd7063c"
+            ],
+            "iconPath": "/Media/Icons/model adv incorporeal.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "a0a536f3-62a1-4e22-bdd3-29f23ed7ab9d",
+            "name": [
+                "Combined Melee Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "c5bcd441-5688-417c-be30-3f2e07d9dbe1",
+                "692bf45c-b6d5-47ed-9297-c9a6cb33407f"
+            ],
+            "iconPath": "/Media/Icons/model adv combined melee attack.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "2b6c3849-4237-4667-9ec7-f43f724acc99",
+            "name": [
+                "Assault",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "914d4241-2784-405b-b4e8-5d3cf8c4dacd",
+                "debc2f2f-646b-48d8-ae1e-44821689eb75"
+            ],
+            "iconPath": "/Media/Icons/model adv assault.png",
+            "displayPriority": 0
+        },
+        {
+            "guidStr": "a07b8f48-3a15-4747-a86f-ac1d5dc300b3",
+            "name": [
+                "Combined Ranged Attack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "7e193f9f-5875-417a-927d-451e6ece88a9",
+                "ac1d6519-d407-44b7-a91a-352dc6ead5f5"
+            ],
+            "iconPath": "/Media/Icons/model adv combined ranged attack.png",
+            "displayPriority": 0
+        }
+    ]
+}

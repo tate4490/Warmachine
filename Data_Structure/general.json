@@ -1,0 +1,113 @@
+{
+    "general": {
+        "guidStr": "3f27be61-b507-49ed-b413-136562ebd9ea",
+        "name": [
+            "Name",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "isLive": false,
+        "metadata": "",
+        "deleted": false,
+        "defaultDataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+        "arenaPrimeId": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+        "arenaUnlimitedId": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+        "editionMKIVId": "33131c0f-d709-4d39-a4bb-38ba11f261fa",
+        "editionLegacyId": "9e4ad4e7-12c3-4443-b283-1a8e9fae17a2",
+        "defaultGameTypeId": "4735f6b4-bfc3-42ca-9117-98ddf1bb4b91",
+        "addDurMatchCardTypeIds": [
+            "18606b3d-0f86-491d-9dbe-878fc4bbe710",
+            "b5c55f88-2976-484d-9e41-4250efa5c9b4",
+            "229ab4f5-585d-4d39-984f-e2558880bb43"
+        ],
+        "headerDarkColor": "#2B2B33",
+        "headerLightColor": "#666666",
+        "textDarkColor": "#AAA",
+        "textLightColor": "#FFF",
+        "meleeColor": "#4B321C",
+        "rangedColor": "#1B4728",
+        "fieldAllowanceHTIds": [
+            "71308f0c-46f8-4b1c-a0f9-6abdbb9326bf"
+        ],
+        "pointCostHTIds": [
+            "1f99896f-ced4-494a-acf1-58e82db6aebd"
+        ],
+        "modelBlockHTIds": [
+            "2f4fcb5b-6f1d-4d51-aa95-b949feb05044",
+            "5b17ebe2-e1a3-475c-b9ab-685672b84b93"
+        ],
+        "damageHTIds": [
+            "3fec0917-feb2-4e3c-9950-1836b50e46d4",
+            "54d0a0b0-a30b-4676-9780-45e6dcc1bfb4",
+            "18c8775f-7ed2-4d4d-8a82-110a2b34f223",
+            "949d4799-6dc7-4969-be51-738c2eae1969",
+            "88c26bcd-ec80-409c-b0bb-799c234f8ff6",
+            "53eed836-0d7d-43d3-9465-5c75e6eaa278",
+            "35fab5dd-c0c3-4b73-828f-c073a71e1c1e"
+        ],
+        "gridsHTIds": [
+            "18c8775f-7ed2-4d4d-8a82-110a2b34f223",
+            "7a7d349b-cc95-4817-b140-718f72387d74",
+            "b1494d70-18f1-492f-a2ce-4a854d9da995",
+            "81da91d2-aae4-4c69-92f5-941a2727d6ba",
+            "7e9470bc-bace-4f99-a101-3bb1847d1e4b",
+            "35c7351d-d96d-4c3b-8a66-4406e529466f",
+            "8c1202d8-3056-453a-8289-cc1c5dec5715"
+        ],
+        "spiralsHTIds": [
+            "18c8775f-7ed2-4d4d-8a82-110a2b34f223",
+            "a339df1d-e275-4674-a504-f4c11a1debea",
+            "66ba2aa8-a4fb-42d0-b3fe-10eb1e5f6f5e",
+            "8c1202d8-3056-453a-8289-cc1c5dec5715"
+        ],
+        "websHTIds": [
+            "c2acd032-f0f9-481d-9e31-aaad44830d60"
+        ],
+        "meleeHTIds": [
+            "98e2af95-431a-468f-92d8-52e942915d2f",
+            "46bd8cb8-dbe6-4863-9a48-1b5287d64b70",
+            "561752f3-2e9d-4467-92e8-8e33eb68a72a",
+            "433ca48e-f13d-4f53-af83-a08c0476a312",
+            "8d398210-6147-4422-9ea1-61ad64ac34c2"
+        ],
+        "rangedHTIds": [
+            "98e2af95-431a-468f-92d8-52e942915d2f",
+            "9dd3cfe6-cd5d-44ee-b224-db6eb42eb09e",
+            "62163807-c72c-44c2-a807-a9ecbb3fd31d",
+            "9aa1d2b3-93a3-40b4-b09f-98460517e350",
+            "8d398210-6147-4422-9ea1-61ad64ac34c2"
+        ],
+        "featHTIds": [
+            "57016ad8-7419-431f-bedd-79cabd5480c7",
+            "f48ae94a-4080-4d80-b62d-810160cb5ac5",
+            "0ac97106-71f9-4292-96a4-bfffabc91f3f"
+        ],
+        "spellsHTIds": [
+            "ea8443aa-c637-4145-9511-6497d659f009",
+            "220a2f9a-c6f4-4b5f-8b13-a2366087e957",
+            "9b0dffed-676c-49cc-bde6-002a13e91339",
+            "518578f8-ab0e-4c73-b944-67b2b7bf14f0",
+            "62163807-c72c-44c2-a807-a9ecbb3fd31d",
+            "9aa1d2b3-93a3-40b4-b09f-98460517e350",
+            "fa18c60b-732b-4889-bf8b-cafd16b0a15a"
+        ],
+        "subTitle": [
+            "Upgrade Your Account?",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "subPrompt": [
+            "This is the copy for when we ask people to subscribe.\nIt's just ok.",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+}

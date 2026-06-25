@@ -1,0 +1,143 @@
+Warmachine Army Reference File Builder
+Project Goal
+Build self-contained JSON reference files for each Prime (MKIV) army from data_general.json (18MB source file). Each file should contain everything needed to understand and work with that army — no dangling ID references, no irrelevant data.
+
+Source Data
+
+File: data_general.json (18MB)
+Split into: 25 smaller JSON files by top-level key, documented in data_map.md
+All files written to /mnt/user-data/outputs/
+
+
+Completed Army Files
+
+grymkin.json — 36 cards, 17 command cards
+old_umbrey.json — 36 cards, 9 command cards
+
+
+Army File Builder Logic
+Card Pool Construction
+The card pool for any Prime army is built as follows:
+
+Native cards — any card whose keywordsIds includes the army's army-specific keyword (e.g. "Grymkin", "Old Umbrey"). This is NOT the same as factionId matching — the army keyword is the true membership gate.
+Cadre cards — keywords that appear in includedKeywordsIds across 2+ Prime armies are cadre keywords. Off-faction cards carrying a cadre keyword are included.
+Explicit mercenaries — cards listed in includedCardIds on the army record.
+Exclusions — cards in excludedCardIds are always removed.
+Dead refs — card IDs not found in the source data are silently dropped.
+
+Why Not factionId?
+
+factionId matches ALL Khador cards, including legacy armies (5th Division, Armored Korps, etc.) — way too broad for Prime armies.
+factionId misses nothing for Grymkin since all Grymkin cards are Legacy-tagged in editionId even though they're valid Prime cards.
+The army-specific keyword is the only reliable signal.
+
+Why Not editionId?
+
+All 42 native Grymkin cards are tagged editionId = Legacy despite being valid Prime cards — the faction was never re-tagged.
+Khador has 102 Legacy and 61 MKIV native cards — MKIV alone would miss valid cards and include wrong-army cards.
+editionId is unreliable as a filter.
+
+Known Edge Cases
+
+Saxon Orrik — has "Thornfall Alliance" keyword but is NOT available in Thornfall Alliance in Prime. Only known case where a single-army keyword incorrectly tags an off-faction card. Handled automatically by the cadre logic (single-army keywords don't pull in off-faction cards).
+Cadre keywords confirmed: Storm Forge Cadre (Gravediggers + Storm Legion), Hive Mind Cadre (Dark Operations + Necrofactorium), Hellslinger Cadre (Gravediggers + Storm Legion), Graveborn (Reaper Covenant + Sea Raiders), Fire Tongue Cadre (Brineblood Marauders + Kithguard).
+Legacy armies excluded — identified by isUnlimited: true or arenaId != PRIME_ARENA. Prime Arena ID: eef0b157-f202-4d42-b8ee-12d5f5f58cd5.
+
+
+Full Resolution Chain
+Every ID reference in the file is resolved to its full object. The resolution chain is:
+card
+  ├── cardType (resolved inline)
+  ├── keywords (resolved inline, including their own helpTerms)
+  ├── rulings (resolved inline)
+  ├── helpTerms (resolved inline)
+  ├── cardAbilities (resolved inline)
+  ├── spells (resolved inline)
+  ├── models
+  │     ├── modelAbilities (resolved inline)
+  │     ├── modelAdvantages (resolved inline)
+  │     └── weapons
+  │           ├── weaponAbilities (resolved inline)
+  │           └── weaponQualities (resolved inline)
+  ├── grantedModels (resolved inline)
+  ├── cardOptions
+  │     ├── grantedModels
+  │     ├── grantedModelAbilities
+  │     ├── grantedSpells
+  │     ├── grantedWeapons
+  │     └── keywords
+  └── companionCards (fully resolved, recursive)
+        └── [same full resolution as card]
+
+commandCard
+  ├── commandCardAbilities (resolved inline)
+  ├── keywords (resolved inline)
+  ├── grantedCards (fully resolved)
+  └── grantedModels (resolved inline)
+
+Companion vs Attachment Distinction
+This was a key discovery:
+
+companionIds — true companions, always travel with the card (e.g. Phantasm with The Dreamer, Razor with Vilkul). Embed fully resolved.
+requiredAttachmentIds — mandatory attachments. Embed fully resolved.
+validAttachmentIds — optional paid upgrades (e.g. Hollow Holden for Hollowmen, Neigh Slayer War Horse for Neigh Slayers, Baron Tonguelick for warlocks). Do NOT embed — these cards already exist independently in the army pool.
+characterAltIds, summonIds, grantedValidCardIds, grantedCardIds — dropped from output.
+
+
+Mercenaries
+
+Duplicated fully into each army file that has access to them.
+Makes each file truly self-contained.
+Mercenary factionId references (Mercenaries, General) are expected and left as-is — the only remaining unresolved live references in clean files.
+
+
+Stripped Fields
+These fields are removed from all output:
+
+arenaId — all files are Prime by definition
+animosityIds, animosityKeywordsIds — dead refs, not in source data
+artSegId, articleId, chapterId, publicationId, dataBundleId — CMS fields, irrelevant
+hireFacIds — informational only, referenced factions won't all be in file
+
+Note: editionId was previously stripped but may be worth keeping as informational data — wasn't firmly decided.
+
+Audit Process
+After each build, a full audit is run that:
+
+Collects all guidStr values present in the output file
+Scans all fields ending in Id or Ids for unresolved GUIDs
+Categorizes as live (exists in source, should be resolved) or dead (not in source, nothing to resolve)
+Reports any live unresolved references with names for investigation
+
+Clean audit result for both current files:
+
+2 live factionId refs (Mercenaries, General) — expected
+1 dead includedCardIds ref — deleted card in source, nothing to do
+
+
+Display Format (Confirmed)
+When listing army models, use this format:
+Leaders (Warlocks / Warcasters as appropriate)
+Cohort (Warbeasts / Warjacks as appropriate)
+Solos
+Additional Solos (Mercenaries)
+Units
+Command Attachments
+Command Cards
+Companions shown indented with a hyphen under their parent card.
+
+Next Steps
+
+Run full audit on old_umbrey.json
+Build and audit remaining Prime armies (there are ~38 left)
+Consider whether to keep editionId in output as informational
+The builder script is fully functional and parameterized — all armies can be batched in one run once both test files are confirmed clean
+
+
+Key Constants
+
+Prime Arena ID: eef0b157-f202-4d42-b8ee-12d5f5f58cd5
+MKIV Edition ID: 33131c0f-d709-4d39-a4bb-38ba11f261fa
+Legacy Edition ID: 9e4ad4e7-12c3-4443-b283-1a8e9fae17a2
+Source file: /mnt/user-data/uploads/data_general.json
+Output directory: /mnt/user-data/outputs/

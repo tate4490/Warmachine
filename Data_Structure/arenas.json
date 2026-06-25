@@ -1,0 +1,76 @@
+{
+    "arenas": [
+        {
+            "guidStr": "eef0b157-f202-4d42-b8ee-12d5f5f58cd5",
+            "name": [
+                "Prime",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "desc": [
+                "New MKIV armies and Legacy armies designed for balanced Play",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "v5Name": [
+                "Prime",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "v5Desc": [
+                "Armies for the current version of Warmachine",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isUnlimited": false
+        },
+        {
+            "guidStr": "45e79a1e-80c0-46c5-b50b-154ed32e2f60",
+            "name": [
+                "Unlimited",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "desc": [
+                "Unrestricted armies for Legacy factions",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "v5Name": [
+                "Legacy",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "v5Desc": [
+                "Armies of legend from Warmachine's past",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isUnlimited": true
+        }
+    ]
+}

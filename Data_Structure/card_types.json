@@ -1,0 +1,688 @@
+{
+    "cardTypes": [
+        {
+            "guidStr": "ce88241b-7d27-4f91-884c-d0fd2dde2dba",
+            "name": [
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo"
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Solos",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 30,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [
+                "448ad607-7d37-4f36-a42d-7c82b8c8eaa6",
+                "11ff77bd-507c-4c7d-be6a-5363d9bc86b9"
+            ],
+            "helpTermIds": [
+                "2d780037-654f-4eaa-a638-0f1ee4d6f878"
+            ]
+        },
+        {
+            "guidStr": "448ad607-7d37-4f36-a42d-7c82b8c8eaa6",
+            "name": [
+                "Warbeast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Warbeasts",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 11,
+            "spellsLabelOverride": [
+                "Animus",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": true,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "1ec71132-f529-4db4-972b-033d91fcd329",
+                "f90991ec-9ad7-4936-a8a2-5e848520db88",
+                "9b1a1e98-8f04-496e-b876-e59ab9bd8962",
+                "1419d9d7-444c-4e36-8cb9-84f22a55edf6",
+                "08e1919a-eae7-4d58-b89f-59c34bddf7b8",
+                "adb399df-68ec-44ae-9a69-1cc708c7f71f",
+                "2f5dfe9b-2c62-4da7-a05c-637a38e9baa5",
+                "56bec8b1-48e6-49ae-9498-b1b175e9101f",
+                "b882d650-d456-4621-92a1-b6fd8ea74f60",
+                "e3d0dd8a-59dd-46a8-93fa-a85aeec0bd6f",
+                "3e8dc835-a959-471a-81d1-7e282880f2b4",
+                "81f89eaf-90cb-46fe-8e26-61ec92a3d4ce",
+                "c02253ae-6797-4104-982c-6505f0049296",
+                "5cf661d5-8d10-48ab-aaab-45ae51bf9f0d",
+                "bb66c2da-9478-45a8-9be9-f4302f4e25a8",
+                "cc7cc170-0cb9-46dc-bfd3-d18e4dd79afc"
+            ]
+        },
+        {
+            "guidStr": "11ff77bd-507c-4c7d-be6a-5363d9bc86b9",
+            "name": [
+                "Warjack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Warjacks",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 10,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": true,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "ee7c766c-66c2-48e7-8b8a-3ff745ccb0e2",
+                "ed7871ec-87a9-4fc5-89dd-4449b4c538fc",
+                "31eefde7-c22e-4dd8-bfce-af35b03af4f0",
+                "c08c40b5-3e57-41e1-8d69-7ef4d088ca32",
+                "5b2944d6-4b5b-450a-89dd-c0e6a61df2f6",
+                "7295c4d0-38a7-4cd2-b92b-08b8e8e072a6",
+                "aa701389-91b2-4417-b003-72b78a54b123"
+            ]
+        },
+        {
+            "guidStr": "36e35e9b-a536-4df4-b297-088caf0559a5",
+            "name": [
+                "Warlock",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Warlocks",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 1,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": true,
+            "battlegroupTypeIds": [
+                "448ad607-7d37-4f36-a42d-7c82b8c8eaa6"
+            ],
+            "helpTermIds": [
+                "11bdc312-bc65-4f62-a4ef-36e7627f5003",
+                "ba21ec1a-fef2-4d8e-8d61-c0de3377b2cb",
+                "266a394a-22bc-4118-8118-7469aa9c5d79",
+                "e197467a-99e8-4f1d-9fa7-b453569c44ca",
+                "5652b7c4-3141-43bf-b387-f681ced334a0",
+                "200d3b2d-d15e-4aee-ad6e-8d3d81afaf1f",
+                "b8908b96-2ffb-4cf9-93c5-747abdc8508d",
+                "19687c78-8b74-4e21-b802-3dd5e6e13b77",
+                "5d2c30b8-f228-45a8-9e7a-a4f7dc983aea",
+                "afa3279c-66e4-4e9e-9430-634bed577dea"
+            ]
+        },
+        {
+            "guidStr": "ac6c2046-5021-4e3f-819a-015623a6048a",
+            "name": [
+                "Monstrosity",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Monstrosities",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 13,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": true,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "690bed8d-8f94-49f6-8054-76cad56cbaf1",
+            "name": [
+                "Warcaster",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Warcasters",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 0,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": true,
+            "battlegroupTypeIds": [
+                "11ff77bd-507c-4c7d-be6a-5363d9bc86b9"
+            ],
+            "helpTermIds": [
+                "ca70ebd1-e374-4204-8a87-dc53fa69e6e7",
+                "baf7e7e2-49f2-4acc-948c-6c6eefc713cf",
+                "266a394a-22bc-4118-8118-7469aa9c5d79",
+                "566a7651-3739-4895-adae-141d9e1e1c1d",
+                "5606bd72-04dc-434e-bbea-b83fffa8f63f",
+                "a54b8492-aa9b-4821-802a-7f25ae6dcbe6",
+                "502bdec7-8608-4d02-acac-e3a20b928480",
+                "b3401dfc-1257-4118-86ca-b779876c9357",
+                "cbf9cd4a-0ad0-4e2f-94c4-5c25acc1bdcb",
+                "1545891b-1f73-484a-b2b4-40db112e3b55",
+                "5a2dd35d-d2c0-487d-9f58-24cb0360e14b"
+            ]
+        },
+        {
+            "guidStr": "782e11e6-876f-4506-b258-d4d6660d125a",
+            "name": [
+                "Defense",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Defenses",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 40,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "0a4b8f91-a8f0-45aa-a595-c755a08b6762",
+            "name": [
+                "Battle Engine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Battle Engines",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 20,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "11f6a268-183d-4e21-b58c-3ab1b15c3e93",
+                "7ce60c1b-0828-42ec-b255-520444fc533c",
+                "e9da5e17-f45c-4515-8879-733cc9909e55"
+            ]
+        },
+        {
+            "guidStr": "38ca1fa7-94d2-41f7-82b6-0b0bcc5bd13e",
+            "name": [
+                "Unit",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Units",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 31,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "9f489737-01da-41ec-92c3-e7de6a027677"
+            ]
+        },
+        {
+            "guidStr": "37f6e08d-f228-4d34-bc0f-3ebeb34e8671",
+            "name": [
+                "Command Attachment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Command Attachments",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 32,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": true,
+            "attachedLimit": 1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "e5390572-d70c-496e-958b-3748bddeab03"
+            ]
+        },
+        {
+            "guidStr": "62991f9b-a62f-4a0f-8842-4aa9aa1df78a",
+            "name": [
+                "Infernal Master",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Infernal Masters",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 2,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": true,
+            "battlegroupTypeIds": [
+                "397bb8b1-f01f-41a0-9ffe-5c7463e31ed0"
+            ],
+            "helpTermIds": [
+                "c2acd032-f0f9-481d-9e31-aaad44830d60",
+                "4e9e5fba-4111-4798-b32a-1dd7b445ae2c",
+                "35243afb-22e5-46fc-bc49-daeaf3a377f1",
+                "8b70c76b-32fc-42ec-b6f8-05038f240c47",
+                "22c0ce77-4f4b-45fe-88fc-5237797e5bfa",
+                "e81bc614-fa18-48bc-a236-76ec7c81b332",
+                "d420537b-2839-47a6-a08d-fb333fe0f601",
+                "bf75a841-af35-4497-bd63-8690a7c8b44e",
+                "27c894a6-574c-4fb3-97dc-aa89be4dfd9b",
+                "5a552aaa-c9b5-4fe8-af90-c79ecc29a559",
+                "5a846f0a-f966-4848-8ebf-587b0eb84d9e",
+                "78b415de-72a0-42a2-a97f-f1dd7786b4f5",
+                "42ba3740-6b2f-43d8-9820-9631dc1df021",
+                "fc5050ce-5af4-4d0f-ba7f-2992b5de15d5"
+            ]
+        },
+        {
+            "guidStr": "397bb8b1-f01f-41a0-9ffe-5c7463e31ed0",
+            "name": [
+                "Horror",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Horrors",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 12,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": true,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "fdda9686-c316-46a5-9eaa-0377e780056e",
+                "c2acd032-f0f9-481d-9e31-aaad44830d60",
+                "c766fad7-99eb-4cc5-a82a-55bde672e5b6",
+                "5ca750b1-ed41-47c5-a14e-7530532187e8",
+                "45c12836-bbd2-467f-ab7f-5b4f439526d6",
+                "98f03435-889c-4555-b394-bd25de5b0f73",
+                "0c616a72-bb06-4152-8b0f-44a8fe1e6c31",
+                "96408d69-df71-4540-b059-e56d5212cd14"
+            ]
+        },
+        {
+            "guidStr": "b5c55f88-2976-484d-9e41-4250efa5c9b4",
+            "name": [
+                "Terrain",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Terrain Cards",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 51,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "2a1372b3-f639-4b36-99c5-a6bdea09c520",
+            "name": [
+                "Weapon Attachment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Weapon Attachments",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 33,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": true,
+            "attachedLimit": 3,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "e5390572-d70c-496e-958b-3748bddeab03"
+            ]
+        },
+        {
+            "guidStr": "18606b3d-0f86-491d-9dbe-878fc4bbe710",
+            "name": [
+                "Objective",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Objective Cards",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 50,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
+        },
+        {
+            "guidStr": "25999285-6058-436c-94e1-04c54e220162",
+            "name": [
+                "Structure",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "Structures",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 21,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": [
+                "03c49baa-29d0-4b61-a9db-d82f95add71b",
+                "dc1e9efe-e836-463e-b430-82dd9505b4b8"
+            ]
+        },
+        {
+            "guidStr": "6a9f8117-313a-4472-9558-b60b18edf61c",
+            "name": [
+                "Marker",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 0,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
+        }
+    ]
+}

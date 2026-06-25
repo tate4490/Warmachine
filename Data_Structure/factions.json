@@ -1,0 +1,388 @@
+{
+    "factions": [
+        {
+            "guidStr": "11366743-17da-4836-9cbf-45715b8c9d19",
+            "name": [
+                "Circle Orboros",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Circle",
+            "hexColor": "#2A4B0A",
+            "hexColor2": "#5c9622",
+            "iconColorPath": "/Media/Factions/faction circle color.png",
+            "iconBnWPath": "/Media/Factions/faction circle bnw.png"
+        },
+        {
+            "guidStr": "082bb92e-9af1-453a-ace9-be117814e02d",
+            "name": [
+                "Convergence of Cyriss",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "9e2ed212-964c-448a-9056-94024599280b",
+                "aa05bc92-b8c1-409a-b406-ba8378c962bc",
+                "d941b05a-332c-44dd-9e0e-bf0ee20ae78a"
+            ],
+            "shortName": "Convergence",
+            "hexColor": "#363C3F",
+            "hexColor2": "#626E72",
+            "iconColorPath": "/Media/Factions/faction convergence color.png",
+            "iconBnWPath": "/Media/Factions/faction convergence bnw.png"
+        },
+        {
+            "guidStr": "08e51985-4289-48dc-b823-bab372114a3f",
+            "name": [
+                "Crucible Guard",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Crucible Guard",
+            "hexColor": "#044A3C",
+            "hexColor2": "#469F8D",
+            "iconColorPath": "/Media/Factions/faction crucible color.png",
+            "iconBnWPath": "/Media/Factions/faction crucible bnw.png"
+        },
+        {
+            "guidStr": "9d2499c9-9369-46f0-9db3-2c4f507763a6",
+            "name": [
+                "Cryx",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Cryx",
+            "hexColor": "#332713",
+            "hexColor2": "#465722",
+            "iconColorPath": "/Media/Factions/faction cryx color.png",
+            "iconBnWPath": "/Media/Factions/faction cryx bnw.png"
+        },
+        {
+            "guidStr": "44d03240-635b-4055-8781-bbd6118500d1",
+            "name": [
+                "Cygnar",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Cygnar",
+            "hexColor": "#182A6B",
+            "hexColor2": "#5675E8",
+            "iconColorPath": "/Media/Factions/faction cygnar color.png",
+            "iconBnWPath": "/Media/Factions/faction cygnar bnw.png"
+        },
+        {
+            "guidStr": "701d6799-9f49-4a85-867f-040de7035737",
+            "name": [
+                "Dusk",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "",
+            "hexColor": "#0F2B2F",
+            "hexColor2": "#227988",
+            "iconColorPath": "/Media/Factions/faction dusk house kallyss color.png",
+            "iconBnWPath": "/Media/Factions/army dusk bnw.png"
+        },
+        {
+            "guidStr": "ab9120fd-c2cd-4fbe-9e50-69deb8eaecce",
+            "name": [
+                "General",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "General",
+            "hexColor": "#2B2B33",
+            "hexColor2": "#41414C",
+            "iconColorPath": "/Media/Factions/faction general.png",
+            "iconBnWPath": ""
+        },
+        {
+            "guidStr": "20031060-7520-43a3-885d-ebd56b8d4757",
+            "name": [
+                "Grymkin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "ed571181-eff2-4144-a2e1-7895fccd9a29"
+            ],
+            "shortName": "Grymkin",
+            "hexColor": "#3C0A2C",
+            "hexColor2": "#C6489D",
+            "iconColorPath": "/Media/Factions/faction grymkin color.png",
+            "iconBnWPath": "/Media/Factions/faction grymkin bnw.png"
+        },
+        {
+            "guidStr": "6bd6d5e9-5cac-435f-bfaa-00588e273c79",
+            "name": [
+                "Infernals",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "c2acd032-f0f9-481d-9e31-aaad44830d60",
+                "cdbb46c6-a1c0-461a-a2e2-257190c86653"
+            ],
+            "shortName": "Infernals",
+            "hexColor": "#141212",
+            "hexColor2": "#A33030",
+            "iconColorPath": "/Media/Factions/faction infernals color.png",
+            "iconBnWPath": "/Media/Factions/faction infernals bnw.png"
+        },
+        {
+            "guidStr": "bceb73c6-539d-4d1f-b4f1-47c725f58914",
+            "name": [
+                "Khador",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Khador",
+            "hexColor": "#560A0B",
+            "hexColor2": "#D6290E",
+            "iconColorPath": "/Media/Factions/faction khador color.png",
+            "iconBnWPath": "/Media/Factions/faction khador bnw.png"
+        },
+        {
+            "guidStr": "64ff8394-fe01-42bb-b1ae-d885a0b9f917",
+            "name": [
+                "Khymaera",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Khymaera",
+            "hexColor": "#2B2B33",
+            "hexColor2": "#41414C",
+            "iconColorPath": "/Media/Factions/faction khymaera color.png",
+            "iconBnWPath": ""
+        },
+        {
+            "guidStr": "aa468bec-4b1a-46aa-acb7-bb45a1eff76f",
+            "name": [
+                "Legion of Everblight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Legion",
+            "hexColor": "#2A115E",
+            "hexColor2": "#6D64EA",
+            "iconColorPath": "/Media/Factions/faction legion color.png",
+            "iconBnWPath": "/Media/Factions/faction legion bnw.png"
+        },
+        {
+            "guidStr": "204ce944-7783-4e55-b823-638e19c15749",
+            "name": [
+                "Mercenaries",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Mercenary",
+            "hexColor": "#2B2F1B",
+            "hexColor2": "#5E6B2E",
+            "iconColorPath": "/Media/Factions/faction mercenaries color.png",
+            "iconBnWPath": "/Media/Factions/faction mercenaries bnw.png"
+        },
+        {
+            "guidStr": "228bf7ed-e9d5-4e7c-a243-990edd3ce44b",
+            "name": [
+                "Orgoth",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Orgoth",
+            "hexColor": "#310515",
+            "hexColor2": "#9A2E25",
+            "iconColorPath": "/Media/Factions/faction orgoth color.png",
+            "iconBnWPath": "/Media/Factions/faction orgoth bnw.png"
+        },
+        {
+            "guidStr": "da511c1f-9acc-4466-b50d-90b9af17fa26",
+            "name": [
+                "Protectorate of Menoth",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Protectorate",
+            "hexColor": "#5E2A0C",
+            "hexColor2": "#C24523",
+            "iconColorPath": "/Media/Factions/faction protectorate color.png",
+            "iconBnWPath": "/Media/Factions/faction protectorate bnw.png"
+        },
+        {
+            "guidStr": "95a65353-395f-46e6-8943-f259cec9c3ef",
+            "name": [
+                "Retribution of Scyrah",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Retribution",
+            "hexColor": "#033638",
+            "hexColor2": "#1F989C",
+            "iconColorPath": "/Media/Factions/faction retribution color.png",
+            "iconBnWPath": "/Media/Factions/faction retribution bnw.png"
+        },
+        {
+            "guidStr": "c6c5c0c8-b066-4f04-bb57-73b0a51eff87",
+            "name": [
+                "Skorne",
+                "",
+                "",
+                "",
+                "Skorne",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Skorne",
+            "hexColor": "#3C030F",
+            "hexColor2": "#C41D3F",
+            "iconColorPath": "/Media/Factions/faction skorne color.png",
+            "iconBnWPath": "/Media/Factions/faction skorne bnw.png"
+        },
+        {
+            "guidStr": "6a3fcd9e-6c28-4c21-977f-658be1e36c6b",
+            "name": [
+                "Southern Kriels",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "",
+            "hexColor": "#2B2B33",
+            "hexColor2": "#41414C",
+            "iconColorPath": "/Media/Factions/Kithguard_optimized_Icon.png",
+            "iconBnWPath": ""
+        },
+        {
+            "guidStr": "10d3ae3e-6c97-4630-9479-13eabb4092da",
+            "name": [
+                "Trollbloods",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "shortName": "Trollblood",
+            "hexColor": "#0E323D",
+            "hexColor2": "#3297B9",
+            "iconColorPath": "/Media/Factions/faction trollbloods color.png",
+            "iconBnWPath": "/Media/Factions/faction trollbloods bnw.png"
+        }
+    ]
+}

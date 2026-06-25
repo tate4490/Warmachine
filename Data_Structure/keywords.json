@@ -1,0 +1,2936 @@
+{
+    "keywords": [
+        {
+            "guidStr": "0693f532-657a-45bc-b534-79f6ca32e871",
+            "name": [
+                "Lesser Horror",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "4d003b2f-e58b-4332-b712-c2a0be3dc46f",
+            "name": [
+                "Lesser Warbeast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "008f591a-558a-4d09-8c76-fb4a03aeb545",
+            "name": [
+                "Battle Engine",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "477141fb-6c56-4661-bfda-2e1f4afe52dd",
+            "name": [
+                "Structure",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "0f1e12fe-a620-445a-ae18-a28f8b8afeba",
+            "name": [
+                "Gargantuan",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d",
+            "name": [
+                "Colossal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f480448d-bde8-49ab-bfc9-1d77e371567b",
+            "name": [
+                "5th Division",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ef1dd0a8-4420-45ca-968d-9566a2291ec3",
+            "name": [
+                "Mercenary",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "32b56023-bb53-4bc8-b6ab-ac2accf087dc",
+            "name": [
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo",
+                "Solo"
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "18cc4204-2e05-42e0-bc3b-fb18915a6335",
+            "name": [
+                "Super Heavy Warjack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "9b3ed213-8e98-4bab-ae8b-e7c89e84da2f",
+            "name": [
+                "Farrow",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "485c1e40-16e3-4d2c-9f3f-1f45676fbebe"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "83857c80-33ac-4b2b-8b28-fe024a6a8a8f",
+            "name": [
+                "Super Heavy Warbeast",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "baf51b05-9fee-44ea-8bca-f6dc62b675ba",
+            "name": [
+                "Warlock",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "da9faed6-19dd-403a-a835-e1fa61dba7e5",
+            "name": [
+                "Thornfall Alliance",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "bc06a99c-1659-40ff-844a-87f89678c942",
+            "name": [
+                "Cephalyx",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "556d373e-efae-4c66-b5c9-785a13149afd"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a387222d-e8c1-44c4-9f12-87cef77ec22b",
+            "name": [
+                "Super Heavy Monstrosity",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "113969cd-e84e-45a5-a4c9-e9f4a7265749",
+            "name": [
+                "Morrowan",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b751f430-0a9f-46a1-8cd8-e09474b8966c",
+            "name": [
+                "Warcaster",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6b02308f-3144-450c-9bf2-8684dcb6384a",
+            "name": [
+                "Heavy Warjack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "56077dbf-1b7d-49e5-b620-3b5c43025892",
+            "name": [
+                "Soldiers of Fortune",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "2faa1169-99a9-4929-9401-084c67cf6fc4",
+            "name": [
+                "Scout",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8478e29e-98ac-4897-8a88-289cf5e42c53",
+            "name": [
+                "Terrain Feature",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "420cdec7-a04c-493a-b08a-367eb108d6a4",
+            "name": [
+                "Armored Korps",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b50253ce-d553-4e4d-a91c-9c69f1961da0",
+            "name": [
+                "Army of the Western Reaches",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b893dca6-ecc7-4e03-adbb-3c2d9567d8f8",
+            "name": [
+                "Blackfleet",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8bab9842-cce1-4ba6-b136-3b199109eedb",
+            "name": [
+                "Blindwater Congregation",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "dae63650-d994-41b5-be2b-d58e2c62ba72",
+            "name": [
+                "Brineblood Marauders",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e1aaa0d3-a5e5-4902-9301-ebaf32bc841f",
+            "name": [
+                "Fire Tongue Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7da8e833-cdd6-4711-94b3-07ad584449fe",
+            "name": [
+                "Foulblood's Armada",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7f12c7df-5441-475b-be0f-f543954102e4",
+            "name": [
+                "Gatorman",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "7a7a4a65-489a-4724-92ce-99f2222d6657"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "1c70fa4d-60d9-439e-a9e0-63ba1e84bb30",
+            "name": [
+                "Trollkin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "32851149-d9c6-45f3-b695-16e5e8bf8980",
+            "name": [
+                "Cygnar",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ec5ac471-f706-4231-8074-91a5c290a2b8",
+            "name": [
+                "Protectorate",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "316da2b0-5e1f-4023-9c18-1d566e22b1ab",
+            "name": [
+                "Menite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "1cb0172a-59cc-4281-8738-4cdff7259012",
+            "name": [
+                "Trollblood",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "837b9599-5ff9-4de3-8414-17abacb80a3c",
+            "name": [
+                "Convergence",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8a49299c-2068-4f6a-8980-8e00a3af4d67",
+            "name": [
+                "Crucible Guard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "353ded4f-a303-49a0-bdd9-33f23a6215b8",
+            "name": [
+                "Unit",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "2a2bbc2d-ba30-4c08-9168-7ac7a4efa744",
+            "name": [
+                "Command Attachment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a2955f5d-b98f-4d59-b989-8a77664d505e",
+            "name": [
+                "Light Warjack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "51361403-e25a-4fb2-ba10-eccfe2879939",
+            "name": [
+                "First Army",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c45110f8-9412-4313-97fd-98ef371fc047",
+            "name": [
+                "Llaelese",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "93b116f5-49e7-419e-9d4f-7c85c8238614",
+            "name": [
+                "Talion Charter",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "53479a61-6099-43fc-8c88-e282dc920d4e",
+            "name": [
+                "Dark Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b342e2e4-9a4d-48f3-9b9e-db811f45a818",
+            "name": [
+                "Hive Mind Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6cc436c6-2b3b-4269-bc95-09db6377c5f2",
+            "name": [
+                "Dark Operations",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ac31456f-4326-481e-a4ca-268aeb6aa01f",
+            "name": [
+                "Cryx",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "31611eed-f736-47c6-abde-582a9b4d2251",
+            "name": [
+                "Monstrosity",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "b1494d70-18f1-492f-a2ce-4a854d9da995",
+                "f06a334b-2422-470e-926d-92c43f732985",
+                "a3aaf588-2eb5-41e1-a1ec-0495f209b685",
+                "1724cb4f-2dc6-4d9d-91fd-4bf12b1c1a2b",
+                "c665e900-49f2-4eb6-9d73-deea058d6b24",
+                "9eff6615-64d8-49a0-bb02-362497d81405",
+                "72ebd23f-fa6f-47ee-90ec-5d3b96e28cde"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ebdf25f2-3cc5-443b-b2a1-eac10bcaa03e",
+            "name": [
+                "Devourer's Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "73fc6075-ed9b-40ee-a984-bcff8f091bbf",
+            "name": [
+                "Dragon's Host",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c8fe4feb-0c2f-43c7-9bfd-0bea0e2076b9",
+            "name": [
+                "Exalted",
+                "",
+                "",
+                "",
+                "Exaltado",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7e35c0b5-1c6d-4f25-88b5-ddf99c240c5d",
+            "name": [
+                "Fane of Nyrro",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "5ce665ab-de94-444e-b242-5c4c47885e9c",
+            "name": [
+                "Dusk",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7cad1da7-3d5e-49ef-a67c-2a322b76a76f",
+            "name": [
+                "Final Hunt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "03fcc881-891a-41a2-b4fe-93adff2c5585",
+            "name": [
+                "Final Interdiction",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "07a8910c-65e5-48f2-8655-deff54797029",
+            "name": [
+                "Gravediggers",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "0956f24b-d8ce-49dd-ae01-0996276c2fd2",
+            "name": [
+                "Storm Forge Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "80711c2a-b472-4ebc-b84e-fb887377bb16",
+            "name": [
+                "Hellslinger Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "854a1f50-9c45-47cc-9af4-bebf176f7e44",
+            "name": [
+                "Rhulic",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "4f78ee01-1d5d-416d-a149-425bfc1f411c"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "026fa145-5704-4ed7-a795-30ad62c1e79b",
+            "name": [
+                "Infernals",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "84043232-69b8-4a65-a2fe-1841272020d4",
+            "name": [
+                "Gravediggers ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3a4e6ea7-f9d6-464c-937f-7c66a1932a34",
+            "name": [
+                "Defense",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "72d3ccb8-2e06-486b-955c-280e841a674f",
+            "name": [
+                "Circle",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "9770e807-a01e-43ca-9fa2-45d2d53da89b",
+            "name": [
+                "Grymkin",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "640ed81b-0cdf-48b2-a766-b150012861b9",
+            "name": [
+                "House Kallyss",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "eae1bb5a-a189-4006-9940-26d17ff1f7b2",
+            "name": [
+                "Ghosts of Ios",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e211f55a-3c3e-4452-bb22-83e2b3b84844",
+            "name": [
+                "Kithguard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "bf0a8427-045c-40e6-92fd-f2f41d5e0c70",
+            "name": [
+                "Legions of Dawn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b8c33d17-09b0-4435-bfbc-6aff01427fb4",
+            "name": [
+                "Crucible Guard",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f189c96a-b1f0-4bcd-ba45-01ad2cfe4796",
+            "name": [
+                "Secret Dominion",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7bc6e25c-8f91-4532-9f01-e9738fa5287f",
+            "name": [
+                "Wolf Sworn",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b70225af-dbaa-488e-94b8-cd9849ffa6f1",
+            "name": [
+                "Skinwalker",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8d9b40b3-6f5e-4eb5-987d-1ba13e334be1",
+            "name": [
+                "Retribution",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "28fa5a17-3df1-448c-ab2b-00846b022b76",
+            "name": [
+                "Shadows of the Retribution",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "105a848f-b073-46aa-a3a1-1e86429cdab4",
+            "name": [
+                "Nyss",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "0cafae04-64e8-416c-adb7-f67b107bd2c0",
+            "name": [
+                "Trencher",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a0f6e782-3cd8-44a6-97dc-d545556802ce",
+            "name": [
+                "Necrofactorium",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "105f9dcc-e6d0-4ec4-b7c2-d99b6c508eec",
+            "name": [
+                "Old Umbrey",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e5072688-70f1-4a74-a0b5-d64fd0e0122f",
+            "name": [
+                "Khador",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "de76ccad-f146-4d1f-bdfd-f6469a8c1bf0",
+            "name": [
+                "SKS-6  Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "37ad3644-4921-4a39-af15-2e13abc41cfa",
+            "name": [
+                "SKS-6 Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "89d52625-3346-4d64-b435-86154d0366f9",
+            "name": [
+                "Ravens of War",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "aac0fcf6-574c-4677-9c79-894b971785ee",
+            "name": [
+                "Reaper Covenant",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3168e3a9-4569-4f5e-af22-72d2eae4b986",
+            "name": [
+                "Graveborn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "cc9df0b6-0082-49ef-97a3-9a25818e4972",
+            "name": [
+                "Skorne",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "17f7d6fd-79ad-4c3b-8249-3e1fca853ba9",
+            "name": [
+                "Rhul Guard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [
+                "4f78ee01-1d5d-416d-a149-425bfc1f411c"
+            ],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "d6b71b1e-7e49-4d8a-9d58-d09318a01281",
+            "name": [
+                "Sea Raider",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "04224304-b67d-41d7-b7e7-5b4dec527dbb",
+            "name": [
+                "Curse Bound",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "2315cf0e-bf98-4681-bcd5-58dc3fe33cbb",
+            "name": [
+                "Shadowflame Shard",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8817ce8c-777f-4407-bb31-d229b520d637",
+            "name": [
+                "Shard Incarnates Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "07e45868-7e4c-4bac-aaf5-83c4adf4eaeb",
+            "name": [
+                "Shard Nocturnes",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "172af659-b655-4766-9dd9-47903e66c0b2",
+            "name": [
+                "Storm Knight",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f5d9b163-9e91-474e-ad86-a32aaeeb0ac1",
+            "name": [
+                "Storm Legion",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "00eec436-89d6-47ca-8d4b-4d7364ede8df",
+            "name": [
+                "Storm of the North",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "98a0efb7-d3e4-4cdb-a6d7-df8296e172c8",
+            "name": [
+                "Temple Guardians",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e9586bc2-282b-497e-a104-98e99b19f453",
+            "name": [
+                "United Kriels",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "fe697c4a-70f8-4921-92f4-c188c28d9424",
+            "name": [
+                "Winter Korps",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7ac5a599-0590-4030-85b9-25f2333aa48b",
+            "name": [
+                "Annihilator",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c0e3880b-4e82-4c7b-a99f-c08dd4020810",
+            "name": [
+                "Man-O-War",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7bccac39-81a0-4b8c-a62c-3c5b906b880b",
+            "name": [
+                "Annihilator ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "9b176e3e-f0a3-4554-86d3-18de6b21e9d8",
+            "name": [
+                "Legion",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "129726fc-b564-43d9-b4f9-d2389d3f37d4",
+            "name": [
+                "Blighted",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7c8b9716-4b52-4329-a58e-20e4ea7434c9",
+            "name": [
+                "Blighted Ogrun",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "cc64ce6d-77ae-44de-bd01-afc15c5d0760",
+            "name": [
+                "Southern Kriels",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "eed48d8d-25f2-4ba0-8376-60f40d9f6d87",
+            "name": [
+                "Warbeast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a731ef45-c0d2-4aa7-be95-73ab482ed6a6",
+            "name": [
+                "Weapon Crew",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "124f58e8-2b42-430b-8f47-ea3d29496e1b",
+            "name": [
+                "Dragonspawn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "da3abd93-d153-40cc-90e1-7196b08c0289",
+            "name": [
+                "Light Warbeast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6d261ab6-f0d6-4c58-b1fe-ede4f83f0fe4",
+            "name": [
+                "Infernal Master",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6852a979-3391-47d6-9b1a-96f75e999eab",
+            "name": [
+                "Cultist",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "67e80e42-9602-41f0-a8f4-62f5b186284f",
+            "name": [
+                "Heavy Horror",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "dbbdf32f-0751-49ec-a963-cdb4b0f08028",
+            "name": [
+                "Light Horror",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "356e3076-0881-4a46-b78d-1796f186831c",
+            "name": [
+                "Titan",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f330dd1f-aa27-41d4-84b0-8b80a0a5c15e",
+            "name": [
+                "Revenant",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "fbaf953c-16ab-409a-9b0f-f3f5552fe9a8",
+            "name": [
+                "Khymaera",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3ec831bc-7c58-403a-aab9-6e5afb22868e",
+            "name": [
+                "Heavy Warbeast",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6d552ace-cdee-4a32-addd-fbfe60a5e47c",
+            "name": [
+                "Orgoth",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a541dd13-5ccd-46ed-b1af-52c7d1766fc2",
+            "name": [
+                "Deathless Cadre",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "615e362b-a94b-49be-ab22-b66d9f86755e",
+            "name": [
+                "Objective",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "5f56c18a-fee1-4a63-a414-8654a4a4a38e",
+            "name": [
+                "Marked",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c74793ed-69c8-4a17-be8e-2d17be1d6a09",
+            "name": [
+                "Paladin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3d998df5-c575-4ff5-b1d1-834e5f327731",
+            "name": [
+                "Extoller",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ce321a03-8b88-48d6-bc30-17303df88351",
+            "name": [
+                "Thrall",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "5626c054-28c0-4e30-bdee-72aab8f6e1e9",
+            "name": [
+                "Ordic",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b0f0dba1-f916-4aa9-bda3-d72150589d61",
+            "name": [
+                "Satyxis",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "d4163987-9b0a-48dc-be73-ad943e190bd6",
+            "name": [
+                "Nephilim",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8078f75a-66cd-444c-aa11-b84300e77787",
+            "name": [
+                "Blackclad",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6c347401-8400-4136-b602-af4c88bcbf43",
+            "name": [
+                "Hex Hunter",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b39a12f9-cc62-4ee1-bf37-12b954be8c96",
+            "name": [
+                "Northkin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "13dd17a1-45bf-4f16-bcd3-5940f0d356a8",
+            "name": [
+                "Paingiver",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "63db3c3c-9a3b-481e-8053-8abf8bccaabb",
+            "name": [
+                "Arcane Tempest",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ce403953-a98a-41b5-b387-50a892d64e0e",
+            "name": [
+                "Privateer",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3cfe92a7-b10b-475d-9c66-02aac89cbf51",
+            "name": [
+                "Thamarite",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "968e91ee-c691-4ab7-b26f-e573e3b83047",
+            "name": [
+                "Iron Fang",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "963908a7-eda6-4ed2-b5fd-af61a13c6ee4",
+            "name": [
+                "Legionnaire",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "df50344e-b937-4844-85ff-7b7b78465602",
+            "name": [
+                "Tharn",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "dd61ee61-16db-44bd-9ed8-3e7bb1dd7dff",
+            "name": [
+                "Pyg",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f174fa4a-9c53-4ee4-b0b0-0161cd7e82b0",
+            "name": [
+                "Mechanithrall",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "1831f222-7ad9-40d9-96ef-b710f6b0718a",
+            "name": [
+                "Weapon Attachment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "7fdf2c01-8f99-4d3e-be37-c454cf438501",
+            "name": [
+                "Building",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e114f0e7-601d-4060-ad18-cddb880becab",
+            "name": [
+                "Ogrun",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "33a034b9-643d-461d-86a3-70e18d55f52b",
+            "name": [
+                "Gun Mage",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a4ea7af2-80a5-400a-b44d-82391972cc00",
+            "name": [
+                "Steelhead",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "1b3667ee-5fe8-4837-ba98-35b6ca3942f1",
+            "name": [
+                "Scharde",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "552d9182-cfd6-456b-8c72-8903f0dc1661",
+            "name": [
+                "Cataphract",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "798ce757-97c9-455b-8b15-0caff7dce297",
+            "name": [
+                "Dragoon",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "23fcf431-f7c2-4314-882e-1092f69dbdce",
+            "name": [
+                "Basilisk",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "4aa44f95-b157-4ac0-b2ce-fab6006cc6ca",
+            "name": [
+                "Dire Troll",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a46d67b6-9941-4286-bd33-c4793c6f910c",
+            "name": [
+                "Drudge",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f0ec318c-6a18-4351-91b7-d46d44f93547",
+            "name": [
+                "Weapon Crew",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b38a41d9-e638-4052-86b8-04c2256318ea",
+            "name": [
+                "Eldritch",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "97409db6-58a7-4e73-affc-ff985b5b7cb4",
+            "name": [
+                "Mage Hunter",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "5d868479-b563-4957-9bc3-c0b11760c01a",
+            "name": [
+                "Errant",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6316f9f6-0a96-4c70-8bae-1238de44df9f",
+            "name": [
+                "House Ellowuyr",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "d9888ed5-1eb5-4a29-8669-d9677fa4ff2c",
+            "name": [
+                "Doom Reaver",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c5be3647-fee1-46b3-9916-9e7049ca01d7",
+            "name": [
+                "Flameguard",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "29979a89-f20f-4629-a088-01b374eeb1bc",
+            "name": [
+                "Bullcroak",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "2db63587-10b5-4bb8-8cff-642fbde3f7d7",
+            "name": [
+                "Gobber",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "775a89a1-cc05-49f0-9cec-f21b82b5d8bb",
+            "name": [
+                "Croak",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8977bcf2-fe32-4150-ba74-d42258207050",
+            "name": [
+                "Strider",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "43d523b6-ec14-40c1-892f-dde31fe7ca85",
+            "name": [
+                "Warpwolf",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "f14594b7-dd0c-486a-b2a8-b23d6794d102",
+            "name": [
+                "Ulkor",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "e57f13e3-799b-4844-b7df-bc7a19e91f90",
+            "name": [
+                "Ranger",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "ed145b04-6b50-46c6-b3b6-d0c42aa73422",
+            "name": [
+                "Resurrection League",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a28c76a7-1be9-4df1-a1dc-bfe7023d057a",
+            "name": [
+                "Horror",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "37c6359f-8e52-4d9c-a230-5f3075d9a46c",
+            "name": [
+                "Reclaimer",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "9c357815-c20a-4065-b4b6-98c6ad462c12",
+            "name": [
+                "Houseguard",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "9e830075-53c8-451e-a908-49c0c43696cd",
+            "name": [
+                "Wraith",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "3d0560c1-4820-4a88-832e-e07ff1c32071",
+            "name": [
+                "Venger",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8e2becb2-8eb8-40bc-bdd8-a0e219d6ef76",
+            "name": [
+                "Battle Mage",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "816c89a9-d73c-48dc-81f9-4b8e966cf544",
+            "name": [
+                "Exemplar",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b6bce4ba-3ab2-4ebb-91a8-187cad5afca3",
+            "name": [
+                "Dread Rot",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "8532176e-5f92-4dda-be7c-506affb69abc",
+            "name": [
+                "Campaign",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "76a18af6-8e6b-44dd-adbc-4bf8a9d281f1",
+            "name": [
+                "Dawnguard",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "d500e3a8-2128-40d1-903b-4d4b50cc6e4a",
+            "name": [
+                "Greylord",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b50541fc-fb61-428b-90c7-5c5e06f3f525",
+            "name": [
+                "Praetorian",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "c4e30fd7-c633-496a-8e1d-4e01f78c1309",
+            "name": [
+                "Warjack",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "a5069b61-c690-4a33-b4cc-f3d3db6f50cc",
+            "name": [
+                "Bone Grinder",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "dd086303-8439-44b7-bb25-12869e2be223",
+            "name": [
+                "Cyclops",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "0f66ffc9-4c8b-4c6b-a0ab-0d0cefc656cb",
+            "name": [
+                "Bloodtracker",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "fd52dbcb-67ae-409e-8fb4-fd5ccbd080aa",
+            "name": [
+                "Bog Trog",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "b65fb2b2-c8b2-4334-ba93-92cb48f4bb22",
+            "name": [
+                "Blood Witch",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "02d1f2c6-4dff-4fa0-a4f6-7dcad4ba5061",
+            "name": [
+                "Fell Caller",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "6fe96766-15bb-4e71-a95a-04dbac3c90bf",
+            "name": [
+                "Stormsmith",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "87aba94e-7ffe-44c0-acb0-f5972b3c2bf9",
+            "name": [
+                "Sea Dog",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "dbc4ae51-4412-4357-a919-b453e7ed92c2",
+            "name": [
+                "Efaarit",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        },
+        {
+            "guidStr": "0bf3b116-001c-495c-ac5a-70d3e4202b20",
+            "name": [
+                "Warcasters",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": ""
+        }
+    ]
+}

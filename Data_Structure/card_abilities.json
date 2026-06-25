@@ -1,0 +1,5116 @@
+{
+    "cardAbilities": [
+        {
+            "guidStr": "489829db-c895-454e-931b-7e6a32a1afe3",
+            "name": [
+                "True Mercenary ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for any army. You may only include one model with True Mercenary in your list during list construction.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "424b3035-c610-4107-aacc-0a785cdbc434",
+            "name": [
+                "Companion [Magnus, the Unstoppable]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Magnus, the Unstoppable. If Magnus is destroyed or removed from play, remove this model from play. This model is part of Magnus\u2019 battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a7f6d077-d00e-4486-900b-e186d920277a",
+            "name": [
+                "Companion [Carver Ultimus]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Carver Ultimus. If Carver is destroyed or removed from play, remove this model from play. This model is part of Carver\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7f224381-7054-44db-9667-36116ec388f0",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "68286c96-cef7-43a3-8ff1-4b1587c80e11",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "737641fc-9d57-4f38-bbbe-2e3a69141614",
+            "name": [
+                "Attached",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Before the start of the game, attach this unit to a friendly Faction Leader for the rest of the game. Each Leader can have only one model/unit attached to it. The attached model is part of its Leader's battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "31b4c07f-d11c-4157-8091-c2a32c1ade6f",
+            "name": [
+                "Companion [Exulon Nostilla]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Exulon Nostilla. If Nostilla is destroyed or removed from play, remove this model from play. This model is part of Nostilla\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9c0ca723-47bf-4bf0-be44-40f0daa51978",
+            "name": [
+                "Mercenary [Unlimited - Cygnar] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cygnar.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6bcfedff-bde3-4c2d-9031-e35d9cbaa6dc",
+            "name": [
+                "Mercenary [Unlimited - Cryx, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model/unit will work for Cryx, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "5758784c-1057-4838-8878-dd3edb2b7496",
+            "name": [
+                "Attached",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Before the start of the game, attach this model to a friendly Faction Leader for the rest of the game. Each Leader can have only one model/unit attached to it. The attached model is part of its Leader\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2ec899f2-2362-484f-9ea4-c819b7b6f96c",
+            "name": [
+                "Mercenary [Unlimited - Cygnar and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cygnar and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "fc73504a-65a2-40c0-bda9-5240ee11cbe3",
+            "name": [
+                "Mercenary [Brineblood Marauders]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Brineblood Marauders.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "653ced93-c859-48f6-bc86-b007b0ed7e8d",
+            "name": [
+                "Mercenary Attachment",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Before the start of the game, attach this model/unit to a friendly Leader for the rest of the game. Each Leader can have only one model/unit attached to it. The attached model/unit is part of its Leader\u2019s battlegroup. This model is considered to be the same Faction as its Leader.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "98da5b96-9e4f-44b0-9052-1ada8f68ffe8",
+            "name": [
+                "Mercenary [Brineblood Marauders, Kithguard, and Shadowflame Shard]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Brineblood Marauders, Kithguard, and Shadowflame Shard.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d32bc12e-c7d1-47cd-b405-5899f1f711dc",
+            "name": [
+                "Mercenary [Brineblood Marauders, Kithguard, and Gravediggers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Brineblood Marauders, Kithguard, and Gravediggers.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b02fb34e-00da-41cc-ba7b-887188935d3c",
+            "name": [
+                "Mercenary [Brineblood Marauders, Kithguard, House Kallyss, Storm Legion, and Winter Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Brineblood Marauders, Kithguard, House Kallyss, Storm Legion, and Winter Korps.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f210faac-4234-44b2-bcc9-2d051ffe6d8a",
+            "name": [
+                "Mercenary [Unlimited - Circle, Convergence, Crucible Guard, Cryx, Cygnar, Grymkin, Khador, Legion, Protectorate, Retribution, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Convergence, Crucible Guard, Cryx, Cygnar, Grymkin, Khador, Legion, Protectorate, Retribution, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "615c0813-7483-4f3b-a73e-6774c7e9c01c",
+            "name": [
+                "Animosity [other Archons]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This unit cannot be part of a force that includes Archons other than Death Archons models.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "67e92974-db6e-4cd5-962a-5f9eb41f8e52",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "82f12c2b-744d-43f3-82de-9778d47552c7",
+            "name": [
+                "Animosity [Menite]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This unit cannot be part of a force that includes Menite models.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ffa5585d-13b7-4794-baa2-7fc539c6fcb8",
+            "name": [
+                "Mercenary [Unlimited - Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "3899d339-e58b-40c3-8b95-83f972048c77",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b73189a0-d2c9-4fe0-9341-a5252664bf52",
+            "name": [
+                "Mercenary [Unlimited - Convergence, Cryx, Retribution, and Skorne]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Convergence, Cryx, Retribution, and Skorne.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "03f65a62-6943-4454-b3bb-6137e0ae16c4",
+            "name": [
+                "Mercenary [Unlimited - Circle]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a189910c-9803-43dc-8d0d-80092270c215",
+            "name": [
+                "Command Attachment [Precursor Knights]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Precursor Knight unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "be8939e7-ee8d-4d07-b31f-1647731ec95f",
+            "name": [
+                "Companion [Caine\u2019s Hellslingers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Caine\u2019s Hellslingers. If Caine is destroyed or removed from play, remove this model from play. This model is part of Caine\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bdc88eb0-0594-4b88-a8fb-36c4830c1245",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "458c5daa-bc0a-40da-929d-6cfa2c20ebbf",
+            "name": [
+                "Mercenary [Necrofactorium, Sea Raiders, Reaper Covenant, Dark operations]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Necrofactorium, Sea Raiders, Reaper Covenant, and Dark operations.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ea1553dc-af2c-4b12-aa9d-fe95bd595944",
+            "name": [
+                "Limited Battlegroup [Khythos] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "The only Cohort models that can be in this model's battlegroup are Monstrosities and Cryx warjacks.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a0da34d4-6815-4afa-8667-a244dff6b5c5",
+            "name": [
+                "Cryxian Monstrosity",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is a monstrosity that can be included in a Cryxian warcaster's battlegroup. A Cryxian warcaster can allocate focus points to this model as if it was a warjack. If this model's warcaster is destroyed or removed from the table, it becomes autonomous. A Cryxian warcaster can take control of an autonomous friendly Cryxian monstrosity. To do this, a Cryxian warcaster must spend 1 focus point during its activation while B2B with the autonomous Cryxian monstrosity. The monstrosity must forfeit its Combat Action the turn it becomes controlled. The monstrosity becomes a part of the battlegroup of the warcaster that took control of it.\n\nAt any time during its activation, a Cryxian warcaster can spend focus points to heal damage a monstrosity in its battlegroup in its control range has suffered. For each focus point spent this way, remove 1 damage point.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b66edd53-8de2-4f59-b0dc-e51f5dfee9e6",
+            "name": [
+                "Mercenary [Gravediggers, Kithguard, House Kallyss,  Old Umbrey , Storm Legion, and Winter Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Gravediggers, Kithguard, House Kallyss, Old Umbrey\r\nStorm Legion, and Winter Korps.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ed60441f-34d0-4b28-806f-6613afd57a99",
+            "name": [
+                "Mercenary [Gravediggers, Old Umbrey]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Gravediggers and Old Umbrey.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "53865398-03cd-4ae4-9e9f-fa43f4c5e262",
+            "name": [
+                "Mercenary [Gravediggers, House Kallyss, and Storm Legion]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Gravediggers, House Kallyss, and Storm Legion.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c55fb92b-1869-4c18-9282-cbf293efed54",
+            "name": [
+                "Mercenary [Gravediggers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Gravediggers.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d63cc4ae-db08-4c88-89c2-0f3f8ae07c66",
+            "name": [
+                "Mercenary [Gravediggers, Kithguard, Sea Raiders, and Storm Legion]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Gravediggers, Kithguard, Sea Raiders, and Storm Legion.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "48b25491-013f-4065-b952-037af56e869b",
+            "name": [
+                "Airdropped",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model does not begin the game in play and can only enter play by being airdropped. This model cannot become part of a battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ec71b32b-2ad7-48e7-a704-26e6b536004e",
+            "name": [
+                "Mercenary [Unlimited -Grymkin, Legion, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for\r\nGrymkin, Legion, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ca1e5895-33fa-4844-9170-44b712adac3b",
+            "name": [
+                "Mercenary [Old Umbrey, Winter Korps and Shadowflame Shard]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Old Umbrey, Winter Korps and Shadowflame Shard.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e05155d2-d226-4f08-a1cb-384a849a69c9",
+            "name": [
+                "Mercenary [House Kallyss, Necrofactorium, and Sea Raiders]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for House Kallyss, Necrofactorium, and Sea Raiders.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "60b68b93-a772-498f-bd24-23687160a155",
+            "name": [
+                "Mercenary [House Kallyss and Winter Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for House Kallyss and Winter Korps.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "0f43017f-a3df-44f2-815d-9a690971d7f9",
+            "name": [
+                "Mercenary [House Kallyss]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for House Kallyss.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6b3719fe-bc3f-4b6b-ab44-14fa50b715cf",
+            "name": [
+                "Mercenary [Unlimited - Cryx, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cryx, Cygnar, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c6d8d5c3-613a-48cb-a9fc-37296d77fe1c",
+            "name": [
+                "Mercenary [Unlimited - Cryx, Khador, Protectorate, and Skorne]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cryx, Khador, Protectorate, and Skorne.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "3e947796-ae7e-4293-8631-64a2849a7935",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cryx, Khador, Protectirate, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cryx, and Skorne.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "09ccc488-17ef-488b-8b3d-4338872b3692",
+            "name": [
+                "Mercenary [Unlimited - Cygnar, Khador, Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cygnar, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e524c46a-d130-489c-92d0-0657702f9f21",
+            "name": [
+                "Command Attachment [Mage Hunter]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a small-based Mage Hunter unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "fd149572-547b-4bb9-833a-5612d7698017",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cryx, Cygnar, Khador, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cryx, Cygnar, Khador, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c27b5299-e60d-401e-99c9-223f5905c7db",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for the Crucible Guard.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2cc14094-2806-410f-a7ce-5c1e4761d895",
+            "name": [
+                "Companion [Kapitan Zahara Vilkul]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Kapitan Zahara Vilkul. If Vilkul is destroyed or removed from play, remove this model from play. This model is part of Vilkul's battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "aa5ae511-b81c-479a-a6b1-35429aa6cc7e",
+            "name": [
+                "Mercenary [Sea Raiders and Winter Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Sea Raiders and Winter Korps.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9b18d71a-05ca-4e22-a98e-05520a365484",
+            "name": [
+                "Mercenary [Shadowflame Shard, Reaper Covenant]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for the Shadowflame Shard and Reaper Covenant.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "00dc048c-be3d-4b0d-8cd7-138d4521cbdd",
+            "name": [
+                "Mercenary [Sea Raiders]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for the Sea Raiders.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "23eeddcd-656a-4eaa-b13b-d2fb8ef18707",
+            "name": [
+                "Mercenary [Storm Legion]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for the Storm Legion.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8e019715-011d-49af-a9ef-e6ebd77758c2",
+            "name": [
+                "Mercenary [Winter Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for the Winter Korps.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "243ad4b9-ae9f-40f2-9184-dc9d3896a091",
+            "name": [
+                "Companion [Kommander Tatiana Sikora]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Kommander Tatiana Sikora. If Sikora is destroyed or removed from play, remove this model from play. This model is part of Sikora's battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "475d43ff-e5f2-4021-8736-c1fab4173c50",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, Skorne, and Trollbloods] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "fd35df5d-47a3-4121-bc01-5e1bb313d9ad",
+            "name": [
+                "Mercenary [Unlimited - Circle, Crucible Guard, Cygnar, Khador, Protectorate, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Crucible Guard, Cygnar, Khador, Protectorate, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "891e12c1-e664-4448-96e6-98e23e196f59",
+            "name": [
+                "Companion [Anathia, The Imperishable Desolation]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Anathia, The Imperishable Desolation. If Anathia is destroyed or removed from play, remove this model from play. This model is part of Anathia\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "00093892-a01c-4599-94f8-5f49aee8e48a",
+            "name": [
+                "Companion [Artificer Prime Nemo]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Artificer Prime Nemo. If Nemo is destroyed or removed from play, remove this model from play. This model is part of Nemo\u2019s battlegroup. Place all three Arcane Mechaniks in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a7270b73-f3ed-42ba-9c39-c393405f1274",
+            "name": [
+                "Command Attachment [Arcane Tempest Gun Mages]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Arcane Tempest Gun Mage unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d2ad39ee-92db-4855-a770-cb4e31e9e1b0",
+            "name": [
+                "Companion [Ashlynn d\u2019Elyse, The Queen's Blade]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Ashlynn d\u2019Elyse, The Queen's Blade. If Ashlynn is destroyed or removed from play, remove this model from play. This model is part of Ashlynn\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "eee246f1-d515-4138-a869-de7f7f540d4b",
+            "name": [
+                "Attached [Asphyxious the Hellbringer]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Vociferon is attached to Asphyxious the Hellbringer. Each Leader can have only one model/unit attached to it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "658c884e-e64a-4055-855e-9744169c2da7",
+            "name": [
+                "Companion [Asphyxious the Hellbringer]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Vociferon is included in any force that includes Asphyxious the Hellbringer. If Asphyxious is destroyed or removed from play, remove Vociferon from play. Vociferon is part of Asphyxious\u2019 battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d36d43a5-c431-4fc7-9d57-1324b1906c14",
+            "name": [
+                "Mercenary [Unlimited - Cryx] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cryx.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ba51efa3-c26c-4796-8eca-81c4df37c685",
+            "name": [
+                "Companion [Assault Kommander Strakhov]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Assault Kommander Strakhov. If Strakhov is destroyed or removed from play, remove this model from play. This model is part of Strakhov\u2019s battlegroup. Place both Elite Kommandos in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "0ce548e4-7d49-4e9a-8bbd-7c7cf4e95328",
+            "name": [
+                "Command Attachment [Reaver]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Reaver unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "46eec0db-6b35-4cd1-a5ea-a30960129827",
+            "name": [
+                "Command Attachment [Bane Knight]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Bane Knight unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ef70ca73-8020-4263-a8fa-7816aa2940d1",
+            "name": [
+                "Attachment [Bane Warrior]",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This attachment can be added to a Bane Warrior unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a753efc4-977b-472e-9b8d-4b8e749fb9cb",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model/unit will work for Circle, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b5b03a3f-7d12-4474-8fcf-df5b85f37e34",
+            "name": [
+                "Companion [Barnabas, Lord of Blood]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Barnabas, Lord of Blood. If Barnabas is destroyed or removed from play, remove this model from play. This model is part of Barnabas\u2019 battlegroup. Place all three Bone Shakers in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8b53d71a-3688-47f1-8230-6cd17b30c98d",
+            "name": [
+                "Command Attachment [Battle Mechanik]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Battle Mechanik unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "5c01b352-df96-41da-aecb-5db2d512436b",
+            "name": [
+                "Companion [Bethayne, Voice of Everblight]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Belphagor is included in any force that includes Bethayne, Voice of Everblight. If Bethayne is destroyed or removed from play, remove Belphagor from play. Belphagor is part of Bethayne\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c9034feb-67da-4d35-88aa-3e4bf006d7c5",
+            "name": [
+                "Companion [Lanyssa Ryssyl, Aransor of Sorrows]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Lanyssa Ryssyl, Aransor of Sorrows. If Ryssyl is destroyed or removed from play, remove this model from play. This model is part of Ryssyl\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6a7ad422-27e9-4d21-a6a6-a44b5a5de6c1",
+            "name": [
+                "Command Attachment [Mechanithralls or Bile Thralls]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Mechanithrall or Bile Thrall unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "804fd54b-5740-4077-8f4e-4c3107783940",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cryx, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cryx, Cygnar, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2d5a9d29-7e62-44d0-9866-9d766117aff5",
+            "name": [
+                "Command Attachment [Black Dragons]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Black Dragon unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "086ba6ea-40a0-443b-9ea6-b517b9f04425",
+            "name": [
+                "Command Attachment [Blighted Ogrun Warmongers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Blighted Ogrun Warmonger unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "0831e86b-b7c5-4eb0-b7b6-b9d5a8424b8e",
+            "name": [
+                "Command Attachment [Blighted Ogrun Warspears]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Blighted Ogrun Warspear unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "44cc2e6b-2250-4c85-901c-52ff5b212f4c",
+            "name": [
+                "Command Attachment [Blighted Trollkin]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Blighted Trollkin unit.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "01daa8a5-3911-44f0-a132-b039356a62cc",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cryx, Cygnar, Khador and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for  Crucible Guard, Cryx, Cygnar, Khador and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "1bccaa5d-cc84-4211-8b13-a03040784844",
+            "name": [
+                "Attached [Borka Kegslayer]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is attached to Borka Kegslayer. Each Leader can have only one model/unit attached to it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d4b4b33a-46f8-4a3f-b97e-02beba87f438",
+            "name": [
+                "Companion [Borka Kegslayer]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Borka Kegslayer. If Borka Kegslayer is destroyed or removed from play, remove this model from play. This model is part of Borka Kegslayer\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7ffdd7c2-87e1-416f-8b82-2b126f635338",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cygnar, Khador, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cygnar, Khador, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "20b39261-1f0a-451d-86b6-2b154bf1fe84",
+            "name": [
+                "Attachment [Mechanithrall] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This weapon attachment can be added to a Mechanithrall unit. Each unit can have up to three weapon attachments added to it. For each weapon attachment added, reduce the number of Grunt models in the unit by one.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "add64bb1-a4fa-4102-bf82-e77f2c121ed1",
+            "name": [
+                "Command Attachment [Trencher Weapon Crew]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trencher Weapon Crew unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8489419e-b281-4e5d-ba9a-d341e9e2c3e0",
+            "name": [
+                "Limited Employment",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model/unit can be included only in Mercenary forces.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e6541c45-ebeb-4739-af2f-5e2a26f79ad3",
+            "name": [
+                "Command Attachment [Cataphract]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Cataphract unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a9d38a17-12b1-4b0f-8bbb-2a3a03fba590",
+            "name": [
+                "Command Attachment [Convergence non-character unit]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Convergence unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "266e3add-5bf5-46d1-a37c-c36109aa4cbf",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, Khador, and Protectorate.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "96350b9c-cae8-4791-a3d5-9fb05b9ffd84",
+            "name": [
+                "Command Attachment [Gravedigger Commandos]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Gravedigger Commandos unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f9da2c8b-04f7-49c3-9058-3c7badebb41f",
+            "name": [
+                "Crater",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This terrain feature is rough terrain.\n\nA model completely within the area of this terrain feature has cover from attacks made by models that are not within the area of the same terrain feature. Models completely within this terrain feature do not suffer blast damage unless the origin of the damage is centered in the area of the same terrain feature. When drawing line of sight to a model not completely within a crater terrain feature, ignore models that are completely within a crater, open grave template, or one or more trench templates.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7cb1e4f3-78bf-499d-b007-e4f632fb913a",
+            "name": [
+                "Command Attachment [Cultist]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Cultist unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "3be7d613-8241-4aab-b82b-a27195285e5e",
+            "name": [
+                "Mercenary [Unlimited - Circle, Retribution, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Retribution, and Trollbloods",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "df056517-29d8-4158-8f93-f9336e27c56a",
+            "name": [
+                "Companion [Dahlia Hallyr]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Skarath is included in any force that includes Dahlia Hallyr. If Dahlia is destroyed or removed from play, remove Skarath from play. Skarath is part of Dahlia\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "5125dfc1-bc5a-446a-a27c-ec9adea525d3",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, Khador, Protectorate, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, Khador, Protectorate, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "5273dc84-9c7e-473b-8ad4-3d7704e686f6",
+            "name": [
+                "Command Attachment [Dawnguard Invictors]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Dawnguard Invictor unit.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d2d3f507-77f3-4a09-8402-37985c1d2c66",
+            "name": [
+                "Command Attachment [Dawnguard Sentinel]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Dawnguard Sentinel unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "615cf1e6-715c-4c8f-9a40-8c8d9acfe39a",
+            "name": [
+                "Dense Fog",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "A dense fog terrain feature is represented by clusters of cloud effect teplates.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8ebbe19d-36bf-4ae4-819b-7e1018b6da6d",
+            "name": [
+                "Clearing Fog",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "If both players agree, you can play with randomly clearing patches of fog. Starting with the first player\u2019s second turn, at the start of each player\u2019s turn, roll a d6 for each dense fog cloud effect template in play. On the roll of a 1, the template is removed from the table.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "05f7449a-03de-438d-a387-656d2af431cd",
+            "name": [
+                "Attached [Mortenebra]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Deryliss is attached to Master Necrotech Mortenebra. Each Leader can have only one model/unit attached to it.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bb614e2c-74bf-4446-bbc9-36731414ac51",
+            "name": [
+                "Companion [Master Necrotech Mortenebra]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Master Necrotech Mortenebra. If Mortenebra is destroyed or removed from play, remove this model from play. This model is part of Mortenebra\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9d59800b-40fa-41bf-8f08-68479ddc6eb2",
+            "name": [
+                "Companion [Dominar Morghoul]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Dominar Morghoul. If Morghoul is destroyed or removed from play, remove this model from play. This model is part of Morghoul\u2019s battlegroup. Place both Paingiver Escorts in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6dc6200c-6850-431b-9f70-bb0f3d43e9b1",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, and Skorne]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle,\r\nLegion, and Skorne.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "be7f17bb-a6da-4979-8049-f4905320401f",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, Khador, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, Khador, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "4fc415e9-110b-4501-908a-f5c9b652d102",
+            "name": [
+                "Command Attachment [Small-based Drudge]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a small based Drudge unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6997522e-6a01-429f-afc0-fee8d41db61d",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, Khador, and Protectorate.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9bf7b38f-ac01-4915-b9c0-25512e0b1e32",
+            "name": [
+                "Dust Devil",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "A dust devil terrain feature can be represented by a 3\" template or by another piece of terrain that simulates a vortex of wind. \n\nWhen a model within  the area of this terrain feature is targeted by a ranged attack it gains +2 DEF. When a model within the area of this terrain makes a ranged attack the attack suffers \u20133 RNG",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "cc8a5e19-4829-4009-be94-3190ad786ffd",
+            "name": [
+                "Mercenary [Unlimited - Circle, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Skorne, and Trollbloods",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "36e325a2-c476-400b-be05-2a6eaab5cf94",
+            "name": [
+                "Companion [Witch Coven of Garlghast]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes the Witch Coven of Garlghast. If the models in the the Witch Coven of Garlghast are destroyed or removed from play, remove this model from play. This model is part of the Witch Coven of Garlghast\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2c47457f-fd1e-4e87-b39f-0704e963557a",
+            "name": [
+                "Mercenary [Unlimited - Cygnar, Khador, Protectorate, Retribution]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cygnar, Khador, Protectorate, and Retribution.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "057a787c-e3a4-4b37-9141-6c1bbe730237",
+            "name": [
+                "Companion [Makeda & the Exalted Court]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Makeda & the Exalted Court. If Makeda is destroyed or removed from play, remove this model from play. This model is part of Makeda\u2019s battlegroup. Place both Exalted Guardians in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "56a61364-11fc-4cf3-acb9-5bdf532c2936",
+            "name": [
+                "Command Attachment [Exemplar Cinerators]",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Exemplar Cinerator unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "fbae88fd-b0c6-4d22-8911-107454561c6a",
+            "name": [
+                " Command Attachment [Exemplar Errant]",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Exemplar Errant unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "77003606-5ddf-4a1a-8232-7eb79f2285bd",
+            "name": [
+                "Command Attachment [Immortals]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Immortal unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d9ff8973-1060-4553-b665-299dda089ef2",
+            "name": [
+                "Attached",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Before the start of the game, attach this model/unit to a friendly Faction Leader for the rest of the game. Each Leader can have only one model/unit attached to it. The attached model/unit is part of its Leader\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "62a0f0e6-9ba9-463e-a072-d36f2a2050e9",
+            "name": [
+                "Command Attachment [Farrow Brigand]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Farrow Brigand unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "238bd83c-e975-4b47-906f-9022a176ccf8",
+            "name": [
+                "Mercenary [Unlimited - Cryx, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cryx,\r\nCygnar, and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9504ebc9-be2b-4725-8843-82a7bec707e6",
+            "name": [
+                "Command Attachment [Flameguard Cleanser]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Flameguard Cleanser unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b4d393fe-0271-4598-88d9-6a1a76a06d53",
+            "name": [
+                "Forests",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This terrain feature is rough terrain and provides concealment to a model completely inside its area.\n\nWhen drawing line of sight to or from a point to or from a point within a forest terrain feature, the line of sight can pass through up to 3\" of the forest without being blocked; anything more blocks it. When a model outside a forest attempts to draw line of sight to another point also outside that forest, the forest blocks line of sight to anything beyond it. Thus, a model can see 3\" into or out of a forest but not completely through one regardless of how thick it is. \n\nForest do not block line of sight to huge-based models. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9ad4f569-5b16-4f90-8625-fe7c7e050974",
+            "name": [
+                "Orgoth Monstrosity",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is a monstrosity that can be included in any Orgoth warcaster's battlegroup. An Orgoth warcaster can allocate focus points to this model as if it was a warjack. If this model's warcaster is destroyed or removed from the table, it becomes autonomous. An Orgoth warcaster can take control of an autonomous friendly Orgoth monstrosity. To do this, an Orgoth warcaster must spend 1 focus point during its activation while B2B with the autonomous Orgoth monstrosity. The monstrosity must forfeit its Combat Action the turn it becomes controlled. The monstrosity becomes a part of the battlegroup of the warcaster that took control of it.\n\nAt any time during its activation, an Orgoth warcaster can spend focus points to heal damage a monstrosity in its battlegroup in its control range has suffered. For each focus point spent this way, remove 1 damage point.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "79e049e9-01e8-4c77-9d72-687986a47a99",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9448697c-70bb-40fd-a92a-a741a3834c65",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cygnar, Khador, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cygnar, Khador, Legion, Skorne, and Trollbloods",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "4732547b-f10a-4a10-8be7-0750e2660b20",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar, and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "34f0cb48-4a84-447e-9f56-09c366c2879b",
+            "name": [
+                "Command Attachment [Gravedigger Ranger]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                " This command attachment can be added to a Gravedigger Ranger unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "99abefaf-38f8-457f-9b60-37e4b7a0c386",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cryx, Cygnar, Khador, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cryx, Cygnar, Khador, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "43f60f7f-8571-46aa-a485-798d703e6063",
+            "name": [
+                "Companion [Major Prime Victoria Haley]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Major Prime Victoria Haley. If Haley Prime is destroyed or removed from play, remove this model from play. This model is part of Haley Prime\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ab041a78-03d8-4642-905e-e75cb5029191",
+            "name": [
+                "Command Attachment [Hammerfall High Shield Gun Corps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Hammerfall High Shield Gun Corps unit.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ca5df10f-2183-4f1c-a356-fe290a24cc60",
+            "name": [
+                "Hill",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "A hill terrain feature is open terrain, and models move up and down it normally. A hill terrain features provides elevation to models that are completely within its area. Hills do not provide cover or concealment, but tall hills can block line of sight. A model moving off of a hill does not fall or suffer falling damage.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "26b9177b-8251-4387-8bb9-ebbbfd1bdf6c",
+            "name": [
+                "Companion [Hoarluk Doomshaper, Dire Prophet]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "The Scroll Bearer is included in any force that includes Hoarluk Doomshaper, Dire Prophet. If Hoarluk is destroyed or removed from play, remove the  Scroll Bearer from play. The  Scroll Bearer is part of Hoarluk\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c41958cf-a813-4701-9104-cface5a55c51",
+            "name": [
+                "Command Attachment [Hollowmen]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Hollowmen unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "13649168-0814-46ff-9328-80dff74abd89",
+            "name": [
+                "Command Attachment [Holy Zealot]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Holy Zealot unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "cd0b2c5d-3362-4a0d-ab1b-13ad6e35449e",
+            "name": [
+                "Mercenary [Unlimited - the Crucible Guard, Cygnar and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for the Crucible Guard, Cygnar and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f98d2dc4-bf77-4925-91c3-d6f6fe7639a7",
+            "name": [
+                "Command Attachment [House Ellowuyr Swordsmen]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a House Ellowuyr Swordsmen unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7eb691b5-071b-4998-9457-0d7208326efc",
+            "name": [
+                "Command Attachment [Houseguard Halberdier]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Houseguard Halberdier unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "64f42fd7-539d-4811-a05f-3befe3e4be61",
+            "name": [
+                "Command Attachment [Houseguard Rifleman]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Houseguard Rifleman unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "89b804dc-5fa7-4a64-bd3c-e4f784c8753f",
+            "name": [
+                "Companion [Hunters Grim]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Hunters Grim. If Grim is destroyed or removed from play, remove this model from play. This model is part of Grim\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "966e7cd8-1e14-4172-b1cb-150d71361028",
+            "name": [
+                "Command Attachment [Idrian Skirmishers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Idrian Skirmisher unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f248fe87-2c37-4afa-8b7b-4959725e62bb",
+            "name": [
+                "Mercenary [Unlimited - Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ff551a32-79d7-4c33-a618-97cfdd4d4d91",
+            "name": [
+                "Command Attachment [Iron Fang Pikemen]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to an Iron Fang Pikeman unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bbade664-9834-4154-bc5f-e88aaf7f71e2",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cryx, Cygnar, Infernals, Khador, Protectorate, and Retribution]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cryx, Cygnar, Infernals, Khador, Protectorate, and Retribution.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e95b8cc7-2936-48ff-b45f-23a8d3a532de",
+            "name": [
+                "Companion [Kaya the Moonhunter]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes Kaya the Moonhunter. If Kaya is destroyed or removed from play, remove this model from play. This model is part of Kaya's\u2019 battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "73365247-50e8-4a6e-b987-0a5db92ad23d",
+            "name": [
+                "Command Attachment [Kayazy Assassins]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Kayazy Assassin unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "4ce3791a-384f-4fc1-a741-ffc11671ee45",
+            "name": [
+                "Mercenary [Unlimited - Khador and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Khador and the Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ad85b000-c1b0-4152-a764-0c3d71497978",
+            "name": [
+                "Command Attachment [Kithguard Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Kithguard Infantry unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bcc8c455-c627-4b70-bc06-cb1d7a2c4916",
+            "name": [
+                "Companion [Kithguard Journeyman]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes the Kithguard Journeyman. If the Kithguard Journeyman is destroyed or removed from play, remove this model from play. This model is part of the Kithguard Journeyman's\u2019 battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "76131787-fef5-46b6-995e-5c6d596f47ce",
+            "name": [
+                "Command Attachment [Knights Exemplar]",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Knights Exemplar unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "215100f1-7833-436b-9cbe-5ff6d8ae35e7",
+            "name": [
+                "Mercenary [Unlimited - Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f7d832b5-2a86-4e9a-9e40-cb51f3bd3128",
+            "name": [
+                "Companion [Kommander Zoktavir, the Butcher Unleashed]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Kommander Zoktavir, the Butcher Unleashed. If the Butcher is destroyed or removed from play, remove this model from play. This model is part of the Butcher\u2019s battlegroup. Place both War Argus in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "45f46277-f2ba-4b1e-b0b0-a39c854e473c",
+            "name": [
+                "Weapon Attachment [Kriel Warrior]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This weapon attachment can be added to a Kriel Warrior unit. Each unit can have up to three weapon attachments added to it. For each weapon attachment added, reduce the number of Grunt models in the unit by one.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "4c28c93d-07c1-4503-800f-cd2944ec7573",
+            "name": [
+                "Command Attachment [Kriel Warrior]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Kriel Warrior unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "89f0a107-8dea-4eaa-846a-a66541ddc997",
+            "name": [
+                "Command Attachment [Krielstone Bearer & Stone Scribes]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Krielstone Bearer & Stone Scribe unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a6be1fdf-6d71-4354-88a6-7b1769d33c35",
+            "name": [
+                "Mercenary [Unlimited - Cygnar, Khador, Protectorate, and Retribution]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Cygnar, Khador, Protectorate, and Retribution.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "922ca531-0308-4495-addb-da54c084c484",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cygnar, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cygnar, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "a99a768b-1ff6-4bbb-9d47-d2576fffe9d9",
+            "name": [
+                "Animosity [Blighted]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model cannot be part of a force that includes Blighted models.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ace25326-f837-4fab-8fc0-863057fd0d11",
+            "name": [
+                "Command Attachment [small-based Legionnaire]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                " This command attachment can be added to a small-based Legionnaire unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8e08f2dc-b017-4350-92fb-4651d5e6d806",
+            "name": [
+                " Command Attachment [small-based Liegeman]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a small-based Liegeman unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bc39ea8e-5f91-484a-84f5-3937aa629098",
+            "name": [
+                "Command Attachment [Long Gunner Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Long Gunner Infantry unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e53909df-70ee-43a7-aef3-14b8cd6e6e08",
+            "name": [
+                "Mercenary [Unlimited - Circle, Crucible Guard, Cygnar, Retribution, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Crucible Guard, Cygnar, Retribution, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7f27a787-6d79-4e52-811c-f2486281459b",
+            "name": [
+                "Animosity [Saxon Orrik]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This unit cannot be part of a force that includes Saxon Orrik.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b6a77f64-52a3-40f7-a044-13d3d55a97d5",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cryx, Cygnar, Khador, Protectorate, and Retribution]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cryx, Cygnar, Khador, Protectorate, and Retribution.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7a9d9593-24ea-460f-a724-98d2f2a051da",
+            "name": [
+                "Weapon Attachment [Mage Hunter Infiltrators or Mage Hunter Strike Force]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This weapon attachment can be added to a Mage Hunter Infiltrators or Mage Hunter Strike Force unit. Each unit can have up to three weapon attachments added to it. For each weapon attachment added, reduce the number of Grunt models in the unit by one.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9bac2207-657f-4f06-bdad-1fe977977b69",
+            "name": [
+                "Command Attachment [Mage Hunter Strike Force]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Mage Hunter Strike Force unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "78d3472f-a3d0-4964-8eb2-fc8c2dcac69f",
+            "name": [
+                "Command Attachment [Man-O-War Bombardier]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Man-O-War Bombardier unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f48a57b1-e73e-4dc9-b195-8fbdc7ca4e64",
+            "name": [
+                "Command Attachment [Man-O-War Demolition Korps]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Man-O-War Demolition Korps unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "29d757cb-849e-4737-8915-ee3eb09eee7d",
+            "name": [
+                "Command Attachment [Man-O-War Shocktroopers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Man-O-War Shocktrooper unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9b15b9c8-56c7-48c8-9632-b6d16f3d2760",
+            "name": [
+                "Command Attachment [medium-based Marauder Crew]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a medium-based Marauder Crew unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7acf1ec5-5ae8-45c8-b536-b6deb44bf722",
+            "name": [
+                "Command Attachment [medium-based Marauder Crew]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a medium-based Marauder Crew unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ddd14da8-75c9-4d92-b669-894f51327ad4",
+            "name": [
+                "Mercenary [Unlimited - Circle, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Legion, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "562ddae1-d480-4198-92dc-197e40c86d0a",
+            "name": [
+                "Command Attachment [Sea Dog Pirates]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Sea Dog Pirate unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f2f1d5eb-0328-4188-af07-385a9084e468",
+            "name": [
+                "Command Attachment [Neigh Slayers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Neigh Slayer unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "77010803-960a-4fce-85b0-d1165aa008cb",
+            "name": [
+                "Command Attachment [Tharn Bloodtracker]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Tharn Bloodtracker unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6c6a3b95-461d-40e1-90ca-b3037efa768b",
+            "name": [
+                "Companion [Obavnik Kommander Zerkova]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Obavnik Kommander Zerkova. If Zerkova is destroyed or removed from play, remove this model from play. This model is part of Zerkova\u2019s battlegroup. Place both Reaver Guards in play at the start of the game.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "5fea354e-7888-428e-aca1-578e860d7423",
+            "name": [
+                "Mercenary [Unlimited - Circle, Crucible Guard, Cryx, Cygnar, Khador, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Crucible Guard, Cryx, Cygnar, Khador, Legion, Skorne, and Trollbloods.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "56910492-e2f2-4ea7-9960-92dfcf13f43a",
+            "name": [
+                "Orbit",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model does not begin the game in play and does not activate. Ths model cannot be targeted or hit by attacks made by the model that put it into play. If the model that put it inot play is destroyed or removed from play, remove this model from play. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bbddf1cc-bd1f-42ac-8de6-7529c0dc6d6f",
+            "name": [
+                "Command Attachment [Piggyback]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Piggyback unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bb3a1a5d-eb54-4fc3-9ea9-8ee927ebdd81",
+            "name": [
+                "Command Attachment [Praetorian Karax]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Praetorian Karax unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "47e0a399-1a92-4599-9ca4-28a1cc6a4be4",
+            "name": [
+                "Command Attachment [Praetorian Swordsmen]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Praetorian Swordsman unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "edb52c1d-9352-452b-a4ac-7225b14b56a6",
+            "name": [
+                "Command Attachment [small-based Pyg]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a small-based Pyg unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c13daa6f-3839-459e-b5f8-ee52424bf158",
+            "name": [
+                "Command Attachment [Pyg Bushwacker]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Pyg Bushwacker unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "092ae84e-713a-4538-b976-31dcf169d550",
+            "name": [
+                "Command Attachment [Quick Fang Stalkers and Quick Fang Wind Strikers ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to Quick Fang Stalkers and Quick Fang Wind Strikers units.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "daf1f131-a1a0-4cbf-b533-9a1ad11a3264",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cryx, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cryx, Cygnar, and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "487252d2-e1d1-4b66-b350-6b47fdf4ba88",
+            "name": [
+                "Mercenary [Unlimited - Cryx, Cygnar, Khador, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work\r\nfor Cryx, Cygnar, Khador, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d940ee6e-c967-4d65-bde3-1c2b9fa6c35b",
+            "name": [
+                "Command Attachment [Reeve of Orboros]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Reeve of Orboros unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e894852a-9606-40d9-a7ab-82485ce153f1",
+            "name": [
+                "Mercenary [Universal]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for all Factions.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8fbff61d-5e67-41e7-874c-66336c8eba6a",
+            "name": [
+                "Weapon Attachment [Revenant Crew of the Atramentous] ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This weapon attachment can be added to a Revenant Crew of the Atramentous unit. Each unit can have up to three weapon attachments added to it. For each weapon attachment added, reduce the number of Grunt models in the unit by one.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b6b2f4d5-ee17-40e2-95f3-df85978158d3",
+            "name": [
+                "Companion [Saeryn, Talon of Everblight]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any force that includes Saeryn, Talon of Everblight.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d2a46885-8205-4172-860f-82f384c8fe65",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cryx, Cygnar, Khador, Legion, Protectorate, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cryx, Cygnar, Khador, Legion, Protectorate, Skorne, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f6782ad5-621a-4597-8d2e-25d882224530",
+            "name": [
+                "Command Attachment [Satyxis Blood Witches]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                " This command attachment can be added to a Satyxis Blood Witch unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f439cd94-179f-45ab-ac2d-4f6c73a9a4d1",
+            "name": [
+                "Command Attachment [Satyxis Raiders]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Satyxis Raider unit",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "6d20da17-0b56-498e-88f2-ea60c2abe3b7",
+            "name": [
+                "Command Attachment [Scattergunner]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Scattergunner unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e138efdb-40bf-405a-a20e-e5e6fc38134c",
+            "name": [
+                "Command Attachment [Scharde Pirates]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Scharde Pirate unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "92f6b849-2d0c-4d0a-ada7-4fa7555b4ed4",
+            "name": [
+                "Companion [The Old Witch of Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model is included in any army that includes The Old Witch of Khador. If the Old Witch is destroyed or removed from play, remove this model from play. This model is part of the Old Witch\u2019s battlegroup.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "81166a24-64ad-4eb8-8a3c-d9f2f6ed17d2",
+            "name": [
+                "Mercenary",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model will work for Cygnar, Khador, and the Retribution.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "3f660b40-8d5c-413e-95ab-f3799ed6d88c",
+            "name": [
+                "Command Attachment [Soulless]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a soulless unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "67154b3d-0adc-4ba0-86af-6c034bfdc209",
+            "name": [
+                "Command Attachment [Trollkin Champion or Trollkin Warder]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trollkin Champion or Trollkin Warder unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "0d7a723c-6e40-4b5e-adb7-ab44c663bc7d",
+            "name": [
+                "Arcane Current",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "When a model in base contact with the Soul Cairn casts a spell and is the point of origin for the spell, the RNG of the spell is increased by 3. This has no effect on spells with a RNG of Ctrl or Self. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "61b2744f-5114-41b2-b275-11964c4b4732",
+            "name": [
+                "Soul Vault ",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "A model with a Soul Taker special rule beginning its activation while gaining elevation from the Soul Cairn gains one soul token. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e09a0f87-b8ee-411f-ac29-203b527d4374",
+            "name": [
+                "Terrain [Soul Cairn]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "The Soul Cairn is a hill terrain feature that also provides cover. A model gaining elevation from the Soul Cairn does not also gain cover from it. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "472e3e30-fbdb-480f-ac63-c59b78fb7878",
+            "name": [
+                "Command Attachment [Stormblade Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Stormblade Infantry unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "41ac7664-b4c0-407f-89cf-3ebde0e6b5b8",
+            "name": [
+                "Weapon Attachment [Stormblade Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This weapon attachment can be added to a Stormblade Infantry unit. Each unit can have up to three weapon attachments added to it. For each weapon attachment added, reduce the number of Grunt models in the unit by one.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8893801d-5656-4979-a28a-6275fe5a4088",
+            "name": [
+                "Command Attachment [Strider Scouts]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Strider Scout unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bb6cf71b-4c2e-4a94-84a9-ca2f3db8dcbb",
+            "name": [
+                "Mercenary [Unlimited - Circle, Cryx, and Skorne]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Cryx, and Skorne.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "bb910e94-1136-411a-a521-c09e1e2a65ef",
+            "name": [
+                "Command Attachment [Sword Knights]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Sword Knight unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "51d290cb-00d5-43cc-ba71-a580842ddd50",
+            "name": [
+                "Mercenary [Unlimited - Crucible Guard, Cygnar, and Khador]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Crucible Guard, Cygnar and Khador.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "03cf2751-256f-4974-a1a3-42457f5351f3",
+            "name": [
+                "Command Attachment [Temple Flameguard]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Temple Flameguard unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "7340d7b1-7967-4b07-bc85-bc172315a5cd",
+            "name": [
+                "Command Attachment [Tharn Bloodweaver]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Tharn Bloodweaver unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "db74085c-53bc-4f6b-aebd-76636afff286",
+            "name": [
+                "Command Attachment [Tharn Ravager]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Tharn Ravager unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b3313e6c-023b-48d5-84e5-945ee63a7b63",
+            "name": [
+                "Mercenary [Unlimited - Circle, Grymkin, Legion, Skorne, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Grymkin, Legion, Skorne, and Trollbloods",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "380efa0d-46c3-4758-9631-1991c0b18595",
+            "name": [
+                "Command Attachment [Trencher Commandos]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trencher Commando unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ad12cc27-3389-4401-a928-fa8fb64abece",
+            "name": [
+                "Command Attachment [Trencher Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trencher Infantry unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "002ccd23-1fba-40b7-9854-1a237ef4623d",
+            "name": [
+                "Command Attachment [Trencher Long Gunner]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trencher Long Gunner unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "d2d9e48a-581f-493e-bc91-d8bcdc044ca8",
+            "name": [
+                "Command Attachment [Trollkin Fennblades]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Trollkin Fennblade unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "e070895e-43ab-4f23-9d39-e61de77bd71f",
+            "name": [
+                "Mercenary [Unlimited - Circle, Crucible Guard, Cygnar, Khador, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Crucible Guard, Cygnar, Khador, and Trollbloods.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "129fc275-7433-45d9-935d-2e8b389b5d4b",
+            "name": [
+                "Command Attachment [Venator Reivers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Venator Reiver unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "194afec8-f7a7-4ee2-a23d-9a607afe5b7d",
+            "name": [
+                "Mercenary [Unlimited - Circle, Crucible Guard, Cygnar, and Trollbloods]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Circle, Crucible Guard, Cygnar, and Trollbloods.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "63f51f88-a68b-411a-aad6-ed36433f4cb3",
+            "name": [
+                "Wall",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This terrain feature is an obstacle that grants cover.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ff0f5c0e-9e12-40cc-93d4-b24d377c62c6",
+            "name": [
+                "Mercenary [Unlimited - Convergence, Crucible Guard, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Convergence, Crucible Guard, Cygnar, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "faab5ef2-1a74-4d1b-9860-b81cf4b06056",
+            "name": [
+                "Mercenary [Unlimited - Convergence, Crucible Guard, Cygnar, Khador, and Protectorate]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "In games played in the Unlimited Arena this model will work for Convergence, Crucible Guard, Cygnar, Khador, and Protectorate.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2851fe91-7669-44ea-9232-b6c8f1485153",
+            "name": [
+                "Command Attachment [Winter Guard Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Winter Guard Infantry unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "4a2cc3b3-1fbc-4407-ba0f-b2ff4b7cad0f",
+            "name": [
+                "Command Attachment [Winter Korps Snipers]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Winter Korps Snipers unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "386d6f95-6601-4b63-9642-a68aeb871676",
+            "name": [
+                "Command Attachment [Winter Korps Infantry]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Winter Korps Infantry unit.\r",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c2050e4d-e340-4886-9207-876b26d4e6f4",
+            "name": [
+                "Command Attachment [Wolves of Orboros]",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This command attachment can be added to a Wolves of Orboros unit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

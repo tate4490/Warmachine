@@ -1,0 +1,340 @@
+{
+    "matchTypes": [
+        {
+            "guidStr": "be4d48c5-2061-48a9-b6a3-f0d9e76986fd",
+            "name": [
+                "Duo-Grand Melee",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "description": [
+                "Description",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 100,
+            "commandCardCount": 5,
+            "leaders": 2,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "79881378-439a-4566-a3cb-49821bf2849d",
+            "name": [
+                "Duo-Pitched Battle",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "description": [
+                "Description",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 75,
+            "commandCardCount": 5,
+            "leaders": 2,
+            "minBg": 2,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "6cb9ae45-4d0e-4818-b200-3ae4bf4555af",
+            "name": [
+                "Duo-Skrimish",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "description": [
+                "Description",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 50,
+            "commandCardCount": 5,
+            "leaders": 2,
+            "minBg": 2,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "df42f525-e104-412b-89d6-2cab59a09ee5",
+            "name": [
+                "Grand Melee",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "description": [
+                "Desc",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 100,
+            "commandCardCount": 5,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "0e213e2a-112c-40df-80f4-d2c38dec5d46",
+            "name": [
+                "Pitched Battle",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 75,
+            "commandCardCount": 5,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "7a00938a-b406-499d-8ad7-610d51f81d74",
+            "name": [
+                "Quick Start",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "testing",
+            "deleted": false,
+            "dataBundleId": "2b6c5995-4b27-4a2b-92e0-b61b6346f9c4",
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 30,
+            "commandCardCount": 0,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [
+                "008f591a-558a-4d09-8c76-fb4a03aeb545",
+                "477141fb-6c56-4661-bfda-2e1f4afe52dd",
+                "0f1e12fe-a620-445a-ae18-a28f8b8afeba",
+                "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d"
+            ],
+            "freeKeywords1": [],
+            "isQuickStart": true
+        },
+        {
+            "guidStr": "df967fd0-3ea2-49a7-ac8e-0537cb640eb0",
+            "name": [
+                "Recon Mission",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 30,
+            "commandCardCount": 5,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 1,
+            "prohibKeywords": [
+                "008f591a-558a-4d09-8c76-fb4a03aeb545",
+                "477141fb-6c56-4661-bfda-2e1f4afe52dd",
+                "0f1e12fe-a620-445a-ae18-a28f8b8afeba",
+                "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d"
+            ],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "cbc7e84e-c3db-458a-aa25-6fe081977047",
+            "name": [
+                "Skirmish",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 50,
+            "commandCardCount": 5,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [],
+            "reqKeywordCount": 0,
+            "prohibKeywords": [
+                "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d",
+                "0f1e12fe-a620-445a-ae18-a28f8b8afeba",
+                "008f591a-558a-4d09-8c76-fb4a03aeb545"
+            ],
+            "freeKeywords1": [],
+            "isQuickStart": false
+        },
+        {
+            "guidStr": "814328e6-1071-4669-acc0-10f713dcac08",
+            "name": [
+                "Total War",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
+            "description": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "points": 100,
+            "commandCardCount": 5,
+            "leaders": 1,
+            "minBg": 1,
+            "nonBGKeywordIds": [
+                "0693f532-657a-45bc-b534-79f6ca32e871",
+                "4d003b2f-e58b-4332-b712-c2a0be3dc46f"
+            ],
+            "prohibCardTypes": [],
+            "reqKeywordIds": [
+                "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d",
+                "0f1e12fe-a620-445a-ae18-a28f8b8afeba"
+            ],
+            "reqKeywordCount": 1,
+            "prohibKeywords": [],
+            "freeKeywords1": [
+                "231bbe5a-d5aa-4f93-a604-76e1ca9ede1d",
+                "0f1e12fe-a620-445a-ae18-a28f8b8afeba",
+                "008f591a-558a-4d09-8c76-fb4a03aeb545"
+            ],
+            "isQuickStart": false
+        }
+    ]
+}
