@@ -30,22 +30,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -81,22 +76,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "c418be72-6b99-4400-890c-463a683527a3",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -132,22 +122,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -183,22 +168,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -234,22 +214,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -293,23 +268,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f"
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -344,21 +314,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -394,22 +360,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -445,23 +406,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "c418be72-6b99-4400-890c-463a683527a3",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -496,22 +452,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -548,22 +499,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -599,22 +545,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -655,22 +596,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -706,22 +642,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -761,22 +692,17 @@
             ],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -812,21 +738,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -862,22 +784,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -913,22 +830,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -966,21 +878,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -1015,22 +924,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1066,22 +970,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1132,29 +1031,26 @@
             ],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
+                "75cb382a-e57c-4ae2-8ad8-643e77695bc2",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
                 "5cbc6099-c032-4d2a-8581-5ffdd47de0b8",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "7dd6e588-6825-4c4e-8408-da45aff2d2c2",
                 "bedd3764-e65f-42f0-ac62-56da18c67d7f",
-                "75cb382a-e57c-4ae2-8ad8-643e77695bc2",
-                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "7dd6e588-6825-4c4e-8408-da45aff2d2c2",
+                "75cb382a-e57c-4ae2-8ad8-643e77695bc2",
+                "b1541028-e3bd-4aa8-87c7-a244e6c6ce95"
             ],
             "commandCardAdj": 3,
             "helpTermIds": []
@@ -1190,16 +1086,20 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+                "a1b0b159-8609-405c-8951-9baaf66574d2",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "848f9571-bc08-4ffd-a411-808d67d154df",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "c418be72-6b99-4400-890c-463a683527a3",
+                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "c6e3daba-ff8c-4961-905f-410b1fd93473",
+                "bcff4765-52b8-49ef-9189-46ad32914535",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+            ],
+            "defaultCommandCardIds": [
                 "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
                 "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
                 "a1b0b159-8609-405c-8951-9baaf66574d2",
@@ -1207,15 +1107,6 @@
                 "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
                 "bcff4765-52b8-49ef-9189-46ad32914535",
                 "848f9571-bc08-4ffd-a411-808d67d154df"
-            ],
-            "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "848f9571-bc08-4ffd-a411-808d67d154df",
-                "bcff4765-52b8-49ef-9189-46ad32914535"
             ],
             "commandCardAdj": 2,
             "helpTermIds": []
@@ -1251,23 +1142,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
-                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
-                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
-                "a1b0b159-8609-405c-8951-9baaf66574d2",
-                "c6e3daba-ff8c-4961-905f-410b1fd93473",
                 "a3c05ce1-19e6-4919-9140-e6c131d0d40c",
-                "bcff4765-52b8-49ef-9189-46ad32914535",
-                "848f9571-bc08-4ffd-a411-808d67d154df",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
+                "a1b0b159-8609-405c-8951-9baaf66574d2",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
+                "848f9571-bc08-4ffd-a411-808d67d154df",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "c6e3daba-ff8c-4961-905f-410b1fd93473",
+                "bcff4765-52b8-49ef-9189-46ad32914535",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "defaultCommandCardIds": [
                 "f285f16c-010d-4d3e-ac58-697a4c8eebfc",
@@ -1321,23 +1207,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "c418be72-6b99-4400-890c-463a683527a3",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
                 "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -1370,22 +1251,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1421,22 +1297,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1474,22 +1345,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1531,24 +1397,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "c418be72-6b99-4400-890c-463a683527a3",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7"
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -1583,22 +1443,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1634,22 +1489,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1700,22 +1550,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1755,22 +1600,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1813,22 +1653,19 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
                 "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "c418be72-6b99-4400-890c-463a683527a3",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "bb289e1b-5a7f-4c23-b8f6-70f73297f131"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -1862,22 +1699,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1913,22 +1745,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -1967,20 +1794,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2016,23 +1840,18 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7"
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -2067,22 +1886,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2126,23 +1940,18 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []
@@ -2177,20 +1986,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-                "ef2ea8de-fe99-4d96-8454-260575372e2a"
+                "ef2ea8de-fe99-4d96-8454-260575372e2a",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2231,21 +2037,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2281,22 +2083,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2332,22 +2129,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2385,22 +2177,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2436,22 +2223,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2496,22 +2278,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2546,22 +2323,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2598,22 +2370,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2648,22 +2415,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2697,22 +2459,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2747,22 +2504,17 @@
             "excludedCardIds": [],
             "isUnlimited": true,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
-                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
+                "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2797,22 +2549,17 @@
             "excludedCardIds": [],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
@@ -2861,24 +2608,19 @@
             ],
             "isUnlimited": false,
             "armyCommandCardIds": [
+                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "8d90440f-030e-4825-a54f-a5ba743bb462",
-                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
-                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
-                "dbf6615e-61ed-499f-be36-4c458a5403f7",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
                 "ef2ea8de-fe99-4d96-8454-260575372e2a",
-                "c418be72-6b99-4400-890c-463a683527a3"
+                "df314b6b-c2d7-4fc9-8e57-7dca635d64d2"
             ],
             "defaultCommandCardIds": [
+                "8d90440f-030e-4825-a54f-a5ba743bb462",
                 "6faea94f-bbc8-4e06-9388-1180916dc753",
                 "df314b6b-c2d7-4fc9-8e57-7dca635d64d2",
-                "bb289e1b-5a7f-4c23-b8f6-70f73297f131",
-                "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-                "0c40446a-f9dd-49d5-8f16-463fb80f62b2"
+                "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
+                "ef2ea8de-fe99-4d96-8454-260575372e2a"
             ],
             "commandCardAdj": 0,
             "helpTermIds": []

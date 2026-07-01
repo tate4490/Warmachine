@@ -3,7 +3,7 @@
         {
             "guidStr": "6faea94f-bbc8-4e06-9388-1180916dc753",
             "name": [
-                "Blessing of the Gods",
+                "Blessings of the Gods",
                 "",
                 "",
                 "",
@@ -41,7 +41,7 @@
         {
             "guidStr": "8d90440f-030e-4825-a54f-a5ba743bb462",
             "name": [
-                "Break Through",
+                "Bite and Hold",
                 "",
                 "",
                 "",
@@ -115,46 +115,6 @@
             "grantedCardIds": []
         },
         {
-            "guidStr": "36ba6125-497b-4ac2-b75f-ebc48bc12294",
-            "name": [
-                "Defenses",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:e8e9bada-e756-44f7-972e-b80050ffecfc"
-            ],
-            "commandCardAbilityIds": [
-                "e8e9bada-e756-44f7-972e-b80050ffecfc"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": [
-                "a85fc551-26bd-491c-95e0-798e1b9819d0"
-            ]
-        },
-        {
             "guidStr": "f132ddd9-12bb-4fe9-9ecb-2dbb0103ae2a",
             "name": [
                 "Duck and Cover!",
@@ -193,120 +153,6 @@
             "grantedCardIds": []
         },
         {
-            "guidStr": "dbf6615e-61ed-499f-be36-4c458a5403f7",
-            "name": [
-                "Hit & Run",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:6c29ee35-a8c5-4854-b9cc-73f9ea9ce84d"
-            ],
-            "commandCardAbilityIds": [
-                "6c29ee35-a8c5-4854-b9cc-73f9ea9ce84d"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "d34ebfb6-1c63-469d-a8c4-d603142b4e1f",
-            "name": [
-                "Lucky Penny",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:ba45d5bf-96b6-474f-a507-c7b37ced929e"
-            ],
-            "commandCardAbilityIds": [
-                "ba45d5bf-96b6-474f-a507-c7b37ced929e"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "0c40446a-f9dd-49d5-8f16-463fb80f62b2",
-            "name": [
-                "Old Faithful",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:90ce1727-13f4-43ad-b3f8-7284912d09af"
-            ],
-            "commandCardAbilityIds": [
-                "90ce1727-13f4-43ad-b3f8-7284912d09af"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
             "guidStr": "ef2ea8de-fe99-4d96-8454-260575372e2a",
             "name": [
                 "Put the Fires Out",
@@ -340,44 +186,6 @@
             ],
             "commandCardAbilityIds": [
                 "274d8400-cc8b-4a01-9ac0-dd6db3c368c3"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "c418be72-6b99-4400-890c-463a683527a3",
-            "name": [
-                "Sapper",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:03b03b52-1653-4242-be6e-ee9b4e9856a3"
-            ],
-            "commandCardAbilityIds": [
-                "03b03b52-1653-4242-be6e-ee9b4e9856a3"
             ],
             "grantedCardCount": "1",
             "grantedCardIds": []
@@ -633,7 +441,7 @@
         {
             "guidStr": "eaaa6e10-abe6-4d6a-a241-bfe135cee9c8",
             "name": [
-                "Fortune\u2019s Path",
+                "Fortune’s Path",
                 "",
                 "",
                 "",
@@ -892,234 +700,6 @@
             ],
             "commandCardAbilityIds": [
                 "598c91b0-c3f5-40a9-82c7-7bd28b66d426"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "fdb8096b-45ba-4991-92d8-13fd5759d4f1",
-            "name": [
-                "[CAMPAIGN] CASTLE",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": false,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:4f7cb765-cfd0-406d-a3d2-12921c248cb7"
-            ],
-            "commandCardAbilityIds": [
-                "4f7cb765-cfd0-406d-a3d2-12921c248cb7"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "7195cb69-ca33-4226-bde1-fa7b97812659",
-            "name": [
-                "[CAMPAIGN] INVISIBILITY",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": false,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:1c385164-5a16-4fc4-b997-028f570b7cbe"
-            ],
-            "commandCardAbilityIds": [
-                "1c385164-5a16-4fc4-b997-028f570b7cbe"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "8b529871-a0da-4cb6-9eb2-0a08b8f0c270",
-            "name": [
-                "[CAMPAIGN] PLUNDER",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": false,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:d0599144-5bd0-44ee-9e4d-57a589a1c616"
-            ],
-            "commandCardAbilityIds": [
-                "d0599144-5bd0-44ee-9e4d-57a589a1c616"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "7b2f6098-285b-4e62-92b6-316dfff548d7",
-            "name": [
-                "[CAMPAIGN] REVERSE TACTICS",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": false,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:8aa3ab67-f0dd-431b-af3d-64057383e878"
-            ],
-            "commandCardAbilityIds": [
-                "8aa3ab67-f0dd-431b-af3d-64057383e878"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "6ab233b6-ab95-4d2a-b69f-30bce8fbcbf0",
-            "name": [
-                "[CAMPAIGN] REVIVIFICATION",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": false,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:cb2f1427-7375-4bd3-affc-dfca370a4bd5"
-            ],
-            "commandCardAbilityIds": [
-                "cb2f1427-7375-4bd3-affc-dfca370a4bd5"
-            ],
-            "grantedCardCount": "1",
-            "grantedCardIds": []
-        },
-        {
-            "guidStr": "9fe7ed98-e60e-4208-8747-c6420491b70a",
-            "name": [
-                "Overwatch",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "reqSub": false,
-            "devNotes": "",
-            "dataBundleId": "4137502f-b041-45f5-825b-4b2a88c2f677",
-            "editionId": "",
-            "mediaPath": "",
-            "limitUse": true,
-            "description": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "pointCost": "0",
-            "modelAdvantageIds": [],
-            "weaponQualityIds": [],
-            "commandCardAbilitySorting": [
-                "1:c697483f-97ad-4749-b4ef-f5e77b3768f9"
-            ],
-            "commandCardAbilityIds": [
-                "c697483f-97ad-4749-b4ef-f5e77b3768f9"
             ],
             "grantedCardCount": "1",
             "grantedCardIds": []

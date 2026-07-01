@@ -3,7 +3,7 @@
         {
             "guidStr": "e17b89d9-e189-4304-8316-93d36587bb08",
             "name": [
-                "Blessing of the Gods",
+                "Blessings of the Gods",
                 "",
                 "",
                 "",
@@ -15,7 +15,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card any time during your activation on one of your models. That model\u2019s weapons gain Blessed and Damage Type: Magical this activation.\u00a0",
+                "Play this card any time during the activation of one of your models. They gain one of the following effects:\n– That model’s weapons gain Blessed and Damage Type: Magical this activation.\n– That model gains one essence, focus, or fury point, or one corpse, rage, or soul token.",
                 "",
                 "",
                 "",
@@ -26,7 +26,7 @@
         {
             "guidStr": "68c0e360-68dd-4487-bcaf-95497efeb587",
             "name": [
-                "Break Through",
+                "Bite and Hold",
                 "",
                 "",
                 "",
@@ -38,7 +38,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card any time during the activation of one of your models/units. Those models gain Unstoppable this activation.\u00a0",
+                "Play this card any time during the activation of one of your models. They gain one of the following effects:\n– The Scenario Element that model/unit is currently securing remains secured until the end of the turn unless it is contested by an enemy model.\n– For one round while that model/unit is within Scenario Terrain area or 3” of another Scenario Element, it gains Sturdy. (A model with Sturdy cannot be pushed.)",
                 "",
                 "",
                 "",
@@ -61,30 +61,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card any time during the activation of one of your models/units. Those models gain Pathfinder this activation.\u00a0",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "e8e9bada-e756-44f7-972e-b80050ffecfc",
-            "name": [
-                "Defenses",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at the start of the game after turn order has been determined and standard terrain and objectives have been placed for the scenario, but before deploying models. If you are the first player, you can place up to two Defenses. If you are the second player, you can place up to three Defenses. If both players play the Defenses Command Card, take turns placing Defenses starting with the second player. A player can only place Defenses within 24\" of the rear edge of their Deployment Zone. Additionally, Defenses cannot be placed at the start of the game within 3\" of an objective, obstruction, obstacle, or another Defense terrain feature.",
+                "Play this card any time during the activation of one of your models. They gain one of the following effects:\n– That model/unit gains Pathfinder this activation.\n– That model gains Reposition [3”] this activation. (At the end of a model/unit with Reposition [3”]'s activation in which it did not run or fail a charge, it can advance up to 3”, then its activation ends.)",
                 "",
                 "",
                 "",
@@ -107,76 +84,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card at any time during the activation of one of your warrior units. Those models gain cover and Resistance: Blast for one round.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "6c29ee35-a8c5-4854-b9cc-73f9ea9ce84d",
-            "name": [
-                "Hit & Run",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card any time during the activation of one of your models. That model gains Reposition [3\"] this activation. (At the end of a model/unit with Reposition [3\"]\u2019s activation in which it did not run or fail a charge, it can advance up to 3\", then its activation ends.)",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "ba45d5bf-96b6-474f-a507-c7b37ced929e",
-            "name": [
-                "Lucky Penny",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at the start of a friendly model\u2019s activation to give that model one corpse token, essence point, focus point, fury point, rage token, or soul token.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "90ce1727-13f4-43ad-b3f8-7284912d09af",
-            "name": [
-                "Old Faithful",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": true,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card during your Control Phase before allocating focus. Remove d3+1 damage from a friendly Cohort model or battle engine in your army.\u00a0",
+                "Play this card any time during the activation of one of your non-Leader warrior models. They gain one of the following effects:\n– For one round while that model/unit is within Scenario Terrain area or 3” of another Scenario Element, it gains Dig In. (While dug in, a model gains Cover, Resistance: Blast, and does not block LOS. The model remains dug in until it moves, is placed, or is engaged.)\n– For one round while that model/unit is within Scenario Terrain area or 3” of another Scenario Element, it gains Set Defence. (Models suffer -2 on charge and slam power attack rolls against a model with Set Defence.)",
                 "",
                 "",
                 "",
@@ -199,30 +107,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card at the start of your Maintenance Phase on one of your model/units. If the affected models were knocked down, they stand up. If the affected models were stationary, the stationary status expires. If the affected models were suffering continuous or shakable effects, like Blind or Shadow Bind, those effects expire.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "03b03b52-1653-4242-be6e-ee9b4e9856a3",
-            "name": [
-                "Sapper",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at any time during your turn. Immediately remove a Defense from the table.",
+                "Play this card at the start of your Maintenance Phase on one of your models. They gain one of the following effects:\n– Shakeable and continuous effects on that model/unit expire.\n– Remove d3+1 damage from that model.",
                 "",
                 "",
                 "",
@@ -314,7 +199,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock\u2019s control range, enemy models lose Incorporeal, Tough, and Undead, and cannot have damage removed from them. Additionally, enemy non-warbeast models lose Construct while in the Grymkin warlock\u2019s control range. If your leader is The King of Nothing, while within his control range friendly Grymkin model\u2019s weapons gain Blessed. Accursed lasts for one round.",
+                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock’s control range, enemy models lose Incorporeal, Tough, and Undead, and cannot have damage removed from them. Additionally, enemy non-warbeast models lose Construct while in the Grymkin warlock’s control range. If your leader is The King of Nothing, while within his control range friendly Grymkin model’s weapons gain Blessed. Accursed lasts for one round.",
                 "",
                 "",
                 "",
@@ -325,7 +210,7 @@
         {
             "guidStr": "e0bf9c90-1343-4526-bab8-2525facc4eb8",
             "name": [
-                "Fortune\u2019s Path",
+                "Fortune’s Path",
                 "",
                 "",
                 "",
@@ -337,7 +222,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. Friendly Grymkin models gain +1 to attack and damage rolls against enemy  models in the Grymkin warlocks control range. If your Leader is The Heretic, increase the bonus to +2. Fortune\u2019s Path lasts for one round.",
+                "Play this card on a friendly Grymkin warlock during its activation. Friendly Grymkin models gain +1 to attack and damage rolls against enemy  models in the Grymkin warlocks control range. If your Leader is The Heretic, increase the bonus to +2. Fortune’s Path lasts for one round.",
                 "",
                 "",
                 "",
@@ -360,7 +245,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock\u2019s control range, enemy models suffer \u20131 attack and damage rolls agaisnt friendly Faction models. If your Leader is The Dreamer, models in her battlegroup also gain Dodge. Ill Omens lasts for one round. (A model with Dodge can advance up to 2\" immediately after an enemy attack that missed it is resolved.)",
+                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock’s control range, enemy models suffer –1 attack and damage rolls agaisnt friendly Faction models. If your Leader is The Dreamer, models in her battlegroup also gain Dodge. Ill Omens lasts for one round. (A model with Dodge can advance up to 2\" immediately after an enemy attack that missed it is resolved.)",
                 "",
                 "",
                 "",
@@ -383,7 +268,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. Enemy models starting their activation in the Grymkin warlock\u2019s control range suffer \u20132 SPD that activation. If your Leader is the Wanderer you can also immediately place one model in his battlegroup completely within 3\" of its current location.",
+                "Play this card on a friendly Grymkin warlock during its activation. Enemy models starting their activation in the Grymkin warlock’s control range suffer –2 SPD that activation. If your Leader is the Wanderer you can also immediately place one model in his battlegroup completely within 3\" of its current location.",
                 "",
                 "",
                 "",
@@ -406,7 +291,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. Once during the round, when an enemy model casts a spell while in the Grymkin warlock\u2019s control range, you may choose for that spell to not take effect. The spell is still considered to have been cast and its COST remains spent. Additionally, all enemy upkeep spells in the Grymkin warlock\u2019s control range expire. If your leader is The Child she gains 1 fury. Ruin lasts for one round.",
+                "Play this card on a friendly Grymkin warlock during its activation. Once during the round, when an enemy model casts a spell while in the Grymkin warlock’s control range, you may choose for that spell to not take effect. The spell is still considered to have been cast and its COST remains spent. Additionally, all enemy upkeep spells in the Grymkin warlock’s control range expire. If your leader is The Child she gains 1 fury. Ruin lasts for one round.",
                 "",
                 "",
                 "",
@@ -452,7 +337,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock\u2019s control range, friendly Grymkin models gain Stealth. Shroud lasts for one round.",
+                "Play this card on a friendly Grymkin warlock during its activation. While in the Grymkin warlock’s control range, friendly Grymkin models gain Stealth. Shroud lasts for one round.",
                 "",
                 "",
                 "",
@@ -476,144 +361,6 @@
             "rulingsIds": [],
             "description": [
                 "Play this card any time during the activation of one of your warrior models/units. Those models gain Tough for one round.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "4f7cb765-cfd0-406d-a3d2-12921c248cb7",
-            "name": [
-                "Castle",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at any time during your activation. Your Leader can immediately advance up to 5\" but cannot end this movement closer to an enemy model than it started.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "1c385164-5a16-4fc4-b997-028f570b7cbe",
-            "name": [
-                "Invisibility",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at any time during your turn. Choose one friendly model. That model cannot be targeted by ranged attacks for one round",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "d0599144-5bd0-44ee-9e4d-57a589a1c616",
-            "name": [
-                "Plunder",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card after destroying the last model in a unit. The attacking model can immediately advance up to 2\". Receive 1 additional War Chest point at the end of this match.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "8aa3ab67-f0dd-431b-af3d-64057383e878",
-            "name": [
-                "REVERSE TACTICS",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at the start of the activation of one of your models/units. During that activation, the model/unit can make its Combat Action before its Normal Movement.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "cb2f1427-7375-4bd3-affc-dfca370a4bd5",
-            "name": [
-                "REVIVIFICATION",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card at any time during your turn to return one destroyed Grunt to its unit. The Grunt returns with all of its damage boxes unmarked. Place the returned Grunt within 2\" of another model in its unit. The returned Grunt must forfeit its Normal Movement and Combat Actions the turn it is returned to play.",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "guidStr": "c697483f-97ad-4749-b4ef-f5e77b3768f9",
-            "name": [
-                "Overwatch",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "isLive": false,
-            "metadata": "",
-            "deleted": false,
-            "helpTermIds": [],
-            "rulingsIds": [],
-            "description": [
-                "Play this card any time during the activation of one of your models/units. Those models gain Sentry Fire for one round.\u00a0(Once per turn, when an enemy model advances into and ends its movement or is placed within 8\" of a model with Sentry Fire, the model with Sentry Fire can immediately make one basic ranged attack targeting the enemy model.)",
                 "",
                 "",
                 "",
