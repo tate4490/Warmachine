@@ -1,0 +1,2558 @@
+{
+  "strings": {
+    "entries": {
+      "sub store error general body": [
+        "The subscription couldn't be purchased.  Please try again, and if this persists log a bug.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch restored title": [
+        "Purchases Restored",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui no": [
+        "No",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer body": [
+        "UNUSED",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link preview": [
+        "This is a preview, the full entry may be larger",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch gen failure title": [
+        "Subscription Failed",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub store error title": [
+        "Store Error",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch failed body": [
+        "The subscription couldn't be purchased.  Please try again, and if this persists log a bug.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer button": [
+        "Subscribe",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch successful title": [
+        "Subscription Successful",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch successful body": [
+        "Your account is upgraded!",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub purch gen failure body": [
+        "There was an issue completing the purchase of the subscription:\n\n{0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search toc": [
+        "{0}\n<size=18><color=#000D><font=\"Poppins-Bold SDF\">   {1} {2}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub upgrade acct title": [
+        "Upgrade Your Account?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub upgrade acct body": [
+        "This is the copy for when we ask people to subscribe.\nIt's just ok.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui table of contents": [
+        "TABLE OF CONTENTS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick links": [
+        "QUICK LINKS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term too short body": [
+        "Search terms must be at least 3 characters long.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term too short title": [
+        "Too Short",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term too long title": [
+        "Too Many Words",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term too long body": [
+        "Search terms must consist of 2 words maximum.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term invalid title": [
+        "Invalid Search",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term invalid body": [
+        "This term can't be searched for as it's reserved for special functionality.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search found": [
+        "FOUND: {0} {1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search result": [
+        "RESULT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search results": [
+        "RESULTS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui cancel": [
+        "Cancel",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer title": [
+        "Warmachine App Subscription",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub rest purch button": [
+        "<size=80%>Restore\nPurchases",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub store error contact body": [
+        "Store couldn't be contacted.  Please try again, and if this persists log a bug.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui forces": [
+        "FORCES",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui ok": [
+        "OK",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer question": [
+        "Would You Like To Subscribe?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer first desktop": [
+        "In addition to cloud storage, increased Force Build save slots, and the ability to access your saved forces across multiple devices, with a subscription to the Warmachine app you will receive exclusive content delivered weekly to your app library.\\n\\nExplore the Forces of Warmachine and the rich lore of the Iron Kingdoms, unlock new ways to play the game through the ongoing campaign and all new scenarios, and immerse yourself in the epic fiction that brings the pantheon of Warmachine characters to life.\\n\\nSubscriptions are available on iOs and Google Play devices.  Once you have made a Warmachine App account and subscribed, your upgraded account will be available on all platforms you use your Warmachine App account on.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub offer first": [
+        "In addition to cloud storage, increased Force Build save slots, and the ability to access your saved forces across multiple devices, with a subscription to the Warmachine app you will receive exclusive content delivered weekly to your app library.\\n\\nExplore the Forces of Warmachine and the rich lore of the Iron Kingdoms, unlock new ways to play the game through the ongoing campaign and all new scenarios, and immerse yourself in the epic fiction that brings the pantheon of Warmachine characters to life.\\n\\n<align=right>Subscribe now?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub acct feat title": [
+        "Account Features",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub acct feat body": [
+        "It looks like you didn't create or log into an account.\\n\\nThe Warmachine App will work fine, but for enhanced features like cloud save and subscriptions to get access to additional content you'll need to create and log into an account first.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link error": [
+        "There as an error retrieving this preview text.  Please log a bug about this.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link open button": [
+        "OPEN IN LIBRARY",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link open error title": [
+        "Error Opening Link",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link open error body": [
+        "There was an error opening this quick link.  Please report this as a bug.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req force body desktop": [
+        "Forces are limited to a total of 6 without a subscription.\\n\\nSubscriptions are available on iOs and Google Play devices.  Once you have made a Warmachine App account and subscribed, your upgraded account will be available on all platforms you use your Warmachine App account on.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req title": [
+        "Requires Subscription",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui force choice header": [
+        "BUILD A FORCE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui what arena": [
+        "Which ARENA will your force fight in?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui what edition": [
+        "What EDITION will your force be from?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui new force options": [
+        "NEW FORCE OPTIONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui edit force options": [
+        "EDIT FORCE OPTIONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui edition": [
+        "Edition",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req force body": [
+        "Forces are limited to a total of 6 without a subscription.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui arena": [
+        "Arena",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui search term": [
+        "Search Term:  {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui filter results": [
+        "Filter Results",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui quick link label": [
+        "Quick Link:  {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req lib body": [
+        "This publication requires a subscription to read.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req lib body desktop": [
+        "This publication requires a subscription to read.\\n\\nSubscriptions are available on iOs and Google Play devices.  Once you have made a Warmachine App account and subscribed, your upgraded account will be available on all platforms you use your Warmachine App account on.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req match body": [
+        "Matches are limited to a total of 6 without a subscription.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub req match body desktop": [
+        "Matches are limited to a total of 6 without a subscription.\\n\\nSubscriptions are available on iOs and Google Play devices.  Once you have made a Warmachine App account and subscribed, your upgraded account will be available on all platforms you use your Warmachine App account on.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui remove": [
+        "Remove",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui content download title": [
+        "CONTENT DOWNLOAD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg other device": [
+        "It appears you have a subscription on {0}, please open the Warmachine App on that device to refresh your subscription information to your account.  Or you can create a new subscription on this device right now.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg device ios": [
+        "an iOS device",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg device android": [
+        "an Android device",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg device win": [
+        "a Windows computer",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg device osx": [
+        "a Mac computer",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sub msg details": [
+        "Would you like to see subscription details now?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui edit force": [
+        "EDIT FORCE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui add cards": [
+        "ADD CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui save": [
+        "Save",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui discard": [
+        "Discard",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui validate save": [
+        "VALIDATE & SAVE?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui save": [
+        "SAVE?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui validate save body": [
+        "There are changes to this list, do you want to validate your list and save it?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui save body": [
+        "There are changes to this list, do you want to save it?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build menu validate save force": [
+        "Validate & Save Force",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build menu save force": [
+        "Save Force",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu submit app feedback": [
+        "Submit App Feedback",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu data version": [
+        "Data Version: {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu build version": [
+        "Build Version: {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu submit card feedback": [
+        "Submit Card Feedback",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu data version typed": [
+        "Data Version: {0} {1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui app update req title": [
+        "APP UPDATE REQUIRED",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui content download body": [
+        "The Warmachine App needs to download and process content that requires <nobr>{0}</nobr> to download, and <nobr>{1}</nobr> of space on your device to process.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui new version title": [
+        "NEW VERSION",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui app update req body": [
+        "There is a new data download that requires you to update your app from the app store.  Please update from your devices' app store and then restart.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui updated content title": [
+        "UPDATED CONTENT AVAILABLE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui updated content body": [
+        "There is a content download that requires <nobr>{0}</nobr> to download, and <nobr>{1}</nobr> of space on your device to process.\\n\\nWould you like to download it?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui no content title": [
+        "NO GAME CONTENT LOADED",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui no content body": [
+        "Please check for hard drive space on your device and your internet connection, then would you like to download content again?\\n\\n<i>(If this problem continues please report it as a bug.)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui rel notes title": [
+        "NEW RELEASE NOTES AVAILABLE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui rel notes body": [
+        "There are new release notes with the latest content, would you like to see them?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui download content title": [
+        "DOWNLOAD CONTENT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui download content warn body": [
+        "This data requires <nobr>{0}</nobr> to download, and {1} of space on your device to process.\\n\\nWould you like to download it?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui data update fail title": [
+        "DATA UPDATE FAILURE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui data update fail body": [
+        "FAILED WITH:\n<i>{0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui new version body": [
+        "There is a new version ({0}) of the Warmachine App available to download.  You are currently running version {1}.\\n\\nWould you like to go to the app store on your device and update?\\n<i>(if you're unsure, the answer is yes)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu upgrade acct": [
+        "Upgrade Account",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu dev sub": [
+        "Subscription Active\\nDeveloper Subscription",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu comp sub": [
+        "Subscription Active\\nComplimentary Subscription",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu sub renewal": [
+        "Subscription Active\nNext Renewal: {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu restore purch": [
+        "Restore Purchases",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu download content": [
+        "Download Content",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu visit app store": [
+        "Visit App Store Page",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu show app settings": [
+        "Show App Settings",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu show startup msg": [
+        "Show Startup Message",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu show rel notes": [
+        "Show Release Notes",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui no msg title": [
+        "NO MESSAGE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui no msg body": [
+        "Sorry, there was no startup message found.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen menu quit": [
+        "QUIT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui force copied title": [
+        "Force List Copied",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui force copied body": [
+        "This force has been copied, and can now be pasted into any other app that text can be used in.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct rec suc title": [
+        "RECOVERY SUCCESS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct create error title": [
+        "CREATE ACCOUNT ERROR",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct email taken body": [
+        "The provided email address is already taken.  If this is unexpected please report a bug.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct email inval body": [
+        "The provided email address is invalid.  Please check the email address and try again.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct pw inval body": [
+        "The provided password is invalid.  Please check the password and try again.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct gen error body": [
+        "There was a problem with the login credentials.  Please check the email and password and try again.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct serv error body": [
+        "There was an error contacting the server.  Check your internet connection.  If this problem persists please report a bug.  The error details have been copied to the copy/paste buffer.\\n\\nERROR DETAILS:\\n\n{0}\n{1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct login error title": [
+        "LOGIN ERROR",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct login inval body": [
+        "There was a problem with the login credentials.  Please check the email and password and try again.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui copy title": [
+        "CREATE COPY?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct rec suc body": [
+        "Check the email you use for the Warmachine App for instructions on how to reset your password.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct rec error title": [
+        "RECOVERY ERROR",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct rec error email body": [
+        "There was a problem with the email address.  Please check the email and try again.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui settings title": [
+        "APP SETTINGS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui settings body": [
+        "Changes to app settings require restarting the app to display properly in all screens.\\n\\nClick OK to quit, and then restart.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui rel notes": [
+        "RELEASE NOTES",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading 1": [
+        "... LOADING ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over auth": [
+        "... AUTHENTICATING ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over downloading prog": [
+        "... DOWNLOADING {0} of {1} <nobr>{2} ...</nobr>",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over downloading finish": [
+        "... FINISHING DOWNLOAD CLEANUP ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over downloading": [
+        "... DOWNLOADING ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading 2": [
+        ".. LOADING ..",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading 3": [
+        ". LOADING .",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading 4": [
+        "LOADING",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over await response": [
+        "... AWAITING RESPONSE ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over cont store": [
+        "... CONTACTING STORE ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over reloading": [
+        "... RELOADING ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over cont server": [
+        "... CONTACTING SERVER ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading force": [
+        "... LOADING FORCE ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over loading army": [
+        "... LOADING ARMY ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen over delete acct prog": [
+        "... DELETING USER ACCOUNT ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui copy body": [
+        "Would you like to create a copy of this force?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui delete force title": [
+        "DELETE FORCE?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui delete force body": [
+        "Are you sure you want to permanently delete this force?\\n\\n{0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui select army label": [
+        "SELECT ARMY",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui hint 1": [
+        "<b>HINT</b> <indent=60><color={0}>Add {1} <color=#FFF><b>{2}</b></color> card to your force.</color></indent>\\n",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui hint 2": [
+        "<b>HINT</b> <indent=60><color={0}>Add some <color=#FFF><b>{1}</b></color> cards to your <color=#FFF><b>{2}</b></color>.  You have <color=#FFF><b>{3}</b></color> of <color=#FFF><b>{4}</b></color> required battlegroup members for this force.</color></indent>\\n",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui hint 3": [
+        "<b>HINT</b> <indent=60><color={0}>Add some <color=#FFF><b>COMMAND CARDS</b></color> to your force.  You have <color=#FFF><b>{1}</b></color> of <color=#FFF><b>{2}</b></color> required command cards for this force.</color></indent>\\n",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui hint a": [
+        "a",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui hint an": [
+        "an",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui sel attch title": [
+        "SELECT CARDS TO ATTACH",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui sel opt title": [
+        "SELECT OPTIONS FOR CARD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui command card title": [
+        "COMMAND CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui type cards title": [
+        "{0} CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui sel card att title": [
+        "SELECT CARD TO ATTACH TO",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui no val owner title": [
+        "NO VALID OWNER",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui no val owner body": [
+        "You don't have any cards which can attach this card.  These cards in this army would work:\\n\\n{0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui no val bg title": [
+        "NO VALID BATTLEGROUP CONTROLLER",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui no val bg body": [
+        "You don't have any cards which can control this card in your force yet.  These cards in this army would work:\\n\\n{0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play menu share opp qr": [
+        "Share Opponent QRCode",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui categories": [
+        "CATEGORIES",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui spell options": [
+        "SPELL OPTIONS - {0} / {1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui card option entry": [
+        "{0} OPTIONS - {1} / 1",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui options": [
+        "OPTIONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui name": [
+        "Name",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui keywords": [
+        "Keywords",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui field allowance": [
+        "Field Allowance",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui point cost": [
+        "Point Cost",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui cards": [
+        "CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui view cards": [
+        "VIEW CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "build ui spell cards title": [
+        "SPELL CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui library": [
+        "LIBRARY",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui reading": [
+        "READING",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui collapse all": [
+        "COLLAPSE ALL",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui link error title": [
+        "Link Error",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lib ui link error body": [
+        "There was an error trying to navigate to this link.  Please report this as a bug, including the section and which link you clicked, so we can correct it.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui matches": [
+        "MATCHES",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui play": [
+        "PLAY",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play menu add another force": [
+        "Add Another Force",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play menu scan opp qr": [
+        "Scan Opponent QRCode",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr msg 1": [
+        "QRCode sharing is meant to enable force sharing in poor network environments.\\n\\nAsk your opponent to use\\n<b>Scan Opponent QRCode</b>\\nfrom the Play screen menu in their match.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play menu copy force": [
+        "Copy Force To Text",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play menu reset match": [
+        "Reset Match",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui reset match title": [
+        "RESET MATCH?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui reset match body": [
+        "Are you sure you want to reset the match and all cards in it to the current state of the chosen force?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui old force del title": [
+        "OLD FORCE DELETED",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui old force del body": [
+        "The force this match was made with no longer exists, returning to the match list screen.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr missing data title": [
+        "MISSING DATA",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr missing data body": [
+        "The Warmachine App is missing data that is critical to sharing forces.  Please make sure you have the latest data by using <b>Download Content</b> from the main menu.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr over processing": [
+        "... PROCESSING QR CODES ...",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr match force share": [
+        "Match Force Share",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui prev": [
+        "PREV",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui next": [
+        "NEXT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play u qr match force scan": [
+        "Match Force Scan",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr msg 2": [
+        "QRCode sharing is meant to enable force sharing in poor network environments.\\n\\nIt will require {0} scans to transfer all the force data.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr msg 3": [
+        "QRCode <color=#FFF><size=150%><b>{0}</b></size></color> of {1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr opp force": [
+        "Opponent Force",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr scan succ title": [
+        "QRCode Scan Success",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr scan succ body": [
+        "Your opponents force has been added to your match!",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr scan fail title": [
+        "QRCode Scan Failure",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr scan fail body": [
+        "Please ask your opponent to show QRCode 1 again, and start this process over again.  If this problem persists please report a bug using the menu options.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val num att cards": [
+        "Incorrect number of required attached cards.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr msg 4": [
+        "QRCode Match sharing is meant to enable force sharing in poor network environments.\\n\\nAsk your opponent to use\\n<b>Share Opponent QRCode</b>\\nfrom the Play screen menu in their match.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui qr msg 5": [
+        "Scan the first QR Code on your opponents device.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui no forces title": [
+        "No Forces Built",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui no forces body": [
+        "There are no forces to use in a match.  Would you like to build a force now?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui del match title": [
+        "DELETE MATCH?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui del match body": [
+        "Are you sure you want to permanently delete this match?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui sel force match": [
+        "Select Force For Match",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui force options title": [
+        "FORCE OPTIONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui force options body1": [
+        "Would you like to REMOVE this force from the match?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui force options body2": [
+        "Would you like to COPY this force locally, or REMOVE this force from the match?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui copy": [
+        "COPY",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui add cards": [
+        "ADD {0} CARDS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui select add cards": [
+        "SELECT {0} CARD TO ADD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui start match": [
+        "START MATCH",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui sel opt": [
+        "SELECT OPTIONS FOR CARD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui sel summon card": [
+        "SELECT CARD TO SUMMON",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui del card title": [
+        "DELETE CARD?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui del card body": [
+        "Are you sure you want to delete this card from the match?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui reset all": [
+        "RESET ALL",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui clear": [
+        "CLEAR",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui accept": [
+        "ACCEPT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui damage1": [
+        "<align=center><size=40><font=\"Roboto-Regular SDF\">DAMAGE:   </font>0",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui damage2": [
+        "<align=center><size=40><font=\"Roboto-Regular SDF\">DAMAGE:   </font><color={0}>{1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui reset all health title": [
+        "RESET ALL HEALTH?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "play ui reset all health body": [
+        "Are you sure you want to reset all the health on this card?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui delete": [
+        "DELETE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui del user acct title": [
+        "DELETE USER ACCOUNT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui del user acct body": [
+        "Are you sure you want to permantly delete your account?  This action is not undoable, and your account and force data will be deleted forever.\\n\\nProceed?",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui serv error title": [
+        "SERVER ERROR",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui serv error body": [
+        "There was an error attempting to delete your account.  Please check your network connection and try again, and if this persists please contact help@steamforged.com to ask for account deletion.  They will need the email address you use to login.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct del title": [
+        "USER ACCOUNT DELETED",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui acct del body": [
+        "Your user account and all data have been flagged for deletion.  This could take up to 24 hours as it gets queued to the servr to process.  For any followup questions please contact help@steamforged.com.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui miss conf title": [
+        "MISSING CONFIRMATION",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui miss conf body": [
+        "If you want to delete your account please make sure you have entered DELETE in the text field as requested.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val over fa": [
+        "Over Field Allowance limit.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val num spell card": [
+        "Invalid number of spell cards selected.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val num card opt": [
+        "Invalid number of card options selected.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val char dupe": [
+        "Invalid character duplicates in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val animosity": [
+        "Invalid cards with animosity towards each other in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val card type force": [
+        "Invalid card type for chosen force type <i>({0}).",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val over att limit": [
+        "Over attached card limit of {0} for {1}s.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val char dupe force": [
+        "Invalid character duplicates in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val force type": [
+        "Force type not assigned, please update settings.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val over point cost": [
+        "Over point cost limit.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val over fa2": [
+        "Over field allowance limits.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val num leader": [
+        "Incorrect number of {0} cards.  Should be {1}.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val bg 1": [
+        "  Cards with this keyword do not count: {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val bg 2": [
+        "Incorrect number of {0} cards.  Should be {1}.{2}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val card opt num force": [
+        "Invalid card options in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val spell card force": [
+        "Invalid spell card choices in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val num cmd card force": [
+        "Incorrect number of <b>COMMAND CARDS</b>.  Should be {0}.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui command card": [
+        "COMMAND CARD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val animosity force": [
+        "Invalid cards with animosity towards each other in force.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val card types force": [
+        "Invalid card type(s) for chosen force type <i>({0})",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val att limits force": [
+        "Over attached card limits.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "data val req att force": [
+        "Incorrect required attached cards.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui weapons": [
+        "WEAPONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui feat": [
+        "FEAT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui rack slots": [
+        " - RACK SLOTS: {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui spells": [
+        "SPELLS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui opt 1": [
+        "CARD OPTIONS - {0}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui opt 2": [
+        "CARD OPTIONS - {0} x{1}",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui sel opt": [
+        "SELECTED CARD OPTIONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui health": [
+        "HEALTH",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui feat": [
+        "FEAT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui weapons": [
+        "WEAPONS",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui tap drag boxes": [
+        "( TAP OR DRAG ON BOXES TO DIRECTLY EDIT DAMAGE )",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui tap drag circles": [
+        "( TAP OR DRAG ON CIRCLES TO DIRECTLY EDIT DAMAGE )",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui cant delete title": [
+        "CAN'T DELETE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui cant delete body": [
+        "This card was added by a Command Card.  You must delete that card to remove this one.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui granted": [
+        "GRANTED:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui health sel column": [
+        "( USE BUTTONS TO SELECT COLUMN )",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui health sel branch": [
+        "( USE BUTTONS TO SELECT BRANCH )",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui health sel grid": [
+        "( USE BUTTONS TO SELECT GRID, THEN COLUMN )",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui card abilities": [
+        "CARD ABILITIES",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui spell card": [
+        "SPELL CARD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "cards ui copyright": [
+        "©2001-{0} Steamforged Games, Ltd. All Rights Reserved.\\nTrademarks are property of Steamforged Games and registered in the United States and other countries.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui yes": [
+        "Yes",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "gen ui free": [
+        "FREE",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "indices": {
+      "sub store error general body": 311,
+      "sub purch restored title": 313,
+      "gen ui no": 2,
+      "sub offer body": 307,
+      "lib ui quick link preview": 4007,
+      "sub purch gen failure title": 317,
+      "sub store error title": 310,
+      "sub purch failed body": 316,
+      "sub offer button": 308,
+      "sub purch successful title": 314,
+      "sub purch successful body": 315,
+      "sub purch gen failure body": 318,
+      "lib ui search toc": 4018,
+      "sub upgrade acct title": 319,
+      "sub upgrade acct body": 321,
+      "lib ui table of contents": 4004,
+      "lib ui quick links": 4005,
+      "lib ui search term too short body": 4013,
+      "lib ui search term too short title": 4012,
+      "lib ui search term too long title": 4014,
+      "lib ui search term too long body": 4015,
+      "lib ui search term invalid title": 4016,
+      "lib ui search term invalid body": 4017,
+      "lib ui search found": 4019,
+      "lib ui search result": 4020,
+      "lib ui search results": 4021,
+      "gen ui cancel": 4,
+      "sub offer title": 306,
+      "sub rest purch button": 309,
+      "sub store error contact body": 312,
+      "gen ui forces": 17,
+      "gen ui ok": 1,
+      "sub offer question": 301,
+      "sub offer first desktop": 303,
+      "sub offer first": 302,
+      "sub acct feat title": 304,
+      "sub acct feat body": 305,
+      "lib ui quick link error": 4008,
+      "lib ui quick link open button": 4009,
+      "lib ui quick link open error title": 4010,
+      "lib ui quick link open error body": 4011,
+      "sub req force body desktop": 334,
+      "sub req title": 330,
+      "build ui force choice header": 2000,
+      "build ui what arena": 2001,
+      "build ui what edition": 2002,
+      "build ui new force options": 2005,
+      "build ui edit force options": 2006,
+      "build ui edition": 2004,
+      "sub req force body": 333,
+      "build ui arena": 2003,
+      "lib ui search term": 4022,
+      "lib ui filter results": 4023,
+      "lib ui quick link label": 4006,
+      "sub req lib body": 331,
+      "sub req lib body desktop": 332,
+      "sub req match body": 335,
+      "sub req match body desktop": 336,
+      "gen ui remove": 5,
+      "gen ui content download title": 22,
+      "sub msg other device": 337,
+      "sub msg device ios": 338,
+      "sub msg device android": 339,
+      "sub msg device win": 340,
+      "sub msg device osx": 341,
+      "sub msg details": 342,
+      "gen ui edit force": 16,
+      "gen ui add cards": 19,
+      "gen ui save": 6,
+      "gen ui discard": 7,
+      "build ui validate save": 2007,
+      "build ui save": 2008,
+      "build ui validate save body": 2009,
+      "build ui save body": 2010,
+      "build menu validate save force": 2100,
+      "build menu save force": 2101,
+      "gen menu submit app feedback": 101,
+      "gen menu data version": 104,
+      "gen menu build version": 103,
+      "gen menu submit card feedback": 102,
+      "gen menu data version typed": 105,
+      "gen ui app update req title": 24,
+      "gen ui content download body": 23,
+      "gen ui new version title": 36,
+      "gen ui app update req body": 25,
+      "gen ui updated content title": 26,
+      "gen ui updated content body": 27,
+      "gen ui no content title": 28,
+      "gen ui no content body": 29,
+      "gen ui rel notes title": 30,
+      "gen ui rel notes body": 31,
+      "gen ui download content title": 32,
+      "gen ui download content warn body": 33,
+      "gen ui data update fail title": 34,
+      "gen ui data update fail body": 35,
+      "gen ui new version body": 37,
+      "gen menu upgrade acct": 106,
+      "gen menu dev sub": 107,
+      "gen menu comp sub": 108,
+      "gen menu sub renewal": 109,
+      "gen menu restore purch": 110,
+      "gen menu download content": 111,
+      "gen menu visit app store": 112,
+      "gen menu show app settings": 113,
+      "gen menu show startup msg": 114,
+      "gen menu show rel notes": 115,
+      "gen ui no msg title": 38,
+      "gen ui no msg body": 39,
+      "gen menu quit": 100,
+      "gen ui force copied title": 40,
+      "gen ui force copied body": 41,
+      "gen ui acct rec suc title": 50,
+      "gen ui acct create error title": 42,
+      "gen ui acct email taken body": 43,
+      "gen ui acct email inval body": 44,
+      "gen ui acct pw inval body": 45,
+      "gen ui acct gen error body": 46,
+      "gen ui acct serv error body": 47,
+      "gen ui acct login error title": 48,
+      "gen ui acct login inval body": 49,
+      "build ui copy title": 2011,
+      "gen ui acct rec suc body": 51,
+      "gen ui acct rec error title": 54,
+      "gen ui acct rec error email body": 55,
+      "gen ui settings title": 52,
+      "gen ui settings body": 53,
+      "gen ui rel notes": 56,
+      "gen over loading 1": 200,
+      "gen over auth": 204,
+      "gen over downloading prog": 205,
+      "gen over downloading finish": 206,
+      "gen over downloading": 207,
+      "gen over loading 2": 201,
+      "gen over loading 3": 202,
+      "gen over loading 4": 203,
+      "gen over await response": 208,
+      "gen over cont store": 209,
+      "gen over reloading": 210,
+      "gen over cont server": 211,
+      "gen over loading force": 212,
+      "gen over loading army": 213,
+      "gen over delete acct prog": 214,
+      "build ui copy body": 2012,
+      "build ui delete force title": 2013,
+      "build ui delete force body": 2014,
+      "build ui select army label": 2015,
+      "build ui hint 1": 2018,
+      "build ui hint 2": 2019,
+      "build ui hint 3": 2020,
+      "build ui hint a": 2016,
+      "build ui hint an": 2017,
+      "build ui sel attch title": 2021,
+      "build ui sel opt title": 2022,
+      "build ui command card title": 2023,
+      "build ui type cards title": 2024,
+      "build ui sel card att title": 2026,
+      "build ui no val owner title": 2027,
+      "build ui no val owner body": 2028,
+      "build ui no val bg title": 2029,
+      "build ui no val bg body": 2030,
+      "play menu share opp qr": 1102,
+      "build ui categories": 2031,
+      "build ui spell options": 2032,
+      "build ui card option entry": 2033,
+      "build ui options": 2034,
+      "cards ui name": 3000,
+      "cards ui keywords": 3001,
+      "cards ui field allowance": 3002,
+      "cards ui point cost": 3003,
+      "cards ui cards": 3004,
+      "cards ui view cards": 3005,
+      "build ui spell cards title": 2025,
+      "lib ui library": 4024,
+      "lib ui reading": 4025,
+      "gen ui collapse all": 8,
+      "lib ui link error title": 4031,
+      "lib ui link error body": 4032,
+      "play ui matches": 1000,
+      "play ui play": 1001,
+      "play menu add another force": 1100,
+      "play menu scan opp qr": 1101,
+      "play ui qr msg 1": 1010,
+      "play menu copy force": 1104,
+      "play menu reset match": 1105,
+      "play ui reset match title": 1002,
+      "play ui reset match body": 1003,
+      "play ui old force del title": 1004,
+      "play ui old force del body": 1005,
+      "play ui qr missing data title": 1006,
+      "play ui qr missing data body": 1007,
+      "play ui qr over processing": 1008,
+      "play ui qr match force share": 1009,
+      "gen ui prev": 9,
+      "gen ui next": 10,
+      "play u qr match force scan": 1018,
+      "play ui qr msg 2": 1011,
+      "play ui qr msg 3": 1012,
+      "play ui qr opp force": 1013,
+      "play ui qr scan succ title": 1014,
+      "play ui qr scan succ body": 1015,
+      "play ui qr scan fail title": 1016,
+      "play ui qr scan fail body": 1017,
+      "data val num att cards": 5007,
+      "play ui qr msg 4": 1019,
+      "play ui qr msg 5": 1020,
+      "play ui no forces title": 1021,
+      "play ui no forces body": 1022,
+      "play ui del match title": 1023,
+      "play ui del match body": 1024,
+      "play ui sel force match": 1025,
+      "play ui force options title": 1026,
+      "play ui force options body1": 1027,
+      "play ui force options body2": 1028,
+      "gen ui copy": 11,
+      "play ui add cards": 1029,
+      "play ui select add cards": 1030,
+      "play ui start match": 1031,
+      "play ui sel opt": 1032,
+      "play ui sel summon card": 1033,
+      "play ui del card title": 1034,
+      "play ui del card body": 1035,
+      "gen ui reset all": 12,
+      "gen ui clear": 13,
+      "gen ui accept": 14,
+      "play ui damage1": 1036,
+      "play ui damage2": 1037,
+      "play ui reset all health title": 1038,
+      "play ui reset all health body": 1039,
+      "gen ui delete": 15,
+      "gen ui del user acct title": 57,
+      "gen ui del user acct body": 58,
+      "gen ui serv error title": 59,
+      "gen ui serv error body": 60,
+      "gen ui acct del title": 61,
+      "gen ui acct del body": 62,
+      "gen ui miss conf title": 63,
+      "gen ui miss conf body": 64,
+      "data val over fa": 5000,
+      "data val num spell card": 5002,
+      "data val num card opt": 5001,
+      "data val char dupe": 5003,
+      "data val animosity": 5004,
+      "data val card type force": 5005,
+      "data val over att limit": 5006,
+      "data val char dupe force": 5017,
+      "data val force type": 5008,
+      "data val over point cost": 5009,
+      "data val over fa2": 5010,
+      "data val num leader": 5011,
+      "data val bg 1": 5012,
+      "data val bg 2": 5013,
+      "data val card opt num force": 5014,
+      "data val spell card force": 5015,
+      "data val num cmd card force": 5016,
+      "cards ui command card": 3020,
+      "data val animosity force": 5018,
+      "data val card types force": 5019,
+      "data val att limits force": 5020,
+      "data val req att force": 5021,
+      "gen ui weapons": 20,
+      "gen ui feat": 21,
+      "cards ui rack slots": 3009,
+      "cards ui spells": 3010,
+      "cards ui opt 1": 3011,
+      "cards ui opt 2": 3012,
+      "cards ui sel opt": 3013,
+      "cards ui health": 3014,
+      "cards ui feat": 3008,
+      "cards ui weapons": 3006,
+      "cards ui tap drag boxes": 3015,
+      "cards ui tap drag circles": 3016,
+      "gen ui cant delete title": 65,
+      "gen ui cant delete body": 66,
+      "gen ui granted": 67,
+      "cards ui health sel column": 3017,
+      "cards ui health sel branch": 3018,
+      "cards ui health sel grid": 3019,
+      "cards ui card abilities": 3007,
+      "cards ui spell card": 3021,
+      "cards ui copyright": 3022,
+      "gen ui yes": 3,
+      "gen ui free": 18
+    },
+    "category": null,
+    "name": [
+      "Name",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isLive": false,
+    "metadata": null,
+    "deleted": false,
+    "guidStr": "b2331323-cc83-4b61-9970-980b343436e4"
+  }
+}
