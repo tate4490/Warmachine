@@ -14,7 +14,7 @@
             "deleted": false,
             "portraitPath": "/Media/Portraits/option general wall barrier.png",
             "changeMainPortrait": true,
-            "pointCost": "",
+            "pointCost": "2",
             "grantedModelAdvantageIds": [],
             "grantdWeaponQualityIds": [],
             "cardAbilitySorting": [],
@@ -49,7 +49,7 @@
             "deleted": false,
             "portraitPath": "/Media/Portraits/option general fire pit.png",
             "changeMainPortrait": true,
-            "pointCost": "",
+            "pointCost": "1",
             "grantedModelAdvantageIds": [],
             "grantdWeaponQualityIds": [],
             "cardAbilitySorting": [],
@@ -84,7 +84,7 @@
             "deleted": false,
             "portraitPath": "/Media/Portraits/option general powder keg.png",
             "changeMainPortrait": true,
-            "pointCost": "",
+            "pointCost": "1",
             "grantedModelAdvantageIds": [],
             "grantdWeaponQualityIds": [],
             "cardAbilitySorting": [],
@@ -119,7 +119,7 @@
             "deleted": false,
             "portraitPath": "/Media/Portraits/option general spike trap.png",
             "changeMainPortrait": true,
-            "pointCost": "",
+            "pointCost": "1",
             "grantedModelAdvantageIds": [],
             "grantdWeaponQualityIds": [],
             "cardAbilitySorting": [],
@@ -154,7 +154,7 @@
             "deleted": false,
             "portraitPath": "/Media/Portraits/option general fire pit.png",
             "changeMainPortrait": true,
-            "pointCost": "",
+            "pointCost": "1",
             "grantedModelAdvantageIds": [],
             "grantdWeaponQualityIds": [],
             "cardAbilitySorting": [],
@@ -4217,7 +4217,7 @@
             "isLive": false,
             "metadata": "",
             "deleted": false,
-            "portraitPath": "/Media/Portraits/WM_Gargantuan_AppPortraits_RightArm_Cat O\u2019 Spine Tails.png",
+            "portraitPath": "/Media/Portraits/WM_Gargantuan_AppPortraits_RightArm_Cat O’ Spine Tails.png",
             "changeMainPortrait": false,
             "pointCost": "10",
             "grantedModelAdvantageIds": [],
@@ -11647,7 +11647,7 @@
         {
             "guidStr": "c4c9cf00-967b-4e9a-8142-3224ecf3fc36",
             "name": [
-                "Ship\u2019s Wheel",
+                "Ship’s Wheel",
                 "",
                 "",
                 "",
@@ -12940,6 +12940,652 @@
             ],
             "grantedWeaponIds": [
                 "bed6c55b-d25a-4035-a571-8712e8ad289f"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "bdc5ca90-797d-4365-8ec6-1264dc5926a4",
+            "name": [
+                "No Defense",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "0",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "646d7190-c789-4d7f-91e4-559d925ef026",
+            "name": [
+                "Head - Muzzled",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:25856c35-d55e-4754-a635-2313e9d671ba"
+            ],
+            "grantedModelAbilityIds": [
+                "25856c35-d55e-4754-a635-2313e9d671ba"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": [
+                "Model ARM:+1"
+            ]
+        },
+        {
+            "guidStr": "6c2f1b33-5eb9-43a9-9551-d5154441bc0c",
+            "name": [
+                "Head - Snapping Maw",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:f7bf3127-2eec-41d4-86ff-9668c4317563"
+            ],
+            "grantedWeaponIds": [
+                "f7bf3127-2eec-41d4-86ff-9668c4317563"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "70627132-4cf8-45d9-9d5e-d04d82c044ce",
+            "name": [
+                "Head - Venomous",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:d6900066-daea-4826-acbc-2175d0830c1f"
+            ],
+            "grantedWeaponIds": [
+                "d6900066-daea-4826-acbc-2175d0830c1f"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "f5219225-313c-4244-81cb-b1fc27010203",
+            "name": [
+                "Wings - Bladed Armor",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "3",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:d12eac9a-6c03-4e6c-b9f0-dd5d544ce6de"
+            ],
+            "grantedModelAbilityIds": [
+                "d12eac9a-6c03-4e6c-b9f0-dd5d544ce6de"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:87c1898d-ce9c-4980-90a8-bf45a28f7c5c"
+            ],
+            "grantedWeaponIds": [
+                "87c1898d-ce9c-4980-90a8-bf45a28f7c5c"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "cfae2cff-78eb-4895-9ccd-b97ecd4f0e40",
+            "name": [
+                "Wings - Claws",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "2",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:ad2fc2d8-ca0e-4e88-87fc-c3638a4b953e"
+            ],
+            "grantedModelAbilityIds": [
+                "ad2fc2d8-ca0e-4e88-87fc-c3638a4b953e"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:a9507b02-4d6f-48c7-acb0-095805a9bec8"
+            ],
+            "grantedWeaponIds": [
+                "a9507b02-4d6f-48c7-acb0-095805a9bec8"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "16e9677f-d211-4145-be00-f0be08a3d21c",
+            "name": [
+                "Conditioning - Blind Obedience",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "2",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:e7cb7a5c-e8c4-4a98-8760-3b852d29a779"
+            ],
+            "grantedModelAbilityIds": [
+                "e7cb7a5c-e8c4-4a98-8760-3b852d29a779"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:32d03b7c-0b5b-47d8-ac0a-28f085961aa1"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "b5173018-bd99-4cf2-8957-f4f9c4ac64ac",
+            "name": [
+                "Conditioning - Feral",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "3",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:ffd2da5a-7db6-4255-8551-ec1aaff8339c"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "7d47a4e2-17f4-4304-9b79-8b9a7b333220",
+            "name": [
+                "Conditioning - Tamed",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "2",
+            "grantedModelAdvantageIds": [
+                "22d83447-2f18-4482-8b47-cf5d8d3e39de"
+            ],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:7a1f1f2a-a534-4ebe-8a2b-2146b222e2db"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "29d16ffa-99bc-4f67-918e-508af26fa6d2",
+            "name": [
+                "Head - Alpha",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "5",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:a773d09c-dd5c-4edd-8a59-9d49f5387d20"
+            ],
+            "grantedModelAbilityIds": [
+                "a773d09c-dd5c-4edd-8a59-9d49f5387d20"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "9224b909-a42c-44d4-83e6-924b946eb696",
+            "name": [
+                "Head - Lamprey",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "4",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:7ec2e117-1501-44bf-9284-9322284d93ba"
+            ],
+            "grantedWeaponIds": [
+                "7ec2e117-1501-44bf-9284-9322284d93ba"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "b7005578-7c5f-4d43-809a-749613352304",
+            "name": [
+                "Head - Screecher",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "3",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:8c8c62a7-6871-4ca5-87bf-93fb855a435c"
+            ],
+            "grantedWeaponIds": [
+                "8c8c62a7-6871-4ca5-87bf-93fb855a435c"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "7a3e7a48-8568-413c-959c-0d3840266fa1",
+            "name": [
+                "Conditioning - Feral",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:7ce85f57-cc78-4fd1-9413-a1f06c88f8af"
+            ],
+            "grantedModelAbilityIds": [
+                "7ce85f57-cc78-4fd1-9413-a1f06c88f8af"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:f7ee1ba6-a688-46fc-b15f-62fd901e5536"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "65e288ab-3898-4f1d-a00c-ba3546b2160d",
+            "name": [
+                "Conditioning - Subjugated",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:68bd2846-20e2-472d-ae2c-f933d5c6749c"
+            ],
+            "grantedModelAbilityIds": [
+                "68bd2846-20e2-472d-ae2c-f933d5c6749c"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:fe5a511d-e64b-4673-bc44-910f95c472c8"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "f8147c3e-59a4-4003-bbf7-250bfb81c2eb",
+            "name": [
+                "Conditioning - Tamed",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "1",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [
+                "1:7f985a35-cdf1-40ec-beec-4b9b960a19ce"
+            ],
+            "grantedModelAbilityIds": [
+                "7f985a35-cdf1-40ec-beec-4b9b960a19ce"
+            ],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [],
+            "grantedWeaponIds": [],
+            "spellSorting": [
+                "1:e4dab2ae-157f-40cb-b47e-4765de8e5953"
+            ],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "080c3ffe-6690-42c9-bb56-1f161ed17c09",
+            "name": [
+                "Wings - Bladed Armor",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "5",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:69473f97-ae39-459a-bd6d-dd4f0c4748bf"
+            ],
+            "grantedWeaponIds": [
+                "69473f97-ae39-459a-bd6d-dd4f0c4748bf"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "dc63814c-2e6c-4a86-b8d5-b1f1d0c2c4ab",
+            "name": [
+                "Wings - Poisonous Barbs",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "5",
+            "grantedModelAdvantageIds": [
+                "bd167369-ce44-47d8-ab31-497ab7c8703b"
+            ],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:fe75b186-92ae-464c-95be-f9f13844125f"
+            ],
+            "grantedWeaponIds": [
+                "fe75b186-92ae-464c-95be-f9f13844125f"
+            ],
+            "spellSorting": [],
+            "grantedSpellIds": [],
+            "grantedStatAdj": []
+        },
+        {
+            "guidStr": "f632d1fe-3674-4bbe-a926-408581d75af0",
+            "name": [
+                "Wings - Razor Fan",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "portraitPath": "",
+            "changeMainPortrait": false,
+            "pointCost": "4",
+            "grantedModelAdvantageIds": [],
+            "grantdWeaponQualityIds": [],
+            "cardAbilitySorting": [],
+            "grantedCardAbilityIds": [],
+            "modelAbilitySorting": [],
+            "grantedModelAbilityIds": [],
+            "weaponAbilitySorting": [],
+            "grantedWeaponAbilityIds": [],
+            "modelSorting": [],
+            "grantedModelIds": [],
+            "weaponSorting": [
+                "1:112bb67b-f8a5-488c-bad6-5e7b062b520b",
+                "2:220d81b3-56a6-47a0-93cf-69791e20edbf"
+            ],
+            "grantedWeaponIds": [
+                "112bb67b-f8a5-488c-bad6-5e7b062b520b",
+                "220d81b3-56a6-47a0-93cf-69791e20edbf"
             ],
             "spellSorting": [],
             "grantedSpellIds": [],

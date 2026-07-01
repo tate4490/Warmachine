@@ -683,6 +683,40 @@
             "battlegroupController": false,
             "battlegroupTypeIds": [],
             "helpTermIds": []
+        },
+        {
+            "guidStr": "749aa60d-c5c6-4ac6-a528-cd61d0992f18",
+            "name": [
+                "Faction Mechanic",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "pluralName": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "listSortOrder": 0,
+            "spellsLabelOverride": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "mustBeAttached": false,
+            "attachedLimit": -1,
+            "battlegroupMember": false,
+            "battlegroupController": false,
+            "battlegroupTypeIds": [],
+            "helpTermIds": []
         }
     ]
 }

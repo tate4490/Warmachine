@@ -3298,17 +3298,17 @@
         {
             "guidStr": "f384fd6b-ff7d-4908-9b2c-3bfd1970eb22",
             "name": [
-                "Vyr 2, Mordryth 1",
+                "Vyr 3, Mordryth 2",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
-            "portraitPath": "/Media/Portraits/FaneOfNyrro_Dusk_Last-Watch3.png",
+            "portraitPath": "",
             "statSPD": "6",
             "statAAT": "",
             "statMAT": "7",
@@ -3333,41 +3333,43 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
-                "b0a614f3-3f73-46a4-8713-09fcdec658ff",
                 "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+                "b0a614f3-3f73-46a4-8713-09fcdec658ff",
                 "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
             ],
             "modelAbilitySorting": [
-                "2:e04026c1-4d0c-45ae-a790-b888ae065585",
-                "1:d3c3d400-ad34-4911-bd78-699ea98ad6e4",
-                "3:92ddc8f7-cdbb-4918-b857-086b58658ad1"
+                "1:9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "2:33afecde-d1a0-4834-bdb1-ad1bd16a29d7",
+                "3:d3c3d400-ad34-4911-bd78-699ea98ad6e4",
+                "4:e04026c1-4d0c-45ae-a790-b888ae065585"
             ],
             "modelAbilityIds": [
-                "e04026c1-4d0c-45ae-a790-b888ae065585",
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "33afecde-d1a0-4834-bdb1-ad1bd16a29d7",
                 "d3c3d400-ad34-4911-bd78-699ea98ad6e4",
-                "92ddc8f7-cdbb-4918-b857-086b58658ad1"
+                "e04026c1-4d0c-45ae-a790-b888ae065585"
             ],
             "weaponSorting": [
-                "1:2cf12c49-9d4c-4f5f-b6b5-698f1331c61c"
+                "1:601ed0a9-e65e-43a1-9b3c-727192b317be"
             ],
             "weaponIds": [
-                "2cf12c49-9d4c-4f5f-b6b5-698f1331c61c"
+                "601ed0a9-e65e-43a1-9b3c-727192b317be"
             ]
         },
         {
             "guidStr": "cb06674c-2eb6-40eb-b51d-46b95f6afc23",
             "name": [
-                "Ryva 1",
+                "Ryva 2",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
-            "portraitPath": "/Media/Portraits/FaneOfNyrro_Dusk_Last-Watch2.png",
+            "portraitPath": "",
             "statSPD": "6",
             "statAAT": "",
             "statMAT": "7",
@@ -3392,37 +3394,39 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
-                "b0a614f3-3f73-46a4-8713-09fcdec658ff",
                 "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+                "b0a614f3-3f73-46a4-8713-09fcdec658ff",
                 "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
             ],
             "modelAbilitySorting": [
-                "2:e04026c1-4d0c-45ae-a790-b888ae065585",
-                "1:c1056e8d-fb55-475f-8441-91bc8e7ca59e",
-                "3:92ddc8f7-cdbb-4918-b857-086b58658ad1"
+                "1:9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "2:33afecde-d1a0-4834-bdb1-ad1bd16a29d7",
+                "3:d3c3d400-ad34-4911-bd78-699ea98ad6e4",
+                "4:e04026c1-4d0c-45ae-a790-b888ae065585"
             ],
             "modelAbilityIds": [
-                "e04026c1-4d0c-45ae-a790-b888ae065585",
-                "c1056e8d-fb55-475f-8441-91bc8e7ca59e",
-                "92ddc8f7-cdbb-4918-b857-086b58658ad1"
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "33afecde-d1a0-4834-bdb1-ad1bd16a29d7",
+                "d3c3d400-ad34-4911-bd78-699ea98ad6e4",
+                "e04026c1-4d0c-45ae-a790-b888ae065585"
             ],
             "weaponSorting": [
-                "1:4eed27b4-e340-4ef3-9858-d8c34cec9d7a"
+                "1:e63b3653-ebd0-4a80-8b22-90341091547c"
             ],
             "weaponIds": [
-                "4eed27b4-e340-4ef3-9858-d8c34cec9d7a"
+                "e63b3653-ebd0-4a80-8b22-90341091547c"
             ]
         },
         {
             "guidStr": "eaf97592-8318-49a1-b3f6-ed95e17eb9e3",
             "name": [
-                "Raefyll 2",
+                "Raefyll 3",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
@@ -3451,33 +3455,33 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
+                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
                 "400de431-5cc9-45cb-b0f8-e37f61744faa",
                 "b0a614f3-3f73-46a4-8713-09fcdec658ff",
                 "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
-                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
-                "f5200740-40c9-44b6-b70c-2ae2161156a9"
+                "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f"
             ],
             "modelAbilitySorting": [
-                "2:524d5f7f-1aed-405c-9644-931582a8cae4",
-                "3:2633da2b-246b-49f1-800e-9dfa65b59ea1",
+                "1:9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "2:95e7b779-42ae-4240-8117-ee09a4ffca7f",
+                "3:f77babc7-ce0b-484d-9a4f-97aec8fbe7a2",
                 "4:7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "5:23d7fcfb-1433-464b-8d43-0aa56bd3792b",
-                "1:95e7b779-42ae-4240-8117-ee09a4ffca7f"
+                "5:521d18d6-0687-4ffc-a7aa-dcd0776a9307"
             ],
             "modelAbilityIds": [
-                "524d5f7f-1aed-405c-9644-931582a8cae4",
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "95e7b779-42ae-4240-8117-ee09a4ffca7f",
+                "f77babc7-ce0b-484d-9a4f-97aec8fbe7a2",
                 "7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "23d7fcfb-1433-464b-8d43-0aa56bd3792b",
-                "2633da2b-246b-49f1-800e-9dfa65b59ea1",
-                "95e7b779-42ae-4240-8117-ee09a4ffca7f"
+                "521d18d6-0687-4ffc-a7aa-dcd0776a9307"
             ],
             "weaponSorting": [
-                "1:e1924bb8-48e4-45cc-8376-8a97a3312183",
-                "2:104e0627-8c05-4401-91cf-1822ec621a29"
+                "1:6f36c5e9-7bfd-4843-9b5f-92ce4d83266d",
+                "2:607cdbcb-67b7-4a04-bb68-87acfdc831a8"
             ],
             "weaponIds": [
-                "e1924bb8-48e4-45cc-8376-8a97a3312183",
-                "104e0627-8c05-4401-91cf-1822ec621a29"
+                "6f36c5e9-7bfd-4843-9b5f-92ce4d83266d",
+                "607cdbcb-67b7-4a04-bb68-87acfdc831a8"
             ]
         },
         {
@@ -6038,16 +6042,16 @@
                 "23d8e5f4-a479-414b-a368-af3c8328414e"
             ],
             "modelAbilitySorting": [
-                "1:15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "2:1fa10e8a-c66e-43a3-97c0-23d1e3dd4eac",
                 "4:7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "3:46e1a3f7-c325-47d2-bb56-821c08e83ee2"
+                "3:46e1a3f7-c325-47d2-bb56-821c08e83ee2",
+                "4:e2e2dfc1-b70a-4d92-8423-86572844a0ae"
             ],
             "modelAbilityIds": [
-                "15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "7783c9fe-db4b-49a6-b260-65e3040e8f72",
                 "1fa10e8a-c66e-43a3-97c0-23d1e3dd4eac",
-                "46e1a3f7-c325-47d2-bb56-821c08e83ee2"
+                "46e1a3f7-c325-47d2-bb56-821c08e83ee2",
+                "e2e2dfc1-b70a-4d92-8423-86572844a0ae"
             ],
             "weaponSorting": [
                 "1:dd3b5c7f-f375-4d74-bc9d-79fe9c01c6d5",
@@ -6357,7 +6361,7 @@
             "statMAT": "5",
             "statRAT": "7",
             "statDEF": "14",
-            "statARM": "14",
+            "statARM": "16",
             "statARC": "",
             "statFURY": "",
             "statCTRL": "",
@@ -6381,19 +6385,19 @@
                 "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
                 "626fc2c8-e564-4cdb-bb59-0f204938bf36",
                 "bd167369-ce44-47d8-ab31-497ab7c8703b",
-                "c420fddb-89a9-4601-81c3-21ea363ba672"
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "64184d93-f771-45c8-bfe2-5bace8aa7a04",
+                "f5200740-40c9-44b6-b70c-2ae2161156a9"
             ],
             "modelAbilitySorting": [
                 "1:15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "2:dbc93a9d-1f77-42dd-9ef1-27128f88b335",
-                "3:7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "4:178d5f31-5795-405f-9157-538e0531cda6"
+                "3:7783c9fe-db4b-49a6-b260-65e3040e8f72"
             ],
             "modelAbilityIds": [
                 "15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "dbc93a9d-1f77-42dd-9ef1-27128f88b335",
-                "178d5f31-5795-405f-9157-538e0531cda6"
+                "dbc93a9d-1f77-42dd-9ef1-27128f88b335"
             ],
             "weaponSorting": [
                 "1:aecff916-4870-492d-a29e-88f906850883",
@@ -7941,14 +7945,12 @@
             "modelAbilitySorting": [
                 "2:c1bc13fa-1ee1-48eb-a1d1-b885a995b17b",
                 "3:d86337a0-ba74-4ec0-8e02-8dfba67f84db",
-                "4:25438572-3b68-4712-99c6-ccb33e449a9d",
-                "1:403cdb53-d922-42d9-a9fa-7b62828ef0e3"
+                "4:25438572-3b68-4712-99c6-ccb33e449a9d"
             ],
             "modelAbilityIds": [
                 "c1bc13fa-1ee1-48eb-a1d1-b885a995b17b",
                 "d86337a0-ba74-4ec0-8e02-8dfba67f84db",
-                "25438572-3b68-4712-99c6-ccb33e449a9d",
-                "403cdb53-d922-42d9-a9fa-7b62828ef0e3"
+                "25438572-3b68-4712-99c6-ccb33e449a9d"
             ],
             "weaponSorting": [
                 "1:e85a5133-c139-4eee-a922-0335902758be"
@@ -7960,7 +7962,7 @@
         {
             "guidStr": "f379de09-06a5-4f88-8bf2-c85251040cfe",
             "name": [
-                "D\u2019Vyaros 1",
+                "D’Vyaros 1",
                 "",
                 "",
                 "",
@@ -18951,13 +18953,13 @@
         {
             "guidStr": "abd0516e-f1e6-46a4-af10-d14a53810ddc",
             "name": [
-                "Benkei 1",
+                "Benkei 2",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
@@ -18986,32 +18988,27 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
+                "1afe9782-4a94-4333-bf66-2ebdda191e0b",
                 "400de431-5cc9-45cb-b0f8-e37f61744faa",
                 "7cc10016-772a-4faa-8cc0-96a1108f066f",
-                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
                 "b0a614f3-3f73-46a4-8713-09fcdec658ff",
-                "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
-                "1afe9782-4a94-4333-bf66-2ebdda191e0b"
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
             ],
             "modelAbilitySorting": [
-                "1:5ff18fe5-8293-4184-8458-d3bfda4bb7dd",
-                "2:dad81600-850e-4fe7-927b-08fd555b3fc3",
-                "4:1f4cb350-5e2e-45f1-b5de-7003414a6807",
-                "3:b030ccf3-7e79-4740-ac07-c5e4cfc3c9e1"
+                "1:9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "2:f77babc7-ce0b-484d-9a4f-97aec8fbe7a2"
             ],
             "modelAbilityIds": [
-                "1f4cb350-5e2e-45f1-b5de-7003414a6807",
-                "dad81600-850e-4fe7-927b-08fd555b3fc3",
-                "5ff18fe5-8293-4184-8458-d3bfda4bb7dd",
-                "b030ccf3-7e79-4740-ac07-c5e4cfc3c9e1"
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "f77babc7-ce0b-484d-9a4f-97aec8fbe7a2"
             ],
             "weaponSorting": [
-                "1:e0fc3a27-a602-4da5-831b-b480a6408cd5",
-                "2:a1e8d7e1-2128-402e-b7eb-19d0d5363e48"
+                "1:400ce45d-e36d-4fad-bee0-3b3853b40d48",
+                "2:fb262e44-bdbc-49db-87e1-95987adf016f"
             ],
             "weaponIds": [
-                "e0fc3a27-a602-4da5-831b-b480a6408cd5",
-                "a1e8d7e1-2128-402e-b7eb-19d0d5363e48"
+                "400ce45d-e36d-4fad-bee0-3b3853b40d48",
+                "fb262e44-bdbc-49db-87e1-95987adf016f"
             ]
         },
         {
@@ -25193,7 +25190,7 @@
         {
             "guidStr": "b6822c4a-a120-43d6-a193-8d1c50e51c46",
             "name": [
-                "Br\u00edghid 1 ",
+                "Bríghid 1 ",
                 "",
                 "",
                 "",
@@ -27223,18 +27220,18 @@
                 "7f18e656-8b16-4b71-90e1-dd3eea087634"
             ],
             "modelAbilitySorting": [
-                "1:98810268-91dd-4d21-850f-3ecad7a77d92",
                 "2:b817a719-1c3a-47ce-a11e-b9bb80d7e2a7",
                 "3:ab393df9-ab0e-4665-8ffc-217a6d0db49f",
                 "4:e381847f-19fe-43c7-be91-99dca9cbf3e4",
-                "5:178d5f31-5795-405f-9157-538e0531cda6"
+                "5:178d5f31-5795-405f-9157-538e0531cda6",
+                "5:d330979e-bdb5-4243-a57e-917035b48152"
             ],
             "modelAbilityIds": [
-                "98810268-91dd-4d21-850f-3ecad7a77d92",
                 "e381847f-19fe-43c7-be91-99dca9cbf3e4",
                 "b817a719-1c3a-47ce-a11e-b9bb80d7e2a7",
                 "ab393df9-ab0e-4665-8ffc-217a6d0db49f",
-                "178d5f31-5795-405f-9157-538e0531cda6"
+                "178d5f31-5795-405f-9157-538e0531cda6",
+                "d330979e-bdb5-4243-a57e-917035b48152"
             ],
             "weaponSorting": [
                 "1:b2ec060d-67a2-46da-a0b3-bbfbc9321565"
@@ -31345,7 +31342,7 @@
             "statAAT": "",
             "statMAT": "5",
             "statRAT": "6",
-            "statDEF": "13",
+            "statDEF": "14",
             "statARM": "16",
             "statARC": "",
             "statFURY": "",
@@ -33955,7 +33952,7 @@
         {
             "guidStr": "17ba8c7e-3ccf-4033-ad24-01282956034a",
             "name": [
-                "Sk\u00f6ll 1",
+                "Sköll 1",
                 "",
                 "",
                 "",
@@ -54806,7 +54803,7 @@
         {
             "guidStr": "425bde64-d230-4293-ae60-bbd2090a5a7d",
             "name": [
-                "R\u00f6k 1",
+                "Rök 1",
                 "",
                 "",
                 "",
@@ -57816,7 +57813,7 @@
             "statMAT": "7",
             "statRAT": "",
             "statDEF": "11",
-            "statARM": "19",
+            "statARM": "18",
             "statARC": "",
             "statFURY": "",
             "statCTRL": "",
@@ -60594,7 +60591,7 @@
             "statRAT": "6",
             "statDEF": "15",
             "statARM": "15",
-            "statARC": "8",
+            "statARC": "7",
             "statFURY": "",
             "statCTRL": "16",
             "statTHR": "",
@@ -61060,12 +61057,14 @@
             "modelAbilitySorting": [
                 "1:2785268d-d3f7-4b14-91d9-bcc0c9f93a01",
                 "2:391833a9-14ed-4a7c-9b9d-a364d1369e2f",
-                "3:2b907c94-52b0-4b61-b2e0-d6834d5d27a5"
+                "3:2b907c94-52b0-4b61-b2e0-d6834d5d27a5",
+                "4:99416e0f-e875-4880-be04-765f5b142c37"
             ],
             "modelAbilityIds": [
                 "2b907c94-52b0-4b61-b2e0-d6834d5d27a5",
                 "391833a9-14ed-4a7c-9b9d-a364d1369e2f",
-                "2785268d-d3f7-4b14-91d9-bcc0c9f93a01"
+                "2785268d-d3f7-4b14-91d9-bcc0c9f93a01",
+                "99416e0f-e875-4880-be04-765f5b142c37"
             ],
             "weaponSorting": [
                 "1:6d0ac4da-464f-40bc-9465-981d1bea190a",
@@ -61128,12 +61127,14 @@
             "modelAbilitySorting": [
                 "1:2785268d-d3f7-4b14-91d9-bcc0c9f93a01",
                 "2:391833a9-14ed-4a7c-9b9d-a364d1369e2f",
-                "3:2b907c94-52b0-4b61-b2e0-d6834d5d27a5"
+                "3:2b907c94-52b0-4b61-b2e0-d6834d5d27a5",
+                "4:99416e0f-e875-4880-be04-765f5b142c37"
             ],
             "modelAbilityIds": [
                 "391833a9-14ed-4a7c-9b9d-a364d1369e2f",
                 "2b907c94-52b0-4b61-b2e0-d6834d5d27a5",
-                "2785268d-d3f7-4b14-91d9-bcc0c9f93a01"
+                "2785268d-d3f7-4b14-91d9-bcc0c9f93a01",
+                "99416e0f-e875-4880-be04-765f5b142c37"
             ],
             "weaponSorting": [
                 "1:6d0ac4da-464f-40bc-9465-981d1bea190a",
@@ -61195,18 +61196,18 @@
                 "23d8e5f4-a479-414b-a368-af3c8328414e"
             ],
             "modelAbilitySorting": [
-                "1:15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "2:25fef867-2578-4153-91b4-89991c5a396f",
                 "3:7783c9fe-db4b-49a6-b260-65e3040e8f72",
                 "5:64663ee8-4e0e-40c9-a6c7-727fbd88c86c",
-                "4:042cbe99-b6af-4bdb-8b4d-5394d9ee62d3"
+                "4:042cbe99-b6af-4bdb-8b4d-5394d9ee62d3",
+                "5:e2e2dfc1-b70a-4d92-8423-86572844a0ae"
             ],
             "modelAbilityIds": [
-                "15c03865-1c99-41dc-94f6-1be53f84e4cb",
                 "25fef867-2578-4153-91b4-89991c5a396f",
                 "7783c9fe-db4b-49a6-b260-65e3040e8f72",
                 "64663ee8-4e0e-40c9-a6c7-727fbd88c86c",
-                "042cbe99-b6af-4bdb-8b4d-5394d9ee62d3"
+                "042cbe99-b6af-4bdb-8b4d-5394d9ee62d3",
+                "e2e2dfc1-b70a-4d92-8423-86572844a0ae"
             ],
             "weaponSorting": [
                 "1:1030a2d3-797b-4c54-bdfb-d319a6f2748d",
@@ -63576,13 +63577,15 @@
                 "1:19181a74-5407-4132-a74d-dcd7a134718f",
                 "4:032da7ce-8780-45a9-8077-965bde9967ba",
                 "2:d182d2ba-3867-44a9-810b-c89e6f40c84b",
-                "3:b0d371dd-35f1-487f-b36e-c81cbeafd64a"
+                "3:b0d371dd-35f1-487f-b36e-c81cbeafd64a",
+                "5:beebd138-d955-4bba-9bdb-1e114c661ac2"
             ],
             "modelAbilityIds": [
                 "19181a74-5407-4132-a74d-dcd7a134718f",
                 "032da7ce-8780-45a9-8077-965bde9967ba",
                 "d182d2ba-3867-44a9-810b-c89e6f40c84b",
-                "b0d371dd-35f1-487f-b36e-c81cbeafd64a"
+                "b0d371dd-35f1-487f-b36e-c81cbeafd64a",
+                "beebd138-d955-4bba-9bdb-1e114c661ac2"
             ],
             "weaponSorting": [
                 "1:b73de753-9c94-42d8-9572-946ff23d5975",
@@ -65970,13 +65973,13 @@
         {
             "guidStr": "2782329f-e969-493d-8f3f-b9f5598f4ebc",
             "name": [
-                "Ryssyl 2",
+                "Ryssyl 3",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
@@ -65987,7 +65990,7 @@
             "statRAT": "",
             "statDEF": "16",
             "statARM": "14",
-            "statARC": "6",
+            "statARC": "4",
             "statFURY": "",
             "statCTRL": "12",
             "statTHR": "",
@@ -66005,28 +66008,27 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
-                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
+                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
                 "b0a614f3-3f73-46a4-8713-09fcdec658ff",
-                "91c22db0-cbab-46dd-948e-1cd807eaaea2"
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
             ],
             "modelAbilitySorting": [
-                "1:",
-                "2:8408b82d-9ea6-4e7a-82a2-236e1b10d9cc",
-                "3:7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "4:178d5f31-5795-405f-9157-538e0531cda6",
-                "5:88c7a8c7-2221-428b-b956-bbef505b3c01"
+                "1:03eeda38-20b3-46d4-925c-726f07329401",
+                "2:e647a1b3-a343-40e4-9980-fcce7c1ddb8c",
+                "3:f77babc7-ce0b-484d-9a4f-97aec8fbe7a2",
+                "4:9d849430-51cb-44a3-bf8b-89e33dc8f05b"
             ],
             "modelAbilityIds": [
-                "7783c9fe-db4b-49a6-b260-65e3040e8f72",
-                "178d5f31-5795-405f-9157-538e0531cda6",
-                "88c7a8c7-2221-428b-b956-bbef505b3c01",
-                "8408b82d-9ea6-4e7a-82a2-236e1b10d9cc"
+                "03eeda38-20b3-46d4-925c-726f07329401",
+                "e647a1b3-a343-40e4-9980-fcce7c1ddb8c",
+                "f77babc7-ce0b-484d-9a4f-97aec8fbe7a2",
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b"
             ],
             "weaponSorting": [
-                "1:0e668bf5-99d4-4516-b3fe-13ffb6e0ae8b"
+                "1:b331b27a-8e51-4f97-8770-2564e5a2e574"
             ],
             "weaponIds": [
-                "0e668bf5-99d4-4516-b3fe-13ffb6e0ae8b"
+                "b331b27a-8e51-4f97-8770-2564e5a2e574"
             ]
         },
         {
@@ -66408,7 +66410,7 @@
         {
             "guidStr": "a61eb5ce-e655-49ee-88c4-3ac45d59f037",
             "name": [
-                "J\u2019Deth 1",
+                "J’Deth 1",
                 "",
                 "",
                 "",
@@ -67703,7 +67705,7 @@
             "statAAT": "",
             "statMAT": "6",
             "statRAT": "5",
-            "statDEF": "12",
+            "statDEF": "13",
             "statARM": "18",
             "statARC": "",
             "statFURY": "",
@@ -67999,8 +68001,8 @@
             "statAAT": "",
             "statMAT": "6",
             "statRAT": "6",
-            "statDEF": "13",
-            "statARM": "14",
+            "statDEF": "12",
+            "statARM": "13",
             "statARC": "",
             "statFURY": "",
             "statCTRL": "",
@@ -69746,13 +69748,11 @@
             ],
             "modelAbilitySorting": [
                 "2:e7c82be7-5ab7-4d91-983e-ca0d139fd9fd",
-                "1:187c996d-8285-4304-81df-763707a753ca",
-                "3:e445f1b2-2f6c-47c1-ac17-575cf3d42983"
+                "1:187c996d-8285-4304-81df-763707a753ca"
             ],
             "modelAbilityIds": [
                 "e7c82be7-5ab7-4d91-983e-ca0d139fd9fd",
-                "187c996d-8285-4304-81df-763707a753ca",
-                "e445f1b2-2f6c-47c1-ac17-575cf3d42983"
+                "187c996d-8285-4304-81df-763707a753ca"
             ],
             "weaponSorting": [
                 "1:341f7d99-65e9-429e-8e96-203976566aed",
@@ -74813,8 +74813,7 @@
                 "4:d1cd3306-3029-4bd5-84ea-1f9c38a0ce32",
                 "5:98d904ff-f615-42b9-9f7d-a70a30f4303d",
                 "7:c401f55c-baeb-4433-8c04-901dae85dddc",
-                "8:31d7e125-3d94-441d-80bd-4cdbdbc452b2",
-                "6:90963100-20de-46b9-b82e-a129075bfc9b"
+                "8:31d7e125-3d94-441d-80bd-4cdbdbc452b2"
             ],
             "modelAbilityIds": [
                 "19181a74-5407-4132-a74d-dcd7a134718f",
@@ -74823,8 +74822,7 @@
                 "d1cd3306-3029-4bd5-84ea-1f9c38a0ce32",
                 "c401f55c-baeb-4433-8c04-901dae85dddc",
                 "98d904ff-f615-42b9-9f7d-a70a30f4303d",
-                "31d7e125-3d94-441d-80bd-4cdbdbc452b2",
-                "90963100-20de-46b9-b82e-a129075bfc9b"
+                "31d7e125-3d94-441d-80bd-4cdbdbc452b2"
             ],
             "weaponSorting": [
                 "1:3ee21570-0d51-4043-8be4-581ff23cb09c"
@@ -80226,7 +80224,7 @@
         {
             "guidStr": "7b264237-8171-4271-bc16-d8896022f048",
             "name": [
-                "Small Phantasm\u2019",
+                "Small Phantasm’",
                 "",
                 "",
                 "",
@@ -80282,7 +80280,7 @@
         {
             "guidStr": "8820ea11-9c23-4fdb-ac91-1c17a6a0373a",
             "name": [
-                "Medium Phantasm\u2019",
+                "Medium Phantasm’",
                 "",
                 "",
                 "",
@@ -80338,7 +80336,7 @@
         {
             "guidStr": "1dc3b116-ab0c-4820-a210-92d8467c4356",
             "name": [
-                "Large Phantasm\u2019",
+                "Large Phantasm’",
                 "",
                 "",
                 "",
@@ -86503,13 +86501,13 @@
         {
             "guidStr": "9ef30b0c-91c4-40cf-a11f-4a054d062fb5",
             "name": [
-                "Sasha 1",
+                "Sasha 2",
                 "",
                 "",
                 "",
                 ""
             ],
-            "isLive": false,
+            "isLive": true,
             "metadata": "",
             "deleted": false,
             "helpTermIds": [],
@@ -86538,32 +86536,27 @@
             "genResAmount": "",
             "genResIconPath": "",
             "modelAdvantageIds": [
+                "1afe9782-4a94-4333-bf66-2ebdda191e0b",
                 "400de431-5cc9-45cb-b0f8-e37f61744faa",
                 "7cc10016-772a-4faa-8cc0-96a1108f066f",
                 "b0a614f3-3f73-46a4-8713-09fcdec658ff",
-                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
-                "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
-                "1afe9782-4a94-4333-bf66-2ebdda191e0b"
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
             ],
             "modelAbilitySorting": [
-                "1:5ff18fe5-8293-4184-8458-d3bfda4bb7dd",
-                "2:dad81600-850e-4fe7-927b-08fd555b3fc3",
-                "4:1f4cb350-5e2e-45f1-b5de-7003414a6807",
-                "3:8fcaae2e-7e26-427d-b269-4f10f11ef94b"
+                "1:9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "2:f77babc7-ce0b-484d-9a4f-97aec8fbe7a2"
             ],
             "modelAbilityIds": [
-                "1f4cb350-5e2e-45f1-b5de-7003414a6807",
-                "5ff18fe5-8293-4184-8458-d3bfda4bb7dd",
-                "dad81600-850e-4fe7-927b-08fd555b3fc3",
-                "8fcaae2e-7e26-427d-b269-4f10f11ef94b"
+                "9d849430-51cb-44a3-bf8b-89e33dc8f05b",
+                "f77babc7-ce0b-484d-9a4f-97aec8fbe7a2"
             ],
             "weaponSorting": [
-                "1:037db47d-c577-4daf-a55c-65d96a2fb86a",
-                "2:8a07561a-651f-49ca-a0ad-01a2b5562c0d"
+                "1:a1731b9c-f81b-4a8b-a4f5-b563a8e5e621",
+                "2:5de5c9df-9043-4f2e-bf3f-31e2c8898d55"
             ],
             "weaponIds": [
-                "037db47d-c577-4daf-a55c-65d96a2fb86a",
-                "8a07561a-651f-49ca-a0ad-01a2b5562c0d"
+                "a1731b9c-f81b-4a8b-a4f5-b563a8e5e621",
+                "5de5c9df-9043-4f2e-bf3f-31e2c8898d55"
             ]
         },
         {
@@ -90327,7 +90320,7 @@
             "statDEF": "7",
             "statARM": "20",
             "statARC": "",
-            "statFURY": "5",
+            "statFURY": "4",
             "statCTRL": "",
             "statTHR": "-",
             "statESS": "",
@@ -109359,7 +109352,6 @@
             "modelAbilitySorting": [
                 "1:4d8f7b62-3d5d-4952-a613-6ca2148ee1d4",
                 "2:1674c1b0-5689-459c-ac4e-a60c140c6cc8",
-                "3:6fb61ceb-8a0d-4054-bc8a-79efa4cb8888",
                 "4:09ab9aee-21dc-4bc6-8721-e7dbd493aa6f",
                 "5:d5e9b6d9-f0c4-4925-b642-fcbbefef94d7",
                 "6:a8693ac6-fe84-4408-b42a-5e81b2f14980"
@@ -109367,7 +109359,6 @@
             "modelAbilityIds": [
                 "4d8f7b62-3d5d-4952-a613-6ca2148ee1d4",
                 "1674c1b0-5689-459c-ac4e-a60c140c6cc8",
-                "6fb61ceb-8a0d-4054-bc8a-79efa4cb8888",
                 "09ab9aee-21dc-4bc6-8721-e7dbd493aa6f",
                 "d5e9b6d9-f0c4-4925-b642-fcbbefef94d7",
                 "a8693ac6-fe84-4408-b42a-5e81b2f14980"
@@ -109510,6 +109501,886 @@
             "weaponIds": [
                 "93b99a66-94f6-4a98-8b32-cff0b9c64014",
                 "8f3b0d08-b14e-4908-bbb4-54180263f8e3"
+            ]
+        },
+        {
+            "guidStr": "3b69a1cc-1463-4556-9369-0b64efa13347",
+            "name": [
+                "Hunger",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": false,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "",
+            "statAAT": "",
+            "statMAT": "",
+            "statRAT": "",
+            "statDEF": "",
+            "statARM": "",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [],
+            "modelAbilitySorting": [
+                "1:a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "modelAbilityIds": [
+                "a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "weaponSorting": [],
+            "weaponIds": []
+        },
+        {
+            "guidStr": "8ff03b32-7259-4147-a0e9-56380fd60403",
+            "name": [
+                "Ashmael 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "6",
+            "statMAT": "8",
+            "statRAT": "8",
+            "statDEF": "16",
+            "statARM": "15",
+            "statARC": "7",
+            "statFURY": "",
+            "statCTRL": "12",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "22d83447-2f18-4482-8b47-cf5d8d3e39de",
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
+                "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6"
+            ],
+            "modelAbilitySorting": [
+                "1:c4543ac7-a74f-4503-98c2-5a35182311a0",
+                "2:23d7fcfb-1433-464b-8d43-0aa56bd3792b",
+                "3:9391d17e-4280-4fe0-a0ad-dd1a848b3958",
+                "4:a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "modelAbilityIds": [
+                "c4543ac7-a74f-4503-98c2-5a35182311a0",
+                "23d7fcfb-1433-464b-8d43-0aa56bd3792b",
+                "9391d17e-4280-4fe0-a0ad-dd1a848b3958",
+                "a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "weaponSorting": [
+                "1:354136e2-3a2f-4846-9e35-a97ad1924b20",
+                "2:0b674d28-6683-456c-a372-8521b3f2a9c0"
+            ],
+            "weaponIds": [
+                "354136e2-3a2f-4846-9e35-a97ad1924b20",
+                "0b674d28-6683-456c-a372-8521b3f2a9c0"
+            ]
+        },
+        {
+            "guidStr": "abeaff15-b590-42bd-81c1-d3a07dc98d11",
+            "name": [
+                "Hysene 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "6",
+            "statAAT": "7",
+            "statMAT": "8",
+            "statRAT": "",
+            "statDEF": "15",
+            "statARM": "17",
+            "statARC": "6",
+            "statFURY": "",
+            "statCTRL": "14",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "400de431-5cc9-45cb-b0f8-e37f61744faa",
+                "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f",
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5"
+            ],
+            "modelAbilitySorting": [
+                "1:d4282648-e9fe-4956-b257-1796573e77f7",
+                "2:a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "modelAbilityIds": [
+                "d4282648-e9fe-4956-b257-1796573e77f7",
+                "a2edadb9-6eec-4874-a4f8-9f425f89823b"
+            ],
+            "weaponSorting": [
+                "1:ae712702-f791-4dec-b7c3-b0327b6fed27"
+            ],
+            "weaponIds": [
+                "ae712702-f791-4dec-b7c3-b0327b6fed27"
+            ]
+        },
+        {
+            "guidStr": "0efb54cc-bfd4-46db-9ea0-b8608aa68a7c",
+            "name": [
+                "Strygon",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "5",
+            "statRAT": "5",
+            "statDEF": "14",
+            "statARM": "14",
+            "statARC": "",
+            "statFURY": "3",
+            "statCTRL": "",
+            "statTHR": "3",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
+                "7cc10016-772a-4faa-8cc0-96a1108f066f",
+                "161493f9-c421-4d15-b3e8-64bfba167863",
+                "dadd3434-11b1-4961-aced-9f1977a10ec8",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6"
+            ],
+            "modelAbilitySorting": [
+                "1:e5e5090b-ab6f-4aac-872d-d69e94965bc7",
+                "2:42aa9c98-8466-4eb7-a6f6-0240e35e721d"
+            ],
+            "modelAbilityIds": [
+                "e5e5090b-ab6f-4aac-872d-d69e94965bc7",
+                "42aa9c98-8466-4eb7-a6f6-0240e35e721d"
+            ],
+            "weaponSorting": [],
+            "weaponIds": []
+        },
+        {
+            "guidStr": "10c6a497-987f-42c2-b714-d01beafe636b",
+            "name": [
+                "Sybaris 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "6",
+            "statRAT": "",
+            "statDEF": "14",
+            "statARM": "17",
+            "statARC": "",
+            "statFURY": "5",
+            "statCTRL": "",
+            "statTHR": "5",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "1afe9782-4a94-4333-bf66-2ebdda191e0b",
+                "ac133871-865b-49aa-aea8-42b71f346aa2",
+                "7cc10016-772a-4faa-8cc0-96a1108f066f",
+                "161493f9-c421-4d15-b3e8-64bfba167863",
+                "dadd3434-11b1-4961-aced-9f1977a10ec8"
+            ],
+            "modelAbilitySorting": [
+                "1:5189d959-72b7-49f3-976a-cddd58fe498d",
+                "2:29f6497e-611d-4af5-859f-67304ea79029",
+                "3:68bd2846-20e2-472d-ae2c-f933d5c6749c"
+            ],
+            "modelAbilityIds": [
+                "5189d959-72b7-49f3-976a-cddd58fe498d",
+                "29f6497e-611d-4af5-859f-67304ea79029",
+                "68bd2846-20e2-472d-ae2c-f933d5c6749c"
+            ],
+            "weaponSorting": [
+                "1:5f5600ab-621b-4f48-b949-8717c5ef616f",
+                "2:9ecad7f2-8e36-40d6-8ccd-eb3a842ed01f"
+            ],
+            "weaponIds": [
+                "5f5600ab-621b-4f48-b949-8717c5ef616f",
+                "9ecad7f2-8e36-40d6-8ccd-eb3a842ed01f"
+            ]
+        },
+        {
+            "guidStr": "fd629df7-bd2c-40b8-88ea-87331ad706f9",
+            "name": [
+                "Vordak",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "5",
+            "statRAT": "5",
+            "statDEF": "13",
+            "statARM": "17",
+            "statARC": "",
+            "statFURY": "5",
+            "statCTRL": "",
+            "statTHR": "4",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "1afe9782-4a94-4333-bf66-2ebdda191e0b",
+                "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
+                "7cc10016-772a-4faa-8cc0-96a1108f066f",
+                "161493f9-c421-4d15-b3e8-64bfba167863",
+                "dadd3434-11b1-4961-aced-9f1977a10ec8",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6"
+            ],
+            "modelAbilitySorting": [
+                "1:5189d959-72b7-49f3-976a-cddd58fe498d"
+            ],
+            "modelAbilityIds": [
+                "5189d959-72b7-49f3-976a-cddd58fe498d"
+            ],
+            "weaponSorting": [],
+            "weaponIds": []
+        },
+        {
+            "guidStr": "945c8c7e-2cbe-4b5e-8b11-bd04d552addd",
+            "name": [
+                "Jylvana 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "6",
+            "statAAT": "",
+            "statMAT": "",
+            "statRAT": "",
+            "statDEF": "14",
+            "statARM": "11",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "22d83447-2f18-4482-8b47-cf5d8d3e39de"
+            ],
+            "modelAbilitySorting": [
+                "1:854db350-df69-431c-af96-57e8a0af0d69",
+                "2:5f143a1b-17d8-48c3-aa2e-d44a55b529e7",
+                "3:9acd1427-4448-412c-86cf-918de8b93ff3",
+                "4:0748267a-849a-402f-912c-e98bcd7f5537"
+            ],
+            "modelAbilityIds": [
+                "854db350-df69-431c-af96-57e8a0af0d69",
+                "5f143a1b-17d8-48c3-aa2e-d44a55b529e7",
+                "9acd1427-4448-412c-86cf-918de8b93ff3",
+                "0748267a-849a-402f-912c-e98bcd7f5537"
+            ],
+            "weaponSorting": [],
+            "weaponIds": []
+        },
+        {
+            "guidStr": "c8112856-f9a1-4b7b-aef2-5e9552939b4b",
+            "name": [
+                "Strygon Rider",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "7",
+            "statRAT": "",
+            "statDEF": "13",
+            "statARM": "16",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "1afe9782-4a94-4333-bf66-2ebdda191e0b",
+                "400de431-5cc9-45cb-b0f8-e37f61744faa",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "161493f9-c421-4d15-b3e8-64bfba167863",
+                "dadd3434-11b1-4961-aced-9f1977a10ec8",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6"
+            ],
+            "modelAbilitySorting": [
+                "1:178d5f31-5795-405f-9157-538e0531cda6",
+                "2:479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "modelAbilityIds": [
+                "178d5f31-5795-405f-9157-538e0531cda6",
+                "479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "weaponSorting": [
+                "1:f8b7f13b-e135-48e2-ad84-98b2ce1d30fd",
+                "2:13c6c0b5-7b17-4116-be03-623360efac0e"
+            ],
+            "weaponIds": [
+                "f8b7f13b-e135-48e2-ad84-98b2ce1d30fd",
+                "13c6c0b5-7b17-4116-be03-623360efac0e"
+            ]
+        },
+        {
+            "guidStr": "16aef1ee-bd2c-450d-9f17-ff8bb40e6c0e",
+            "name": [
+                "Grunt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "6",
+            "statRAT": "",
+            "statDEF": "12",
+            "statARM": "12",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "22d83447-2f18-4482-8b47-cf5d8d3e39de"
+            ],
+            "modelAbilitySorting": [
+                "1:3c249041-2ce2-43e6-b614-4b8c57afd5cf",
+                "2:3df5ae9d-b879-4b44-b660-5924fe33597d",
+                "3:817dc59c-a5b7-4a08-88de-7360142b060c"
+            ],
+            "modelAbilityIds": [
+                "3c249041-2ce2-43e6-b614-4b8c57afd5cf",
+                "3df5ae9d-b879-4b44-b660-5924fe33597d",
+                "817dc59c-a5b7-4a08-88de-7360142b060c"
+            ],
+            "weaponSorting": [
+                "1:d5c1fda6-fbdb-42b3-aff7-d349054e310e"
+            ],
+            "weaponIds": [
+                "d5c1fda6-fbdb-42b3-aff7-d349054e310e"
+            ]
+        },
+        {
+            "guidStr": "8b6be4dd-2558-4521-9fab-b4461a292c12",
+            "name": [
+                "Grunt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "5",
+            "statAAT": "",
+            "statMAT": "7",
+            "statRAT": "",
+            "statDEF": "12",
+            "statARM": "16",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d"
+            ],
+            "modelAbilitySorting": [
+                "1:479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "modelAbilityIds": [
+                "479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "weaponSorting": [
+                "1:8479b608-d14b-4bf8-a718-aa6d2d74686c"
+            ],
+            "weaponIds": [
+                "8479b608-d14b-4bf8-a718-aa6d2d74686c"
+            ]
+        },
+        {
+            "guidStr": "8e346106-7e73-45bd-bd04-cddb542affa9",
+            "name": [
+                "Grunt",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "5",
+            "statAAT": "",
+            "statMAT": "6",
+            "statRAT": "7",
+            "statDEF": "12",
+            "statARM": "16",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f"
+            ],
+            "modelAbilitySorting": [
+                "1:479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "modelAbilityIds": [
+                "479e0c97-9f9f-412f-9f2d-ec76d8a5de24"
+            ],
+            "weaponSorting": [
+                "1:2d14e3f5-973f-48fa-a3cd-0954101882e1",
+                "2:b1af7d58-117b-4c66-aac4-2aa6bf65c27f"
+            ],
+            "weaponIds": [
+                "2d14e3f5-973f-48fa-a3cd-0954101882e1",
+                "b1af7d58-117b-4c66-aac4-2aa6bf65c27f"
+            ]
+        },
+        {
+            "guidStr": "5f3ee0be-a13a-4d7f-91cf-72c22e28108a",
+            "name": [
+                "Revanna, Calcyra & Velahn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "7",
+            "statAAT": "",
+            "statMAT": "7",
+            "statRAT": "6",
+            "statDEF": "15",
+            "statARM": "12",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "91c22db0-cbab-46dd-948e-1cd807eaaea2",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "22d83447-2f18-4482-8b47-cf5d8d3e39de",
+                "626fc2c8-e564-4cdb-bb59-0f204938bf36",
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
+                "ed0f2490-b35a-4ad1-bb30-3510e5f15d5f",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6",
+                "400de431-5cc9-45cb-b0f8-e37f61744faa"
+            ],
+            "modelAbilitySorting": [
+                "1:ac2a06d1-60f4-48d9-959b-e8b98b0b4dd4",
+                "2:178d5f31-5795-405f-9157-538e0531cda6"
+            ],
+            "modelAbilityIds": [
+                "ac2a06d1-60f4-48d9-959b-e8b98b0b4dd4",
+                "178d5f31-5795-405f-9157-538e0531cda6"
+            ],
+            "weaponSorting": [
+                "1:b2d6f0ab-ddbe-43a0-914d-c94e96778a33",
+                "2:337a1220-02c2-4566-acdc-4f96833d0d69"
+            ],
+            "weaponIds": [
+                "b2d6f0ab-ddbe-43a0-914d-c94e96778a33",
+                "337a1220-02c2-4566-acdc-4f96833d0d69"
+            ]
+        },
+        {
+            "guidStr": "472e5715-8084-4c74-b05b-7d240e53147b",
+            "name": [
+                "Sythyss Prophet",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "6",
+            "statAAT": "",
+            "statMAT": "5",
+            "statRAT": "",
+            "statDEF": "12",
+            "statARM": "17",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d"
+            ],
+            "modelAbilitySorting": [
+                "1:d4e24bcb-37c7-4119-bc4b-2464a3c091e9",
+                "2:0496bac1-42e9-42af-8345-9bf6e9386522"
+            ],
+            "modelAbilityIds": [
+                "d4e24bcb-37c7-4119-bc4b-2464a3c091e9",
+                "0496bac1-42e9-42af-8345-9bf6e9386522"
+            ],
+            "weaponSorting": [
+                "1:9eebf627-076c-4b4e-8743-775dfa56fa4d"
+            ],
+            "weaponIds": [
+                "9eebf627-076c-4b4e-8743-775dfa56fa4d"
+            ]
+        },
+        {
+            "guidStr": "235ce962-f849-40dd-8e8b-0008ba9f3377",
+            "name": [
+                "Sythyss Overseer",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "6",
+            "statAAT": "",
+            "statMAT": "",
+            "statRAT": "6",
+            "statDEF": "13",
+            "statARM": "15",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "c420fddb-89a9-4601-81c3-21ea363ba672",
+                "6555f43d-b797-401b-b6fe-3392f831af3d",
+                "f4fa6176-f6ab-4da6-bbb0-628b45fbebb8"
+            ],
+            "modelAbilitySorting": [
+                "1:0ef80587-b876-4484-8275-f7b8661fab24"
+            ],
+            "modelAbilityIds": [
+                "0ef80587-b876-4484-8275-f7b8661fab24"
+            ],
+            "weaponSorting": [
+                "1:354136e2-3a2f-4846-9e35-a97ad1924b20"
+            ],
+            "weaponIds": [
+                "354136e2-3a2f-4846-9e35-a97ad1924b20"
+            ]
+        },
+        {
+            "guidStr": "fec329c0-283d-4085-bec1-042b49a8407e",
+            "name": [
+                "Bandit 1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "portraitPath": "",
+            "statSPD": "5",
+            "statAAT": "",
+            "statMAT": "6",
+            "statRAT": "6",
+            "statDEF": "11",
+            "statARM": "20",
+            "statARC": "",
+            "statFURY": "",
+            "statCTRL": "",
+            "statTHR": "",
+            "statESS": "",
+            "baseSize": "80",
+            "healthJson": "",
+            "genResName": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "genResAmount": "",
+            "genResIconPath": "",
+            "modelAdvantageIds": [
+                "ce657c69-33de-4973-bf2e-22cc82491fcb",
+                "400de431-5cc9-45cb-b0f8-e37f61744faa",
+                "7cc10016-772a-4faa-8cc0-96a1108f066f",
+                "b9d27fc3-95e1-4a5d-b71a-46e46d3e303c",
+                "4ed29e21-f2d2-45c4-b27e-802d21884ad5",
+                "a5b0a54f-c752-4ba0-87fe-2647613ceb3e",
+                "64184d93-f771-45c8-bfe2-5bace8aa7a04",
+                "dd6bfd0d-8fbe-4c59-a9f9-073fca0e5de6",
+                "2dae2089-c98a-4d99-bec3-5b1ad72b5a4b"
+            ],
+            "modelAbilitySorting": [
+                "1:3d45eb41-8f89-42f5-89d5-05e374fb2276",
+                "2:31174d7f-3953-4e25-93a6-b93731938466",
+                "3:43048a83-93fd-4c17-81ac-b2b12b0148c0",
+                "4:6576d1a3-a06d-46dc-ab47-187d76f1f9c9",
+                "5:07920ca8-5511-4986-b464-f385a193ca1f"
+            ],
+            "modelAbilityIds": [
+                "3d45eb41-8f89-42f5-89d5-05e374fb2276",
+                "31174d7f-3953-4e25-93a6-b93731938466",
+                "43048a83-93fd-4c17-81ac-b2b12b0148c0",
+                "6576d1a3-a06d-46dc-ab47-187d76f1f9c9",
+                "07920ca8-5511-4986-b464-f385a193ca1f"
+            ],
+            "weaponSorting": [
+                "1:66dc3e48-b6d5-4858-b789-2e27b5989d52",
+                "2:bab2cab0-7e55-4562-9cab-5fa9c8d32cf5"
+            ],
+            "weaponIds": [
+                "66dc3e48-b6d5-4858-b789-2e27b5989d52",
+                "bab2cab0-7e55-4562-9cab-5fa9c8d32cf5"
             ]
         }
     ]

@@ -50,7 +50,7 @@
         {
             "guidStr": "7b3e2736-d20a-4636-a750-5129e40ddd9e",
             "name": [
-                "Armor-Piercing (\u2605Attack)",
+                "Armor-Piercing (★Attack)",
                 "",
                 "",
                 "",
@@ -86,7 +86,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Immediately after a basic attack with this weapon is resolved during this model\u2019s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
+                "Immediately after a basic attack with this weapon is resolved during this model’s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
                 "",
                 "",
                 "",
@@ -155,7 +155,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit with this weapon during this model\u2019s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit.",
+                "On a critical hit with this weapon during this model’s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit.",
                 "",
                 "",
                 "",
@@ -179,7 +179,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "During this model\u2019s activation, when it makes an attack with this weapon against the last model hit by the weapon this activation, the attack automatically hits.",
+                "During this model’s activation, when it makes an attack with this weapon against the last model hit by the weapon this activation, the attack automatically hits.",
                 "",
                 "",
                 "",
@@ -213,7 +213,7 @@
         {
             "guidStr": "9a6007b0-d63b-491e-9982-89aeb0f19e9c",
             "name": [
-                "Thresher (\u2605Attack)",
+                "Thresher (★Attack)",
                 "",
                 "",
                 "",
@@ -226,7 +226,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model makes one melee attack with this weapon against each model in its LOS that is in this weapon\u2019s melee range, regardless of whether that model is a friendly model or an enemy model. Thresher attacks are simultaneous.",
+                "This model makes one melee attack with this weapon against each model in its LOS that is in this weapon’s melee range, regardless of whether that model is a friendly model or an enemy model. Thresher attacks are simultaneous.",
                 "",
                 "",
                 "",
@@ -237,7 +237,7 @@
         {
             "guidStr": "db2a5a23-2934-4328-b8c9-d49ab4dd2f2b",
             "name": [
-                "Both Barrels (\u2605Attack)",
+                "Both Barrels (★Attack)",
                 "",
                 "",
                 "",
@@ -341,7 +341,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit with this weapon during this model\u2019s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit. ",
+                "On a critical hit with this weapon during this model’s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit. ",
                 "",
                 "",
                 "",
@@ -433,7 +433,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model hit by this weapon suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers \u20133 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
+                "A model hit by this weapon suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers –3 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
                 "",
                 "",
                 "",
@@ -503,7 +503,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A warrior model hit by this attack suffers \u20132 DEF and cannot advance while within this model\u2019s melee range for one round.",
+                "A warrior model hit by this attack suffers –2 DEF and cannot advance while within this model’s melee range for one round.",
                 "",
                 "",
                 "",
@@ -618,7 +618,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                " On a direct hit, models hit suffer \u20132 SPD for one round.",
+                " On a direct hit, models hit suffer –2 SPD for one round.",
                 "",
                 "",
                 "",
@@ -733,7 +733,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, gain an additional die on this weapon\u2019s damage rolls against the target directly hit.",
+                "On a direct hit, gain an additional die on this weapon’s damage rolls against the target directly hit.",
                 "",
                 "",
                 "",
@@ -790,7 +790,7 @@
         {
             "guidStr": "6523a330-7352-4997-b8c1-bd56e0c114cb",
             "name": [
-                "\u2022Snipe",
+                "•Snipe",
                 "",
                 "",
                 "",
@@ -813,7 +813,7 @@
         {
             "guidStr": "ab83df6a-26b7-476a-8a63-edb0786d55ce",
             "name": [
-                "\u2022Empowered Attack",
+                "•Empowered Attack",
                 "",
                 "",
                 "",
@@ -836,7 +836,7 @@
         {
             "guidStr": "3ce222c7-8e37-4584-9d1f-9f17847d5e7c",
             "name": [
-                "\u2022Brain Damage",
+                "•Brain Damage",
                 "",
                 "",
                 "",
@@ -906,7 +906,7 @@
         {
             "guidStr": "58ae190f-48fb-4146-b87a-a538bc7a244c",
             "name": [
-                "\u2022Eruption of Ash",
+                "•Eruption of Ash",
                 "",
                 "",
                 "",
@@ -929,7 +929,7 @@
         {
             "guidStr": "e29a88c7-b9fe-47df-a6b1-ffd380920093",
             "name": [
-                "\u2022Incinerate",
+                "•Incinerate",
                 "",
                 "",
                 "",
@@ -941,7 +941,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base stats become RNG SP 8 and POW 13 for this attack. This attack causes fire damage and models hit suffer the Fire continuous effect.",
+                "This weapon’s base stats become RNG SP 8 and POW 13 for this attack. This attack causes fire damage and models hit suffer the Fire continuous effect.",
                 "",
                 "",
                 "",
@@ -964,7 +964,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model makes an initial attack with this weapon, it makes one melee attack with this weapon against each model in its LOS that is in this weapon\u2019s melee range. Blood Reaper attacks are simultaneous.",
+                "When this model makes an initial attack with this weapon, it makes one melee attack with this weapon against each model in its LOS that is in this weapon’s melee range. Blood Reaper attacks are simultaneous.",
                 "",
                 "",
                 "",
@@ -1011,7 +1011,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, the model hit suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "On a critical hit, the model hit suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -1022,7 +1022,7 @@
         {
             "guidStr": "02f4e094-3047-479d-886a-7435a0b6afa9",
             "name": [
-                "\u2022Deathly Domination",
+                "•Deathly Domination",
                 "",
                 "",
                 "",
@@ -1045,7 +1045,7 @@
         {
             "guidStr": "c51ab7c2-41fa-4fb5-994e-3c42c6032d59",
             "name": [
-                "\u2022Thamar\u2019s Teeth",
+                "•Thamar’s Teeth",
                 "",
                 "",
                 "",
@@ -1068,7 +1068,7 @@
         {
             "guidStr": "04b54819-6dd4-4bdf-b264-04ca4821a78e",
             "name": [
-                "\u2022Blast",
+                "•Blast",
                 "",
                 "",
                 "",
@@ -1091,7 +1091,7 @@
         {
             "guidStr": "c75111c7-169b-42d8-8c00-7c4cd403b534",
             "name": [
-                "\u2022Black Penny",
+                "•Black Penny",
                 "",
                 "",
                 "",
@@ -1114,7 +1114,7 @@
         {
             "guidStr": "6cef634f-f74a-4977-b768-e603047bc6ca",
             "name": [
-                "\u2022Witch Mark",
+                "•Witch Mark",
                 "",
                 "",
                 "",
@@ -1126,7 +1126,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack directly hits an enemy model during this model\u2019s activation, until the end of that activation this model can target and automatically hit that enemy model with spells, ignoring RNG and LOS.",
+                "If this attack directly hits an enemy model during this model’s activation, until the end of that activation this model can target and automatically hit that enemy model with spells, ignoring RNG and LOS.",
                 "",
                 "",
                 "",
@@ -1137,7 +1137,7 @@
         {
             "guidStr": "55f1f83b-b0e5-4539-ae86-3a6205619a72",
             "name": [
-                "\u2022Brutal Damage",
+                "•Brutal Damage",
                 "",
                 "",
                 "",
@@ -1149,7 +1149,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, gain an additional die on this weapon\u2019s damage rolls against the target directly hit.",
+                "On a direct hit, gain an additional die on this weapon’s damage rolls against the target directly hit.",
                 "",
                 "",
                 "",
@@ -1160,7 +1160,7 @@
         {
             "guidStr": "980de043-e916-4727-8851-1d719f908b9b",
             "name": [
-                "\u2022Shadow Fire",
+                "•Shadow Fire",
                 "",
                 "",
                 "",
@@ -1183,7 +1183,7 @@
         {
             "guidStr": "cf046ece-5aef-4d32-a48e-4a34f73fa8c0",
             "name": [
-                "\u2022Grievous Wounds",
+                "•Grievous Wounds",
                 "",
                 "",
                 "",
@@ -1428,7 +1428,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Immediately after a basic attack with this weapon is resolved during this model\u2019s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
+                "Immediately after a basic attack with this weapon is resolved during this model’s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
                 "",
                 "",
                 "",
@@ -1531,7 +1531,7 @@
         {
             "guidStr": "790869cf-c5a4-4718-bfd0-5eb3b62d0b80",
             "name": [
-                "\u2022Flame Burst",
+                "•Flame Burst",
                 "",
                 "",
                 "",
@@ -1554,7 +1554,7 @@
         {
             "guidStr": "8f19cd78-cc2c-41a7-bf9d-8e8f56083717",
             "name": [
-                "\u2022Ward Breaker",
+                "•Ward Breaker",
                 "",
                 "",
                 "",
@@ -1577,7 +1577,7 @@
         {
             "guidStr": "b7a6e5a2-af5b-4ea0-b036-a202f65fcaad",
             "name": [
-                "\u2022Thunderbolt",
+                "•Thunderbolt",
                 "",
                 "",
                 "",
@@ -1600,7 +1600,7 @@
         {
             "guidStr": "5506bbe9-e9ed-4e5d-8f3f-31932719c8ff",
             "name": [
-                "\u2022Deadly Shot",
+                "•Deadly Shot",
                 "",
                 "",
                 "",
@@ -1623,7 +1623,7 @@
         {
             "guidStr": "c8198ba6-ef8d-4e4e-994f-73c1a5f2e2a9",
             "name": [
-                "\u2022Disruptor Bolt ",
+                "•Disruptor Bolt ",
                 "",
                 "",
                 "",
@@ -1646,7 +1646,7 @@
         {
             "guidStr": "f13b5373-3440-4b48-9028-683922352af0",
             "name": [
-                "\u2022Phantom Seeker",
+                "•Phantom Seeker",
                 "",
                 "",
                 "",
@@ -1693,7 +1693,7 @@
         {
             "guidStr": "59df3d84-08fb-495e-890b-73bc4e7ad49f",
             "name": [
-                "\u2022Experimental Warhead",
+                "•Experimental Warhead",
                 "",
                 "",
                 "",
@@ -1716,7 +1716,7 @@
         {
             "guidStr": "bbf0f24e-c033-4d9c-b989-3ce60addf504",
             "name": [
-                "\u2022Spontaneous Combustion",
+                "•Spontaneous Combustion",
                 "",
                 "",
                 "",
@@ -1728,7 +1728,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, add an additional die to this weapon\u2019s damage roll if the model hit is suffering a continuous effect. Add two dice instead if the model hit is suffering from two different continuous effects. Then, all continuous effects on that model expire.",
+                "On a direct hit, add an additional die to this weapon’s damage roll if the model hit is suffering a continuous effect. Add two dice instead if the model hit is suffering from two different continuous effects. Then, all continuous effects on that model expire.",
                 "",
                 "",
                 "",
@@ -1739,7 +1739,7 @@
         {
             "guidStr": "d0ffd5d8-488d-4f68-a20d-a16e4bbcf21c",
             "name": [
-                "\u2022Black Humor",
+                "•Black Humor",
                 "",
                 "",
                 "",
@@ -1797,7 +1797,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s attack rolls against warrior models are boosted.",
+                "This weapon’s attack rolls against warrior models are boosted.",
                 "",
                 "",
                 "",
@@ -1843,7 +1843,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, models hit by this attack lose Stealth and suffer \u20132 DEF for one turn.",
+                "On a direct hit, models hit by this attack lose Stealth and suffer –2 DEF for one turn.",
                 "",
                 "",
                 "",
@@ -1866,7 +1866,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, gain an additional die on this weapon\u2019s damage rolls against the target directly hit.",
+                "On a critical hit, gain an additional die on this weapon’s damage rolls against the target directly hit.",
                 "",
                 "",
                 "",
@@ -1923,7 +1923,7 @@
         {
             "guidStr": "d37bb7a9-fabf-488e-97aa-16f670ebc138",
             "name": [
-                "\u2022Acid Wash",
+                "•Acid Wash",
                 "",
                 "",
                 "",
@@ -1946,7 +1946,7 @@
         {
             "guidStr": "4d7fea05-ff78-415d-b512-c5232073f785",
             "name": [
-                "\u2022Black Oil",
+                "•Black Oil",
                 "",
                 "",
                 "",
@@ -1958,7 +1958,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This attack causes no damage. Instead, on a direct hit models hit suffer Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "This attack causes no damage. Instead, on a direct hit models hit suffer Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -1969,7 +1969,7 @@
         {
             "guidStr": "658f6e85-64cc-4dc8-bc1b-f6436e5dc755",
             "name": [
-                "\u2022Rust",
+                "•Rust",
                 "",
                 "",
                 "",
@@ -1981,7 +1981,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This attack causes no damage. Instead, on a direct hit constructs hit suffer \u20132 ARM for one turn.",
+                "This attack causes no damage. Instead, on a direct hit constructs hit suffer –2 ARM for one turn.",
                 "",
                 "",
                 "",
@@ -1992,7 +1992,7 @@
         {
             "guidStr": "928a6a54-bd1b-4919-89b2-98882fbe97ef",
             "name": [
-                "\u2022Aetheric Blast",
+                "•Aetheric Blast",
                 "",
                 "",
                 "",
@@ -2015,7 +2015,7 @@
         {
             "guidStr": "999c9679-b149-4521-aa3c-9617de21a283",
             "name": [
-                "\u2022Weaken",
+                "•Weaken",
                 "",
                 "",
                 "",
@@ -2027,7 +2027,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A living model hit by this weapon suffers \u20132 DEF and \u20132 to its melee attack damage rolls for one round.",
+                "A living model hit by this weapon suffers –2 DEF and –2 to its melee attack damage rolls for one round.",
                 "",
                 "",
                 "",
@@ -2073,7 +2073,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Gain an additional die on this weapon\u2019s damage rolls against living models.\r",
+                "Gain an additional die on this weapon’s damage rolls against living models.\r",
                 "",
                 "",
                 "",
@@ -2108,7 +2108,7 @@
         {
             "guidStr": "03e29c6b-966c-4d02-9f99-d39f90e51e6b",
             "name": [
-                "\u2022Rifle Grenade",
+                "•Rifle Grenade",
                 "",
                 "",
                 "",
@@ -2131,7 +2131,7 @@
         {
             "guidStr": "2fff84af-98b1-4e5c-b1c8-0356f6a21163",
             "name": [
-                "\u2022Rifle Shot",
+                "•Rifle Shot",
                 "",
                 "",
                 "",
@@ -2166,7 +2166,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Instead of making an attack with this weapon during its combat action, you can place a 3\" template anywhere completely within 10\" of this model, with a center point in this model\u2019s LOS, ignoring intervening models. While a model is within the template, it loses Stealth and models can ignore cloud effects when determining LOS to it. The template remains in play for one turn.",
+                "Instead of making an attack with this weapon during its combat action, you can place a 3\" template anywhere completely within 10\" of this model, with a center point in this model’s LOS, ignoring intervening models. While a model is within the template, it loses Stealth and models can ignore cloud effects when determining LOS to it. The template remains in play for one turn.",
                 "",
                 "",
                 "",
@@ -2293,7 +2293,7 @@
         {
             "guidStr": "7a566465-2533-4bb6-bd75-4132e74e981a",
             "name": [
-                "Combo Strike (\u2605 Attack)",
+                "Combo Strike (★ Attack)",
                 "",
                 "",
                 "",
@@ -2374,7 +2374,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, living and undead models hit by this attack suffer \u20132 ARM and lose Tough for one turn unless they can ignore gas effects.",
+                "On a direct hit, living and undead models hit by this attack suffer –2 ARM and lose Tough for one turn unless they can ignore gas effects.",
                 "",
                 "",
                 "",
@@ -2420,7 +2420,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model directly hits a model with this weapon, this model\u2019s melee attacks against that model automatically hit for one turn.",
+                "When this model directly hits a model with this weapon, this model’s melee attacks against that model automatically hit for one turn.",
                 "",
                 "",
                 "",
@@ -2454,7 +2454,7 @@
         {
             "guidStr": "23b5eeb9-d972-4e9d-ae1d-954fa6165ac3",
             "name": [
-                "\u2022Psycho Venom",
+                "•Psycho Venom",
                 "",
                 "",
                 "",
@@ -2467,7 +2467,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When a living or undead enemy model is boxed by this attack, you can choose to take control of it. If you do, remove 1 damage point from it, causing it to no longer be boxed. For the rest of the turn, this model\u2019s battlegroup controller can channel spells through the affected model as if it were a model in its battlegroup with the Arc Node advantage. The affected model cannot activate. At the end of this turn, the affected model is destroyed.",
+                "When a living or undead enemy model is boxed by this attack, you can choose to take control of it. If you do, remove 1 damage point from it, causing it to no longer be boxed. For the rest of the turn, this model’s battlegroup controller can channel spells through the affected model as if it were a model in its battlegroup with the Arc Node advantage. The affected model cannot activate. At the end of this turn, the affected model is destroyed.",
                 "",
                 "",
                 "",
@@ -2478,7 +2478,7 @@
         {
             "guidStr": "1ab84f7a-d303-4b19-aaff-33cf3894b569",
             "name": [
-                "\u2022Burster",
+                "•Burster",
                 "",
                 "",
                 "",
@@ -2502,7 +2502,7 @@
         {
             "guidStr": "a18e8c6a-ea33-4b1a-83a4-f7962b1eec66",
             "name": [
-                "\u2022Distillation",
+                "•Distillation",
                 "",
                 "",
                 "",
@@ -2515,7 +2515,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When an attack with this weapon destroys a living enemy model, immediately after the attack is resolved remove d3 + 3 damage points from this model\u2019s battlegroup controller.",
+                "When an attack with this weapon destroys a living enemy model, immediately after the attack is resolved remove d3 + 3 damage points from this model’s battlegroup controller.",
                 "",
                 "",
                 "",
@@ -2562,7 +2562,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, gain an additional die on this weapon\u2019s damage rolls against living models.",
+                "On a critical hit, gain an additional die on this weapon’s damage rolls against living models.",
                 "",
                 "",
                 "",
@@ -2596,7 +2596,7 @@
         {
             "guidStr": "70fd7750-108f-44eb-b426-7d1854b234ed",
             "name": [
-                "Combo Strike (\u2605Attack)",
+                "Combo Strike (★Attack)",
                 "",
                 "",
                 "",
@@ -2724,7 +2724,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Models destroyed by this weapon are removed from play. When this weapon destroys a living or undead model, you can choose a friendly model that can gain corpse tokens to gain the destroyed model\u2019s corpse token, regardless of the proximity of other models.",
+                "Models destroyed by this weapon are removed from play. When this weapon destroys a living or undead model, you can choose a friendly model that can gain corpse tokens to gain the destroyed model’s corpse token, regardless of the proximity of other models.",
                 "",
                 "",
                 "",
@@ -2758,7 +2758,7 @@
         {
             "guidStr": "56757d71-20ba-4bef-a590-9bc951ee2899",
             "name": [
-                "\u2022Unnatural Affliction",
+                "•Unnatural Affliction",
                 "",
                 "",
                 "",
@@ -2781,7 +2781,7 @@
         {
             "guidStr": "2d2dd01c-f541-49c5-a38f-af1ba4fef707",
             "name": [
-                "\u2022Putrefaction",
+                "•Putrefaction",
                 "",
                 "",
                 "",
@@ -2804,7 +2804,7 @@
         {
             "guidStr": "4257e3e1-9807-42dd-aa20-249f4c4bfc56",
             "name": [
-                "\u2022Hallucination",
+                "•Hallucination",
                 "",
                 "",
                 "",
@@ -2816,7 +2816,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, living models hit suffer Double Vision for one round. A model suffering Double Vision suffers  \u20131 to attack rolls. Additionally, a model targeted by a model with Double Vision gains Dodge for that attack. (A model with Dodge can advance up to 2\" immediately after an enemy attack that missed it is resolved.)",
+                "On a direct hit, living models hit suffer Double Vision for one round. A model suffering Double Vision suffers  –1 to attack rolls. Additionally, a model targeted by a model with Double Vision gains Dodge for that attack. (A model with Dodge can advance up to 2\" immediately after an enemy attack that missed it is resolved.)",
                 "",
                 "",
                 "",
@@ -2850,7 +2850,7 @@
         {
             "guidStr": "01985d35-d16d-4ccf-91d1-879adbda1b18",
             "name": [
-                "\u2022Critical Brutal Damage",
+                "•Critical Brutal Damage",
                 "",
                 "",
                 "",
@@ -2862,7 +2862,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, gain an additional die on this weapon\u2019s damage rolls against the target directly hit.",
+                "On a critical hit, gain an additional die on this weapon’s damage rolls against the target directly hit.",
                 "",
                 "",
                 "",
@@ -2873,7 +2873,7 @@
         {
             "guidStr": "fd1e00f5-2682-405b-b5ab-37bd35652f8b",
             "name": [
-                "\u2022Void Blast",
+                "•Void Blast",
                 "",
                 "",
                 "",
@@ -2896,7 +2896,7 @@
         {
             "guidStr": "b3c6b232-3abb-40a7-b895-f43bd98cca0b",
             "name": [
-                "\u2022Destructor",
+                "•Destructor",
                 "",
                 "",
                 "",
@@ -2919,7 +2919,7 @@
         {
             "guidStr": "1a610385-4f84-4021-9e14-902efdb59775",
             "name": [
-                "\u2022Momentum",
+                "•Momentum",
                 "",
                 "",
                 "",
@@ -3047,7 +3047,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit during this model\u2019s Combat Action, attacks made with this weapon against the model critically hit by this weapon automatically hit that activation. If this model attacks another model with this weapon this activation, attacks against the last model critically hit with this weapon no longer automatically hit.",
+                "On a critical hit during this model’s Combat Action, attacks made with this weapon against the model critically hit by this weapon automatically hit that activation. If this model attacks another model with this weapon this activation, attacks against the last model critically hit with this weapon no longer automatically hit.",
                 "",
                 "",
                 "",
@@ -3128,7 +3128,7 @@
         {
             "guidStr": "3bcb1948-715f-40bc-acb3-7ace57032e67",
             "name": [
-                "Tremor (\u2605Attack)",
+                "Tremor (★Attack)",
                 "",
                 "",
                 "",
@@ -3243,7 +3243,7 @@
         {
             "guidStr": "a3523abf-c850-4094-9572-6154aba6e9ec",
             "name": [
-                "\u2022Incendiary",
+                "•Incendiary",
                 "",
                 "",
                 "",
@@ -3279,7 +3279,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon becomes RNG 2 during this model\u2019s activation.",
+                "This weapon becomes RNG 2 during this model’s activation.",
                 "",
                 "",
                 "",
@@ -3313,7 +3313,7 @@
         {
             "guidStr": "60cffb06-53f4-40c3-b9d9-0faf3d4704b0",
             "name": [
-                "Ground Pounder (\u2605 Attack)",
+                "Ground Pounder (★ Attack)",
                 "",
                 "",
                 "",
@@ -3325,7 +3325,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Place a 3\" template anywhere completely within this weapon\u2019s RNG in this model\u2019s LOS. This model makes one ranged attack roll against each model in the template, ignoring concealment and Stealth. This model does not gain a bonus for aiming when resolving a Ground Pounder attack. Models do not gain the target in melee DEF bonus when resolving Ground Pounder attack rolls. Models hit suffer a ranged attack damage roll with a POW equal to the POW of this weapon. Ground Pounder attacks are simultaneous.",
+                "Place a 3\" template anywhere completely within this weapon’s RNG in this model’s LOS. This model makes one ranged attack roll against each model in the template, ignoring concealment and Stealth. This model does not gain a bonus for aiming when resolving a Ground Pounder attack. Models do not gain the target in melee DEF bonus when resolving Ground Pounder attack rolls. Models hit suffer a ranged attack damage roll with a POW equal to the POW of this weapon. Ground Pounder attacks are simultaneous.",
                 "",
                 "",
                 "",
@@ -3348,7 +3348,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, models hit by this attack lose Stealth and suffer \u20132 DEF for one turn.\r",
+                "On a direct hit, models hit by this attack lose Stealth and suffer –2 DEF for one turn.\r",
                 "",
                 "",
                 "",
@@ -3359,7 +3359,7 @@
         {
             "guidStr": "24a85f2a-0286-460f-89d0-3245066f647b",
             "name": [
-                "\u2022Flare",
+                "•Flare",
                 "",
                 "",
                 "",
@@ -3371,7 +3371,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, models hit by this attack lose Stealth and suffer \u20132 DEF for one turn.",
+                "On a direct hit, models hit by this attack lose Stealth and suffer –2 DEF for one turn.",
                 "",
                 "",
                 "",
@@ -3382,7 +3382,7 @@
         {
             "guidStr": "d90d0572-c94b-4522-baba-4927f0938f7f",
             "name": [
-                "\u2022Puncture",
+                "•Puncture",
                 "",
                 "",
                 "",
@@ -3579,7 +3579,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model is damaged by this weapon suffers \u20133\u00a0SPD and DEF for one round.",
+                "A model is damaged by this weapon suffers –3 SPD and DEF for one round.",
                 "",
                 "",
                 "",
@@ -3602,7 +3602,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When an enemy model is hit by this weapon during this model\u2019s Combat Action, it becomes knocked down and can be pushed 1\" directly away from this model. If the model hit is pushed, this model can immediately advance 1\" directly toward it.",
+                "When an enemy model is hit by this weapon during this model’s Combat Action, it becomes knocked down and can be pushed 1\" directly away from this model. If the model hit is pushed, this model can immediately advance 1\" directly toward it.",
                 "",
                 "",
                 "",
@@ -3649,7 +3649,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this weapon damages a warjack that is part of a battlegroup, the warjack\u2019s controller suffers 1 damage point.\r",
+                "When this weapon damages a warjack that is part of a battlegroup, the warjack’s controller suffers 1 damage point.\r",
                 "",
                 "",
                 "",
@@ -3695,7 +3695,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model is hit by this attack suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "A model is hit by this attack suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -3741,7 +3741,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack directly hits an enemy model during this model\u2019s activation, until the end of that activation this model can target and automatically hit that enemy model with spells, ignoring RNG and LOS.",
+                "If this attack directly hits an enemy model during this model’s activation, until the end of that activation this model can target and automatically hit that enemy model with spells, ignoring RNG and LOS.",
                 "",
                 "",
                 "",
@@ -3764,7 +3764,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model hit by this weapon suffers \u20132 ARM for one turn unless it has Resistance: Corrosion.",
+                "A model hit by this weapon suffers –2 ARM for one turn unless it has Resistance: Corrosion.",
                 "",
                 "",
                 "",
@@ -3811,7 +3811,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, the model hit suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers \u20133 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
+                "On a critical hit, the model hit suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers –3 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
                 "",
                 "",
                 "",
@@ -3834,7 +3834,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Enemy models hit by this attack cannot channel spells for one round. Additionally, enemy models without Resistance: Fire hit by this attack suffer \u20132 DEF and lose Tough for one round.",
+                "Enemy models hit by this attack cannot channel spells for one round. Additionally, enemy models without Resistance: Fire hit by this attack suffer –2 DEF and lose Tough for one round.",
                 "",
                 "",
                 "",
@@ -3891,7 +3891,7 @@
         {
             "guidStr": "97960018-9a47-4552-a6e0-9b910d582de4",
             "name": [
-                "\u2022Dispel",
+                "•Dispel",
                 "",
                 "",
                 "",
@@ -3914,7 +3914,7 @@
         {
             "guidStr": "f0e786e1-c67c-4f68-932e-04ca602d9568",
             "name": [
-                "\u2022Life Stealer",
+                "•Life Stealer",
                 "",
                 "",
                 "",
@@ -4019,7 +4019,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack misses, nothing happens. On a direct hit against an enemy model, center a cloud effect template on the model hit. The template is a hazard that remains in play for one round. Enemy living and undead models in the template when it is placed suffer Blind for one round. Enemy living or undead models entering or ending their activations in the template suffer 1 point of magical damage. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "If this attack misses, nothing happens. On a direct hit against an enemy model, center a cloud effect template on the model hit. The template is a hazard that remains in play for one round. Enemy living and undead models in the template when it is placed suffer Blind for one round. Enemy living or undead models entering or ending their activations in the template suffer 1 point of magical damage. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -4053,7 +4053,7 @@
         {
             "guidStr": "acb46fe7-4d32-4854-8ed7-b88fc9ccbf40",
             "name": [
-                "Combo Smite (\u2605Attack)",
+                "Combo Smite (★Attack)",
                 "",
                 "",
                 "",
@@ -4088,7 +4088,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "An enemy model with an equal or smaller base hit by this weapon suffers \u20132 DEF and cannot advance while within this model\u2019s melee range for one round.\r",
+                "An enemy model with an equal or smaller base hit by this weapon suffers –2 DEF and cannot advance while within this model’s melee range for one round.\r",
                 "",
                 "",
                 "",
@@ -4111,7 +4111,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, a living model directly hit by this weapon suffers \u20132 DEF and \u20132 to its melee attack damage rolls for one round.",
+                "On a critical hit, a living model directly hit by this weapon suffers –2 DEF and –2 to its melee attack damage rolls for one round.",
                 "",
                 "",
                 "",
@@ -4157,7 +4157,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model disabled by this weapon cannot make a Tough roll. When a living or undead enemy model is boxed by this attack, you can choose to take control of it. If you do, remove 1 damage point from it, causing it to no longer be boxed. For the rest of the turn, this model can channel spells through the affected model while it is in this model\u2019s control range and is not engaged. The affected model cannot activate. At the end of the turn, the affected model is destroyed.",
+                "A model disabled by this weapon cannot make a Tough roll. When a living or undead enemy model is boxed by this attack, you can choose to take control of it. If you do, remove 1 damage point from it, causing it to no longer be boxed. For the rest of the turn, this model can channel spells through the affected model while it is in this model’s control range and is not engaged. The affected model cannot activate. At the end of the turn, the affected model is destroyed.",
                 "",
                 "",
                 "",
@@ -4180,7 +4180,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model destroys a warjack with a melee attack, you can have this weapon gain the special rules and weapon qualities of one of the destroyed warjack\u2019s weapons. This weaponr becomes the type of weapon adapted (melee or ranged) and uses that weapon\u2019s RNG, ROF, AOE, and POW. This effect lasts until Cankerworm uses Adapt again.",
+                "When this model destroys a warjack with a melee attack, you can have this weapon gain the special rules and weapon qualities of one of the destroyed warjack’s weapons. This weaponr becomes the type of weapon adapted (melee or ranged) and uses that weapon’s RNG, ROF, AOE, and POW. This effect lasts until Cankerworm uses Adapt again.",
                 "",
                 "",
                 "",
@@ -4191,7 +4191,7 @@
         {
             "guidStr": "c3d06bc1-3cb2-49ac-981e-72756ce6ce96",
             "name": [
-                "\u2022Rites of Blood",
+                "•Rites of Blood",
                 "",
                 "",
                 "",
@@ -4203,7 +4203,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Once per activation, immediately after resolving an attack in which it destroyed a living model with this weapon, this model can cast one of its warcaster\u2019s spells. This model cannot cast upkeep spells or spells with a RNG of SELF or CTRL. Use the warcaster\u2019s AAT stat when making arcane attack rolls.",
+                "Once per activation, immediately after resolving an attack in which it destroyed a living model with this weapon, this model can cast one of its warcaster’s spells. This model cannot cast upkeep spells or spells with a RNG of SELF or CTRL. Use the warcaster’s AAT stat when making arcane attack rolls.",
                 "",
                 "",
                 "",
@@ -4214,7 +4214,7 @@
         {
             "guidStr": "4e2367b0-fd05-43ce-ac63-9e39208757a6",
             "name": [
-                "\u2022Critical Grievous Wounds",
+                "•Critical Grievous Wounds",
                 "",
                 "",
                 "",
@@ -4238,7 +4238,7 @@
         {
             "guidStr": "87354f0d-d8ae-4c25-b385-175075f1ed35",
             "name": [
-                "\u2022Ricochet",
+                "•Ricochet",
                 "",
                 "",
                 "",
@@ -4250,7 +4250,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model directly hits an enemy model with an attack with this weapon, immediately after the attack is resolved this model can make another ranged attack with this weapon targeting another model within 4\" of the model originally hit, ignoring LOS and this weapon\u2019s RNG. Attacks gained from Ricochet cannot generate additional attacks from Ricochet.",
+                "When this model directly hits an enemy model with an attack with this weapon, immediately after the attack is resolved this model can make another ranged attack with this weapon targeting another model within 4\" of the model originally hit, ignoring LOS and this weapon’s RNG. Attacks gained from Ricochet cannot generate additional attacks from Ricochet.",
                 "",
                 "",
                 "",
@@ -4307,7 +4307,7 @@
         {
             "guidStr": "c1176dc4-8ce4-47a9-a899-9657e37b040b",
             "name": [
-                "Energy Pulse (\u2605Attack)",
+                "Energy Pulse (★Attack)",
                 "",
                 "",
                 "",
@@ -4366,7 +4366,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "During this model\u2019s activation, when it makes an attack with this weapon against the last model hit by the weapon this activation, the attack automatically hits. ",
+                "During this model’s activation, when it makes an attack with this weapon against the last model hit by the weapon this activation, the attack automatically hits. ",
                 "",
                 "",
                 "",
@@ -4377,7 +4377,7 @@
         {
             "guidStr": "a43e8d4d-f004-4527-9b8f-949a619cef33",
             "name": [
-                "\u2022Decrepitation",
+                "•Decrepitation",
                 "",
                 "",
                 "",
@@ -4400,7 +4400,7 @@
         {
             "guidStr": "4b36dbe6-728c-4bb4-97ad-3d5fe59434bb",
             "name": [
-                "\u2022Banish",
+                "•Banish",
                 "",
                 "",
                 "",
@@ -4423,7 +4423,7 @@
         {
             "guidStr": "3d2c6052-a583-4357-b4fc-6c12e83829b4",
             "name": [
-                "\u2022Kinetic Grip",
+                "•Kinetic Grip",
                 "",
                 "",
                 "",
@@ -4435,7 +4435,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When a model is directly hit by this attack, it suffers \u20132 SPD for one round.",
+                "When a model is directly hit by this attack, it suffers –2 SPD for one round.",
                 "",
                 "",
                 "",
@@ -4446,7 +4446,7 @@
         {
             "guidStr": "d0d7b052-081f-4e06-9fde-6b759ac53b16",
             "name": [
-                "\u2022Arcane Interference",
+                "•Arcane Interference",
                 "",
                 "",
                 "",
@@ -4469,7 +4469,7 @@
         {
             "guidStr": "0763234c-bd25-4e34-b7e3-a7b838e002b5",
             "name": [
-                "\u2022Crater",
+                "•Crater",
                 "",
                 "",
                 "",
@@ -4481,7 +4481,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, models hit suffer \u20132 SPD for one round. ",
+                "On a direct hit, models hit suffer –2 SPD for one round. ",
                 "",
                 "",
                 "",
@@ -4515,7 +4515,7 @@
         {
             "guidStr": "f3bfac8b-8f6d-4d0c-91f7-81c8941de924",
             "name": [
-                "\u2022Blood Boon",
+                "•Blood Boon",
                 "",
                 "",
                 "",
@@ -4561,7 +4561,7 @@
         {
             "guidStr": "e73b7487-076e-4269-a5da-bd78953cc105",
             "name": [
-                "\u2022Scattershot",
+                "•Scattershot",
                 "",
                 "",
                 "",
@@ -4676,7 +4676,7 @@
         {
             "guidStr": "0a7fe29b-513c-4459-ad9e-dd70ec4733b3",
             "name": [
-                "\u2022Targeting Flare",
+                "•Targeting Flare",
                 "",
                 "",
                 "",
@@ -4688,7 +4688,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Instead of making an attack with this weapon during its Combat Action, you can place a 3\" template anywhere completely within 10\" of this model, with a center point in this model\u2019s LOS, ignoring intervening models. While a model is within the template, it loses Stealth and models can ignore cloud effects when determining LOS to it. The template remains in play for one turn.",
+                "Instead of making an attack with this weapon during its Combat Action, you can place a 3\" template anywhere completely within 10\" of this model, with a center point in this model’s LOS, ignoring intervening models. While a model is within the template, it loses Stealth and models can ignore cloud effects when determining LOS to it. The template remains in play for one turn.",
                 "",
                 "",
                 "",
@@ -4699,7 +4699,7 @@
         {
             "guidStr": "e2e9a264-25a9-4625-a53f-279a40e0f4ea",
             "name": [
-                "\u2022Blasted Earth",
+                "•Blasted Earth",
                 "",
                 "",
                 "",
@@ -4711,7 +4711,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Models hit suffer \u20132 SPD for one round.",
+                "Models hit suffer –2 SPD for one round.",
                 "",
                 "",
                 "",
@@ -4722,7 +4722,7 @@
         {
             "guidStr": "1c7f1c33-04bb-4114-b5e3-9c176f64faa6",
             "name": [
-                "\u2022Bombardment",
+                "•Bombardment",
                 "",
                 "",
                 "",
@@ -4734,7 +4734,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base POW becomes 13/7.",
+                "This weapon’s base POW becomes 13/7.",
                 "",
                 "",
                 "",
@@ -4780,7 +4780,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This attack causes no damage. Instead, a living warrior model hit by this attack becomes stationary for one round. On a critical hit on a non-Leader living enemy warrior model, before it becomes stationary you take control of the model hit. You can immediately make a full advance with the enemy model followed by a basic attack, then the enemy model reverts to your opponent\u2019s control and becomes stationary for one round.",
+                "This attack causes no damage. Instead, a living warrior model hit by this attack becomes stationary for one round. On a critical hit on a non-Leader living enemy warrior model, before it becomes stationary you take control of the model hit. You can immediately make a full advance with the enemy model followed by a basic attack, then the enemy model reverts to your opponent’s control and becomes stationary for one round.",
                 "",
                 "",
                 "",
@@ -4803,7 +4803,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, add an additional die to this weapon\u2019s damage roll if the model hit is suffering a continuous effect. Add two dice instead if the model hit is suffering from two different continuous effects. Then, all continuous effects on that model expire.",
+                "On a direct hit, add an additional die to this weapon’s damage roll if the model hit is suffering a continuous effect. Add two dice instead if the model hit is suffering from two different continuous effects. Then, all continuous effects on that model expire.",
                 "",
                 "",
                 "",
@@ -4860,7 +4860,7 @@
         {
             "guidStr": "ec50caac-74e0-4211-abe8-020006f13633",
             "name": [
-                "\u2022Blood of Urcaen",
+                "•Blood of Urcaen",
                 "",
                 "",
                 "",
@@ -4883,7 +4883,7 @@
         {
             "guidStr": "23d92ef2-cf89-431e-b8ee-ff97a7fa64c4",
             "name": [
-                "\u2022Pyrocatalyst",
+                "•Pyrocatalyst",
                 "",
                 "",
                 "",
@@ -4906,7 +4906,7 @@
         {
             "guidStr": "9dcf0c27-b1fb-4a74-9d93-2decf275be67",
             "name": [
-                "\u2022Vitriolic Trajectile",
+                "•Vitriolic Trajectile",
                 "",
                 "",
                 "",
@@ -4952,7 +4952,7 @@
         {
             "guidStr": "d39ecabe-3167-4fc5-8127-1277fe6c251a",
             "name": [
-                "\u2022Blight Spasm",
+                "•Blight Spasm",
                 "",
                 "",
                 "",
@@ -4975,7 +4975,7 @@
         {
             "guidStr": "ac60a960-48b8-41e9-801b-66d368bf180a",
             "name": [
-                "\u2022Poison",
+                "•Poison",
                 "",
                 "",
                 "",
@@ -4987,7 +4987,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Gain an additional die on this weapon\u2019s damage rolls against living models. ",
+                "Gain an additional die on this weapon’s damage rolls against living models. ",
                 "",
                 "",
                 "",
@@ -5056,7 +5056,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model directly hits a model with this weapon, this model\u2019s ranged attacks against that model automatically hit for one turn.",
+                "When this model directly hits a model with this weapon, this model’s ranged attacks against that model automatically hit for one turn.",
                 "",
                 "",
                 "",
@@ -5103,7 +5103,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit with this weapon during this model\u2019s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit.",
+                "On a critical hit with this weapon during this model’s Combat Action, after the attack is resolved this model can make one additional attack with this weapon against the model hit.",
                 "",
                 "",
                 "",
@@ -5114,7 +5114,7 @@
         {
             "guidStr": "d6842a11-d8e0-4afa-92c3-0be43b52fe26",
             "name": [
-                "\u2022Beat Back",
+                "•Beat Back",
                 "",
                 "",
                 "",
@@ -5126,7 +5126,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Immediately after a basic attack with this weapon is resolved during this model\u2019s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
+                "Immediately after a basic attack with this weapon is resolved during this model’s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it. ",
                 "",
                 "",
                 "",
@@ -5149,7 +5149,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model gains an additional die on this weapon\u2019s damage rolls against construct models.",
+                "This model gains an additional die on this weapon’s damage rolls against construct models.",
                 "",
                 "",
                 "",
@@ -5172,7 +5172,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Models hit suffer \u20132 DEF for one turn.",
+                "Models hit suffer –2 DEF for one turn.",
                 "",
                 "",
                 "",
@@ -5206,7 +5206,7 @@
         {
             "guidStr": "3bcbb3f5-c503-4450-b858-2a842af58e79",
             "name": [
-                "\u2022Anesthesia",
+                "•Anesthesia",
                 "",
                 "",
                 "",
@@ -5252,7 +5252,7 @@
         {
             "guidStr": "0dec8113-1dba-4b4a-8176-54b8f67466b2",
             "name": [
-                "\u2022Carpet Bomb",
+                "•Carpet Bomb",
                 "",
                 "",
                 "",
@@ -5275,7 +5275,7 @@
         {
             "guidStr": "842d43ec-c800-474b-ba00-a8832c7832f7",
             "name": [
-                "\u2022Case Cracker",
+                "•Case Cracker",
                 "",
                 "",
                 "",
@@ -5287,7 +5287,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base stats become AOE - and POW 7 for this attack. When calculating damage from this attack, halve the base ARM stat of the model directly hit.",
+                "This weapon’s base stats become AOE - and POW 7 for this attack. When calculating damage from this attack, halve the base ARM stat of the model directly hit.",
                 "",
                 "",
                 "",
@@ -5413,7 +5413,7 @@
         {
             "guidStr": "c711405c-1596-4f28-ab24-79b2f59551c7",
             "name": [
-                "\u2022Inflict Pain",
+                "•Inflict Pain",
                 "",
                 "",
                 "",
@@ -5448,7 +5448,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Enemy model/unit directly hit suffers \u20132 SPD and DEF and cannot charge or make slam or trample power attacks. Friendly Faction construct models charging an affected model gain +2 SPD. Magnetic Hold lasts for one round.",
+                "Enemy model/unit directly hit suffers –2 SPD and DEF and cannot charge or make slam or trample power attacks. Friendly Faction construct models charging an affected model gain +2 SPD. Magnetic Hold lasts for one round.",
                 "",
                 "",
                 "",
@@ -5505,7 +5505,7 @@
         {
             "guidStr": "6c261149-5c7a-41e9-8bf1-9e1ff37a23bf",
             "name": [
-                "\u2022Pitch",
+                "•Pitch",
                 "",
                 "",
                 "",
@@ -5528,7 +5528,7 @@
         {
             "guidStr": "6f7ba3d5-2966-4811-954c-305046f08036",
             "name": [
-                "\u2022Armor-Piercing",
+                "•Armor-Piercing",
                 "",
                 "",
                 "",
@@ -5551,7 +5551,7 @@
         {
             "guidStr": "db8df595-9eb0-4ac1-b9b3-fe370d327783",
             "name": [
-                "\u2022Dead Reckoning",
+                "•Dead Reckoning",
                 "",
                 "",
                 "",
@@ -5586,7 +5586,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Warjacks hit by this attack cannot advance and suffer \u20134 DEF. Warjacks beginning an advance within 2\" of a warjack hit cannot run, charge, or make slam or trample power attacks. Tractor Field lasts for one round.",
+                "Warjacks hit by this attack cannot advance and suffer –4 DEF. Warjacks beginning an advance within 2\" of a warjack hit cannot run, charge, or make slam or trample power attacks. Tractor Field lasts for one round.",
                 "",
                 "",
                 "",
@@ -5643,7 +5643,7 @@
         {
             "guidStr": "7edc3b6e-bc84-4f88-b193-72c82ea57bc4",
             "name": [
-                "\u2022Quake",
+                "•Quake",
                 "",
                 "",
                 "",
@@ -5666,7 +5666,7 @@
         {
             "guidStr": "ca120d57-e876-4585-b1ab-934d2f6a68d4",
             "name": [
-                "\u2022From Beneath",
+                "•From Beneath",
                 "",
                 "",
                 "",
@@ -5712,7 +5712,7 @@
         {
             "guidStr": "67d2d15a-072c-4414-a4a3-7721f4f35d28",
             "name": [
-                "\u2022Flamethrower",
+                "•Flamethrower",
                 "",
                 "",
                 "",
@@ -5735,7 +5735,7 @@
         {
             "guidStr": "2be1d862-4d61-4771-8116-1dfc802dd851",
             "name": [
-                "Full Auto (\u2605Attack)",
+                "Full Auto (★Attack)",
                 "",
                 "",
                 "",
@@ -5816,7 +5816,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When a living or undead model is damaged by an attack with this weapon, it suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "When a living or undead model is damaged by an attack with this weapon, it suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -5909,7 +5909,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A living model directly hit by this weapon suffers \u20132 DEF and \u20132 to its melee attack damage rolls for one round.",
+                "A living model directly hit by this weapon suffers –2 DEF and –2 to its melee attack damage rolls for one round.",
                 "",
                 "",
                 "",
@@ -5932,7 +5932,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When a model is hit by this attack, it suffers \u20132 SPD for one round.",
+                "When a model is hit by this attack, it suffers –2 SPD for one round.",
                 "",
                 "",
                 "",
@@ -5943,7 +5943,7 @@
         {
             "guidStr": "6516e2d8-53bf-4378-bb40-1e9a35fc89ff",
             "name": [
-                "Smite (\u2605 Attack)",
+                "Smite (★ Attack)",
                 "",
                 "",
                 "",
@@ -5989,7 +5989,7 @@
         {
             "guidStr": "cbeb269f-7fb4-499b-a7da-9092730bf8f9",
             "name": [
-                "\u2022Heart Seeker",
+                "•Heart Seeker",
                 "",
                 "",
                 "",
@@ -6012,7 +6012,7 @@
         {
             "guidStr": "03447591-8463-40e8-8f15-75862cc27eb8",
             "name": [
-                "\u2022Electro Leap",
+                "•Electro Leap",
                 "",
                 "",
                 "",
@@ -6070,7 +6070,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Warbeasts in this model\u2019s battlegroup gain +2 SPD when charging a model damaged by this weapon this turn.",
+                "Warbeasts in this model’s battlegroup gain +2 SPD when charging a model damaged by this weapon this turn.",
                 "",
                 "",
                 "",
@@ -6081,7 +6081,7 @@
         {
             "guidStr": "8ee55d65-121d-4afc-bdfe-f79ac7d37fd8",
             "name": [
-                "\u2022Crescendo",
+                "•Crescendo",
                 "",
                 "",
                 "",
@@ -6104,7 +6104,7 @@
         {
             "guidStr": "82b1f540-3ada-41bc-b03b-0175375750da",
             "name": [
-                "\u2022Sonic Eruption",
+                "•Sonic Eruption",
                 "",
                 "",
                 "",
@@ -6116,7 +6116,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon gains Pistol and its base stats become RNG Sp 10, AOE \u2013, and POW 12 for this attack.",
+                "This weapon gains Pistol and its base stats become RNG Sp 10, AOE –, and POW 12 for this attack.",
                 "",
                 "",
                 "",
@@ -6139,7 +6139,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A warrior model/unit hit by an attack made by this model this activation suffer \u20132 RAT for one round.",
+                "A warrior model/unit hit by an attack made by this model this activation suffer –2 RAT for one round.",
                 "",
                 "",
                 "",
@@ -6150,7 +6150,7 @@
         {
             "guidStr": "e8e6e19d-ea0c-4b4f-b59d-877ce2af74f0",
             "name": [
-                "Covering Fire (\u2605Action)",
+                "Covering Fire (★Action)",
                 "",
                 "",
                 "",
@@ -6162,7 +6162,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Place a wall template anywhere completely within this weapon\u2019s RNG and this model\u2019s LOS, ignoring intervening models. A model entering or ending its activation in the template suffers a damage roll with POW equal to the POW of this weapon. The template remains in play for one round. If this model is destroyed or removed from play, immediately remove the template from play.",
+                "Place a wall template anywhere completely within this weapon’s RNG and this model’s LOS, ignoring intervening models. A model entering or ending its activation in the template suffers a damage roll with POW equal to the POW of this weapon. The template remains in play for one round. If this model is destroyed or removed from play, immediately remove the template from play.",
                 "",
                 "",
                 "",
@@ -6185,7 +6185,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model destroys a living enemy model with this weapon and generates a soul token, you can choose which model with the Soul Taker ability gains the destroyed model\u2019s soul, regardless of the proximity of other models. Enemy models cannot gain soul tokens from models destroyed by this weapon.",
+                "When this model destroys a living enemy model with this weapon and generates a soul token, you can choose which model with the Soul Taker ability gains the destroyed model’s soul, regardless of the proximity of other models. Enemy models cannot gain soul tokens from models destroyed by this weapon.",
                 "",
                 "",
                 "",
@@ -6219,7 +6219,7 @@
         {
             "guidStr": "16520247-9f3b-44a3-936a-47212521c57e",
             "name": [
-                "\u2022Psychomorphic Destabilizer",
+                "•Psychomorphic Destabilizer",
                 "",
                 "",
                 "",
@@ -6254,7 +6254,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, models hit suffer \u20132 SPD and RAT for one round.",
+                "On a direct hit, models hit suffer –2 SPD and RAT for one round.",
                 "",
                 "",
                 "",
@@ -6277,7 +6277,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "The first attack made with this weapon each activation ignores Stealth when resolving the attack. A model hit by the first attack made with this weapon each activation suffers Flare. (A model suffering Flare loses Stealth and suffers \u20132 DEF for one turn.)",
+                "The first attack made with this weapon each activation ignores Stealth when resolving the attack. A model hit by the first attack made with this weapon each activation suffers Flare. (A model suffering Flare loses Stealth and suffers –2 DEF for one turn.)",
                 "",
                 "",
                 "",
@@ -6427,7 +6427,7 @@
         {
             "guidStr": "796e9342-a938-4456-b333-1cb8e51cfd9e",
             "name": [
-                "\u2022Dispel ",
+                "•Dispel ",
                 "",
                 "",
                 "",
@@ -6496,7 +6496,7 @@
         {
             "guidStr": "40806663-d865-4f73-8944-d139aaedf8fd",
             "name": [
-                "\u2022Lightning Generator",
+                "•Lightning Generator",
                 "",
                 "",
                 "",
@@ -6519,7 +6519,7 @@
         {
             "guidStr": "a3867171-91f0-49a4-bdf2-b50d06c8b44e",
             "name": [
-                "\u2022Electrocutioner",
+                "•Electrocutioner",
                 "",
                 "",
                 "",
@@ -6531,7 +6531,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model directly hit by this attack suffers a cumulative \u20131 DEF for one turn unless it has Resistance: Electricity. When a model without Resistance: Electricity is directly hit with three or more Electrocutioner attacks in the same turn, it becomes stationary for one round.",
+                "A model directly hit by this attack suffers a cumulative –1 DEF for one turn unless it has Resistance: Electricity. When a model without Resistance: Electricity is directly hit with three or more Electrocutioner attacks in the same turn, it becomes stationary for one round.",
                 "",
                 "",
                 "",
@@ -6554,7 +6554,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Warbeasts in this model\u2019s battlegroup can charge enemy models hit by this weapon this turn without being forced.",
+                "Warbeasts in this model’s battlegroup can charge enemy models hit by this weapon this turn without being forced.",
                 "",
                 "",
                 "",
@@ -6611,7 +6611,7 @@
         {
             "guidStr": "0d099e9b-9d81-4074-b4b6-3667091fa44c",
             "name": [
-                "\u2022Wildfire",
+                "•Wildfire",
                 "",
                 "",
                 "",
@@ -6634,7 +6634,7 @@
         {
             "guidStr": "6ba4917f-a204-421d-a84c-628e79cabe2b",
             "name": [
-                "\u2022Retribution",
+                "•Retribution",
                 "",
                 "",
                 "",
@@ -6657,7 +6657,7 @@
         {
             "guidStr": "36702c47-2d67-4543-a64d-2dff25084ace",
             "name": [
-                "\u2022Voidwalker",
+                "•Voidwalker",
                 "",
                 "",
                 "",
@@ -6772,7 +6772,7 @@
         {
             "guidStr": "82dba0f9-04a5-4be4-88b5-97ffe6c39bd1",
             "name": [
-                "Fire in the Hole! (\u2605 Action)",
+                "Fire in the Hole! (★ Action)",
                 "",
                 "",
                 "",
@@ -6784,7 +6784,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Place a 3\" diameter template anywhere in contact with an obstruction terrain feature, and completely within this weapon\u2019s RNG. The template is rubble terrain and remains in play for one round.",
+                "Place a 3\" diameter template anywhere in contact with an obstruction terrain feature, and completely within this weapon’s RNG. The template is rubble terrain and remains in play for one round.",
                 "",
                 "",
                 "",
@@ -6795,7 +6795,7 @@
         {
             "guidStr": "6e3fb02f-8368-41f1-8244-19f61b814aec",
             "name": [
-                "Fire Bomb (\u2605Action)",
+                "Fire Bomb (★Action)",
                 "",
                 "",
                 "",
@@ -6807,7 +6807,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Choose a forest terrain feature within this weapon\u2019s RNG. It becomes a burning earth hazard instead of a forest for the remainder of the game.",
+                "Choose a forest terrain feature within this weapon’s RNG. It becomes a burning earth hazard instead of a forest for the remainder of the game.",
                 "",
                 "",
                 "",
@@ -6818,7 +6818,7 @@
         {
             "guidStr": "d2e4b7f1-b9e1-4538-bc78-57616d343dbc",
             "name": [
-                "\u2022Energy Siphon",
+                "•Energy Siphon",
                 "",
                 "",
                 "",
@@ -6841,7 +6841,7 @@
         {
             "guidStr": "fd222661-34c7-4ceb-abc7-ae430ff5ae26",
             "name": [
-                "\u2022Mechanikal Seizure",
+                "•Mechanikal Seizure",
                 "",
                 "",
                 "",
@@ -6864,7 +6864,7 @@
         {
             "guidStr": "79bc747f-3cb6-4ccf-8ab3-e5734ae10334",
             "name": [
-                "\u2022Critical Armor-Piercing",
+                "•Critical Armor-Piercing",
                 "",
                 "",
                 "",
@@ -6899,7 +6899,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "During an activation in which this model was placed as a result of using the Jump ability, this weapon\u2019s first damage roll is automatically boosted.",
+                "During an activation in which this model was placed as a result of using the Jump ability, this weapon’s first damage roll is automatically boosted.",
                 "",
                 "",
                 "",
@@ -6945,7 +6945,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model directly hits an enemy model with an attack with this weapon, immediately after the attack is resolved this model can make another ranged attack with this weapon targeting another model within 4\" of the model originally hit, ignoring LOS and this weapon\u2019s RNG. Attacks gained from Ricochet cannot generate additional attacks from Ricochet.",
+                "When this model directly hits an enemy model with an attack with this weapon, immediately after the attack is resolved this model can make another ranged attack with this weapon targeting another model within 4\" of the model originally hit, ignoring LOS and this weapon’s RNG. Attacks gained from Ricochet cannot generate additional attacks from Ricochet.",
                 "",
                 "",
                 "",
@@ -7002,7 +7002,7 @@
         {
             "guidStr": "3b24913d-eea8-4b93-9982-7b0c392aed34",
             "name": [
-                "\u2022Rune-Marked",
+                "•Rune-Marked",
                 "",
                 "",
                 "",
@@ -7083,7 +7083,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model can gain soul tokens. When this model destroys a living enemy model with an attack with this weapon, this model gains the destroyed model\u2019s soul token. This model can have up to five soul tokens at any time.",
+                "This model can gain soul tokens. When this model destroys a living enemy model with an attack with this weapon, this model gains the destroyed model’s soul token. This model can have up to five soul tokens at any time.",
                 "",
                 "",
                 "",
@@ -7094,7 +7094,7 @@
         {
             "guidStr": "a5b8cb15-f04d-4ea0-af3c-243990ec87fb",
             "name": [
-                "\u2022Skewer",
+                "•Skewer",
                 "",
                 "",
                 "",
@@ -7117,7 +7117,7 @@
         {
             "guidStr": "f87497c6-689d-43cf-af0b-95099b389af3",
             "name": [
-                "\u2022Volume Fire",
+                "•Volume Fire",
                 "",
                 "",
                 "",
@@ -7140,7 +7140,7 @@
         {
             "guidStr": "37810d20-05ef-48c3-a91d-7c9a2c08292d",
             "name": [
-                "\u2022Galvanic Blast Field",
+                "•Galvanic Blast Field",
                 "",
                 "",
                 "",
@@ -7267,7 +7267,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model directly hit by this weapon suffers \u20132 SPD and DEF for one round.",
+                "A model directly hit by this weapon suffers –2 SPD and DEF for one round.",
                 "",
                 "",
                 "",
@@ -7278,7 +7278,7 @@
         {
             "guidStr": "ddb809ce-66bc-4739-af16-60400d604048",
             "name": [
-                "\u2022Blood Lure",
+                "•Blood Lure",
                 "",
                 "",
                 "",
@@ -7290,7 +7290,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Warbeasts models in this model\u2019s battlegroup can charge enemy models hit by this weapon this turn without being forced.",
+                "Warbeasts models in this model’s battlegroup can charge enemy models hit by this weapon this turn without being forced.",
                 "",
                 "",
                 "",
@@ -7314,7 +7314,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model hits an enemy warjack that has a non-crippled cortex with a basic melee attack made with this weapon during this model\u2019s activation, you can take control of the warjack. Immediately after the attack has been resolved, you can make a full advance with the warjack and can then make one basic attack, then Dark Domination expires. A warjack can be affected by Dark Domination only once per turn. ",
+                "When this model hits an enemy warjack that has a non-crippled cortex with a basic melee attack made with this weapon during this model’s activation, you can take control of the warjack. Immediately after the attack has been resolved, you can make a full advance with the warjack and can then make one basic attack, then Dark Domination expires. A warjack can be affected by Dark Domination only once per turn. ",
                 "",
                 "",
                 "",
@@ -7325,7 +7325,7 @@
         {
             "guidStr": "98e5369a-f577-4273-a1a1-bef81b756216",
             "name": [
-                "Rathrok\u2019s Awakening",
+                "Rathrok’s Awakening",
                 "",
                 "",
                 "",
@@ -7418,7 +7418,7 @@
         {
             "guidStr": "c3e2c105-ceb5-477f-87fd-c32c04fcfd0b",
             "name": [
-                "Full Battery Fire (\u2605 Attack)",
+                "Full Battery Fire (★ Attack)",
                 "",
                 "",
                 "",
@@ -7441,7 +7441,7 @@
         {
             "guidStr": "45f2e700-ee22-41d4-9562-978903ee0df8",
             "name": [
-                "Full Blast (\u2605 Action)",
+                "Full Blast (★ Action)",
                 "",
                 "",
                 "",
@@ -7579,7 +7579,7 @@
         {
             "guidStr": "55ffd7fc-ccfe-4bc4-bce4-e095229bd81c",
             "name": [
-                "Death Burst (\u2605Attack)",
+                "Death Burst (★Attack)",
                 "",
                 "",
                 "",
@@ -7592,7 +7592,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s POW becomes 16 when resolving this attack, and models other than the target of this attack within 2\" of this model suffer a POW 8 blast damage roll. After this attack is resolved, remove this model from play.",
+                "This weapon’s POW becomes 16 when resolving this attack, and models other than the target of this attack within 2\" of this model suffer a POW 8 blast damage roll. After this attack is resolved, remove this model from play.",
                 "",
                 "",
                 "",
@@ -7603,7 +7603,7 @@
         {
             "guidStr": "fa88fab9-d4cb-4bf5-88e5-71c5f82e4787",
             "name": [
-                "\u2022Radiant Blast",
+                "•Radiant Blast",
                 "",
                 "",
                 "",
@@ -7615,7 +7615,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon becomes AOE 3, POW 12/7 for this attack. On a direct hit, models hit by this attack lose Stealth and suffer \u20132 DEF for one turn.",
+                "This weapon becomes AOE 3, POW 12/7 for this attack. On a direct hit, models hit by this attack lose Stealth and suffer –2 DEF for one turn.",
                 "",
                 "",
                 "",
@@ -7672,7 +7672,7 @@
         {
             "guidStr": "fc9e7197-f47f-4a4d-a7d2-4096f75bbe0a",
             "name": [
-                "\u2022Alchemical Accelerant",
+                "•Alchemical Accelerant",
                 "",
                 "",
                 "",
@@ -7695,7 +7695,7 @@
         {
             "guidStr": "9e49734e-5656-4c1c-a68e-bc7546b8687c",
             "name": [
-                "\u2022Withering Humor",
+                "•Withering Humor",
                 "",
                 "",
                 "",
@@ -7707,7 +7707,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit, living and undead models hit by this attack suffer \u20132 ARM and lose Tough for one turn unless they can ignore gas effects.",
+                "On a direct hit, living and undead models hit by this attack suffer –2 ARM and lose Tough for one turn unless they can ignore gas effects.",
                 "",
                 "",
                 "",
@@ -7718,7 +7718,7 @@
         {
             "guidStr": "45bcc8f3-a21f-43c0-921c-76bb70d7e813",
             "name": [
-                "\u2022Ice Cage",
+                "•Ice Cage",
                 "",
                 "",
                 "",
@@ -7730,7 +7730,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit a model hit suffers a cumulative \u20132 DEF for one turn unless it has Resistance: Cold. When a model without Resistance: Cold is affected by two or more directly hitting Ice Cage attacks in the same turn, it becomes stationary for one round.",
+                "On a direct hit a model hit suffers a cumulative –2 DEF for one turn unless it has Resistance: Cold. When a model without Resistance: Cold is affected by two or more directly hitting Ice Cage attacks in the same turn, it becomes stationary for one round.",
                 "",
                 "",
                 "",
@@ -7741,7 +7741,7 @@
         {
             "guidStr": "935b961a-b4f3-4aee-bfdc-b43b727662e4",
             "name": [
-                "\u2022Iron Bane",
+                "•Iron Bane",
                 "",
                 "",
                 "",
@@ -7753,7 +7753,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "Models hit without Resistance: Corrosion suffer Rust. (A construct model suffering Rust suffers \u20132 ARM. Rust lasts for one round)",
+                "Models hit without Resistance: Corrosion suffer Rust. (A construct model suffering Rust suffers –2 ARM. Rust lasts for one round)",
                 "",
                 "",
                 "",
@@ -7764,7 +7764,7 @@
         {
             "guidStr": "a773b5bf-168f-4049-a020-ce22018cb36f",
             "name": [
-                "\u2022Psychoactive Gas",
+                "•Psychoactive Gas",
                 "",
                 "",
                 "",
@@ -7810,7 +7810,7 @@
         {
             "guidStr": "e5cb84d5-e709-4249-9eee-1f1567b0fd9b",
             "name": [
-                "\u2022Grapeshot",
+                "•Grapeshot",
                 "",
                 "",
                 "",
@@ -7833,7 +7833,7 @@
         {
             "guidStr": "ef0f93d1-5cf6-46dd-ba8e-190f13c9837a",
             "name": [
-                "\u2022Chain Shot",
+                "•Chain Shot",
                 "",
                 "",
                 "",
@@ -7868,7 +7868,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a direct hit a model hit suffers a cumulative \u20132 DEF for one turn unless it has Resistance: Cold. When a model without Resistance: Cold is affected by two or more directly hitting Ice Cage attacks in the same turn, it becomes stationary for one round.",
+                "On a direct hit a model hit suffers a cumulative –2 DEF for one turn unless it has Resistance: Cold. When a model without Resistance: Cold is affected by two or more directly hitting Ice Cage attacks in the same turn, it becomes stationary for one round.",
                 "",
                 "",
                 "",
@@ -7879,7 +7879,7 @@
         {
             "guidStr": "ddd57bf8-de84-44c6-a4e4-9fe08adbcd80",
             "name": [
-                "\u2022Paralysis",
+                "•Paralysis",
                 "",
                 "",
                 "",
@@ -7960,7 +7960,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s attack rolls are boosted against living models.",
+                "This weapon’s attack rolls are boosted against living models.",
                 "",
                 "",
                 "",
@@ -7994,7 +7994,7 @@
         {
             "guidStr": "cd71d42b-cd37-4d1b-be56-cad65427528c",
             "name": [
-                "\u2022Blind",
+                "•Blind",
                 "",
                 "",
                 "",
@@ -8006,7 +8006,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model is hit by this attack suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers \u20134 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
+                "A model is hit by this attack suffers Blind for one round. (A model suffering Blind cannot make ranged or arcane attacks, suffers –4 MAT and DEF, and cannot run, charge, or make slam or trample power attacks. It must forfeit either its Normal Movement or Combat Action during its next activation. Blind can be shaken.)",
                 "",
                 "",
                 "",
@@ -8017,7 +8017,7 @@
         {
             "guidStr": "bf46ddb1-0111-4e64-a51f-1f1359b65a7f",
             "name": [
-                "\u2022Shadow Bind",
+                "•Shadow Bind",
                 "",
                 "",
                 "",
@@ -8029,7 +8029,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                " A model hit by this weapon suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers \u20133 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
+                " A model hit by this weapon suffers Shadow Bind for one round. (A model suffering Shadow Bind suffers –3 DEF and cannot advance for one round. Shadow Bind can be shaken.)",
                 "",
                 "",
                 "",
@@ -8040,7 +8040,7 @@
         {
             "guidStr": "e1481510-44da-4d2e-9940-37da3494fdc6",
             "name": [
-                "\u2022Burning Flames",
+                "•Burning Flames",
                 "",
                 "",
                 "",
@@ -8086,7 +8086,7 @@
         {
             "guidStr": "57c8d4d8-4bae-4ad8-9b44-193c66b8d725",
             "name": [
-                "\u2022Blood Shadow",
+                "•Blood Shadow",
                 "",
                 "",
                 "",
@@ -8109,7 +8109,7 @@
         {
             "guidStr": "64fe1cbe-226a-48ed-ac15-aad6905fef76",
             "name": [
-                "\u2022Death Strike",
+                "•Death Strike",
                 "",
                 "",
                 "",
@@ -8132,7 +8132,7 @@
         {
             "guidStr": "40c969e7-f56f-451d-9471-6624383dfd49",
             "name": [
-                "\u2022Feedback",
+                "•Feedback",
                 "",
                 "",
                 "",
@@ -8144,7 +8144,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this weapon damages a warjack that is part of a battlegroup, the warjack\u2019s controller suffers 1 damage point.",
+                "When this weapon damages a warjack that is part of a battlegroup, the warjack’s controller suffers 1 damage point.",
                 "",
                 "",
                 "",
@@ -8191,7 +8191,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "On a critical hit, gain an additional die on this weapon\u2019s damage rolls against the target directly hit. Discard the lowest die in each roll.",
+                "On a critical hit, gain an additional die on this weapon’s damage rolls against the target directly hit. Discard the lowest die in each roll.",
                 "",
                 "",
                 "",
@@ -8214,7 +8214,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack\u2019s original target is an enemy model and that model is boxed by this attack, you can make a SP 6 attack using the boxed model as the attack\u2019s point of origin. Models hit suffer a POW 14 magical damage roll. Models boxed by an attack made with this weapon are removed from play.",
+                "If this attack’s original target is an enemy model and that model is boxed by this attack, you can make a SP 6 attack using the boxed model as the attack’s point of origin. Models hit suffer a POW 14 magical damage roll. Models boxed by an attack made with this weapon are removed from play.",
                 "",
                 "",
                 "",
@@ -8329,7 +8329,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack hits an enemy model with an equal or smaller base, immediately after the attack is resolved the enemy model can be pushed directly toward this model until it contacts this model. During this push, the enemy model can move through other models, obstacles, or obstructions if the push is enough to move completely past.",
+                "If this attack hits an enemy model with an equal or smaller base, immediately after the attack is resolved the enemy model can be pushed directly towards this model until it contacts this model. During this push, the enemy model can move through obstacles or obstructions if the push is enough to move completely past.",
                 "",
                 "",
                 "",
@@ -8352,7 +8352,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "A model directly hit by this attack suffers a cumulative \u20131 DEF for one turn unless it has Resistance: Electricity. When a model without Resistance: Electricity is directly hit with three or more Electrocutioner attacks in the same turn, it becomes stationary for one round.",
+                "A model directly hit by this attack suffers a cumulative –1 DEF for one turn unless it has Resistance: Electricity. When a model without Resistance: Electricity is directly hit with three or more Electrocutioner attacks in the same turn, it becomes stationary for one round.",
                 "",
                 "",
                 "",
@@ -8444,7 +8444,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "If this attack hits a model during this unit\u2019s activation, ranged attacks against that model made by models in this unit later this activation automatically hit.",
+                "If this attack hits a model during this unit’s activation, ranged attacks against that model made by models in this unit later this activation automatically hit.",
                 "",
                 "",
                 "",
@@ -8478,7 +8478,7 @@
         {
             "guidStr": "8649b90f-796a-4851-9d48-a541ebce713d",
             "name": [
-                "Combo Pitch (\u2605Attack)",
+                "Combo Pitch (★Attack)",
                 "",
                 "",
                 "",
@@ -8536,7 +8536,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model can gain soul tokens. When this model destroys a living enemy model with an attack with this weapon, this model gains the destroyed model\u2019s soul token. When this model replenishes its focus during your next Control Phase, replace each soul token on it with 1 focus point.",
+                "This model can gain soul tokens. When this model destroys a living enemy model with an attack with this weapon, this model gains the destroyed model’s soul token. When this model replenishes its focus during your next Control Phase, replace each soul token on it with 1 focus point.",
                 "",
                 "",
                 "",
@@ -8662,7 +8662,7 @@
         {
             "guidStr": "a54d6ac8-ebe0-45b2-b280-b22916527a69",
             "name": [
-                "\u2022Canister Shot",
+                "•Canister Shot",
                 "",
                 "",
                 "",
@@ -8674,7 +8674,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base stats become RNG SP 10, AOE \u2013",
+                "This weapon’s base stats become RNG SP 10, AOE –",
                 "",
                 "",
                 "",
@@ -8685,7 +8685,7 @@
         {
             "guidStr": "cae8454d-32f6-4660-8981-c68d51e5ee0b",
             "name": [
-                "\u2022Cannonball",
+                "•Cannonball",
                 "",
                 "",
                 "",
@@ -8697,7 +8697,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base stats become RNG 20. A model hit is slammed d6\" directly away from this model. The POW of collateral damage is equal to the POW of this attack.",
+                "This weapon’s base stats become RNG 20. A model hit is slammed d6\" directly away from this model. The POW of collateral damage is equal to the POW of this attack.",
                 "",
                 "",
                 "",
@@ -8708,7 +8708,7 @@
         {
             "guidStr": "6adb58fc-65b8-411c-a4fe-2692c1d8d25d",
             "name": [
-                "\u2022Incendiary Shot",
+                "•Incendiary Shot",
                 "",
                 "",
                 "",
@@ -8720,7 +8720,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This weapon\u2019s base stats become RNG 16, AOE 4, and POW 14/7 for this attack. This attack causes fire damage and models hit suffer the Fire continuous effect.",
+                "This weapon’s base stats become RNG 16, AOE 4, and POW 14/7 for this attack. This attack causes fire damage and models hit suffer the Fire continuous effect.",
                 "",
                 "",
                 "",
@@ -8754,7 +8754,7 @@
         {
             "guidStr": "693d4f21-e918-4a45-9297-8efbd4ff87db",
             "name": [
-                "\u2022Electro Blast",
+                "•Electro Blast",
                 "",
                 "",
                 "",
@@ -8869,7 +8869,7 @@
         {
             "guidStr": "b1e9e740-db97-44af-9785-067bf73e8f90",
             "name": [
-                "Thresher (\u2605Attack)",
+                "Thresher (★Attack)",
                 "",
                 "",
                 "",
@@ -8881,7 +8881,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model makes one melee attack with this weapon against each model in its LOS that is in this weapon\u2019s melee range, regardless of whether that model is a friendly model or an enemy model. Thresher attacks are simultaneous.",
+                "This model makes one melee attack with this weapon against each model in its LOS that is in this weapon’s melee range, regardless of whether that model is a friendly model or an enemy model. Thresher attacks are simultaneous.",
                 "",
                 "",
                 "",
@@ -8904,7 +8904,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model destroys an enemy warrior model with an attack with this weapon, immediately after the attack is resolved one model in this model\u2019s battlegroup currently in its control range can gain 1 focus or fury point.",
+                "When this model destroys an enemy warrior model with an attack with this weapon, immediately after the attack is resolved one model in this model’s battlegroup currently in its control range can gain 1 focus or fury point.",
                 "",
                 "",
                 "",
@@ -8915,7 +8915,7 @@
         {
             "guidStr": "5690e2d4-5c72-4ba6-8f09-2bfff579feb5",
             "name": [
-                "\u2022Reel In",
+                "•Reel In",
                 "",
                 "",
                 "",
@@ -8984,7 +8984,7 @@
         {
             "guidStr": "6c2ac290-1500-409c-9d0b-458faafd9608",
             "name": [
-                "\u2022Acid Bath",
+                "•Acid Bath",
                 "",
                 "",
                 "",
@@ -9007,7 +9007,7 @@
         {
             "guidStr": "86346813-3cac-4864-94a1-72c1e2cab7fd",
             "name": [
-                "\u2022Erosion",
+                "•Erosion",
                 "",
                 "",
                 "",
@@ -9019,7 +9019,7 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "This model gains an additional die on this weapon\u2019s damage rolls against construct models.",
+                "This model gains an additional die on this weapon’s damage rolls against construct models.",
                 "",
                 "",
                 "",
@@ -9053,7 +9053,7 @@
         {
             "guidStr": "e9b3b070-64c4-45db-91d7-e70b4bb16ee8",
             "name": [
-                "\u2022Sky Rumbler",
+                "•Sky Rumbler",
                 "",
                 "",
                 "",
@@ -9099,7 +9099,7 @@
         {
             "guidStr": "0b74015f-70b3-4346-b647-b6cb437f08d5",
             "name": [
-                "Pitch (\u2605Attack)",
+                "Pitch (★Attack)",
                 "",
                 "",
                 "",
@@ -9134,7 +9134,283 @@
             "helpTermIds": [],
             "rulingsIds": [],
             "description": [
-                "When this model destroys a living non-soulless enemy model with an attack with this weapon, this model gains the destroyed model\u2019s soul token.",
+                "When this model destroys a living non-soulless enemy model with an attack with this weapon, this model gains the destroyed model’s soul token.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "c95f792e-820c-4103-8476-0a3fbed4b052",
+            "name": [
+                "Attack Type",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Each time this weapon is used to make an attack, choose one of the following special rules:\r\n\r\n• Beat Back - Immediately after a basic attack with this weapon is resolved during this model’s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it.\r\n\r\n• Brutal Damage - On a direct hit, gain an additional die on this weapon’s damage rolls against the target directly hit.\r\n\r\n• Witch Mark - If this attack directly hits an enemy model during this model’s activation, until the end of that activation this model can target and automatically hit that enemy model with spells, ignoring RNG and LOS.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "f1a94f0c-c5a2-429e-9eae-1f168e16cbb4",
+            "name": [
+                "Critical Ricochet",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "When this model critically hits an enemy model with an attack with this weapon, immediately after the attack is resolved this model can make another ranged attack with this weapon targeting another model within 4\" of the model originally hit, ignoring LOS and this weapon’s RNG. Attacks gained from Ricochet cannot generate additional attacks from Ricochet.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "34f8a2fe-d4ff-4add-8331-fb1e17f2758f",
+            "name": [
+                "Afflicter",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "The model hit suffers the Torment continuous effect.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "2c09b65e-acb9-40c7-8b8e-5028a91ee447",
+            "name": [
+                "Blood Boon",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Once per activation, immediately after resolving an attack in which it destroyed an enemy model with this weapon, this model can cast a spell without spending focus or fury points.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ec4787b9-1a63-420c-acf4-3455043535a5",
+            "name": [
+                "Brutal Charge",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "This model gains +2 to charge attack damage rolls with this weapon.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "fd404f35-7a7d-45af-8627-a118c1f0bfd6",
+            "name": [
+                "Attack Type",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Each time this weapon is used to make an attack, choose one of the following special rules:\r\n\r\n• Thunderbolt - Enemy models hit are pushed d3\" directly away from the attacking model. On a critical hit, the enemy model becomes knocked down after being pushed.\r\n\r\n• Afflicter - The model hit suffers the Torment continuous effect.\r\n\r\n• Huntsman’s Lure - Friendly Faction warbeasts gain +2 SPD when charging a model hit by this attack. Huntsman’s Lure lasts for one turn.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b23daa4c-0809-4051-a797-177a9daf9375",
+            "name": [
+                "Attack Type",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Each time this weapon is used to make an attack, choose one of the following special rules:\r\n\r\n• Blade - This weapon becomes RNG 2, POW 12 for this attack. If this attack destroys an enemy model, a friendly Eldritch Leader model gains one hunger point.\r\n\r\n• Chain - This attack gains Decapitation. (Damage from an attack with Decapitation that exceeds the ARM of the model hit is doubled. A model disabled by the attack cannot make a tough roll.)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "05462356-0dec-4fb8-bbbc-ae9e618f03e7",
+            "name": [
+                "Attack Type",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Each time this weapon is used to make an attack, choose one of the following special rules:\r\n\r\n• Beat Back - Immediately after a basic attack with this weapon is resolved during this model’s Combat Action, the enemy model hit can be pushed 1\" directly away from the attacking model. After the enemy model is pushed, the attacking model can advance up to 1\" directly toward it.\r\n\r\n• Brutal Damage - On a direct hit, gain an additional die on this weapon’s damage rolls against the target directly hit.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "9bd7a544-49bc-4653-804a-3a32585ded71",
+            "name": [
+                "Critical Slow",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "A living model critically hit by this weapon has its base DEF reduced to 5. Slow lasts for one round.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "ddd9a5e7-e5ac-408b-babd-208643ed9df4",
+            "name": [
+                "Lure",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "An enemy non-Leader model hit by this attack can be placed completely within 1\" of its current location.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "8262e9a5-fb3d-4eb3-99a7-ff6ccd32f6b7",
+            "name": [
+                "Critical Afflicter",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "On a critical hit, the model hit suffers the Torment continuous effect.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "guidStr": "b728b0ed-d4fd-48ba-bb0e-7c0c4b3303c3",
+            "name": [
+                "Flak Munitions",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "rulingsIds": [],
+            "description": [
+                "Attacks made with this weapon ignore Flying High and Warping Winds special rules.",
                 "",
                 "",
                 "",

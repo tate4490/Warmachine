@@ -5241,17 +5241,20 @@
             "statPOW": "13",
             "weaponQualityIds": [
                 "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
-                "732594ab-49a5-483b-b63e-ce221c9969da"
+                "732594ab-49a5-483b-b63e-ce221c9969da",
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7"
             ],
             "weaponAbilitySorting": [
                 "1:1af8bdcf-31d1-4326-a20a-f8d86cadee7b",
                 "2:58ae190f-48fb-4146-b87a-a538bc7a244c",
-                "3:8f19cd78-cc2c-41a7-bf9d-8e8f56083717"
+                "3:8f19cd78-cc2c-41a7-bf9d-8e8f56083717",
+                "4:4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ],
             "weaponAbilityIds": [
                 "1af8bdcf-31d1-4326-a20a-f8d86cadee7b",
                 "58ae190f-48fb-4146-b87a-a538bc7a244c",
-                "8f19cd78-cc2c-41a7-bf9d-8e8f56083717"
+                "8f19cd78-cc2c-41a7-bf9d-8e8f56083717",
+                "4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ]
         },
         {
@@ -5543,7 +5546,7 @@
             "weaponType": "Ranged",
             "weaponCount": 1,
             "weaponLocation": "",
-            "statRNG": "12",
+            "statRNG": "10",
             "statROF": "1",
             "statAOE": "2",
             "statPOW": "14/7",
@@ -12576,7 +12579,7 @@
             "weaponType": "Melee",
             "weaponCount": 2,
             "weaponLocation": "",
-            "statRNG": "1",
+            "statRNG": "2",
             "statROF": "",
             "statAOE": "",
             "statPOW": "14",
@@ -21008,14 +21011,16 @@
                 "2:55f1f83b-b0e5-4539-ae86-3a6205619a72",
                 "3:0763234c-bd25-4e34-b7e3-a7b838e002b5",
                 "5:01e707fa-246e-4440-9106-ebdff8126e0c",
-                "4:6cef634f-f74a-4977-b768-e603047bc6ca"
+                "4:6cef634f-f74a-4977-b768-e603047bc6ca",
+                "6:4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ],
             "weaponAbilityIds": [
                 "1af8bdcf-31d1-4326-a20a-f8d86cadee7b",
                 "0763234c-bd25-4e34-b7e3-a7b838e002b5",
                 "55f1f83b-b0e5-4539-ae86-3a6205619a72",
                 "01e707fa-246e-4440-9106-ebdff8126e0c",
-                "6cef634f-f74a-4977-b768-e603047bc6ca"
+                "6cef634f-f74a-4977-b768-e603047bc6ca",
+                "4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ]
         },
         {
@@ -24659,7 +24664,7 @@
             "statRNG": "2",
             "statROF": "",
             "statAOE": "",
-            "statPOW": "12",
+            "statPOW": "13",
             "weaponQualityIds": [],
             "weaponAbilitySorting": [
                 "1:aad27896-fc1c-4cc4-bbc1-4f93fbc08cb5"
@@ -24687,7 +24692,7 @@
             "statRNG": "1",
             "statROF": "",
             "statAOE": "",
-            "statPOW": "12",
+            "statPOW": "13",
             "weaponQualityIds": [],
             "weaponAbilitySorting": [
                 "1:7b768654-5f1f-4588-8377-68433ed058d9"
@@ -30389,7 +30394,7 @@
         {
             "guidStr": "4911b689-3510-437c-b9fe-fb0c7026b0a4",
             "name": [
-                "Executioner\u2019s Axe",
+                "Executioner’s Axe",
                 "",
                 "",
                 "",
@@ -39659,7 +39664,7 @@
         {
             "guidStr": "aef5687e-628b-4a81-b784-4e04558903a1",
             "name": [
-                "Assassin\u2019s Blade",
+                "Assassin’s Blade",
                 "",
                 "",
                 "",
@@ -41634,7 +41639,7 @@
             "weaponType": "Ranged",
             "weaponCount": 2,
             "weaponLocation": "",
-            "statRNG": "10",
+            "statRNG": "12",
             "statROF": "1",
             "statAOE": "-",
             "statPOW": "10",
@@ -42538,7 +42543,7 @@
         {
             "guidStr": "81ec4d0b-079f-444d-bfdd-28ce9d1cc349",
             "name": [
-                "Smith\u2019s Hammer",
+                "Smith’s Hammer",
                 "",
                 "",
                 "",
@@ -48067,17 +48072,20 @@
             "statPOW": "13",
             "weaponQualityIds": [
                 "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
-                "732594ab-49a5-483b-b63e-ce221c9969da"
+                "732594ab-49a5-483b-b63e-ce221c9969da",
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7"
             ],
             "weaponAbilitySorting": [
                 "1:1af8bdcf-31d1-4326-a20a-f8d86cadee7b",
                 "3:8f19cd78-cc2c-41a7-bf9d-8e8f56083717",
-                "2:58ae190f-48fb-4146-b87a-a538bc7a244c"
+                "2:58ae190f-48fb-4146-b87a-a538bc7a244c",
+                "4:4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ],
             "weaponAbilityIds": [
                 "1af8bdcf-31d1-4326-a20a-f8d86cadee7b",
                 "8f19cd78-cc2c-41a7-bf9d-8e8f56083717",
-                "58ae190f-48fb-4146-b87a-a538bc7a244c"
+                "58ae190f-48fb-4146-b87a-a538bc7a244c",
+                "4d8df349-4bc0-4b0c-bc5f-25782f490ab0"
             ]
         },
         {
@@ -48666,7 +48674,7 @@
             "weaponType": "Ranged",
             "weaponCount": 2,
             "weaponLocation": "",
-            "statRNG": "10",
+            "statRNG": "12",
             "statROF": "1",
             "statAOE": "-",
             "statPOW": "13",
@@ -50082,7 +50090,7 @@
         {
             "guidStr": "9afed7b6-1432-4334-82aa-aab0e7a35b15",
             "name": [
-                "Hunter\u2019s Weapon",
+                "Hunter’s Weapon",
                 "",
                 "",
                 "",
@@ -52588,7 +52596,7 @@
             "statRNG": "2",
             "statROF": "",
             "statAOE": "",
-            "statPOW": "17",
+            "statPOW": "18",
             "weaponQualityIds": [],
             "weaponAbilitySorting": [
                 "1:aad27896-fc1c-4cc4-bbc1-4f93fbc08cb5",
@@ -52706,7 +52714,7 @@
             "statRNG": "1",
             "statROF": "",
             "statAOE": "",
-            "statPOW": "18",
+            "statPOW": "19",
             "weaponQualityIds": [],
             "weaponAbilitySorting": [
                 "1:263a11e7-e3ae-47fd-a308-b444aa614f00",
@@ -54748,7 +54756,7 @@
             "weaponType": "Ranged",
             "weaponCount": 1,
             "weaponLocation": "",
-            "statRNG": "Sp 12",
+            "statRNG": "Sp 10",
             "statROF": "1",
             "statAOE": "-",
             "statPOW": "10",
@@ -62738,7 +62746,7 @@
         {
             "guidStr": "c30ba725-d63a-4b03-aefc-07374cf8c086",
             "name": [
-                "Assassin\u2019s Blade",
+                "Assassin’s Blade",
                 "",
                 "",
                 "",
@@ -67186,7 +67194,7 @@
         {
             "guidStr": "009dee2f-8a77-4ee2-a2c5-e8c98fbc3714",
             "name": [
-                "Ship\u2019s Gun",
+                "Ship’s Gun",
                 "",
                 "",
                 "",
@@ -67246,7 +67254,7 @@
         {
             "guidStr": "d9486cef-7f74-416d-821a-4a22bd1c7230",
             "name": [
-                "Ship\u2019s Wheel",
+                "Ship’s Wheel",
                 "",
                 "",
                 "",
@@ -77218,7 +77226,7 @@
         {
             "guidStr": "b5bd4d4c-8b48-4351-88b8-ad981e5b3faa",
             "name": [
-                "Lantern\u2019s Light",
+                "Lantern’s Light",
                 "",
                 "",
                 "",
@@ -81947,7 +81955,7 @@
         {
             "guidStr": "be01a575-4b43-4aea-a30e-69efa0fcc7dd",
             "name": [
-                "Horse Lord\u2019s Spear",
+                "Horse Lord’s Spear",
                 "",
                 "",
                 "",
@@ -84149,7 +84157,7 @@
         {
             "guidStr": "7fa57fe8-8fef-455d-b7c4-ccc9106689f8",
             "name": [
-                "Siren\u2019s Call",
+                "Siren’s Call",
                 "",
                 "",
                 "",
@@ -85223,6 +85231,1015 @@
             "weaponAbilityIds": [
                 "7a566465-2533-4bb6-bd75-4132e74e981a"
             ]
+        },
+        {
+            "guidStr": "354136e2-3a2f-4846-9e35-a97ad1924b20",
+            "name": [
+                "Void Tooth",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "9",
+            "statROF": "3",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:c95f792e-820c-4103-8476-0a3fbed4b052",
+                "2:f1a94f0c-c5a2-429e-9eae-1f168e16cbb4"
+            ],
+            "weaponAbilityIds": [
+                "c95f792e-820c-4103-8476-0a3fbed4b052",
+                "f1a94f0c-c5a2-429e-9eae-1f168e16cbb4"
+            ]
+        },
+        {
+            "guidStr": "0b674d28-6683-456c-a372-8521b3f2a9c0",
+            "name": [
+                "Morhaedryn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:51805a8f-0f4f-4827-ace6-7637d7a4b9b3"
+            ],
+            "weaponAbilityIds": [
+                "51805a8f-0f4f-4827-ace6-7637d7a4b9b3"
+            ]
+        },
+        {
+            "guidStr": "ae712702-f791-4dec-b7c3-b0327b6fed27",
+            "name": [
+                "Caelymourn",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "16",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:34b9ec10-9ccb-4255-8d03-048b6717068b"
+            ],
+            "weaponAbilityIds": [
+                "34b9ec10-9ccb-4255-8d03-048b6717068b"
+            ]
+        },
+        {
+            "guidStr": "5f5600ab-621b-4f48-b949-8717c5ef616f",
+            "name": [
+                "Bite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:51805a8f-0f4f-4827-ace6-7637d7a4b9b3"
+            ],
+            "weaponAbilityIds": [
+                "51805a8f-0f4f-4827-ace6-7637d7a4b9b3"
+            ]
+        },
+        {
+            "guidStr": "9ecad7f2-8e36-40d6-8ccd-eb3a842ed01f",
+            "name": [
+                "Claws x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "6f36c5e9-7bfd-4843-9b5f-92ce4d83266d",
+            "name": [
+                "Nyss Bow",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "12",
+            "statROF": "2",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:45138f80-c774-4271-8bdd-2e8a29037c65"
+            ],
+            "weaponAbilityIds": [
+                "45138f80-c774-4271-8bdd-2e8a29037c65"
+            ]
+        },
+        {
+            "guidStr": "607cdbcb-67b7-4a04-bb68-87acfdc831a8",
+            "name": [
+                "Great Sword",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7"
+            ],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "b331b27a-8e51-4f97-8770-2564e5a2e574",
+            "name": [
+                "Sorrow",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:2c09b65e-acb9-40c7-8b8e-5028a91ee447"
+            ],
+            "weaponAbilityIds": [
+                "2c09b65e-acb9-40c7-8b8e-5028a91ee447"
+            ]
+        },
+        {
+            "guidStr": "400ce45d-e36d-4fad-bee0-3b3853b40d48",
+            "name": [
+                "Bite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:faff39eb-d770-4065-bf96-ba2ad4fdb7a2"
+            ],
+            "weaponAbilityIds": [
+                "faff39eb-d770-4065-bf96-ba2ad4fdb7a2"
+            ]
+        },
+        {
+            "guidStr": "fb262e44-bdbc-49db-87e1-95987adf016f",
+            "name": [
+                "Claws x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "12",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "a1731b9c-f81b-4a8b-a4f5-b563a8e5e621",
+            "name": [
+                "Bite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:faff39eb-d770-4065-bf96-ba2ad4fdb7a2"
+            ],
+            "weaponAbilityIds": [
+                "faff39eb-d770-4065-bf96-ba2ad4fdb7a2"
+            ]
+        },
+        {
+            "guidStr": "5de5c9df-9043-4f2e-bf3f-31e2c8898d55",
+            "name": [
+                "Claws x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "12",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "f8b7f13b-e135-48e2-ad84-98b2ce1d30fd",
+            "name": [
+                "Lance",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:65b523ca-07d8-4be1-b72a-aa1edca49686",
+                "2:829d5702-6f82-4f59-9c61-fbf83a25c82b",
+                "3:cdfda312-c305-4480-816d-b237b8769589"
+            ],
+            "weaponAbilityIds": [
+                "65b523ca-07d8-4be1-b72a-aa1edca49686",
+                "829d5702-6f82-4f59-9c61-fbf83a25c82b",
+                "cdfda312-c305-4480-816d-b237b8769589"
+            ]
+        },
+        {
+            "guidStr": "13c6c0b5-7b17-4116-be03-623360efac0e",
+            "name": [
+                "Bestial Appendages x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:95729af1-4e61-41dd-8735-99098ad82a23"
+            ],
+            "weaponAbilityIds": [
+                "95729af1-4e61-41dd-8735-99098ad82a23"
+            ]
+        },
+        {
+            "guidStr": "d5c1fda6-fbdb-42b3-aff7-d349054e310e",
+            "name": [
+                "Sacral Blade x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "9",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "8479b608-d14b-4bf8-a718-aa6d2d74686c",
+            "name": [
+                "Polearm",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "11",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [
+                "1:ec4787b9-1a63-420c-acf4-3455043535a5"
+            ],
+            "weaponAbilityIds": [
+                "ec4787b9-1a63-420c-acf4-3455043535a5"
+            ]
+        },
+        {
+            "guidStr": "2d14e3f5-973f-48fa-a3cd-0954101882e1",
+            "name": [
+                "Balistaar",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "12",
+            "statROF": "1",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:fd404f35-7a7d-45af-8627-a118c1f0bfd6"
+            ],
+            "weaponAbilityIds": [
+                "fd404f35-7a7d-45af-8627-a118c1f0bfd6"
+            ]
+        },
+        {
+            "guidStr": "b1af7d58-117b-4c66-aac4-2aa6bf65c27f",
+            "name": [
+                "Blade",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "11",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "b2d6f0ab-ddbe-43a0-914d-c94e96778a33",
+            "name": [
+                "Razor Blades",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "6",
+            "statROF": "1",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7",
+                "732594ab-49a5-483b-b63e-ce221c9969da",
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:b23daa4c-0809-4051-a797-177a9daf9375",
+                "2:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "b23daa4c-0809-4051-a797-177a9daf9375",
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "337a1220-02c2-4566-acdc-4f96833d0d69",
+            "name": [
+                "Twilight Star",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "3",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7",
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9",
+                "66f7ef06-7f1f-455b-8a06-8893871f1f7e"
+            ],
+            "weaponAbilitySorting": [
+                "1:b23daa4c-0809-4051-a797-177a9daf9375"
+            ],
+            "weaponAbilityIds": [
+                "b23daa4c-0809-4051-a797-177a9daf9375"
+            ]
+        },
+        {
+            "guidStr": "601ed0a9-e65e-43a1-9b3c-727192b317be",
+            "name": [
+                "Great Sword",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7"
+            ],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "e63b3653-ebd0-4a80-8b22-90341091547c",
+            "name": [
+                "Great Sword x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "03c1ea67-8233-48ba-b782-f53a1f099ec7"
+            ],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "9eebf627-076c-4b4e-8743-775dfa56fa4d",
+            "name": [
+                "Staff",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "72eadc6f-3cfb-4cd3-b01b-6025df3dccd9"
+            ],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "f7bf3127-2eec-41d4-86ff-9668c4317563",
+            "name": [
+                "Bite",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "d6900066-daea-4826-acbc-2175d0830c1f",
+            "name": [
+                "Toxic Spittle",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "Sp8",
+            "statROF": "1",
+            "statAOE": "",
+            "statPOW": "10",
+            "weaponQualityIds": [
+                "bf0a49d8-9a98-4a62-bab2-230adbb9a481"
+            ],
+            "weaponAbilitySorting": [
+                "1:9bd7a544-49bc-4653-804a-3a32585ded71"
+            ],
+            "weaponAbilityIds": [
+                "9bd7a544-49bc-4653-804a-3a32585ded71"
+            ]
+        },
+        {
+            "guidStr": "87c1898d-ce9c-4980-90a8-bf45a28f7c5c",
+            "name": [
+                "Grafted Blades x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "a9507b02-4d6f-48c7-acb0-095805a9bec8",
+            "name": [
+                "Claw x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "12",
+            "weaponQualityIds": [
+                "cd9820fb-ffcf-4aee-b793-d69acef4dc0c"
+            ],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
+        },
+        {
+            "guidStr": "7ec2e117-1501-44bf-9284-9322284d93ba",
+            "name": [
+                "Razor Maw",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "18",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:cdfda312-c305-4480-816d-b237b8769589"
+            ],
+            "weaponAbilityIds": [
+                "cdfda312-c305-4480-816d-b237b8769589"
+            ]
+        },
+        {
+            "guidStr": "8c8c62a7-6871-4ca5-87bf-93fb855a435c",
+            "name": [
+                "Sonic Lure",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "Sp10",
+            "statROF": "1",
+            "statAOE": "",
+            "statPOW": "-",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:ddd9a5e7-e5ac-408b-babd-208643ed9df4"
+            ],
+            "weaponAbilityIds": [
+                "ddd9a5e7-e5ac-408b-babd-208643ed9df4"
+            ]
+        },
+        {
+            "guidStr": "69473f97-ae39-459a-bd6d-dd4f0c4748bf",
+            "name": [
+                "Armored Talon x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "15",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:8262e9a5-fb3d-4eb3-99a7-ff6ccd32f6b7"
+            ],
+            "weaponAbilityIds": [
+                "8262e9a5-fb3d-4eb3-99a7-ff6ccd32f6b7"
+            ]
+        },
+        {
+            "guidStr": "fe75b186-92ae-464c-95be-f9f13844125f",
+            "name": [
+                "Poisonous Talon x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:ad44e8a5-22cb-4f05-8366-d33dfa2e2dcf",
+                "2:d29b3eef-5fee-47cd-ad19-b263dbbe35e5"
+            ],
+            "weaponAbilityIds": [
+                "ad44e8a5-22cb-4f05-8366-d33dfa2e2dcf",
+                "d29b3eef-5fee-47cd-ad19-b263dbbe35e5"
+            ]
+        },
+        {
+            "guidStr": "112bb67b-f8a5-488c-bad6-5e7b062b520b",
+            "name": [
+                "Razor Blade",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "12",
+            "statROF": "1",
+            "statAOE": "",
+            "statPOW": "8",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f",
+                "2:631b04e1-d8aa-4f40-9c55-156fb3929aa4"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f",
+                "631b04e1-d8aa-4f40-9c55-156fb3929aa4"
+            ]
+        },
+        {
+            "guidStr": "220d81b3-56a6-47a0-93cf-69791e20edbf",
+            "name": [
+                "Talon x2",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "",
+            "statRNG": "1",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "13",
+            "weaponQualityIds": [
+                "defef10c-9d19-4ff3-97ab-942ea38d4822"
+            ],
+            "weaponAbilitySorting": [
+                "1:34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ],
+            "weaponAbilityIds": [
+                "34f8a2fe-d4ff-4add-8331-fb1e17f2758f"
+            ]
+        },
+        {
+            "guidStr": "66dc3e48-b6d5-4858-b789-2e27b5989d52",
+            "name": [
+                "Quad Cannon",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Ranged",
+            "weaponCount": 1,
+            "weaponLocation": "L",
+            "statRNG": "12",
+            "statROF": "2",
+            "statAOE": "-",
+            "statPOW": "13",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [
+                "1:d92be151-2584-4571-ae4d-1b7bfbae0bc4",
+                "2:b728b0ed-d4fd-48ba-bb0e-7c0c4b3303c3"
+            ],
+            "weaponAbilityIds": [
+                "d92be151-2584-4571-ae4d-1b7bfbae0bc4",
+                "b728b0ed-d4fd-48ba-bb0e-7c0c4b3303c3"
+            ]
+        },
+        {
+            "guidStr": "bab2cab0-7e55-4562-9cab-5fa9c8d32cf5",
+            "name": [
+                "Hydraulic Hammer",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "weaponType": "Melee",
+            "weaponCount": 1,
+            "weaponLocation": "R",
+            "statRNG": "2",
+            "statROF": "",
+            "statAOE": "",
+            "statPOW": "19",
+            "weaponQualityIds": [],
+            "weaponAbilitySorting": [],
+            "weaponAbilityIds": []
         }
     ]
 }

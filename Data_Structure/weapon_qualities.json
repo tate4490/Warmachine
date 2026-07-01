@@ -348,6 +348,23 @@
             ],
             "iconPath": "/Media/Icons/weapon qual crit corrosion.png",
             "displayPriority": 0
+        },
+        {
+            "guidStr": "defef10c-9d19-4ff3-97ab-942ea38d4822",
+            "name": [
+                "Continuous Effect: Torment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "isLive": true,
+            "metadata": "",
+            "deleted": false,
+            "helpTermIds": [],
+            "iconPath": "/Media/Icons/weapon qual cont eff torment.png",
+            "displayPriority": 0
         }
     ]
 }
